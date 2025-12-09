@@ -1,0 +1,231 @@
+{
+  "timestamp": "2025-09-22T10:32:27.849477",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758504744_5",
+        "title": "BTCC, 2025년 9월 준비금 증명 보고서 발표… 143% 초과 담보 비율로 재정 건전성 입증",
+        "url": "https://www.coinreaders.com/187966",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:24.349594",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758504743_0",
+        "title": "비트코인, 3년 연속 9월 상승...업토버 올까?",
+        "url": "https://www.coinreaders.com/187967",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:23.539393",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758504743_1",
+        "title": "\"달러 붕괴=비트코인 승리\"라는 위험한 환상, 진실은 혼란뿐!",
+        "url": "https://www.coinreaders.com/187965",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:23.991485",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758504744_2",
+        "title": "바이낸스코인(BNB), 이번 사이클에서 2,000달러 찍을까",
+        "url": "https://www.coinreaders.com/187963",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:24.184683",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758504744_5",
+        "title": "BTCC, 2025년 9월 준비금 증명 보고서 발표… 143% 초과 담보 비율로 재정 건전성 입증",
+        "url": "https://www.coinreaders.com/187966",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:24.349594",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758504744_5",
+        "title": "BTCC, 2025년 9월 준비금 증명 보고서 발표… 143% 초과 담보 비율로 재정 건전성 입증",
+        "url": "https://www.coinreaders.com/187966",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:24.349594",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758504743_0",
+        "title": "비트코인, 3년 연속 9월 상승...업토버 올까?",
+        "url": "https://www.coinreaders.com/187967",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:23.539393",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758504743_1",
+        "title": "\"달러 붕괴=비트코인 승리\"라는 위험한 환상, 진실은 혼란뿐!",
+        "url": "https://www.coinreaders.com/187965",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:23.991485",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758504743_0",
+        "title": "비트코인, 3년 연속 9월 상승...업토버 올까?",
+        "url": "https://www.coinreaders.com/187967",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:23.539393",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758504743_1",
+        "title": "\"달러 붕괴=비트코인 승리\"라는 위험한 환상, 진실은 혼란뿐!",
+        "url": "https://www.coinreaders.com/187965",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:23.991485",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758504743_0",
+        "title": "비트코인, 3년 연속 9월 상승...업토버 올까?",
+        "url": "https://www.coinreaders.com/187967",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:23.539393",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758504744_5",
+        "title": "BTCC, 2025년 9월 준비금 증명 보고서 발표… 143% 초과 담보 비율로 재정 건전성 입증",
+        "url": "https://www.coinreaders.com/187966",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:32:24.349594",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "SHIB"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758504743_1",
+      "title": "\"달러 붕괴=비트코인 승리\"라는 위험한 환상, 진실은 혼란뿐!",
+      "url": "https://www.coinreaders.com/187965",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T10:32:23.991485",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758504744_2",
+      "title": "바이낸스코인(BNB), 이번 사이클에서 2,000달러 찍을까",
+      "url": "https://www.coinreaders.com/187963",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T10:32:24.184683",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 4,
+  "source_file": "news/all_news_20250922_1032.json"
+}

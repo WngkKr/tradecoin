@@ -1,0 +1,62 @@
+{
+  "timestamp": "2025-10-01T10:26:48.929382",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759281397_0",
+        "title": "팀 드레이퍼 \"소매업체, 비트코인만 수용할 것”...법정통화의 시대는 갔다",
+        "url": "https://www.coinreaders.com/189968",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T10:16:37.608783",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759281397_0",
+        "title": "팀 드레이퍼 \"소매업체, 비트코인만 수용할 것”...법정통화의 시대는 갔다",
+        "url": "https://www.coinreaders.com/189968",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T10:16:37.608783",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759281397_0",
+        "title": "팀 드레이퍼 \"소매업체, 비트코인만 수용할 것”...법정통화의 시대는 갔다",
+        "url": "https://www.coinreaders.com/189968",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T10:16:37.608783",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1016.json"
+}

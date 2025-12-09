@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-24T01:59:00.739682",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758646736_1",
+        "title": "XRP, 소송 끝난 뒤에도 정체 계속...왜?",
+        "url": "https://www.coinreaders.com/188434",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T01:58:56.082056",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758646736_1",
+        "title": "XRP, 소송 끝난 뒤에도 정체 계속...왜?",
+        "url": "https://www.coinreaders.com/188434",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T01:58:56.082056",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758646736_1",
+        "title": "XRP, 소송 끝난 뒤에도 정체 계속...왜?",
+        "url": "https://www.coinreaders.com/188434",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T01:58:56.082056",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758646736_1",
+        "title": "XRP, 소송 끝난 뒤에도 정체 계속...왜?",
+        "url": "https://www.coinreaders.com/188434",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T01:58:56.082056",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758646736_1",
+        "title": "XRP, 소송 끝난 뒤에도 정체 계속...왜?",
+        "url": "https://www.coinreaders.com/188434",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T01:58:56.082056",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "SHIB",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758646735_0",
+      "title": "카르다노, 추락 신호 포착...쌍고 패턴 완성으로 20% 급락 예고",
+      "url": "https://www.coinreaders.com/188437",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T01:58:55.215424",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758646736_1",
+      "title": "XRP, 소송 끝난 뒤에도 정체 계속...왜?",
+      "url": "https://www.coinreaders.com/188434",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T01:58:56.082056",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "SHIB",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250924_0159.json"
+}

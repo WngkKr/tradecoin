@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-10-03T11:17:26.900824",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759457235_0",
+        "title": "USDT·USDC 점유율 추락...스테이블코인 양강 체제는 갔다",
+        "url": "https://www.coinreaders.com/190414",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T11:07:15.458098",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759457235_0",
+        "title": "USDT·USDC 점유율 추락...스테이블코인 양강 체제는 갔다",
+        "url": "https://www.coinreaders.com/190414",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T11:07:15.458098",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759457235_0",
+        "title": "USDT·USDC 점유율 추락...스테이블코인 양강 체제는 갔다",
+        "url": "https://www.coinreaders.com/190414",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T11:07:15.458098",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759457235_0",
+      "title": "USDT·USDC 점유율 추락...스테이블코인 양강 체제는 갔다",
+      "url": "https://www.coinreaders.com/190414",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T11:07:15.458098",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1107.json"
+}

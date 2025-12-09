@@ -1,0 +1,153 @@
+{
+  "timestamp": "2025-09-23T15:51:47.983330",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758610301_1",
+        "title": "이더리움, 불안한 흐름 계속...4,000달러 방어할까?",
+        "url": "https://www.coinreaders.com/188306",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:51:41.621918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758610300_0",
+        "title": "도지코인, 10% 폭락 후 다음 목표는 0.2달러?",
+        "url": "https://www.coinreaders.com/188310",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:51:40.673322",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758610300_0",
+        "title": "도지코인, 10% 폭락 후 다음 목표는 0.2달러?",
+        "url": "https://www.coinreaders.com/188310",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:51:40.673322",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758610301_1",
+        "title": "이더리움, 불안한 흐름 계속...4,000달러 방어할까?",
+        "url": "https://www.coinreaders.com/188306",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:51:41.621918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758610300_0",
+        "title": "도지코인, 10% 폭락 후 다음 목표는 0.2달러?",
+        "url": "https://www.coinreaders.com/188310",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:51:40.673322",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758610300_0",
+        "title": "도지코인, 10% 폭락 후 다음 목표는 0.2달러?",
+        "url": "https://www.coinreaders.com/188310",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:51:40.673322",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758610301_1",
+        "title": "이더리움, 불안한 흐름 계속...4,000달러 방어할까?",
+        "url": "https://www.coinreaders.com/188306",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:51:41.621918",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758610300_0",
+      "title": "도지코인, 10% 폭락 후 다음 목표는 0.2달러?",
+      "url": "https://www.coinreaders.com/188310",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T15:51:40.673322",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758610301_1",
+      "title": "이더리움, 불안한 흐름 계속...4,000달러 방어할까?",
+      "url": "https://www.coinreaders.com/188306",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T15:51:41.621918",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250923_1551.json"
+}

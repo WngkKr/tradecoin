@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-09-23T01:54:40.487391",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758560073_0",
+        "title": "76억 달러 시총 시바이누, 페페 추격에 흔들린다",
+        "url": "https://www.coinreaders.com/188152",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T01:54:33.286819",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758560073_0",
+        "title": "76억 달러 시총 시바이누, 페페 추격에 흔들린다",
+        "url": "https://www.coinreaders.com/188152",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T01:54:33.286819",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758560073_0",
+        "title": "76억 달러 시총 시바이누, 페페 추격에 흔들린다",
+        "url": "https://www.coinreaders.com/188152",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T01:54:33.286819",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758560073_0",
+      "title": "76억 달러 시총 시바이누, 페페 추격에 흔들린다",
+      "url": "https://www.coinreaders.com/188152",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T01:54:33.286819",
+      "related_coins": [
+        "SHIB",
+        "DOGE",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_0154.json"
+}

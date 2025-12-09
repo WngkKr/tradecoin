@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-10-01T02:31:50.644003",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759252900_0",
+        "title": "비트코인 50만 달러, XRP 12.5달러… 현실이 될까?",
+        "url": "https://www.coinreaders.com/189885",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T02:21:40.333347",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759252900_0",
+        "title": "비트코인 50만 달러, XRP 12.5달러… 현실이 될까?",
+        "url": "https://www.coinreaders.com/189885",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T02:21:40.333347",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759252900_0",
+      "title": "비트코인 50만 달러, XRP 12.5달러… 현실이 될까?",
+      "url": "https://www.coinreaders.com/189885",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T02:21:40.333347",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0221.json"
+}

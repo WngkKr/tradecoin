@@ -1,0 +1,990 @@
+{
+  "timestamp": "2025-09-16T22:50:18.312550",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758012892_0",
+        "title": "전문가\"카르다노, 지금이 마지막 매집 기회...폭등은 시간문제\"",
+        "url": "https://www.coinreaders.com/186724",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:52.541337",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012893_1",
+        "title": "비트와이즈, 아발란체 현물 ETF 신청...비트코인·이더리움 뒤이을까?",
+        "url": "https://www.coinreaders.com/186720",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:53.430139",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012894_2",
+        "title": "이더리움, 10년 후에도 여전히 최고의 블록체인일까?",
+        "url": "https://www.coinreaders.com/186719",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:54.354289",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012895_3",
+        "title": "\"월가의 새 경쟁자\" 테더, USAT로 미국 시장 공략",
+        "url": "https://www.coinreaders.com/186717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:55.194930",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012897_5",
+        "title": "XRP·솔라나(SOL) 가격 변동 속...Topnotch Crypto, 단기 계약으로 하루 2,650달러 수익",
+        "url": "https://www.coinreaders.com/186730",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:57.392422",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012899_8",
+        "title": "비트코인, 올해 15만 달러 돌파 가능할까?…BTC에 쏟아지는 초강세 전망",
+        "url": "https://www.coinreaders.com/177620",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:59.157081",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012900_9",
+        "title": "리플, 1,400만 RLUSD 신규 발행…시총 4억 6,900만 달러 돌파",
+        "url": "https://www.coinreaders.com/170197",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:00.188690",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012902_11",
+        "title": "2028년 스테이블코인 2조 달러 시대, 트론(TRX)이 중심에 설까",
+        "url": "https://www.coinreaders.com/166530",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:02.057703",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012904_13",
+        "title": "솔라나, LIBRA 스캔들 후폭풍… 5개월 만에 최저점 기록",
+        "url": "https://www.coinreaders.com/147937",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:04.289256",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012905_14",
+        "title": "블랙록, 비트코인 매도하나? 1,800 BTC 이체에 투자자 ‘패닉’",
+        "url": "https://www.coinreaders.com/147797",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:05.100264",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758012892_0",
+        "title": "전문가\"카르다노, 지금이 마지막 매집 기회...폭등은 시간문제\"",
+        "url": "https://www.coinreaders.com/186724",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:52.541337",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012896_4",
+        "title": "도지코인, 조정에도 불구하고 강세 신호가 계속 등장...왜?",
+        "url": "https://www.coinreaders.com/186710",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:56.314832",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012897_5",
+        "title": "XRP·솔라나(SOL) 가격 변동 속...Topnotch Crypto, 단기 계약으로 하루 2,650달러 수익",
+        "url": "https://www.coinreaders.com/186730",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:57.392422",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012904_13",
+        "title": "솔라나, LIBRA 스캔들 후폭풍… 5개월 만에 최저점 기록",
+        "url": "https://www.coinreaders.com/147937",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:04.289256",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758012893_1",
+        "title": "비트와이즈, 아발란체 현물 ETF 신청...비트코인·이더리움 뒤이을까?",
+        "url": "https://www.coinreaders.com/186720",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:53.430139",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012895_3",
+        "title": "\"월가의 새 경쟁자\" 테더, USAT로 미국 시장 공략",
+        "url": "https://www.coinreaders.com/186717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:55.194930",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012896_4",
+        "title": "도지코인, 조정에도 불구하고 강세 신호가 계속 등장...왜?",
+        "url": "https://www.coinreaders.com/186710",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:56.314832",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012897_5",
+        "title": "XRP·솔라나(SOL) 가격 변동 속...Topnotch Crypto, 단기 계약으로 하루 2,650달러 수익",
+        "url": "https://www.coinreaders.com/186730",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:57.392422",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012898_6",
+        "title": "5년 뒤 100만 달러? 트럼프 장남, 비트코인 매수 촉구",
+        "url": "https://www.coinreaders.com/183493",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:58.290279",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012899_8",
+        "title": "비트코인, 올해 15만 달러 돌파 가능할까?…BTC에 쏟아지는 초강세 전망",
+        "url": "https://www.coinreaders.com/177620",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:59.157081",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012900_9",
+        "title": "리플, 1,400만 RLUSD 신규 발행…시총 4억 6,900만 달러 돌파",
+        "url": "https://www.coinreaders.com/170197",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:00.188690",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012901_10",
+        "title": "비트코인 주말 급변동 오나? 롱 청산 시작에 시장 긴장",
+        "url": "https://www.coinreaders.com/169316",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:01.058335",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012902_11",
+        "title": "2028년 스테이블코인 2조 달러 시대, 트론(TRX)이 중심에 설까",
+        "url": "https://www.coinreaders.com/166530",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:02.057703",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012903_12",
+        "title": "비트코인 급락, 저가 매수’ 신호로 볼 수 있을까?",
+        "url": "https://www.coinreaders.com/177821",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:03.038856",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012904_13",
+        "title": "솔라나, LIBRA 스캔들 후폭풍… 5개월 만에 최저점 기록",
+        "url": "https://www.coinreaders.com/147937",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:04.289256",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012905_14",
+        "title": "블랙록, 비트코인 매도하나? 1,800 BTC 이체에 투자자 ‘패닉’",
+        "url": "https://www.coinreaders.com/147797",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:05.100264",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758012894_2",
+        "title": "이더리움, 10년 후에도 여전히 최고의 블록체인일까?",
+        "url": "https://www.coinreaders.com/186719",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:54.354289",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012895_3",
+        "title": "\"월가의 새 경쟁자\" 테더, USAT로 미국 시장 공략",
+        "url": "https://www.coinreaders.com/186717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:55.194930",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012896_4",
+        "title": "도지코인, 조정에도 불구하고 강세 신호가 계속 등장...왜?",
+        "url": "https://www.coinreaders.com/186710",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:56.314832",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012897_5",
+        "title": "XRP·솔라나(SOL) 가격 변동 속...Topnotch Crypto, 단기 계약으로 하루 2,650달러 수익",
+        "url": "https://www.coinreaders.com/186730",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:57.392422",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758012895_3",
+        "title": "\"월가의 새 경쟁자\" 테더, USAT로 미국 시장 공략",
+        "url": "https://www.coinreaders.com/186717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:55.194930",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012896_4",
+        "title": "도지코인, 조정에도 불구하고 강세 신호가 계속 등장...왜?",
+        "url": "https://www.coinreaders.com/186710",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:56.314832",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012897_5",
+        "title": "XRP·솔라나(SOL) 가격 변동 속...Topnotch Crypto, 단기 계약으로 하루 2,650달러 수익",
+        "url": "https://www.coinreaders.com/186730",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:57.392422",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758012895_3",
+        "title": "\"월가의 새 경쟁자\" 테더, USAT로 미국 시장 공략",
+        "url": "https://www.coinreaders.com/186717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:55.194930",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012898_6",
+        "title": "5년 뒤 100만 달러? 트럼프 장남, 비트코인 매수 촉구",
+        "url": "https://www.coinreaders.com/183493",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:58.290279",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012903_12",
+        "title": "비트코인 급락, 저가 매수’ 신호로 볼 수 있을까?",
+        "url": "https://www.coinreaders.com/177821",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:03.038856",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012904_13",
+        "title": "솔라나, LIBRA 스캔들 후폭풍… 5개월 만에 최저점 기록",
+        "url": "https://www.coinreaders.com/147937",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:04.289256",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758012893_1",
+        "title": "비트와이즈, 아발란체 현물 ETF 신청...비트코인·이더리움 뒤이을까?",
+        "url": "https://www.coinreaders.com/186720",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:53.430139",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012895_3",
+        "title": "\"월가의 새 경쟁자\" 테더, USAT로 미국 시장 공략",
+        "url": "https://www.coinreaders.com/186717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:55.194930",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012898_6",
+        "title": "5년 뒤 100만 달러? 트럼프 장남, 비트코인 매수 촉구",
+        "url": "https://www.coinreaders.com/183493",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:58.290279",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012899_8",
+        "title": "비트코인, 올해 15만 달러 돌파 가능할까?…BTC에 쏟아지는 초강세 전망",
+        "url": "https://www.coinreaders.com/177620",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:59.157081",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012903_12",
+        "title": "비트코인 급락, 저가 매수’ 신호로 볼 수 있을까?",
+        "url": "https://www.coinreaders.com/177821",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:03.038856",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012904_13",
+        "title": "솔라나, LIBRA 스캔들 후폭풍… 5개월 만에 최저점 기록",
+        "url": "https://www.coinreaders.com/147937",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:04.289256",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758012895_3",
+        "title": "\"월가의 새 경쟁자\" 테더, USAT로 미국 시장 공략",
+        "url": "https://www.coinreaders.com/186717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:55.194930",
+        "risk_level": "LOW",
+        "related_coins": [
+          "MAGA",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012898_6",
+        "title": "5년 뒤 100만 달러? 트럼프 장남, 비트코인 매수 촉구",
+        "url": "https://www.coinreaders.com/183493",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:58.290279",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012903_12",
+        "title": "비트코인 급락, 저가 매수’ 신호로 볼 수 있을까?",
+        "url": "https://www.coinreaders.com/177821",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:03.038856",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012904_13",
+        "title": "솔라나, LIBRA 스캔들 후폭풍… 5개월 만에 최저점 기록",
+        "url": "https://www.coinreaders.com/147937",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:04.289256",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758012893_1",
+        "title": "비트와이즈, 아발란체 현물 ETF 신청...비트코인·이더리움 뒤이을까?",
+        "url": "https://www.coinreaders.com/186720",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:53.430139",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012894_2",
+        "title": "이더리움, 10년 후에도 여전히 최고의 블록체인일까?",
+        "url": "https://www.coinreaders.com/186719",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:54.354289",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "SHIB"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012900_9",
+        "title": "리플, 1,400만 RLUSD 신규 발행…시총 4억 6,900만 달러 돌파",
+        "url": "https://www.coinreaders.com/170197",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:00.188690",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012902_11",
+        "title": "2028년 스테이블코인 2조 달러 시대, 트론(TRX)이 중심에 설까",
+        "url": "https://www.coinreaders.com/166530",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:02.057703",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758012893_1",
+        "title": "비트와이즈, 아발란체 현물 ETF 신청...비트코인·이더리움 뒤이을까?",
+        "url": "https://www.coinreaders.com/186720",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:53.430139",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012899_8",
+        "title": "비트코인, 올해 15만 달러 돌파 가능할까?…BTC에 쏟아지는 초강세 전망",
+        "url": "https://www.coinreaders.com/177620",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:54:59.157081",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758012900_9",
+        "title": "리플, 1,400만 RLUSD 신규 발행…시총 4억 6,900만 달러 돌파",
+        "url": "https://www.coinreaders.com/170197",
+        "source": "coinreaders",
+        "timestamp": "2025-09-16T17:55:00.188690",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758012893_1",
+      "title": "비트와이즈, 아발란체 현물 ETF 신청...비트코인·이더리움 뒤이을까?",
+      "url": "https://www.coinreaders.com/186720",
+      "source": "coinreaders",
+      "timestamp": "2025-09-16T17:54:53.430139",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758012897_5",
+      "title": "XRP·솔라나(SOL) 가격 변동 속...Topnotch Crypto, 단기 계약으로 하루 2,650달러 수익",
+      "url": "https://www.coinreaders.com/186730",
+      "source": "coinreaders",
+      "timestamp": "2025-09-16T17:54:57.392422",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758012898_6",
+      "title": "5년 뒤 100만 달러? 트럼프 장남, 비트코인 매수 촉구",
+      "url": "https://www.coinreaders.com/183493",
+      "source": "coinreaders",
+      "timestamp": "2025-09-16T17:54:58.290279",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적",
+        "사회적",
+        "정치적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758012899_8",
+      "title": "비트코인, 올해 15만 달러 돌파 가능할까?…BTC에 쏟아지는 초강세 전망",
+      "url": "https://www.coinreaders.com/177620",
+      "source": "coinreaders",
+      "timestamp": "2025-09-16T17:54:59.157081",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758012900_9",
+      "title": "리플, 1,400만 RLUSD 신규 발행…시총 4억 6,900만 달러 돌파",
+      "url": "https://www.coinreaders.com/170197",
+      "source": "coinreaders",
+      "timestamp": "2025-09-16T17:55:00.188690",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758012902_11",
+      "title": "2028년 스테이블코인 2조 달러 시대, 트론(TRX)이 중심에 설까",
+      "url": "https://www.coinreaders.com/166530",
+      "source": "coinreaders",
+      "timestamp": "2025-09-16T17:55:02.057703",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758012903_12",
+      "title": "비트코인 급락, 저가 매수’ 신호로 볼 수 있을까?",
+      "url": "https://www.coinreaders.com/177821",
+      "source": "coinreaders",
+      "timestamp": "2025-09-16T17:55:03.038856",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758012904_13",
+      "title": "솔라나, LIBRA 스캔들 후폭풍… 5개월 만에 최저점 기록",
+      "url": "https://www.coinreaders.com/147937",
+      "source": "coinreaders",
+      "timestamp": "2025-09-16T17:55:04.289256",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "사회적",
+        "정치적",
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 15,
+  "source_file": "news/all_news_20250916_1755.json"
+}

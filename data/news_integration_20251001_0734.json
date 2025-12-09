@@ -1,0 +1,80 @@
+{
+  "timestamp": "2025-10-01T07:34:54.361066",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759271081_1",
+        "title": "[코툰] \"美 연방 정부 셧다운, 암호화폐 시장 변동성 야기할 것\"",
+        "url": "https://www.coinreaders.com/189926",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:24:41.998693",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759271081_0",
+        "title": "'업토버' 온다...비트코인, 10월 평균 15.2% 기록",
+        "url": "https://www.coinreaders.com/189927",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:24:41.212824",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759271081_1",
+        "title": "[코툰] \"美 연방 정부 셧다운, 암호화폐 시장 변동성 야기할 것\"",
+        "url": "https://www.coinreaders.com/189926",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:24:41.998693",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759271081_1",
+        "title": "[코툰] \"美 연방 정부 셧다운, 암호화폐 시장 변동성 야기할 것\"",
+        "url": "https://www.coinreaders.com/189926",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:24:41.998693",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759271081_1",
+      "title": "[코툰] \"美 연방 정부 셧다운, 암호화폐 시장 변동성 야기할 것\"",
+      "url": "https://www.coinreaders.com/189926",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T07:24:41.998693",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20251001_0724.json"
+}

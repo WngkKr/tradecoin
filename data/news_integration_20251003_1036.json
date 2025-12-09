@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-10-03T10:36:59.101035",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759455413_0",
+        "title": "테더, 비트코인 10억 달러 추가 매수...스트래티지 이어 보유량 2위",
+        "url": "https://www.coinreaders.com/190409",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T10:36:53.607492",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759455413_0",
+        "title": "테더, 비트코인 10억 달러 추가 매수...스트래티지 이어 보유량 2위",
+        "url": "https://www.coinreaders.com/190409",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T10:36:53.607492",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759455413_0",
+        "title": "테더, 비트코인 10억 달러 추가 매수...스트래티지 이어 보유량 2위",
+        "url": "https://www.coinreaders.com/190409",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T10:36:53.607492",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759455413_0",
+      "title": "테더, 비트코인 10억 달러 추가 매수...스트래티지 이어 보유량 2위",
+      "url": "https://www.coinreaders.com/190409",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T10:36:53.607492",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1036.json"
+}

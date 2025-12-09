@@ -1,0 +1,153 @@
+{
+  "timestamp": "2025-09-29T21:59:35.179287",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759150161_0",
+        "title": "XRP, 드디어 이더리움 뛰어넘는 흐름 올까?",
+        "url": "https://www.coinreaders.com/189582",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:49:21.741289",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759150162_1",
+        "title": "비트코인, 이번 주 11만6천달러 돌파 가능할까…이더리움·XRP 상승 신호 켜졌다",
+        "url": "https://www.coinreaders.com/189577",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:49:22.546749",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759150161_0",
+        "title": "XRP, 드디어 이더리움 뛰어넘는 흐름 올까?",
+        "url": "https://www.coinreaders.com/189582",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:49:21.741289",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759150162_1",
+        "title": "비트코인, 이번 주 11만6천달러 돌파 가능할까…이더리움·XRP 상승 신호 켜졌다",
+        "url": "https://www.coinreaders.com/189577",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:49:22.546749",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759150161_0",
+        "title": "XRP, 드디어 이더리움 뛰어넘는 흐름 올까?",
+        "url": "https://www.coinreaders.com/189582",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:49:21.741289",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759150162_1",
+        "title": "비트코인, 이번 주 11만6천달러 돌파 가능할까…이더리움·XRP 상승 신호 켜졌다",
+        "url": "https://www.coinreaders.com/189577",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:49:22.546749",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759150161_0",
+        "title": "XRP, 드디어 이더리움 뛰어넘는 흐름 올까?",
+        "url": "https://www.coinreaders.com/189582",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:49:21.741289",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759150162_1",
+        "title": "비트코인, 이번 주 11만6천달러 돌파 가능할까…이더리움·XRP 상승 신호 켜졌다",
+        "url": "https://www.coinreaders.com/189577",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:49:22.546749",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759150162_1",
+      "title": "비트코인, 이번 주 11만6천달러 돌파 가능할까…이더리움·XRP 상승 신호 켜졌다",
+      "url": "https://www.coinreaders.com/189577",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T21:49:22.546749",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250929_2149.json"
+}

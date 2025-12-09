@@ -1,0 +1,145 @@
+{
+  "timestamp": "2025-09-17T21:39:54.775907",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758112178_0",
+        "title": "美 민주당 \"트럼프 가문 암호화폐 수익은 부패\"",
+        "url": "https://www.coinreaders.com/187128",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T21:29:38.015324",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758112178_0",
+        "title": "美 민주당 \"트럼프 가문 암호화폐 수익은 부패\"",
+        "url": "https://www.coinreaders.com/187128",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T21:29:38.015324",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758112178_0",
+        "title": "美 민주당 \"트럼프 가문 암호화폐 수익은 부패\"",
+        "url": "https://www.coinreaders.com/187128",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T21:29:38.015324",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758112178_0",
+        "title": "美 민주당 \"트럼프 가문 암호화폐 수익은 부패\"",
+        "url": "https://www.coinreaders.com/187128",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T21:29:38.015324",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758112178_0",
+        "title": "美 민주당 \"트럼프 가문 암호화폐 수익은 부패\"",
+        "url": "https://www.coinreaders.com/187128",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T21:29:38.015324",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758112178_0",
+        "title": "美 민주당 \"트럼프 가문 암호화폐 수익은 부패\"",
+        "url": "https://www.coinreaders.com/187128",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T21:29:38.015324",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "TRUMP",
+          "MAGA",
+          "ETH",
+          "DOGE",
+          "SHIB"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758112178_0",
+      "title": "美 민주당 \"트럼프 가문 암호화폐 수익은 부패\"",
+      "url": "https://www.coinreaders.com/187128",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T21:29:38.015324",
+      "related_coins": [
+        "TRUMP",
+        "MAGA",
+        "ETH",
+        "DOGE",
+        "SHIB"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "사회적",
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_2129.json"
+}

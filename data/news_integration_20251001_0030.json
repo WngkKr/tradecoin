@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-10-01T00:30:37.497146",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759246230_0",
+        "title": "전문가 \"비트코인, 이번 사이클 46만 달러 간다...XRP는 10달러\"",
+        "url": "https://www.coinreaders.com/189867",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:30:30.545211",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759246230_0",
+        "title": "전문가 \"비트코인, 이번 사이클 46만 달러 간다...XRP는 10달러\"",
+        "url": "https://www.coinreaders.com/189867",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:30:30.545211",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759246230_0",
+        "title": "전문가 \"비트코인, 이번 사이클 46만 달러 간다...XRP는 10달러\"",
+        "url": "https://www.coinreaders.com/189867",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:30:30.545211",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759246230_0",
+      "title": "전문가 \"비트코인, 이번 사이클 46만 달러 간다...XRP는 10달러\"",
+      "url": "https://www.coinreaders.com/189867",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T00:30:30.545211",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0030.json"
+}

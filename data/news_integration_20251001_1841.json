@@ -1,0 +1,161 @@
+{
+  "timestamp": "2025-10-01T18:41:54.538108",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759311115_1",
+        "title": "비트코인·이더리움·XRP 동반 강세...글로벌 유동성 회복에 더 오른다?",
+        "url": "https://www.coinreaders.com/190054",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:31:55.961625",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759311114_0",
+        "title": "카르다노, 74% 무너져도 장기 상승 신호 여전...1달러 재돌파 가능할까?",
+        "url": "https://www.coinreaders.com/190056",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:31:54.995697",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759311115_1",
+        "title": "비트코인·이더리움·XRP 동반 강세...글로벌 유동성 회복에 더 오른다?",
+        "url": "https://www.coinreaders.com/190054",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:31:55.961625",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759311115_1",
+        "title": "비트코인·이더리움·XRP 동반 강세...글로벌 유동성 회복에 더 오른다?",
+        "url": "https://www.coinreaders.com/190054",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:31:55.961625",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759311115_1",
+        "title": "비트코인·이더리움·XRP 동반 강세...글로벌 유동성 회복에 더 오른다?",
+        "url": "https://www.coinreaders.com/190054",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:31:55.961625",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759311115_1",
+        "title": "비트코인·이더리움·XRP 동반 강세...글로벌 유동성 회복에 더 오른다?",
+        "url": "https://www.coinreaders.com/190054",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:31:55.961625",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759311115_1",
+        "title": "비트코인·이더리움·XRP 동반 강세...글로벌 유동성 회복에 더 오른다?",
+        "url": "https://www.coinreaders.com/190054",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:31:55.961625",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759311115_1",
+        "title": "비트코인·이더리움·XRP 동반 강세...글로벌 유동성 회복에 더 오른다?",
+        "url": "https://www.coinreaders.com/190054",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:31:55.961625",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759311114_0",
+      "title": "카르다노, 74% 무너져도 장기 상승 신호 여전...1달러 재돌파 가능할까?",
+      "url": "https://www.coinreaders.com/190056",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T18:31:54.995697",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20251001_1832.json"
+}

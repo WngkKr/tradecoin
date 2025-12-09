@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-10-04T05:06:56.630351",
+  "total_articles": 1,
+  "coins": {
+    "ETH": 1,
+    "BTC": 1
+  },
+  "influencers": {
+    "Vitalik Buterin": 1
+  },
+  "categories": {
+    "경제적": 1
+  },
+  "high_risk_count": 0,
+  "latest_file": "news/all_news_20251004_0506.json"
+}

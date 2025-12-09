@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-17T13:16:08.671844",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758082561_0",
+        "title": "에릭 트럼프 \"비트코인, 글로벌 금융의 현대판 금\"",
+        "url": "https://www.coinreaders.com/187023",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:16:01.251645",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758082561_0",
+        "title": "에릭 트럼프 \"비트코인, 글로벌 금융의 현대판 금\"",
+        "url": "https://www.coinreaders.com/187023",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:16:01.251645",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758082561_0",
+        "title": "에릭 트럼프 \"비트코인, 글로벌 금융의 현대판 금\"",
+        "url": "https://www.coinreaders.com/187023",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:16:01.251645",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758082561_0",
+        "title": "에릭 트럼프 \"비트코인, 글로벌 금융의 현대판 금\"",
+        "url": "https://www.coinreaders.com/187023",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:16:01.251645",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758082561_0",
+        "title": "에릭 트럼프 \"비트코인, 글로벌 금융의 현대판 금\"",
+        "url": "https://www.coinreaders.com/187023",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:16:01.251645",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA",
+          "ETH"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758082561_0",
+      "title": "에릭 트럼프 \"비트코인, 글로벌 금융의 현대판 금\"",
+      "url": "https://www.coinreaders.com/187023",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T13:16:01.251645",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "사회적",
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1316.json"
+}

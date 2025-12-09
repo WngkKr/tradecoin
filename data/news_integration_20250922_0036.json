@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-09-22T00:36:18.915503",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758468974_0",
+        "title": "시바이누 가격 조정…황소와 곰 중 누가 웃을까?",
+        "url": "https://www.coinreaders.com/187904",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T00:36:14.665322",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758468974_0",
+        "title": "시바이누 가격 조정…황소와 곰 중 누가 웃을까?",
+        "url": "https://www.coinreaders.com/187904",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T00:36:14.665322",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_0036.json"
+}

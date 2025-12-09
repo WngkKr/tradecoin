@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-21T11:46:38.092926",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758422790_0",
+        "title": "테더, 일주일 새 50억 달러 발행...시장 과열인가?",
+        "url": "https://www.coinreaders.com/187862",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T11:46:30.089736",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758422790_0",
+        "title": "테더, 일주일 새 50억 달러 발행...시장 과열인가?",
+        "url": "https://www.coinreaders.com/187862",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T11:46:30.089736",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758422790_0",
+      "title": "테더, 일주일 새 50억 달러 발행...시장 과열인가?",
+      "url": "https://www.coinreaders.com/187862",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T11:46:30.089736",
+      "related_coins": [
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_1146.json"
+}

@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-09-23T06:19:59.339760",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758574871_0",
+        "title": "XRP ETF, 상장 첫 주부터 휘청...\"투기 자금 드러났다\"",
+        "url": "https://www.coinreaders.com/188188",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:01:11.954526",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758574871_0",
+        "title": "XRP ETF, 상장 첫 주부터 휘청...\"투기 자금 드러났다\"",
+        "url": "https://www.coinreaders.com/188188",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:01:11.954526",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758574871_0",
+        "title": "XRP ETF, 상장 첫 주부터 휘청...\"투기 자금 드러났다\"",
+        "url": "https://www.coinreaders.com/188188",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:01:11.954526",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758574871_0",
+      "title": "XRP ETF, 상장 첫 주부터 휘청...\"투기 자금 드러났다\"",
+      "url": "https://www.coinreaders.com/188188",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T06:01:11.954526",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_0601.json"
+}

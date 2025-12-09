@@ -1,0 +1,204 @@
+{
+  "timestamp": "2025-09-22T22:40:10.120090",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758547798_0",
+        "title": "암호화폐, 2025년 최악의 청산...1시간 만에 10억 달러 증발",
+        "url": "https://www.coinreaders.com/188127",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:29:58.779395",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758547799_1",
+        "title": "내부 분열까지 폭로...시바이누 해킹 사태 후폭풍",
+        "url": "https://www.coinreaders.com/188122",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:29:59.565064",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758547798_0",
+        "title": "암호화폐, 2025년 최악의 청산...1시간 만에 10억 달러 증발",
+        "url": "https://www.coinreaders.com/188127",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:29:58.779395",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758547799_1",
+        "title": "내부 분열까지 폭로...시바이누 해킹 사태 후폭풍",
+        "url": "https://www.coinreaders.com/188122",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:29:59.565064",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758547798_0",
+        "title": "암호화폐, 2025년 최악의 청산...1시간 만에 10억 달러 증발",
+        "url": "https://www.coinreaders.com/188127",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:29:58.779395",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758547798_0",
+        "title": "암호화폐, 2025년 최악의 청산...1시간 만에 10억 달러 증발",
+        "url": "https://www.coinreaders.com/188127",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:29:58.779395",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758547799_1",
+        "title": "내부 분열까지 폭로...시바이누 해킹 사태 후폭풍",
+        "url": "https://www.coinreaders.com/188122",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:29:59.565064",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758547798_0",
+        "title": "암호화폐, 2025년 최악의 청산...1시간 만에 10억 달러 증발",
+        "url": "https://www.coinreaders.com/188127",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:29:58.779395",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "SHIB"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758547799_1",
+        "title": "내부 분열까지 폭로...시바이누 해킹 사태 후폭풍",
+        "url": "https://www.coinreaders.com/188122",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:29:59.565064",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "SHIB",
+          "DOGE"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758547798_0",
+      "title": "암호화폐, 2025년 최악의 청산...1시간 만에 10억 달러 증발",
+      "url": "https://www.coinreaders.com/188127",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T22:29:58.779395",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "SHIB"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758547799_1",
+      "title": "내부 분열까지 폭로...시바이누 해킹 사태 후폭풍",
+      "url": "https://www.coinreaders.com/188122",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T22:29:59.565064",
+      "related_coins": [
+        "ETH",
+        "SHIB",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "사회적",
+        "정치적",
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250922_2230.json"
+}

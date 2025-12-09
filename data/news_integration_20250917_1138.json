@@ -1,0 +1,180 @@
+{
+  "timestamp": "2025-09-17T11:38:31.035880",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758076700_0",
+        "title": "비트코인 1년 새 99% 상승, 알트코인 우세 속 방향은 어디로?",
+        "url": "https://www.coinreaders.com/186991",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:38:20.919055",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758076701_1",
+        "title": "테더, 미국 시장 진출...진짜 과제는 '유동성' 전쟁",
+        "url": "https://www.coinreaders.com/186989",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:38:21.667675",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758076700_0",
+        "title": "비트코인 1년 새 99% 상승, 알트코인 우세 속 방향은 어디로?",
+        "url": "https://www.coinreaders.com/186991",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:38:20.919055",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758076701_1",
+        "title": "테더, 미국 시장 진출...진짜 과제는 '유동성' 전쟁",
+        "url": "https://www.coinreaders.com/186989",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:38:21.667675",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758076701_1",
+        "title": "테더, 미국 시장 진출...진짜 과제는 '유동성' 전쟁",
+        "url": "https://www.coinreaders.com/186989",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:38:21.667675",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758076700_0",
+        "title": "비트코인 1년 새 99% 상승, 알트코인 우세 속 방향은 어디로?",
+        "url": "https://www.coinreaders.com/186991",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:38:20.919055",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758076701_1",
+        "title": "테더, 미국 시장 진출...진짜 과제는 '유동성' 전쟁",
+        "url": "https://www.coinreaders.com/186989",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:38:21.667675",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758076701_1",
+        "title": "테더, 미국 시장 진출...진짜 과제는 '유동성' 전쟁",
+        "url": "https://www.coinreaders.com/186989",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:38:21.667675",
+        "risk_level": "LOW",
+        "related_coins": [
+          "MAGA",
+          "ETH",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758076700_0",
+        "title": "비트코인 1년 새 99% 상승, 알트코인 우세 속 방향은 어디로?",
+        "url": "https://www.coinreaders.com/186991",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:38:20.919055",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758076701_1",
+        "title": "테더, 미국 시장 진출...진짜 과제는 '유동성' 전쟁",
+        "url": "https://www.coinreaders.com/186989",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:38:21.667675",
+        "risk_level": "LOW",
+        "related_coins": [
+          "MAGA",
+          "ETH",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 2,
+  "source_file": "news/all_news_20250917_1138.json"
+}

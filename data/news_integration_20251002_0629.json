@@ -1,0 +1,189 @@
+{
+  "timestamp": "2025-10-02T06:29:35.318270",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759354169_0",
+        "title": "이더리움, 상승세 타고 전문가 시선집중...2021년 고점 넘을까",
+        "url": "https://www.coinreaders.com/190154",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:29:29.412165",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759354169_1",
+        "title": "셧다운에도 위험자산 강세…뉴욕증시 최고치, 비트코인 11만7천달러 돌파",
+        "url": "https://www.coinreaders.com/190151",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:29:29.659781",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "정치적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759354169_1",
+        "title": "셧다운에도 위험자산 강세…뉴욕증시 최고치, 비트코인 11만7천달러 돌파",
+        "url": "https://www.coinreaders.com/190151",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:29:29.659781",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759354169_0",
+        "title": "이더리움, 상승세 타고 전문가 시선집중...2021년 고점 넘을까",
+        "url": "https://www.coinreaders.com/190154",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:29:29.412165",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759354169_1",
+        "title": "셧다운에도 위험자산 강세…뉴욕증시 최고치, 비트코인 11만7천달러 돌파",
+        "url": "https://www.coinreaders.com/190151",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:29:29.659781",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759354169_0",
+        "title": "이더리움, 상승세 타고 전문가 시선집중...2021년 고점 넘을까",
+        "url": "https://www.coinreaders.com/190154",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:29:29.412165",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759354169_0",
+        "title": "이더리움, 상승세 타고 전문가 시선집중...2021년 고점 넘을까",
+        "url": "https://www.coinreaders.com/190154",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:29:29.412165",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759354169_1",
+        "title": "셧다운에도 위험자산 강세…뉴욕증시 최고치, 비트코인 11만7천달러 돌파",
+        "url": "https://www.coinreaders.com/190151",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:29:29.659781",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "정치적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759354169_1",
+        "title": "셧다운에도 위험자산 강세…뉴욕증시 최고치, 비트코인 11만7천달러 돌파",
+        "url": "https://www.coinreaders.com/190151",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:29:29.659781",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759354169_1",
+      "title": "셧다운에도 위험자산 강세…뉴욕증시 최고치, 비트코인 11만7천달러 돌파",
+      "url": "https://www.coinreaders.com/190151",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T06:29:29.659781",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "사회적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20251002_0629.json"
+}

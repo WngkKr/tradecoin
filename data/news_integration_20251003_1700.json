@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-10-03T17:00:57.167823",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759478451_0",
+        "title": "전문가들 \"비트코인, 2026년 초 14만 달러 간다\"",
+        "url": "https://www.coinreaders.com/190447",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:00:51.767382",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759478451_0",
+        "title": "전문가들 \"비트코인, 2026년 초 14만 달러 간다\"",
+        "url": "https://www.coinreaders.com/190447",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:00:51.767382",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759478451_0",
+      "title": "전문가들 \"비트코인, 2026년 초 14만 달러 간다\"",
+      "url": "https://www.coinreaders.com/190447",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T17:00:51.767382",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1700.json"
+}

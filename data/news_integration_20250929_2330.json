@@ -1,0 +1,69 @@
+{
+  "timestamp": "2025-09-29T23:30:31.155424",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759156225_0",
+        "title": "\"정책 실패가 만든 기록\"...금 폭등, 비트코인에도 불붙였다",
+        "url": "https://www.coinreaders.com/189610",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T23:30:25.633523",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759156225_0",
+        "title": "\"정책 실패가 만든 기록\"...금 폭등, 비트코인에도 불붙였다",
+        "url": "https://www.coinreaders.com/189610",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T23:30:25.633523",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759156225_0",
+        "title": "\"정책 실패가 만든 기록\"...금 폭등, 비트코인에도 불붙였다",
+        "url": "https://www.coinreaders.com/189610",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T23:30:25.633523",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759156225_0",
+        "title": "\"정책 실패가 만든 기록\"...금 폭등, 비트코인에도 불붙였다",
+        "url": "https://www.coinreaders.com/189610",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T23:30:25.633523",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_2330.json"
+}

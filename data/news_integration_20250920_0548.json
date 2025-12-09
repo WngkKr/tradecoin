@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-09-20T05:48:56.965874",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758314931_0",
+        "title": "1년새 420% 폭등! XRP, ETF와 스웰 이벤트로 더 간다?",
+        "url": "https://www.coinreaders.com/187730",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T05:48:51.817289",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758314931_0",
+        "title": "1년새 420% 폭등! XRP, ETF와 스웰 이벤트로 더 간다?",
+        "url": "https://www.coinreaders.com/187730",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T05:48:51.817289",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758314931_0",
+        "title": "1년새 420% 폭등! XRP, ETF와 스웰 이벤트로 더 간다?",
+        "url": "https://www.coinreaders.com/187730",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T05:48:51.817289",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758314931_0",
+        "title": "1년새 420% 폭등! XRP, ETF와 스웰 이벤트로 더 간다?",
+        "url": "https://www.coinreaders.com/187730",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T05:48:51.817289",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758314931_0",
+        "title": "1년새 420% 폭등! XRP, ETF와 스웰 이벤트로 더 간다?",
+        "url": "https://www.coinreaders.com/187730",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T05:48:51.817289",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758314931_0",
+      "title": "1년새 420% 폭등! XRP, ETF와 스웰 이벤트로 더 간다?",
+      "url": "https://www.coinreaders.com/187730",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T05:48:51.817289",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0548.json"
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-17T01:22:24.936691",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758039736_0",
+        "title": "판테라 캐피털 \"비트코인, 75만 달러 간다...XRP는 28달러 돌파 예상\"",
+        "url": "https://www.coinreaders.com/186891",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T01:22:16.917837",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758039736_0",
+      "title": "판테라 캐피털 \"비트코인, 75만 달러 간다...XRP는 28달러 돌파 예상\"",
+      "url": "https://www.coinreaders.com/186891",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T01:22:16.917837",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_0122.json"
+}

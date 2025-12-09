@@ -1,0 +1,93 @@
+{
+  "timestamp": "2025-09-23T14:06:09.727381",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758601281_0",
+        "title": "이더리움·카르다노 돌파 속 바이낸스 레버리지 청산 경고...흐름 바뀌나?",
+        "url": "https://www.coinreaders.com/188282",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:21:21.184750",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758601281_0",
+        "title": "이더리움·카르다노 돌파 속 바이낸스 레버리지 청산 경고...흐름 바뀌나?",
+        "url": "https://www.coinreaders.com/188282",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:21:21.184750",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758601281_0",
+        "title": "이더리움·카르다노 돌파 속 바이낸스 레버리지 청산 경고...흐름 바뀌나?",
+        "url": "https://www.coinreaders.com/188282",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:21:21.184750",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758601281_0",
+        "title": "이더리움·카르다노 돌파 속 바이낸스 레버리지 청산 경고...흐름 바뀌나?",
+        "url": "https://www.coinreaders.com/188282",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:21:21.184750",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758601281_0",
+        "title": "이더리움·카르다노 돌파 속 바이낸스 레버리지 청산 경고...흐름 바뀌나?",
+        "url": "https://www.coinreaders.com/188282",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:21:21.184750",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_1406.json"
+}

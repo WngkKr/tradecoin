@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-09-24T02:49:28.064872",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758649762_0",
+        "title": "XRP 10달러 돌파 예고...비트코인 20만 달러 시 300% 폭등 신호",
+        "url": "https://www.coinreaders.com/188451",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T02:49:22.942124",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758649762_0",
+        "title": "XRP 10달러 돌파 예고...비트코인 20만 달러 시 300% 폭등 신호",
+        "url": "https://www.coinreaders.com/188451",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T02:49:22.942124",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758649762_0",
+        "title": "XRP 10달러 돌파 예고...비트코인 20만 달러 시 300% 폭등 신호",
+        "url": "https://www.coinreaders.com/188451",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T02:49:22.942124",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758649762_0",
+      "title": "XRP 10달러 돌파 예고...비트코인 20만 달러 시 300% 폭등 신호",
+      "url": "https://www.coinreaders.com/188451",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T02:49:22.942124",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_0249.json"
+}

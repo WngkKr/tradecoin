@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-30T06:34:41.438260",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759181071_0",
+        "title": "XRP, ‘죽었다’는 조롱 속 반등 준비 중...고래들 3억 달러 매집",
+        "url": "https://www.coinreaders.com/189657",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:24:31.146327",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759181071_0",
+      "title": "XRP, ‘죽었다’는 조롱 속 반등 준비 중...고래들 3억 달러 매집",
+      "url": "https://www.coinreaders.com/189657",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T06:24:31.146327",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0624.json"
+}

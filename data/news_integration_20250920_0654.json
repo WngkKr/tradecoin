@@ -1,0 +1,105 @@
+{
+  "timestamp": "2025-09-20T06:54:42.171239",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758315976_0",
+        "title": "부탄 정부, 비트코인 1억 달러 이동...매도 압력 현실화되나?",
+        "url": "https://www.coinreaders.com/187732",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T06:06:16.661099",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758315976_0",
+        "title": "부탄 정부, 비트코인 1억 달러 이동...매도 압력 현실화되나?",
+        "url": "https://www.coinreaders.com/187732",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T06:06:16.661099",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758315976_0",
+        "title": "부탄 정부, 비트코인 1억 달러 이동...매도 압력 현실화되나?",
+        "url": "https://www.coinreaders.com/187732",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T06:06:16.661099",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758315976_0",
+        "title": "부탄 정부, 비트코인 1억 달러 이동...매도 압력 현실화되나?",
+        "url": "https://www.coinreaders.com/187732",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T06:06:16.661099",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758315976_0",
+      "title": "부탄 정부, 비트코인 1억 달러 이동...매도 압력 현실화되나?",
+      "url": "https://www.coinreaders.com/187732",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T06:06:16.661099",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0606.json"
+}

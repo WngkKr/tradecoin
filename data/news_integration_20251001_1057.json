@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-10-01T10:57:10.050430",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759283824_0",
+        "title": "세일러 \"비트코인, 인류의 디지털 에너지...은행·보험·자본시장 대체 예상\"",
+        "url": "https://www.coinreaders.com/189971",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T10:57:04.723291",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759283824_0",
+        "title": "세일러 \"비트코인, 인류의 디지털 에너지...은행·보험·자본시장 대체 예상\"",
+        "url": "https://www.coinreaders.com/189971",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T10:57:04.723291",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759283824_0",
+      "title": "세일러 \"비트코인, 인류의 디지털 에너지...은행·보험·자본시장 대체 예상\"",
+      "url": "https://www.coinreaders.com/189971",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T10:57:04.723291",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1057.json"
+}

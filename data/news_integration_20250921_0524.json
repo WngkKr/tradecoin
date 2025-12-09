@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-09-21T05:24:26.150320",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758398650_0",
+        "title": "\"도지코인 상승 열차 출발\"...ETF와 사이클이 겹쳤다",
+        "url": "https://www.coinreaders.com/187840",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T05:04:10.924973",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758398650_0",
+        "title": "\"도지코인 상승 열차 출발\"...ETF와 사이클이 겹쳤다",
+        "url": "https://www.coinreaders.com/187840",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T05:04:10.924973",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758398650_0",
+        "title": "\"도지코인 상승 열차 출발\"...ETF와 사이클이 겹쳤다",
+        "url": "https://www.coinreaders.com/187840",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T05:04:10.924973",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758398650_0",
+        "title": "\"도지코인 상승 열차 출발\"...ETF와 사이클이 겹쳤다",
+        "url": "https://www.coinreaders.com/187840",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T05:04:10.924973",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758398650_0",
+        "title": "\"도지코인 상승 열차 출발\"...ETF와 사이클이 겹쳤다",
+        "url": "https://www.coinreaders.com/187840",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T05:04:10.924973",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758398650_0",
+        "title": "\"도지코인 상승 열차 출발\"...ETF와 사이클이 겹쳤다",
+        "url": "https://www.coinreaders.com/187840",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T05:04:10.924973",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758398650_0",
+      "title": "\"도지코인 상승 열차 출발\"...ETF와 사이클이 겹쳤다",
+      "url": "https://www.coinreaders.com/187840",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T05:04:10.924973",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_0504.json"
+}

@@ -1,0 +1,248 @@
+{
+  "timestamp": "2025-09-30T20:34:58.884013",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759232090_0",
+        "title": "암호화폐 시총 4조 달러 돌파...업토버 랠리, 이제 곧 시작하나",
+        "url": "https://www.coinreaders.com/189827",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:50.229075",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759232092_4",
+        "title": "미국 셧다운 위기, 비트코인과 금·은 어디까지 오를까",
+        "url": "https://www.coinreaders.com/189813",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:52.389763",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759232092_5",
+        "title": "솔라나, 200달러 회복은 성공...220달러 돌파도 가능할까?",
+        "url": "https://www.coinreaders.com/189805",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:52.755367",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759232090_0",
+        "title": "암호화폐 시총 4조 달러 돌파...업토버 랠리, 이제 곧 시작하나",
+        "url": "https://www.coinreaders.com/189827",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:50.229075",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759232091_1",
+        "title": "애널리스트 \"비트코인, 이번에는 점진적 상승세 이어진다\"",
+        "url": "https://www.coinreaders.com/189825",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:51.338675",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759232092_2",
+        "title": "비트코인, 극단적 공포 버티기 '성공'...다음은 탐욕 시작?",
+        "url": "https://www.coinreaders.com/189820",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:52.080465",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759232092_4",
+        "title": "미국 셧다운 위기, 비트코인과 금·은 어디까지 오를까",
+        "url": "https://www.coinreaders.com/189813",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:52.389763",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759232092_5",
+        "title": "솔라나, 200달러 회복은 성공...220달러 돌파도 가능할까?",
+        "url": "https://www.coinreaders.com/189805",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:52.755367",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759232092_4",
+        "title": "미국 셧다운 위기, 비트코인과 금·은 어디까지 오를까",
+        "url": "https://www.coinreaders.com/189813",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:52.389763",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759232090_0",
+        "title": "암호화폐 시총 4조 달러 돌파...업토버 랠리, 이제 곧 시작하나",
+        "url": "https://www.coinreaders.com/189827",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:50.229075",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759232092_4",
+        "title": "미국 셧다운 위기, 비트코인과 금·은 어디까지 오를까",
+        "url": "https://www.coinreaders.com/189813",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:52.389763",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "MAGA",
+          "ETH"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759232092_5",
+        "title": "솔라나, 200달러 회복은 성공...220달러 돌파도 가능할까?",
+        "url": "https://www.coinreaders.com/189805",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:52.755367",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759232092_4",
+        "title": "미국 셧다운 위기, 비트코인과 금·은 어디까지 오를까",
+        "url": "https://www.coinreaders.com/189813",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:34:52.389763",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "MAGA",
+          "ETH"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759232090_0",
+      "title": "암호화폐 시총 4조 달러 돌파...업토버 랠리, 이제 곧 시작하나",
+      "url": "https://www.coinreaders.com/189827",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T20:34:50.229075",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759232092_5",
+      "title": "솔라나, 200달러 회복은 성공...220달러 돌파도 가능할까?",
+      "url": "https://www.coinreaders.com/189805",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T20:34:52.755367",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250930_2034.json"
+}

@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-09-30T01:11:35.228029",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759161685_0",
+        "title": "시바이누, 초대형 랠리로 투자자 뒤흔들 준비...18개월 기다림 끝?",
+        "url": "https://www.coinreaders.com/189626",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T01:01:25.334286",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759161685_0",
+        "title": "시바이누, 초대형 랠리로 투자자 뒤흔들 준비...18개월 기다림 끝?",
+        "url": "https://www.coinreaders.com/189626",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T01:01:25.334286",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759161685_0",
+        "title": "시바이누, 초대형 랠리로 투자자 뒤흔들 준비...18개월 기다림 끝?",
+        "url": "https://www.coinreaders.com/189626",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T01:01:25.334286",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0101.json"
+}

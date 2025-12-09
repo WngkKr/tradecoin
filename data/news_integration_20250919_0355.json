@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-09-19T03:55:26.815348",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758221116_0",
+        "title": "비트코인, 연말까지 20만 달러 찍을 수 있을까?…연준이 불 지핀다",
+        "url": "https://www.coinreaders.com/187478",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:45:16.314696",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758221116_0",
+        "title": "비트코인, 연말까지 20만 달러 찍을 수 있을까?…연준이 불 지핀다",
+        "url": "https://www.coinreaders.com/187478",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:45:16.314696",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758221116_0",
+        "title": "비트코인, 연말까지 20만 달러 찍을 수 있을까?…연준이 불 지핀다",
+        "url": "https://www.coinreaders.com/187478",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:45:16.314696",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758221116_0",
+        "title": "비트코인, 연말까지 20만 달러 찍을 수 있을까?…연준이 불 지핀다",
+        "url": "https://www.coinreaders.com/187478",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:45:16.314696",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758221116_0",
+      "title": "비트코인, 연말까지 20만 달러 찍을 수 있을까?…연준이 불 지핀다",
+      "url": "https://www.coinreaders.com/187478",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T03:45:16.314696",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_0345.json"
+}

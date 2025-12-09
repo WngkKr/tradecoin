@@ -1,0 +1,88 @@
+{
+  "timestamp": "2025-10-04T01:24:43.613620",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759507465_0",
+        "title": "도지코인, 4시간 만에 156만 달러 증발...왜?",
+        "url": "https://www.coinreaders.com/190499",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T01:04:25.595591",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759507465_0",
+        "title": "도지코인, 4시간 만에 156만 달러 증발...왜?",
+        "url": "https://www.coinreaders.com/190499",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T01:04:25.595591",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759507465_0",
+        "title": "도지코인, 4시간 만에 156만 달러 증발...왜?",
+        "url": "https://www.coinreaders.com/190499",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T01:04:25.595591",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759507465_0",
+        "title": "도지코인, 4시간 만에 156만 달러 증발...왜?",
+        "url": "https://www.coinreaders.com/190499",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T01:04:25.595591",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759507465_0",
+      "title": "도지코인, 4시간 만에 156만 달러 증발...왜?",
+      "url": "https://www.coinreaders.com/190499",
+      "source": "coinreaders",
+      "timestamp": "2025-10-04T01:04:25.595591",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251004_0104.json"
+}

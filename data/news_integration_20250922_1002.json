@@ -1,0 +1,672 @@
+{
+  "timestamp": "2025-09-22T10:02:11.934998",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758502920_0",
+        "title": "규제 완화 + 제도권 편입 기대…XRP, 연말까지 5달러 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187962",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:00.717277",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_1",
+        "title": "70억 달러 비트코인 사기...영국 법정 판결은?",
+        "url": "https://www.coinreaders.com/187959",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.143109",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_2",
+        "title": "ETF, XRP와 솔라나 2배 레버리지로 공략 가능할까?",
+        "url": "https://www.coinreaders.com/187954",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.935888",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502923_3",
+        "title": "에테나(ENA), 조정 끝내고 0.80달러 향할까",
+        "url": "https://www.coinreaders.com/187951",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:03.754152",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502924_4",
+        "title": "밈코인에서 ETF까지! 도지코인, 새로운 역사 쓰나",
+        "url": "https://www.coinreaders.com/187950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:04.828092",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758502920_0",
+        "title": "규제 완화 + 제도권 편입 기대…XRP, 연말까지 5달러 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187962",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:00.717277",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_2",
+        "title": "ETF, XRP와 솔라나 2배 레버리지로 공략 가능할까?",
+        "url": "https://www.coinreaders.com/187954",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.935888",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502924_4",
+        "title": "밈코인에서 ETF까지! 도지코인, 새로운 역사 쓰나",
+        "url": "https://www.coinreaders.com/187950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:04.828092",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758502920_0",
+        "title": "규제 완화 + 제도권 편입 기대…XRP, 연말까지 5달러 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187962",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:00.717277",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_1",
+        "title": "70억 달러 비트코인 사기...영국 법정 판결은?",
+        "url": "https://www.coinreaders.com/187959",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.143109",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_2",
+        "title": "ETF, XRP와 솔라나 2배 레버리지로 공략 가능할까?",
+        "url": "https://www.coinreaders.com/187954",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.935888",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502923_3",
+        "title": "에테나(ENA), 조정 끝내고 0.80달러 향할까",
+        "url": "https://www.coinreaders.com/187951",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:03.754152",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502924_4",
+        "title": "밈코인에서 ETF까지! 도지코인, 새로운 역사 쓰나",
+        "url": "https://www.coinreaders.com/187950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:04.828092",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502925_5",
+        "title": "연준 금리 인하 뒤흔든 비트코인...폭락vs급등, 다음은 어디로?",
+        "url": "https://www.coinreaders.com/187949",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:05.818703",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758502920_0",
+        "title": "규제 완화 + 제도권 편입 기대…XRP, 연말까지 5달러 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187962",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:00.717277",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_1",
+        "title": "70억 달러 비트코인 사기...영국 법정 판결은?",
+        "url": "https://www.coinreaders.com/187959",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.143109",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502924_4",
+        "title": "밈코인에서 ETF까지! 도지코인, 새로운 역사 쓰나",
+        "url": "https://www.coinreaders.com/187950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:04.828092",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758502920_0",
+        "title": "규제 완화 + 제도권 편입 기대…XRP, 연말까지 5달러 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187962",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:00.717277",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_1",
+        "title": "70억 달러 비트코인 사기...영국 법정 판결은?",
+        "url": "https://www.coinreaders.com/187959",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.143109",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_2",
+        "title": "ETF, XRP와 솔라나 2배 레버리지로 공략 가능할까?",
+        "url": "https://www.coinreaders.com/187954",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.935888",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502924_4",
+        "title": "밈코인에서 ETF까지! 도지코인, 새로운 역사 쓰나",
+        "url": "https://www.coinreaders.com/187950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:04.828092",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758502920_0",
+        "title": "규제 완화 + 제도권 편입 기대…XRP, 연말까지 5달러 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187962",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:00.717277",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_1",
+        "title": "70억 달러 비트코인 사기...영국 법정 판결은?",
+        "url": "https://www.coinreaders.com/187959",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.143109",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758502920_0",
+        "title": "규제 완화 + 제도권 편입 기대…XRP, 연말까지 5달러 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187962",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:00.717277",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_1",
+        "title": "70억 달러 비트코인 사기...영국 법정 판결은?",
+        "url": "https://www.coinreaders.com/187959",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.143109",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_2",
+        "title": "ETF, XRP와 솔라나 2배 레버리지로 공략 가능할까?",
+        "url": "https://www.coinreaders.com/187954",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.935888",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502924_4",
+        "title": "밈코인에서 ETF까지! 도지코인, 새로운 역사 쓰나",
+        "url": "https://www.coinreaders.com/187950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:04.828092",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502925_5",
+        "title": "연준 금리 인하 뒤흔든 비트코인...폭락vs급등, 다음은 어디로?",
+        "url": "https://www.coinreaders.com/187949",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:05.818703",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758502920_0",
+        "title": "규제 완화 + 제도권 편입 기대…XRP, 연말까지 5달러 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187962",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:00.717277",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_2",
+        "title": "ETF, XRP와 솔라나 2배 레버리지로 공략 가능할까?",
+        "url": "https://www.coinreaders.com/187954",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.935888",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502924_4",
+        "title": "밈코인에서 ETF까지! 도지코인, 새로운 역사 쓰나",
+        "url": "https://www.coinreaders.com/187950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:04.828092",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758502920_0",
+        "title": "규제 완화 + 제도권 편입 기대…XRP, 연말까지 5달러 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187962",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:00.717277",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502922_2",
+        "title": "ETF, XRP와 솔라나 2배 레버리지로 공략 가능할까?",
+        "url": "https://www.coinreaders.com/187954",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:02.935888",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758502924_4",
+        "title": "밈코인에서 ETF까지! 도지코인, 새로운 역사 쓰나",
+        "url": "https://www.coinreaders.com/187950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:02:04.828092",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758502920_0",
+      "title": "규제 완화 + 제도권 편입 기대…XRP, 연말까지 5달러 돌파 가능할까?",
+      "url": "https://www.coinreaders.com/187962",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T10:02:00.717277",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "SHIB",
+        "FLOKI",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758502922_1",
+      "title": "70억 달러 비트코인 사기...영국 법정 판결은?",
+      "url": "https://www.coinreaders.com/187959",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T10:02:02.143109",
+      "related_coins": [
+        "BTC",
+        "SHIB",
+        "FLOKI",
+        "MAGA",
+        "ETH",
+        "TRUMP"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758502922_2",
+      "title": "ETF, XRP와 솔라나 2배 레버리지로 공략 가능할까?",
+      "url": "https://www.coinreaders.com/187954",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T10:02:02.935888",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758502923_3",
+      "title": "에테나(ENA), 조정 끝내고 0.80달러 향할까",
+      "url": "https://www.coinreaders.com/187951",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T10:02:03.754152",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758502924_4",
+      "title": "밈코인에서 ETF까지! 도지코인, 새로운 역사 쓰나",
+      "url": "https://www.coinreaders.com/187950",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T10:02:04.828092",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758502925_5",
+      "title": "연준 금리 인하 뒤흔든 비트코인...폭락vs급등, 다음은 어디로?",
+      "url": "https://www.coinreaders.com/187949",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T10:02:05.818703",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250922_1002.json"
+}

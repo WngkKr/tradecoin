@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-09-22T03:50:49.683351",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758479433_0",
+        "title": "XRP 소각량, 163개로 추락...희소성 논리 이대로 사라지나?",
+        "url": "https://www.coinreaders.com/187911",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:30:33.802498",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758479433_0",
+        "title": "XRP 소각량, 163개로 추락...희소성 논리 이대로 사라지나?",
+        "url": "https://www.coinreaders.com/187911",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:30:33.802498",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758479433_0",
+        "title": "XRP 소각량, 163개로 추락...희소성 논리 이대로 사라지나?",
+        "url": "https://www.coinreaders.com/187911",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:30:33.802498",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758479433_0",
+        "title": "XRP 소각량, 163개로 추락...희소성 논리 이대로 사라지나?",
+        "url": "https://www.coinreaders.com/187911",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:30:33.802498",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758479433_0",
+        "title": "XRP 소각량, 163개로 추락...희소성 논리 이대로 사라지나?",
+        "url": "https://www.coinreaders.com/187911",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:30:33.802498",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "SHIB"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758479433_0",
+      "title": "XRP 소각량, 163개로 추락...희소성 논리 이대로 사라지나?",
+      "url": "https://www.coinreaders.com/187911",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T03:30:33.802498",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "SHIB"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_0330.json"
+}

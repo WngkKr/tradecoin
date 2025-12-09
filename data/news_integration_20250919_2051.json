@@ -1,0 +1,83 @@
+{
+  "timestamp": "2025-09-19T20:51:31.791068",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758282686_0",
+        "title": "도지코인, 0.3달러 재돌파 vs 0.2달러 추락 기로에",
+        "url": "https://www.coinreaders.com/187666",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:51:26.220743",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758282686_0",
+        "title": "도지코인, 0.3달러 재돌파 vs 0.2달러 추락 기로에",
+        "url": "https://www.coinreaders.com/187666",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:51:26.220743",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758282686_0",
+        "title": "도지코인, 0.3달러 재돌파 vs 0.2달러 추락 기로에",
+        "url": "https://www.coinreaders.com/187666",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:51:26.220743",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758282686_0",
+        "title": "도지코인, 0.3달러 재돌파 vs 0.2달러 추락 기로에",
+        "url": "https://www.coinreaders.com/187666",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:51:26.220743",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758282686_0",
+      "title": "도지코인, 0.3달러 재돌파 vs 0.2달러 추락 기로에",
+      "url": "https://www.coinreaders.com/187666",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T20:51:26.220743",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_2051.json"
+}

@@ -1,0 +1,429 @@
+{
+  "timestamp": "2025-09-17T13:05:59.358247",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758081949_0",
+        "title": "일자리 91만 개 증발...비트코인·알트코인 시장, 강세 기회 오나?",
+        "url": "https://www.coinreaders.com/187018",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:49.665626",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081950_1",
+        "title": "솔라나, 4분기 이더리움 제치고 선두에 설까?",
+        "url": "https://www.coinreaders.com/187017",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:50.517453",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081951_2",
+        "title": "이더리움, 현물·파생시장 동반 강세...연말 랠리로 갈까?",
+        "url": "https://www.coinreaders.com/187016",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:51.403848",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081952_4",
+        "title": "솔라나·XRP·도지코인 ETP, 10월 이후 속출할까",
+        "url": "https://www.coinreaders.com/187014",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:52.373039",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081953_5",
+        "title": "연준 금리 발표 앞두고 비트코인·이더리움·XRP 어디로 향할까?",
+        "url": "https://www.coinreaders.com/187013",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:53.465750",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758081949_0",
+        "title": "일자리 91만 개 증발...비트코인·알트코인 시장, 강세 기회 오나?",
+        "url": "https://www.coinreaders.com/187018",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:49.665626",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081952_4",
+        "title": "솔라나·XRP·도지코인 ETP, 10월 이후 속출할까",
+        "url": "https://www.coinreaders.com/187014",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:52.373039",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081953_5",
+        "title": "연준 금리 발표 앞두고 비트코인·이더리움·XRP 어디로 향할까?",
+        "url": "https://www.coinreaders.com/187013",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:53.465750",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758081949_0",
+        "title": "일자리 91만 개 증발...비트코인·알트코인 시장, 강세 기회 오나?",
+        "url": "https://www.coinreaders.com/187018",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:49.665626",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081950_1",
+        "title": "솔라나, 4분기 이더리움 제치고 선두에 설까?",
+        "url": "https://www.coinreaders.com/187017",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:50.517453",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081951_2",
+        "title": "이더리움, 현물·파생시장 동반 강세...연말 랠리로 갈까?",
+        "url": "https://www.coinreaders.com/187016",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:51.403848",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081952_4",
+        "title": "솔라나·XRP·도지코인 ETP, 10월 이후 속출할까",
+        "url": "https://www.coinreaders.com/187014",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:52.373039",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081953_5",
+        "title": "연준 금리 발표 앞두고 비트코인·이더리움·XRP 어디로 향할까?",
+        "url": "https://www.coinreaders.com/187013",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:53.465750",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758081952_4",
+        "title": "솔라나·XRP·도지코인 ETP, 10월 이후 속출할까",
+        "url": "https://www.coinreaders.com/187014",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:52.373039",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758081952_4",
+        "title": "솔라나·XRP·도지코인 ETP, 10월 이후 속출할까",
+        "url": "https://www.coinreaders.com/187014",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:52.373039",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758081949_0",
+        "title": "일자리 91만 개 증발...비트코인·알트코인 시장, 강세 기회 오나?",
+        "url": "https://www.coinreaders.com/187018",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:49.665626",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081951_2",
+        "title": "이더리움, 현물·파생시장 동반 강세...연말 랠리로 갈까?",
+        "url": "https://www.coinreaders.com/187016",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:51.403848",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081952_4",
+        "title": "솔라나·XRP·도지코인 ETP, 10월 이후 속출할까",
+        "url": "https://www.coinreaders.com/187014",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:52.373039",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081953_5",
+        "title": "연준 금리 발표 앞두고 비트코인·이더리움·XRP 어디로 향할까?",
+        "url": "https://www.coinreaders.com/187013",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:53.465750",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758081949_0",
+        "title": "일자리 91만 개 증발...비트코인·알트코인 시장, 강세 기회 오나?",
+        "url": "https://www.coinreaders.com/187018",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:49.665626",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081950_1",
+        "title": "솔라나, 4분기 이더리움 제치고 선두에 설까?",
+        "url": "https://www.coinreaders.com/187017",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:50.517453",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081951_2",
+        "title": "이더리움, 현물·파생시장 동반 강세...연말 랠리로 갈까?",
+        "url": "https://www.coinreaders.com/187016",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:51.403848",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081952_4",
+        "title": "솔라나·XRP·도지코인 ETP, 10월 이후 속출할까",
+        "url": "https://www.coinreaders.com/187014",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:52.373039",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758081953_5",
+        "title": "연준 금리 발표 앞두고 비트코인·이더리움·XRP 어디로 향할까?",
+        "url": "https://www.coinreaders.com/187013",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:53.465750",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758081952_4",
+        "title": "솔라나·XRP·도지코인 ETP, 10월 이후 속출할까",
+        "url": "https://www.coinreaders.com/187014",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:05:52.373039",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758081953_5",
+      "title": "연준 금리 발표 앞두고 비트코인·이더리움·XRP 어디로 향할까?",
+      "url": "https://www.coinreaders.com/187013",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T13:05:53.465750",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "DOGE",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250917_1305.json"
+}

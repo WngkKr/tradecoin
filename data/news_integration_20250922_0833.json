@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-22T08:33:41.777876",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758497617_0",
+        "title": "암호화폐 시총 10위→2위, 카르다노 15달러 시나리오 완전 분석",
+        "url": "https://www.coinreaders.com/187940",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:33:37.528901",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758497617_0",
+        "title": "암호화폐 시총 10위→2위, 카르다노 15달러 시나리오 완전 분석",
+        "url": "https://www.coinreaders.com/187940",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:33:37.528901",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758497617_0",
+        "title": "암호화폐 시총 10위→2위, 카르다노 15달러 시나리오 완전 분석",
+        "url": "https://www.coinreaders.com/187940",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:33:37.528901",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758497617_0",
+        "title": "암호화폐 시총 10위→2위, 카르다노 15달러 시나리오 완전 분석",
+        "url": "https://www.coinreaders.com/187940",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:33:37.528901",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "SHIB"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758497617_0",
+      "title": "암호화폐 시총 10위→2위, 카르다노 15달러 시나리오 완전 분석",
+      "url": "https://www.coinreaders.com/187940",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T08:33:37.528901",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "SHIB"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_0833.json"
+}

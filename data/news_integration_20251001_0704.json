@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-10-01T07:04:32.810394",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759269868_0",
+        "title": "단기 균형 잡힌 비트코인, 이제는 방향 잡아야 할 때",
+        "url": "https://www.coinreaders.com/189924",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:04:28.199473",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0704.json"
+}

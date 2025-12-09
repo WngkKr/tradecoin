@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-10-02T08:41:05.985329",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759362060_0",
+        "title": "이더리움 vs BNB, 장기 투자 승자는?",
+        "url": "https://www.coinreaders.com/190182",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:41:00.192913",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759362061_1",
+        "title": "테더, 럼블과 손잡고 미국서 스테이블코인 부활 성공할까",
+        "url": "https://www.coinreaders.com/190181",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:41:01.174226",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759362060_0",
+        "title": "이더리움 vs BNB, 장기 투자 승자는?",
+        "url": "https://www.coinreaders.com/190182",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:41:00.192913",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759362061_1",
+        "title": "테더, 럼블과 손잡고 미국서 스테이블코인 부활 성공할까",
+        "url": "https://www.coinreaders.com/190181",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:41:01.174226",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759362060_0",
+        "title": "이더리움 vs BNB, 장기 투자 승자는?",
+        "url": "https://www.coinreaders.com/190182",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:41:00.192913",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759362061_1",
+        "title": "테더, 럼블과 손잡고 미국서 스테이블코인 부활 성공할까",
+        "url": "https://www.coinreaders.com/190181",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:41:01.174226",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759362060_0",
+        "title": "이더리움 vs BNB, 장기 투자 승자는?",
+        "url": "https://www.coinreaders.com/190182",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:41:00.192913",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "SHIB"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759362061_1",
+      "title": "테더, 럼블과 손잡고 미국서 스테이블코인 부활 성공할까",
+      "url": "https://www.coinreaders.com/190181",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T08:41:01.174226",
+      "related_coins": [
+        "MAGA",
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20251002_0841.json"
+}

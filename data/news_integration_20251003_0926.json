@@ -1,0 +1,94 @@
+{
+  "timestamp": "2025-10-03T09:26:07.373882",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759449947_0",
+        "title": "비트코인, 매도벽 뚫렸다...\"13만 달러 진입은 시간문제\"",
+        "url": "https://www.coinreaders.com/190399",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T09:05:47.296500",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759449947_0",
+        "title": "비트코인, 매도벽 뚫렸다...\"13만 달러 진입은 시간문제\"",
+        "url": "https://www.coinreaders.com/190399",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T09:05:47.296500",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759449948_1",
+        "title": "XRP, 올해 첫 전년 상승 기록과 9달러 돌파 가능할까",
+        "url": "https://www.coinreaders.com/190398",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T09:05:48.067626",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759449948_1",
+        "title": "XRP, 올해 첫 전년 상승 기록과 9달러 돌파 가능할까",
+        "url": "https://www.coinreaders.com/190398",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T09:05:48.067626",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759449947_0",
+      "title": "비트코인, 매도벽 뚫렸다...\"13만 달러 진입은 시간문제\"",
+      "url": "https://www.coinreaders.com/190399",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T09:05:47.296500",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759449948_1",
+      "title": "XRP, 올해 첫 전년 상승 기록과 9달러 돌파 가능할까",
+      "url": "https://www.coinreaders.com/190398",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T09:05:48.067626",
+      "related_coins": [
+        "BTC",
+        "SHIB"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20251003_0905.json"
+}

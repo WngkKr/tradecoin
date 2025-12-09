@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-30T04:23:23.782283",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759173797_0",
+        "title": "토큰 언락 2억 6,800만 달러, 또 다른 폭락 신호인가",
+        "url": "https://www.coinreaders.com/189648",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:23:17.046849",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759173797_0",
+        "title": "토큰 언락 2억 6,800만 달러, 또 다른 폭락 신호인가",
+        "url": "https://www.coinreaders.com/189648",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:23:17.046849",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759173797_0",
+        "title": "토큰 언락 2억 6,800만 달러, 또 다른 폭락 신호인가",
+        "url": "https://www.coinreaders.com/189648",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:23:17.046849",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759173797_0",
+        "title": "토큰 언락 2억 6,800만 달러, 또 다른 폭락 신호인가",
+        "url": "https://www.coinreaders.com/189648",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:23:17.046849",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759173797_0",
+      "title": "토큰 언락 2억 6,800만 달러, 또 다른 폭락 신호인가",
+      "url": "https://www.coinreaders.com/189648",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T04:23:17.046849",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0423.json"
+}

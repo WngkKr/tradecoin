@@ -1,0 +1,200 @@
+{
+  "timestamp": "2025-09-23T20:04:28.108257",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758625460_2",
+        "title": "애널리스트 \"이더리움, 2만 달러까지 간다\"...글로벌 M2 차트 주목",
+        "url": "https://www.coinreaders.com/188364",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:04:20.523090",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758625459_1",
+        "title": "비트코인, 10만 달러 붕괴 임박? 지표가 경고한다",
+        "url": "https://www.coinreaders.com/188367",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:04:19.818654",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758625458_0",
+        "title": "WLFI-빗썸 제휴, 한국 720억 달러 시장 장악 신호탄",
+        "url": "https://www.coinreaders.com/188368",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:04:18.871933",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758625459_1",
+        "title": "비트코인, 10만 달러 붕괴 임박? 지표가 경고한다",
+        "url": "https://www.coinreaders.com/188367",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:04:19.818654",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758625460_2",
+        "title": "애널리스트 \"이더리움, 2만 달러까지 간다\"...글로벌 M2 차트 주목",
+        "url": "https://www.coinreaders.com/188364",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:04:20.523090",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758625458_0",
+        "title": "WLFI-빗썸 제휴, 한국 720억 달러 시장 장악 신호탄",
+        "url": "https://www.coinreaders.com/188368",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:04:18.871933",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758625458_0",
+        "title": "WLFI-빗썸 제휴, 한국 720억 달러 시장 장악 신호탄",
+        "url": "https://www.coinreaders.com/188368",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:04:18.871933",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758625458_0",
+        "title": "WLFI-빗썸 제휴, 한국 720억 달러 시장 장악 신호탄",
+        "url": "https://www.coinreaders.com/188368",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:04:18.871933",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758625460_2",
+        "title": "애널리스트 \"이더리움, 2만 달러까지 간다\"...글로벌 M2 차트 주목",
+        "url": "https://www.coinreaders.com/188364",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:04:20.523090",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758625458_0",
+      "title": "WLFI-빗썸 제휴, 한국 720억 달러 시장 장악 신호탄",
+      "url": "https://www.coinreaders.com/188368",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T20:04:18.871933",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758625459_1",
+      "title": "비트코인, 10만 달러 붕괴 임박? 지표가 경고한다",
+      "url": "https://www.coinreaders.com/188367",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T20:04:19.818654",
+      "related_coins": [
+        "BTC",
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758625460_2",
+      "title": "애널리스트 \"이더리움, 2만 달러까지 간다\"...글로벌 M2 차트 주목",
+      "url": "https://www.coinreaders.com/188364",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T20:04:20.523090",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250923_2004.json"
+}

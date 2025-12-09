@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-10-04T02:25:19.469225",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759511102_0",
+        "title": "시바이누 2,840억개 거래소 이동...강세장, 이대로 종료?",
+        "url": "https://www.coinreaders.com/190503",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T02:05:02.914245",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759511102_0",
+        "title": "시바이누 2,840억개 거래소 이동...강세장, 이대로 종료?",
+        "url": "https://www.coinreaders.com/190503",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T02:05:02.914245",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251004_0205.json"
+}

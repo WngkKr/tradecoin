@@ -1,0 +1,133 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ========================================
+    // 헬퍼 함수
+    // ========================================
+
+    // 인증된 사용자인지 확인
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    // 해당 사용자 본인인지 확인
+    function isOwner(userId) {
+      return request.auth.uid == userId;
+    }
+
+    // 사용자의 멤버십 티어 가져오기
+    function getUserTier() {
+      return get(/databases/$(database)/documents/users/$(request.auth.uid)).data.subscription.tier;
+    }
+
+    // 사용량 제한 체크
+    function isWithinLimit(action, count) {
+      let tier = getUserTier();
+
+      // Free tier 제한
+      if (tier == 'free') {
+        if (action == 'signal_view') {
+          return count < 3;  // 일일 3개 제한
+        }
+      }
+
+      // Premium, Pro, Enterprise는 무제한
+      return tier in ['premium', 'pro', 'enterprise'];
+    }
+
+    // ========================================
+    // Users Collection (사용자 프로필)
+    // ========================================
+
+    match /users/{userId} {
+      // 읽기: 본인만 가능
+      allow read: if isAuthenticated() && isOwner(userId);
+
+      // 생성: 본인 계정 생성만 가능
+      allow create: if isAuthenticated() && isOwner(userId);
+
+      // 업데이트: 본인만 가능
+      allow update: if isAuthenticated() && isOwner(userId);
+
+      // 삭제: 본인만 가능
+      allow delete: if isAuthenticated() && isOwner(userId);
+    }
+
+    // ========================================
+    // Signals Collection (거래 시그널)
+    // ========================================
+
+    match /signals/{signalId} {
+      // 읽기: 인증된 사용자만 (사용량 제한은 앱에서 관리)
+      allow read: if isAuthenticated();
+
+      // 쓰기: Cloud Functions만 가능 (일반 사용자는 불가)
+      allow write: if false;
+    }
+
+    // ========================================
+    // User Portfolios (사용자별 포트폴리오)
+    // ========================================
+
+    match /userPortfolios/{userId}/assets/{assetId} {
+      // 읽기/쓰기: 본인만 가능
+      allow read, write: if isAuthenticated() && isOwner(userId);
+    }
+
+    // ========================================
+    // User Trades (사용자별 거래 내역)
+    // ========================================
+
+    match /userTrades/{userId}/trades/{tradeId} {
+      // 읽기: 본인만 가능
+      allow read: if isAuthenticated() && isOwner(userId);
+
+      // 생성: 본인만 가능
+      allow create: if isAuthenticated() && isOwner(userId);
+
+      // 업데이트/삭제: 본인만 가능
+      allow update, delete: if isAuthenticated() && isOwner(userId);
+    }
+
+    // ========================================
+    // Market Data (시장 데이터 - 읽기 전용)
+    // ========================================
+
+    match /marketData/{coinId} {
+      // 읽기: 인증된 사용자만
+      allow read: if isAuthenticated();
+
+      // 쓰기: Cloud Functions만 가능
+      allow write: if false;
+    }
+
+    // ========================================
+    // News & Social Data (뉴스 및 소셜 데이터)
+    // ========================================
+
+    match /newsData/{newsId} {
+      // 읽기: 인증된 사용자만
+      allow read: if isAuthenticated();
+
+      // 쓰기: Cloud Functions만 가능
+      allow write: if false;
+    }
+
+    match /socialData/{socialId} {
+      // 읽기: 인증된 사용자만
+      allow read: if isAuthenticated();
+
+      // 쓰기: Cloud Functions만 가능
+      allow write: if false;
+    }
+
+    // ========================================
+    // 기본 규칙: 모든 다른 요청 거부
+    // ========================================
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

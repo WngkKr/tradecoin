@@ -1,0 +1,73 @@
+{
+  "timestamp": "2025-09-24T03:34:32.416256",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758652466_0",
+        "title": "시바이누, 여전히 매력적인 투자처일까...\"실사용성 확보 못하면 미래 없다\"",
+        "url": "https://www.coinreaders.com/188460",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:34:26.335856",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758652466_0",
+        "title": "시바이누, 여전히 매력적인 투자처일까...\"실사용성 확보 못하면 미래 없다\"",
+        "url": "https://www.coinreaders.com/188460",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:34:26.335856",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758652466_0",
+        "title": "시바이누, 여전히 매력적인 투자처일까...\"실사용성 확보 못하면 미래 없다\"",
+        "url": "https://www.coinreaders.com/188460",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:34:26.335856",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758652466_0",
+        "title": "시바이누, 여전히 매력적인 투자처일까...\"실사용성 확보 못하면 미래 없다\"",
+        "url": "https://www.coinreaders.com/188460",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:34:26.335856",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_0334.json"
+}

@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-21T22:55:25.083569",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758462920_0",
+        "title": "18개 ETF 승인 대기, XRP 목표가 25달러까지 5단계 전망",
+        "url": "https://www.coinreaders.com/187896",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:55:20.445910",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758462920_0",
+        "title": "18개 ETF 승인 대기, XRP 목표가 25달러까지 5단계 전망",
+        "url": "https://www.coinreaders.com/187896",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:55:20.445910",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758462920_0",
+        "title": "18개 ETF 승인 대기, XRP 목표가 25달러까지 5단계 전망",
+        "url": "https://www.coinreaders.com/187896",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:55:20.445910",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758462920_0",
+        "title": "18개 ETF 승인 대기, XRP 목표가 25달러까지 5단계 전망",
+        "url": "https://www.coinreaders.com/187896",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:55:20.445910",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758462920_0",
+      "title": "18개 ETF 승인 대기, XRP 목표가 25달러까지 5단계 전망",
+      "url": "https://www.coinreaders.com/187896",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T22:55:20.445910",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_2255.json"
+}

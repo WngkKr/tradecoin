@@ -1,0 +1,140 @@
+{
+  "timestamp": "2025-10-01T21:13:47.308721",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759320213_0",
+        "title": "기요사키, 버핏의 금·은 평가 경계...\"비트코인·이더리움도 보유하라\"",
+        "url": "https://www.coinreaders.com/190083",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:03:33.163179",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759320213_1",
+        "title": "비트코인·이더리움·XRP, 10월 랠리의 주인공은 누구일까",
+        "url": "https://www.coinreaders.com/190081",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:03:33.928404",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759320213_1",
+        "title": "비트코인·이더리움·XRP, 10월 랠리의 주인공은 누구일까",
+        "url": "https://www.coinreaders.com/190081",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:03:33.928404",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759320213_0",
+        "title": "기요사키, 버핏의 금·은 평가 경계...\"비트코인·이더리움도 보유하라\"",
+        "url": "https://www.coinreaders.com/190083",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:03:33.163179",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759320213_1",
+        "title": "비트코인·이더리움·XRP, 10월 랠리의 주인공은 누구일까",
+        "url": "https://www.coinreaders.com/190081",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:03:33.928404",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759320213_0",
+        "title": "기요사키, 버핏의 금·은 평가 경계...\"비트코인·이더리움도 보유하라\"",
+        "url": "https://www.coinreaders.com/190083",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:03:33.163179",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759320213_1",
+        "title": "비트코인·이더리움·XRP, 10월 랠리의 주인공은 누구일까",
+        "url": "https://www.coinreaders.com/190081",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:03:33.928404",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759320213_1",
+        "title": "비트코인·이더리움·XRP, 10월 랠리의 주인공은 누구일까",
+        "url": "https://www.coinreaders.com/190081",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:03:33.928404",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 2,
+  "source_file": "news/all_news_20251001_2103.json"
+}

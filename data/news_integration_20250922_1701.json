@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-22T17:01:30.253574",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758528085_0",
+        "title": "세일러의 비트코인 집착, 승부수일까 무모한 베팅일까?",
+        "url": "https://www.coinreaders.com/188050",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:01:25.223178",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758528085_0",
+        "title": "세일러의 비트코인 집착, 승부수일까 무모한 베팅일까?",
+        "url": "https://www.coinreaders.com/188050",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:01:25.223178",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758528085_0",
+      "title": "세일러의 비트코인 집착, 승부수일까 무모한 베팅일까?",
+      "url": "https://www.coinreaders.com/188050",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T17:01:25.223178",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1701.json"
+}

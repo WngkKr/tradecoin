@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-10-02T00:05:43.074345",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759331138_0",
+        "title": "\"35만 달러 보상\" 올해만 다섯 번 나온 개인 비트코인 채굴자의 기적",
+        "url": "https://www.coinreaders.com/190114",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T00:05:38.795888",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759331138_0",
+      "title": "\"35만 달러 보상\" 올해만 다섯 번 나온 개인 비트코인 채굴자의 기적",
+      "url": "https://www.coinreaders.com/190114",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T00:05:38.795888",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0005.json"
+}

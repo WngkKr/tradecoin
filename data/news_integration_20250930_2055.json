@@ -1,0 +1,357 @@
+{
+  "timestamp": "2025-09-30T20:55:14.603635",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759233305_0",
+        "title": "도지코인, ETF 호재·기술적 패턴 동반 청신호...투자자 시선 집중",
+        "url": "https://www.coinreaders.com/189833",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:05.667998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759233306_1",
+        "title": "셧다운 위기·FTX 상환·기관 매수…비트코인 업토버·연말 랠리 기대감",
+        "url": "https://www.coinreaders.com/189829",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:06.517850",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759233307_2",
+        "title": "도지코인·시바이누·페페, ETF 호재에도 왜 힘 못 쓸까?",
+        "url": "https://www.coinreaders.com/189828",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:07.575450",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759233305_0",
+        "title": "도지코인, ETF 호재·기술적 패턴 동반 청신호...투자자 시선 집중",
+        "url": "https://www.coinreaders.com/189833",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:05.667998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759233306_1",
+        "title": "셧다운 위기·FTX 상환·기관 매수…비트코인 업토버·연말 랠리 기대감",
+        "url": "https://www.coinreaders.com/189829",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:06.517850",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759233307_2",
+        "title": "도지코인·시바이누·페페, ETF 호재에도 왜 힘 못 쓸까?",
+        "url": "https://www.coinreaders.com/189828",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:07.575450",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759233305_0",
+        "title": "도지코인, ETF 호재·기술적 패턴 동반 청신호...투자자 시선 집중",
+        "url": "https://www.coinreaders.com/189833",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:05.667998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759233306_1",
+        "title": "셧다운 위기·FTX 상환·기관 매수…비트코인 업토버·연말 랠리 기대감",
+        "url": "https://www.coinreaders.com/189829",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:06.517850",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759233307_2",
+        "title": "도지코인·시바이누·페페, ETF 호재에도 왜 힘 못 쓸까?",
+        "url": "https://www.coinreaders.com/189828",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:07.575450",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759233305_0",
+        "title": "도지코인, ETF 호재·기술적 패턴 동반 청신호...투자자 시선 집중",
+        "url": "https://www.coinreaders.com/189833",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:05.667998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759233307_2",
+        "title": "도지코인·시바이누·페페, ETF 호재에도 왜 힘 못 쓸까?",
+        "url": "https://www.coinreaders.com/189828",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:07.575450",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759233305_0",
+        "title": "도지코인, ETF 호재·기술적 패턴 동반 청신호...투자자 시선 집중",
+        "url": "https://www.coinreaders.com/189833",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:05.667998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759233307_2",
+        "title": "도지코인·시바이누·페페, ETF 호재에도 왜 힘 못 쓸까?",
+        "url": "https://www.coinreaders.com/189828",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:07.575450",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759233306_1",
+        "title": "셧다운 위기·FTX 상환·기관 매수…비트코인 업토버·연말 랠리 기대감",
+        "url": "https://www.coinreaders.com/189829",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:06.517850",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759233306_1",
+        "title": "셧다운 위기·FTX 상환·기관 매수…비트코인 업토버·연말 랠리 기대감",
+        "url": "https://www.coinreaders.com/189829",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:06.517850",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759233307_2",
+        "title": "도지코인·시바이누·페페, ETF 호재에도 왜 힘 못 쓸까?",
+        "url": "https://www.coinreaders.com/189828",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:07.575450",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759233306_1",
+        "title": "셧다운 위기·FTX 상환·기관 매수…비트코인 업토버·연말 랠리 기대감",
+        "url": "https://www.coinreaders.com/189829",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:06.517850",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759233306_1",
+        "title": "셧다운 위기·FTX 상환·기관 매수…비트코인 업토버·연말 랠리 기대감",
+        "url": "https://www.coinreaders.com/189829",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:06.517850",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759233307_2",
+        "title": "도지코인·시바이누·페페, ETF 호재에도 왜 힘 못 쓸까?",
+        "url": "https://www.coinreaders.com/189828",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T20:55:07.575450",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "ETH",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759233305_0",
+      "title": "도지코인, ETF 호재·기술적 패턴 동반 청신호...투자자 시선 집중",
+      "url": "https://www.coinreaders.com/189833",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T20:55:05.667998",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759233307_2",
+      "title": "도지코인·시바이누·페페, ETF 호재에도 왜 힘 못 쓸까?",
+      "url": "https://www.coinreaders.com/189828",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T20:55:07.575450",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "ETH",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250930_2055.json"
+}

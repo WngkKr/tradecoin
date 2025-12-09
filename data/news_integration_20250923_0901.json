@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-23T09:01:15.592272",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758585258_1",
+        "title": "비트마인, 이더리움 보유량 240개...시장에 어떤 파장 불러올까",
+        "url": "https://www.coinreaders.com/188217",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T08:54:18.423756",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758585258_1",
+        "title": "비트마인, 이더리움 보유량 240개...시장에 어떤 파장 불러올까",
+        "url": "https://www.coinreaders.com/188217",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T08:54:18.423756",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758585258_1",
+        "title": "비트마인, 이더리움 보유량 240개...시장에 어떤 파장 불러올까",
+        "url": "https://www.coinreaders.com/188217",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T08:54:18.423756",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 2,
+  "source_file": "news/all_news_20250923_0901.json"
+}

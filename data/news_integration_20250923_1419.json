@@ -1,0 +1,165 @@
+{
+  "timestamp": "2025-09-23T14:19:40.894527",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758604773_0",
+        "title": "비트코인 급락에 흔들린 암호화폐 주식, 승자는 누구였나?",
+        "url": "https://www.coinreaders.com/188291",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T14:19:33.406546",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758604774_1",
+        "title": "주가 폭락 기업에서 10만 ETH 보유 강자로...ETHZilla의 변신",
+        "url": "https://www.coinreaders.com/188287",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T14:19:34.541168",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758604773_0",
+        "title": "비트코인 급락에 흔들린 암호화폐 주식, 승자는 누구였나?",
+        "url": "https://www.coinreaders.com/188291",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T14:19:33.406546",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758604774_1",
+        "title": "주가 폭락 기업에서 10만 ETH 보유 강자로...ETHZilla의 변신",
+        "url": "https://www.coinreaders.com/188287",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T14:19:34.541168",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758604773_0",
+        "title": "비트코인 급락에 흔들린 암호화폐 주식, 승자는 누구였나?",
+        "url": "https://www.coinreaders.com/188291",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T14:19:33.406546",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758604773_0",
+        "title": "비트코인 급락에 흔들린 암호화폐 주식, 승자는 누구였나?",
+        "url": "https://www.coinreaders.com/188291",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T14:19:33.406546",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758604773_0",
+        "title": "비트코인 급락에 흔들린 암호화폐 주식, 승자는 누구였나?",
+        "url": "https://www.coinreaders.com/188291",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T14:19:33.406546",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758604774_1",
+        "title": "주가 폭락 기업에서 10만 ETH 보유 강자로...ETHZilla의 변신",
+        "url": "https://www.coinreaders.com/188287",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T14:19:34.541168",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758604773_0",
+      "title": "비트코인 급락에 흔들린 암호화폐 주식, 승자는 누구였나?",
+      "url": "https://www.coinreaders.com/188291",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T14:19:33.406546",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250923_1419.json"
+}

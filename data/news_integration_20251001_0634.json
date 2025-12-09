@@ -1,0 +1,355 @@
+{
+  "timestamp": "2025-10-01T06:34:13.042638",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759268046_0",
+        "title": "이더리움, 5억 달러 유입에도 왜 저항선 돌파에 실패했을까?",
+        "url": "https://www.coinreaders.com/189914",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.058416",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759268047_2",
+        "title": "비트코인 횡보, 알트코인 약세…美 셧다운 우려 속 시장 관망세",
+        "url": "https://www.coinreaders.com/189912",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:07.766556",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759268046_0",
+        "title": "이더리움, 5억 달러 유입에도 왜 저항선 돌파에 실패했을까?",
+        "url": "https://www.coinreaders.com/189914",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.058416",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759268046_1",
+        "title": "도지코인·시바이누·페페 동반 하락…밈코인 시장에 무슨 일이?",
+        "url": "https://www.coinreaders.com/189913",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.975104",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759268047_2",
+        "title": "비트코인 횡보, 알트코인 약세…美 셧다운 우려 속 시장 관망세",
+        "url": "https://www.coinreaders.com/189912",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:07.766556",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759268046_0",
+        "title": "이더리움, 5억 달러 유입에도 왜 저항선 돌파에 실패했을까?",
+        "url": "https://www.coinreaders.com/189914",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.058416",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759268046_1",
+        "title": "도지코인·시바이누·페페 동반 하락…밈코인 시장에 무슨 일이?",
+        "url": "https://www.coinreaders.com/189913",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.975104",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759268047_2",
+        "title": "비트코인 횡보, 알트코인 약세…美 셧다운 우려 속 시장 관망세",
+        "url": "https://www.coinreaders.com/189912",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:07.766556",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759268046_1",
+        "title": "도지코인·시바이누·페페 동반 하락…밈코인 시장에 무슨 일이?",
+        "url": "https://www.coinreaders.com/189913",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.975104",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759268047_2",
+        "title": "비트코인 횡보, 알트코인 약세…美 셧다운 우려 속 시장 관망세",
+        "url": "https://www.coinreaders.com/189912",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:07.766556",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759268046_1",
+        "title": "도지코인·시바이누·페페 동반 하락…밈코인 시장에 무슨 일이?",
+        "url": "https://www.coinreaders.com/189913",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.975104",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759268047_2",
+        "title": "비트코인 횡보, 알트코인 약세…美 셧다운 우려 속 시장 관망세",
+        "url": "https://www.coinreaders.com/189912",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:07.766556",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759268046_1",
+        "title": "도지코인·시바이누·페페 동반 하락…밈코인 시장에 무슨 일이?",
+        "url": "https://www.coinreaders.com/189913",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.975104",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759268046_0",
+        "title": "이더리움, 5억 달러 유입에도 왜 저항선 돌파에 실패했을까?",
+        "url": "https://www.coinreaders.com/189914",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.058416",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759268046_1",
+        "title": "도지코인·시바이누·페페 동반 하락…밈코인 시장에 무슨 일이?",
+        "url": "https://www.coinreaders.com/189913",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.975104",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759268047_2",
+        "title": "비트코인 횡보, 알트코인 약세…美 셧다운 우려 속 시장 관망세",
+        "url": "https://www.coinreaders.com/189912",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:07.766556",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759268046_1",
+        "title": "도지코인·시바이누·페페 동반 하락…밈코인 시장에 무슨 일이?",
+        "url": "https://www.coinreaders.com/189913",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.975104",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "DOGE",
+          "SHIB",
+          "BTC",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759268046_0",
+        "title": "이더리움, 5억 달러 유입에도 왜 저항선 돌파에 실패했을까?",
+        "url": "https://www.coinreaders.com/189914",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:06.058416",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759268047_2",
+        "title": "비트코인 횡보, 알트코인 약세…美 셧다운 우려 속 시장 관망세",
+        "url": "https://www.coinreaders.com/189912",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:34:07.766556",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759268046_0",
+      "title": "이더리움, 5억 달러 유입에도 왜 저항선 돌파에 실패했을까?",
+      "url": "https://www.coinreaders.com/189914",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T06:34:06.058416",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20251001_0634.json"
+}

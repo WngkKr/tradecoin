@@ -1,0 +1,110 @@
+{
+  "timestamp": "2025-09-24T06:53:10.047710",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758664385_0",
+        "title": "\"트리플 바닥 완성\"...시바이누, 이제 부활하나",
+        "url": "https://www.coinreaders.com/188480",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T06:53:05.409497",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758664385_0",
+        "title": "\"트리플 바닥 완성\"...시바이누, 이제 부활하나",
+        "url": "https://www.coinreaders.com/188480",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T06:53:05.409497",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758664385_0",
+        "title": "\"트리플 바닥 완성\"...시바이누, 이제 부활하나",
+        "url": "https://www.coinreaders.com/188480",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T06:53:05.409497",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758664385_0",
+        "title": "\"트리플 바닥 완성\"...시바이누, 이제 부활하나",
+        "url": "https://www.coinreaders.com/188480",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T06:53:05.409497",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758664385_0",
+        "title": "\"트리플 바닥 완성\"...시바이누, 이제 부활하나",
+        "url": "https://www.coinreaders.com/188480",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T06:53:05.409497",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758664385_0",
+        "title": "\"트리플 바닥 완성\"...시바이누, 이제 부활하나",
+        "url": "https://www.coinreaders.com/188480",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T06:53:05.409497",
+        "risk_level": "LOW",
+        "related_coins": [
+          "SHIB",
+          "ETH",
+          "DOGE",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_0653.json"
+}

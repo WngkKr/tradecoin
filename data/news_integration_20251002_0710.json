@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-10-02T07:10:03.170495",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759356597_0",
+        "title": "이더리움, 4,500달러 돌파 향해 성큼...1만 달러도 현실로?",
+        "url": "https://www.coinreaders.com/190166",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:09:57.933417",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759356597_0",
+        "title": "이더리움, 4,500달러 돌파 향해 성큼...1만 달러도 현실로?",
+        "url": "https://www.coinreaders.com/190166",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:09:57.933417",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759356597_0",
+        "title": "이더리움, 4,500달러 돌파 향해 성큼...1만 달러도 현실로?",
+        "url": "https://www.coinreaders.com/190166",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:09:57.933417",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759356597_0",
+        "title": "이더리움, 4,500달러 돌파 향해 성큼...1만 달러도 현실로?",
+        "url": "https://www.coinreaders.com/190166",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:09:57.933417",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759356597_0",
+        "title": "이더리움, 4,500달러 돌파 향해 성큼...1만 달러도 현실로?",
+        "url": "https://www.coinreaders.com/190166",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:09:57.933417",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759356597_0",
+      "title": "이더리움, 4,500달러 돌파 향해 성큼...1만 달러도 현실로?",
+      "url": "https://www.coinreaders.com/190166",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T07:09:57.933417",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0710.json"
+}

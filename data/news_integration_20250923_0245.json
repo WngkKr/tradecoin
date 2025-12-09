@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-09-23T02:45:21.175506",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758563115_0",
+        "title": "파이 코인, 446만 개 거래소 이동·137만 개 언락...역대 최저가 붕괴",
+        "url": "https://www.coinreaders.com/188159",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T02:45:15.579016",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758563115_0",
+        "title": "파이 코인, 446만 개 거래소 이동·137만 개 언락...역대 최저가 붕괴",
+        "url": "https://www.coinreaders.com/188159",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T02:45:15.579016",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758563115_0",
+        "title": "파이 코인, 446만 개 거래소 이동·137만 개 언락...역대 최저가 붕괴",
+        "url": "https://www.coinreaders.com/188159",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T02:45:15.579016",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758563115_0",
+      "title": "파이 코인, 446만 개 거래소 이동·137만 개 언락...역대 최저가 붕괴",
+      "url": "https://www.coinreaders.com/188159",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T02:45:15.579016",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "SHIB"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_0245.json"
+}

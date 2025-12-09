@@ -1,0 +1,105 @@
+{
+  "timestamp": "2025-09-22T11:59:14.637177",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758508930_0",
+        "title": "비트코인, 2030년 100만 달러 현실화될 확률 얼마?",
+        "url": "https://www.coinreaders.com/187977",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T11:42:10.545732",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758508930_0",
+        "title": "비트코인, 2030년 100만 달러 현실화될 확률 얼마?",
+        "url": "https://www.coinreaders.com/187977",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T11:42:10.545732",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758508930_0",
+        "title": "비트코인, 2030년 100만 달러 현실화될 확률 얼마?",
+        "url": "https://www.coinreaders.com/187977",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T11:42:10.545732",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758508930_0",
+        "title": "비트코인, 2030년 100만 달러 현실화될 확률 얼마?",
+        "url": "https://www.coinreaders.com/187977",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T11:42:10.545732",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758508930_0",
+      "title": "비트코인, 2030년 100만 달러 현실화될 확률 얼마?",
+      "url": "https://www.coinreaders.com/187977",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T11:42:10.545732",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1142.json"
+}

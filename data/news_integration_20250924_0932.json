@@ -1,0 +1,153 @@
+{
+  "timestamp": "2025-09-24T09:32:51.054982",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758673965_0",
+        "title": "XRP, 4달러 전망 급부상...전문가 \"ETF 승인 시 수십억 달러 유입\"",
+        "url": "https://www.coinreaders.com/188512",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:32:45.200172",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758673966_1",
+        "title": "네트워크 활동 급감! 도지코인, 고래 매도 속 반등할 수 있을까",
+        "url": "https://www.coinreaders.com/188507",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:32:46.122245",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758673965_0",
+        "title": "XRP, 4달러 전망 급부상...전문가 \"ETF 승인 시 수십억 달러 유입\"",
+        "url": "https://www.coinreaders.com/188512",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:32:45.200172",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758673965_0",
+        "title": "XRP, 4달러 전망 급부상...전문가 \"ETF 승인 시 수십억 달러 유입\"",
+        "url": "https://www.coinreaders.com/188512",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:32:45.200172",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758673966_1",
+        "title": "네트워크 활동 급감! 도지코인, 고래 매도 속 반등할 수 있을까",
+        "url": "https://www.coinreaders.com/188507",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:32:46.122245",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758673966_1",
+        "title": "네트워크 활동 급감! 도지코인, 고래 매도 속 반등할 수 있을까",
+        "url": "https://www.coinreaders.com/188507",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:32:46.122245",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758673965_0",
+        "title": "XRP, 4달러 전망 급부상...전문가 \"ETF 승인 시 수십억 달러 유입\"",
+        "url": "https://www.coinreaders.com/188512",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:32:45.200172",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758673965_0",
+        "title": "XRP, 4달러 전망 급부상...전문가 \"ETF 승인 시 수십억 달러 유입\"",
+        "url": "https://www.coinreaders.com/188512",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:32:45.200172",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "SHIB",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758673965_0",
+      "title": "XRP, 4달러 전망 급부상...전문가 \"ETF 승인 시 수십억 달러 유입\"",
+      "url": "https://www.coinreaders.com/188512",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T09:32:45.200172",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "SHIB",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250924_0932.json"
+}

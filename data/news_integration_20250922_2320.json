@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-09-22T23:20:43.012207",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758550229_0",
+        "title": "채권왕 건들락 \"비트코인 투자 매력 없다\"",
+        "url": "https://www.coinreaders.com/188134",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T23:10:29.282908",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758550229_0",
+        "title": "채권왕 건들락 \"비트코인 투자 매력 없다\"",
+        "url": "https://www.coinreaders.com/188134",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T23:10:29.282908",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758550229_0",
+        "title": "채권왕 건들락 \"비트코인 투자 매력 없다\"",
+        "url": "https://www.coinreaders.com/188134",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T23:10:29.282908",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758550229_0",
+      "title": "채권왕 건들락 \"비트코인 투자 매력 없다\"",
+      "url": "https://www.coinreaders.com/188134",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T23:10:29.282908",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_2310.json"
+}

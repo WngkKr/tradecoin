@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-09-17T01:12:15.432375",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758038519_0",
+        "title": "XRP, ETF 승인만으로도 13달러...연말 현실적 목표는 '20~25달러'",
+        "url": "https://www.coinreaders.com/186887",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T01:01:59.338388",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758038519_0",
+        "title": "XRP, ETF 승인만으로도 13달러...연말 현실적 목표는 '20~25달러'",
+        "url": "https://www.coinreaders.com/186887",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T01:01:59.338388",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758038519_0",
+      "title": "XRP, ETF 승인만으로도 13달러...연말 현실적 목표는 '20~25달러'",
+      "url": "https://www.coinreaders.com/186887",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T01:01:59.338388",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_0102.json"
+}

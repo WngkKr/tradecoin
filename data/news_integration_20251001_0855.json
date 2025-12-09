@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-10-01T08:55:50.072419",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759276537_0",
+        "title": "블룸버그 애널리스트 \"블랙록, 비트코인 공급량 3.8% 차지...충격적인 일\"",
+        "url": "https://www.coinreaders.com/189947",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:55:37.709835",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759276544_2",
+        "title": "솔라나, 고래 매도에도 200달러 지지선 방어…기관 자금 유입이 균형 잡아",
+        "url": "https://www.coinreaders.com/189945",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:55:44.788619",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759276544_2",
+        "title": "솔라나, 고래 매도에도 200달러 지지선 방어…기관 자금 유입이 균형 잡아",
+        "url": "https://www.coinreaders.com/189945",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:55:44.788619",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759276537_0",
+        "title": "블룸버그 애널리스트 \"블랙록, 비트코인 공급량 3.8% 차지...충격적인 일\"",
+        "url": "https://www.coinreaders.com/189947",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:55:37.709835",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759276543_1",
+        "title": "또다시 숏 스퀴즈! 하지만 비트코인은 제자리걸음",
+        "url": "https://www.coinreaders.com/189946",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:55:43.505420",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759276544_2",
+        "title": "솔라나, 고래 매도에도 200달러 지지선 방어…기관 자금 유입이 균형 잡아",
+        "url": "https://www.coinreaders.com/189945",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:55:44.788619",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759276544_2",
+        "title": "솔라나, 고래 매도에도 200달러 지지선 방어…기관 자금 유입이 균형 잡아",
+        "url": "https://www.coinreaders.com/189945",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:55:44.788619",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759276544_2",
+      "title": "솔라나, 고래 매도에도 200달러 지지선 방어…기관 자금 유입이 균형 잡아",
+      "url": "https://www.coinreaders.com/189945",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T08:55:44.788619",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20251001_0855.json"
+}

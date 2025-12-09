@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-09-21T09:06:25.633184",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758413181_0",
+        "title": "\"세 배 이상 뛴다\"...시바이누, 비트코인 시총 10조 달러에 동반 상승할까?",
+        "url": "https://www.coinreaders.com/187851",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T09:06:21.067378",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758413181_0",
+        "title": "\"세 배 이상 뛴다\"...시바이누, 비트코인 시총 10조 달러에 동반 상승할까?",
+        "url": "https://www.coinreaders.com/187851",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T09:06:21.067378",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758413181_0",
+        "title": "\"세 배 이상 뛴다\"...시바이누, 비트코인 시총 10조 달러에 동반 상승할까?",
+        "url": "https://www.coinreaders.com/187851",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T09:06:21.067378",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758413181_0",
+      "title": "\"세 배 이상 뛴다\"...시바이누, 비트코인 시총 10조 달러에 동반 상승할까?",
+      "url": "https://www.coinreaders.com/187851",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T09:06:21.067378",
+      "related_coins": [
+        "BTC",
+        "SHIB",
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_0906.json"
+}

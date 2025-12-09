@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-10-01T20:53:31.998789",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759319606_0",
+        "title": "이더리움, 거래소 매도 물량 증발...5,000달러 돌파 가능할까",
+        "url": "https://www.coinreaders.com/190080",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T20:53:26.054608",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759319606_0",
+        "title": "이더리움, 거래소 매도 물량 증발...5,000달러 돌파 가능할까",
+        "url": "https://www.coinreaders.com/190080",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T20:53:26.054608",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759319606_0",
+        "title": "이더리움, 거래소 매도 물량 증발...5,000달러 돌파 가능할까",
+        "url": "https://www.coinreaders.com/190080",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T20:53:26.054608",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759319606_0",
+        "title": "이더리움, 거래소 매도 물량 증발...5,000달러 돌파 가능할까",
+        "url": "https://www.coinreaders.com/190080",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T20:53:26.054608",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759319606_0",
+      "title": "이더리움, 거래소 매도 물량 증발...5,000달러 돌파 가능할까",
+      "url": "https://www.coinreaders.com/190080",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T20:53:26.054608",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_2053.json"
+}

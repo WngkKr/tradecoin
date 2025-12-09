@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-09-17T12:54:22.273935",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758080646_0",
+        "title": "540% 급등 가능성? 시바이누 가격 전망이 달아오른다",
+        "url": "https://www.coinreaders.com/187012",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T12:44:06.918240",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758080646_0",
+        "title": "540% 급등 가능성? 시바이누 가격 전망이 달아오른다",
+        "url": "https://www.coinreaders.com/187012",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T12:44:06.918240",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758080646_0",
+        "title": "540% 급등 가능성? 시바이누 가격 전망이 달아오른다",
+        "url": "https://www.coinreaders.com/187012",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T12:44:06.918240",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1244.json"
+}

@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-09-20T04:24:51.669938",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758308672_0",
+        "title": "XRP, 연말에 10달러 돌파 가능할까?…가장 유력한 범위는 4.80~5.50달러",
+        "url": "https://www.coinreaders.com/187720",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T04:04:32.774553",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758308672_0",
+        "title": "XRP, 연말에 10달러 돌파 가능할까?…가장 유력한 범위는 4.80~5.50달러",
+        "url": "https://www.coinreaders.com/187720",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T04:04:32.774553",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758308672_0",
+        "title": "XRP, 연말에 10달러 돌파 가능할까?…가장 유력한 범위는 4.80~5.50달러",
+        "url": "https://www.coinreaders.com/187720",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T04:04:32.774553",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758308672_0",
+      "title": "XRP, 연말에 10달러 돌파 가능할까?…가장 유력한 범위는 4.80~5.50달러",
+      "url": "https://www.coinreaders.com/187720",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T04:04:32.774553",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0404.json"
+}

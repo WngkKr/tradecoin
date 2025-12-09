@@ -1,0 +1,308 @@
+{
+  "timestamp": "2025-09-19T20:21:08.949954",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758279647_0",
+        "title": "이더리움 푸사카, 블롭 두 배 확대...120억 달러 언스테이킹 위기까지?",
+        "url": "https://www.coinreaders.com/187658",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:47.216553",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758279648_1",
+        "title": "단 2주 만에 220배 수익...밈코인 없이도 가능한 비결은?",
+        "url": "https://www.coinreaders.com/187655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:48.293775",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758279649_2",
+        "title": "솔라나, 기업 재무부문 43억 달러 돌파...1,000달러 시대 열리나?",
+        "url": "https://www.coinreaders.com/187652",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:49.368891",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758279650_3",
+        "title": "비트코인·이더리움 45억 달러 옵션 만료...급락세 이어질까?",
+        "url": "https://www.coinreaders.com/187651",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:50.582732",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758279648_1",
+        "title": "단 2주 만에 220배 수익...밈코인 없이도 가능한 비결은?",
+        "url": "https://www.coinreaders.com/187655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:48.293775",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758279651_5",
+        "title": "카르다노(ADA), 0.9500달러 저항 돌파에 성공할까?",
+        "url": "https://www.coinreaders.com/187649",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:51.755785",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758279648_1",
+        "title": "단 2주 만에 220배 수익...밈코인 없이도 가능한 비결은?",
+        "url": "https://www.coinreaders.com/187655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:48.293775",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758279649_2",
+        "title": "솔라나, 기업 재무부문 43억 달러 돌파...1,000달러 시대 열리나?",
+        "url": "https://www.coinreaders.com/187652",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:49.368891",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758279650_3",
+        "title": "비트코인·이더리움 45억 달러 옵션 만료...급락세 이어질까?",
+        "url": "https://www.coinreaders.com/187651",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:50.582732",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758279647_0",
+        "title": "이더리움 푸사카, 블롭 두 배 확대...120억 달러 언스테이킹 위기까지?",
+        "url": "https://www.coinreaders.com/187658",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:47.216553",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758279650_3",
+        "title": "비트코인·이더리움 45억 달러 옵션 만료...급락세 이어질까?",
+        "url": "https://www.coinreaders.com/187651",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:50.582732",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758279647_0",
+        "title": "이더리움 푸사카, 블롭 두 배 확대...120억 달러 언스테이킹 위기까지?",
+        "url": "https://www.coinreaders.com/187658",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:47.216553",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "SHIB"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758279648_1",
+        "title": "단 2주 만에 220배 수익...밈코인 없이도 가능한 비결은?",
+        "url": "https://www.coinreaders.com/187655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:48.293775",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758279650_3",
+        "title": "비트코인·이더리움 45억 달러 옵션 만료...급락세 이어질까?",
+        "url": "https://www.coinreaders.com/187651",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:50.582732",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758279650_3",
+        "title": "비트코인·이더리움 45억 달러 옵션 만료...급락세 이어질까?",
+        "url": "https://www.coinreaders.com/187651",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T20:00:50.582732",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758279647_0",
+      "title": "이더리움 푸사카, 블롭 두 배 확대...120억 달러 언스테이킹 위기까지?",
+      "url": "https://www.coinreaders.com/187658",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T20:00:47.216553",
+      "related_coins": [
+        "ETH",
+        "SHIB"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758279649_2",
+      "title": "솔라나, 기업 재무부문 43억 달러 돌파...1,000달러 시대 열리나?",
+      "url": "https://www.coinreaders.com/187652",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T20:00:49.368891",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758279650_3",
+      "title": "비트코인·이더리움 45억 달러 옵션 만료...급락세 이어질까?",
+      "url": "https://www.coinreaders.com/187651",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T20:00:50.582732",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758279651_5",
+      "title": "카르다노(ADA), 0.9500달러 저항 돌파에 성공할까?",
+      "url": "https://www.coinreaders.com/187649",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T20:00:51.755785",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250919_2000.json"
+}

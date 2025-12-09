@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-20T22:00:05.424413",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758371831_1",
+        "title": "크립토퀀트 대표 \"비트코인 상단 20만 8,000달러\"...강세론 재점화",
+        "url": "https://www.coinreaders.com/187813",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T21:37:11.874848",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758371831_1",
+      "title": "크립토퀀트 대표 \"비트코인 상단 20만 8,000달러\"...강세론 재점화",
+      "url": "https://www.coinreaders.com/187813",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T21:37:11.874848",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250920_2137.json"
+}

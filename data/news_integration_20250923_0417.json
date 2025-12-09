@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-23T04:17:55.241393",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758568671_0",
+        "title": "희소성과 디지털화가 만든 기회...비트코인, 향후 10배 수익 가능할까",
+        "url": "https://www.coinreaders.com/188168",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T04:17:51.071115",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_0417.json"
+}

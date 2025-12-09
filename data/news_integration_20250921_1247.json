@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-09-21T12:47:49.418925",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758425435_0",
+        "title": "이더리움, 4,200달러 지지선 시험대…향후 방향 결정될까",
+        "url": "https://www.coinreaders.com/187865",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T12:30:35.949685",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758425435_0",
+        "title": "이더리움, 4,200달러 지지선 시험대…향후 방향 결정될까",
+        "url": "https://www.coinreaders.com/187865",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T12:30:35.949685",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758425435_0",
+        "title": "이더리움, 4,200달러 지지선 시험대…향후 방향 결정될까",
+        "url": "https://www.coinreaders.com/187865",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T12:30:35.949685",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758425435_0",
+        "title": "이더리움, 4,200달러 지지선 시험대…향후 방향 결정될까",
+        "url": "https://www.coinreaders.com/187865",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T12:30:35.949685",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758425435_0",
+      "title": "이더리움, 4,200달러 지지선 시험대…향후 방향 결정될까",
+      "url": "https://www.coinreaders.com/187865",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T12:30:35.949685",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_1230.json"
+}

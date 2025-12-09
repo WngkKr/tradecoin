@@ -1,0 +1,97 @@
+{
+  "timestamp": "2025-09-30T04:03:10.265378",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759172584_0",
+        "title": "팀 쿡은 비트코인·이더리움 보유, 그런데 애플은 왜 외면하나?",
+        "url": "https://www.coinreaders.com/189646",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:03:04.260250",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Elon Musk"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759172584_0",
+        "title": "팀 쿡은 비트코인·이더리움 보유, 그런데 애플은 왜 외면하나?",
+        "url": "https://www.coinreaders.com/189646",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:03:04.260250",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Elon Musk"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759172584_0",
+        "title": "팀 쿡은 비트코인·이더리움 보유, 그런데 애플은 왜 외면하나?",
+        "url": "https://www.coinreaders.com/189646",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:03:04.260250",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Elon Musk"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Elon Musk": [
+      {
+        "id": "coinreaders_1759172584_0",
+        "title": "팀 쿡은 비트코인·이더리움 보유, 그런데 애플은 왜 외면하나?",
+        "url": "https://www.coinreaders.com/189646",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:03:04.260250",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759172584_0",
+        "title": "팀 쿡은 비트코인·이더리움 보유, 그런데 애플은 왜 외면하나?",
+        "url": "https://www.coinreaders.com/189646",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:03:04.260250",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0403.json"
+}

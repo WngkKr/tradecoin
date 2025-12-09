@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-09-30T07:35:30.291201",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759185323_0",
+        "title": "알트코인 시즌, ETF 승인으로 진짜 불붙을까",
+        "url": "https://www.coinreaders.com/189671",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T07:35:23.985503",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759185323_0",
+        "title": "알트코인 시즌, ETF 승인으로 진짜 불붙을까",
+        "url": "https://www.coinreaders.com/189671",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T07:35:23.985503",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759185323_0",
+        "title": "알트코인 시즌, ETF 승인으로 진짜 불붙을까",
+        "url": "https://www.coinreaders.com/189671",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T07:35:23.985503",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759185323_0",
+        "title": "알트코인 시즌, ETF 승인으로 진짜 불붙을까",
+        "url": "https://www.coinreaders.com/189671",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T07:35:23.985503",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759185323_0",
+        "title": "알트코인 시즌, ETF 승인으로 진짜 불붙을까",
+        "url": "https://www.coinreaders.com/189671",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T07:35:23.985503",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759185323_0",
+        "title": "알트코인 시즌, ETF 승인으로 진짜 불붙을까",
+        "url": "https://www.coinreaders.com/189671",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T07:35:23.985503",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759185323_0",
+      "title": "알트코인 시즌, ETF 승인으로 진짜 불붙을까",
+      "url": "https://www.coinreaders.com/189671",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T07:35:23.985503",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0735.json"
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-09-23T23:55:41.694025",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758639336_0",
+        "title": "시바이누, 1,160억 개 청산...이제 어디로 향하나",
+        "url": "https://www.coinreaders.com/188421",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T23:55:36.433861",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758639336_0",
+        "title": "시바이누, 1,160억 개 청산...이제 어디로 향하나",
+        "url": "https://www.coinreaders.com/188421",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T23:55:36.433861",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_2355.json"
+}

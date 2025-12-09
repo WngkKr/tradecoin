@@ -1,0 +1,301 @@
+{
+  "timestamp": "2025-09-18T21:02:21.750492",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758196329_0",
+        "title": "기요사키 \"가짜 돈 가르치는 건 범죄\"...비트코인 해답 될까",
+        "url": "https://www.coinreaders.com/187414",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:09.312104",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758196330_1",
+        "title": "XRP, ETF 효과로 3.50달러까지 뚫을 수 있을까?",
+        "url": "https://www.coinreaders.com/187413",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.030078",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758196330_2",
+        "title": "드디어 월가 상륙! 도지코인 ETF 상장에 시장이 술렁인다",
+        "url": "https://www.coinreaders.com/187412",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.839207",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758196330_2",
+        "title": "드디어 월가 상륙! 도지코인 ETF 상장에 시장이 술렁인다",
+        "url": "https://www.coinreaders.com/187412",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.839207",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758196329_0",
+        "title": "기요사키 \"가짜 돈 가르치는 건 범죄\"...비트코인 해답 될까",
+        "url": "https://www.coinreaders.com/187414",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:09.312104",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758196330_1",
+        "title": "XRP, ETF 효과로 3.50달러까지 뚫을 수 있을까?",
+        "url": "https://www.coinreaders.com/187413",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.030078",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758196330_2",
+        "title": "드디어 월가 상륙! 도지코인 ETF 상장에 시장이 술렁인다",
+        "url": "https://www.coinreaders.com/187412",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.839207",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758196330_2",
+        "title": "드디어 월가 상륙! 도지코인 ETF 상장에 시장이 술렁인다",
+        "url": "https://www.coinreaders.com/187412",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.839207",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758196330_2",
+        "title": "드디어 월가 상륙! 도지코인 ETF 상장에 시장이 술렁인다",
+        "url": "https://www.coinreaders.com/187412",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.839207",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758196329_0",
+        "title": "기요사키 \"가짜 돈 가르치는 건 범죄\"...비트코인 해답 될까",
+        "url": "https://www.coinreaders.com/187414",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:09.312104",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758196330_1",
+        "title": "XRP, ETF 효과로 3.50달러까지 뚫을 수 있을까?",
+        "url": "https://www.coinreaders.com/187413",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.030078",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758196330_2",
+        "title": "드디어 월가 상륙! 도지코인 ETF 상장에 시장이 술렁인다",
+        "url": "https://www.coinreaders.com/187412",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.839207",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758196329_0",
+        "title": "기요사키 \"가짜 돈 가르치는 건 범죄\"...비트코인 해답 될까",
+        "url": "https://www.coinreaders.com/187414",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:09.312104",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "MAGA",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758196330_1",
+        "title": "XRP, ETF 효과로 3.50달러까지 뚫을 수 있을까?",
+        "url": "https://www.coinreaders.com/187413",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.030078",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758196330_2",
+        "title": "드디어 월가 상륙! 도지코인 ETF 상장에 시장이 술렁인다",
+        "url": "https://www.coinreaders.com/187412",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:52:10.839207",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758196330_1",
+      "title": "XRP, ETF 효과로 3.50달러까지 뚫을 수 있을까?",
+      "url": "https://www.coinreaders.com/187413",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T20:52:10.030078",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758196330_2",
+      "title": "드디어 월가 상륙! 도지코인 ETF 상장에 시장이 술렁인다",
+      "url": "https://www.coinreaders.com/187412",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T20:52:10.839207",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250918_2052.json"
+}

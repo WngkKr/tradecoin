@@ -1,0 +1,80 @@
+{
+  "timestamp": "2025-10-01T00:50:48.956247",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759246839_1",
+        "title": "67% 하락한 밈코인 페페, 다시 사상 최고가로 돌아갈 수 있을까?",
+        "url": "https://www.coinreaders.com/189868",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:40:39.419438",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759246839_1",
+        "title": "67% 하락한 밈코인 페페, 다시 사상 최고가로 돌아갈 수 있을까?",
+        "url": "https://www.coinreaders.com/189868",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:40:39.419438",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759246839_1",
+        "title": "67% 하락한 밈코인 페페, 다시 사상 최고가로 돌아갈 수 있을까?",
+        "url": "https://www.coinreaders.com/189868",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:40:39.419438",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759246839_1",
+        "title": "67% 하락한 밈코인 페페, 다시 사상 최고가로 돌아갈 수 있을까?",
+        "url": "https://www.coinreaders.com/189868",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:40:39.419438",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "SHIB"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 2,
+  "source_file": "news/all_news_20251001_0040.json"
+}

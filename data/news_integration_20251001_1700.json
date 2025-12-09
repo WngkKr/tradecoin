@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-10-01T17:00:59.465168",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759305048_0",
+        "title": "\"강세 모멘텀 살아났다\"...비트코인·이더리움·XRP, 연말 랠리 시동",
+        "url": "https://www.coinreaders.com/190035",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:50:48.345846",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759305048_0",
+        "title": "\"강세 모멘텀 살아났다\"...비트코인·이더리움·XRP, 연말 랠리 시동",
+        "url": "https://www.coinreaders.com/190035",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:50:48.345846",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759305048_0",
+        "title": "\"강세 모멘텀 살아났다\"...비트코인·이더리움·XRP, 연말 랠리 시동",
+        "url": "https://www.coinreaders.com/190035",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:50:48.345846",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759305048_0",
+        "title": "\"강세 모멘텀 살아났다\"...비트코인·이더리움·XRP, 연말 랠리 시동",
+        "url": "https://www.coinreaders.com/190035",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:50:48.345846",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1650.json"
+}

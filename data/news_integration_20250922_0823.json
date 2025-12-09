@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-22T08:23:36.477681",
+  "by_coin": {},
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758496401_0",
+      "title": "200달러×15년 투자...XRP, 86달러 시 100만 달러 달성",
+      "url": "https://www.coinreaders.com/187938",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T08:13:21.805397",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_0813.json"
+}

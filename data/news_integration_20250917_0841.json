@@ -1,0 +1,187 @@
+{
+  "timestamp": "2025-09-17T08:41:29.005267",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758066081_2",
+        "title": "이더리움, 7번째 도전...이번엔 5,000달러 뚫을까",
+        "url": "https://www.coinreaders.com/186946",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T08:41:21.672120",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758066080_0",
+        "title": "FOMC 금리 인하 100% 확정...비트코인 급등 카운트다운",
+        "url": "https://www.coinreaders.com/186950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T08:41:20.022930",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758066080_1",
+        "title": "20억 달러 ETF 유입에도...비트코인 11만 8,000달러 돌파 실패",
+        "url": "https://www.coinreaders.com/186948",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T08:41:20.852086",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758066080_0",
+        "title": "FOMC 금리 인하 100% 확정...비트코인 급등 카운트다운",
+        "url": "https://www.coinreaders.com/186950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T08:41:20.022930",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758066080_0",
+        "title": "FOMC 금리 인하 100% 확정...비트코인 급등 카운트다운",
+        "url": "https://www.coinreaders.com/186950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T08:41:20.022930",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758066080_1",
+        "title": "20억 달러 ETF 유입에도...비트코인 11만 8,000달러 돌파 실패",
+        "url": "https://www.coinreaders.com/186948",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T08:41:20.852086",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758066080_0",
+        "title": "FOMC 금리 인하 100% 확정...비트코인 급등 카운트다운",
+        "url": "https://www.coinreaders.com/186950",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T08:41:20.022930",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758066081_2",
+        "title": "이더리움, 7번째 도전...이번엔 5,000달러 뚫을까",
+        "url": "https://www.coinreaders.com/186946",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T08:41:21.672120",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758066080_0",
+      "title": "FOMC 금리 인하 100% 확정...비트코인 급등 카운트다운",
+      "url": "https://www.coinreaders.com/186950",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T08:41:20.022930",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758066080_1",
+      "title": "20억 달러 ETF 유입에도...비트코인 11만 8,000달러 돌파 실패",
+      "url": "https://www.coinreaders.com/186948",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T08:41:20.852086",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758066081_2",
+      "title": "이더리움, 7번째 도전...이번엔 5,000달러 뚫을까",
+      "url": "https://www.coinreaders.com/186946",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T08:41:21.672120",
+      "related_coins": [
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250917_0841.json"
+}

@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-10-03T14:19:26.715685",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759468156_0",
+        "title": "벤자민 코웬 \"비트코인, 8월 고점·9월 고점 후 4분기 강세 올해도 반복\"",
+        "url": "https://www.coinreaders.com/190433",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T14:09:16.317617",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1409.json"
+}

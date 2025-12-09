@@ -1,0 +1,65 @@
+{
+  "timestamp": "2025-10-01T07:55:06.769236",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759272901_0",
+        "title": "트레이더들 \"비트코인, 8주 지연 뒤 금의 길 그대로 간다\"",
+        "url": "https://www.coinreaders.com/189938",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:55:01.543391",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759272901_0",
+        "title": "트레이더들 \"비트코인, 8주 지연 뒤 금의 길 그대로 간다\"",
+        "url": "https://www.coinreaders.com/189938",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:55:01.543391",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759272901_0",
+        "title": "트레이더들 \"비트코인, 8주 지연 뒤 금의 길 그대로 간다\"",
+        "url": "https://www.coinreaders.com/189938",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:55:01.543391",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759272901_0",
+        "title": "트레이더들 \"비트코인, 8주 지연 뒤 금의 길 그대로 간다\"",
+        "url": "https://www.coinreaders.com/189938",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:55:01.543391",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0755.json"
+}

@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-09-18T23:33:46.874492",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758205415_0",
+        "title": "파이 코인, 0.36달러에서 1.23달러 폭등? 토큰 언락 앞두고 긴장 고조",
+        "url": "https://www.coinreaders.com/187443",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T23:23:35.763009",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758205415_0",
+        "title": "파이 코인, 0.36달러에서 1.23달러 폭등? 토큰 언락 앞두고 긴장 고조",
+        "url": "https://www.coinreaders.com/187443",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T23:23:35.763009",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758205415_0",
+        "title": "파이 코인, 0.36달러에서 1.23달러 폭등? 토큰 언락 앞두고 긴장 고조",
+        "url": "https://www.coinreaders.com/187443",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T23:23:35.763009",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758205416_1",
+        "title": "월가가 주목하는 XRP, 기관 협력에 힘입어 연내 최고가 경신 가능성",
+        "url": "https://www.coinreaders.com/187440",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T23:23:36.674557",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758205415_0",
+        "title": "파이 코인, 0.36달러에서 1.23달러 폭등? 토큰 언락 앞두고 긴장 고조",
+        "url": "https://www.coinreaders.com/187443",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T23:23:35.763009",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758205415_0",
+      "title": "파이 코인, 0.36달러에서 1.23달러 폭등? 토큰 언락 앞두고 긴장 고조",
+      "url": "https://www.coinreaders.com/187443",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T23:23:35.763009",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250918_2323.json"
+}

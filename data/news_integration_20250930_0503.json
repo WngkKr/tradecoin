@@ -1,0 +1,97 @@
+{
+  "timestamp": "2025-09-30T05:03:46.165933",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759176220_0",
+        "title": "카르다노, 2033년 21달러까지?...\"시총 20%만 돼도 가능\"",
+        "url": "https://www.coinreaders.com/189650",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T05:03:40.023403",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759176220_0",
+        "title": "카르다노, 2033년 21달러까지?...\"시총 20%만 돼도 가능\"",
+        "url": "https://www.coinreaders.com/189650",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T05:03:40.023403",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Elon Musk": [
+      {
+        "id": "coinreaders_1759176220_0",
+        "title": "카르다노, 2033년 21달러까지?...\"시총 20%만 돼도 가능\"",
+        "url": "https://www.coinreaders.com/189650",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T05:03:40.023403",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759176220_0",
+        "title": "카르다노, 2033년 21달러까지?...\"시총 20%만 돼도 가능\"",
+        "url": "https://www.coinreaders.com/189650",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T05:03:40.023403",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759176220_0",
+      "title": "카르다노, 2033년 21달러까지?...\"시총 20%만 돼도 가능\"",
+      "url": "https://www.coinreaders.com/189650",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T05:03:40.023403",
+      "related_coins": [
+        "ETH",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Elon Musk",
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0503.json"
+}

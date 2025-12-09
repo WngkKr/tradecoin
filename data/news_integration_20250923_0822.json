@@ -1,0 +1,121 @@
+{
+  "timestamp": "2025-09-23T08:22:21.876222",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758583335_0",
+        "title": "비트코인·이더리움·XRP 동반 급락, 어디까지 밀릴까",
+        "url": "https://www.coinreaders.com/188216",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T08:22:15.041845",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758583335_0",
+        "title": "비트코인·이더리움·XRP 동반 급락, 어디까지 밀릴까",
+        "url": "https://www.coinreaders.com/188216",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T08:22:15.041845",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758583335_1",
+        "title": "XRP, 2.63달러 지지선도 붕괴 위험...분석가 \"단기 하락 후 27달러까지\"",
+        "url": "https://www.coinreaders.com/188214",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T08:22:15.806561",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758583335_0",
+        "title": "비트코인·이더리움·XRP 동반 급락, 어디까지 밀릴까",
+        "url": "https://www.coinreaders.com/188216",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T08:22:15.041845",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758583335_0",
+        "title": "비트코인·이더리움·XRP 동반 급락, 어디까지 밀릴까",
+        "url": "https://www.coinreaders.com/188216",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T08:22:15.041845",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758583335_0",
+      "title": "비트코인·이더리움·XRP 동반 급락, 어디까지 밀릴까",
+      "url": "https://www.coinreaders.com/188216",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T08:22:15.041845",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758583335_1",
+      "title": "XRP, 2.63달러 지지선도 붕괴 위험...분석가 \"단기 하락 후 27달러까지\"",
+      "url": "https://www.coinreaders.com/188214",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T08:22:15.806561",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250923_0822.json"
+}

@@ -1,0 +1,153 @@
+{
+  "timestamp": "2025-09-22T10:52:07.485314",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758505922_0",
+        "title": "이더리움, 21주선만 찍으면 5,000달러로?",
+        "url": "https://www.coinreaders.com/187970",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:52:02.732580",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758505923_1",
+        "title": "베트남 은행 계좌 8,600만 개 삭제…비트코인이 해답일까?",
+        "url": "https://www.coinreaders.com/187968",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:52:03.626842",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758505922_0",
+        "title": "이더리움, 21주선만 찍으면 5,000달러로?",
+        "url": "https://www.coinreaders.com/187970",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:52:02.732580",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758505923_1",
+        "title": "베트남 은행 계좌 8,600만 개 삭제…비트코인이 해답일까?",
+        "url": "https://www.coinreaders.com/187968",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:52:03.626842",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758505923_1",
+        "title": "베트남 은행 계좌 8,600만 개 삭제…비트코인이 해답일까?",
+        "url": "https://www.coinreaders.com/187968",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:52:03.626842",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758505923_1",
+        "title": "베트남 은행 계좌 8,600만 개 삭제…비트코인이 해답일까?",
+        "url": "https://www.coinreaders.com/187968",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:52:03.626842",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758505923_1",
+        "title": "베트남 은행 계좌 8,600만 개 삭제…비트코인이 해답일까?",
+        "url": "https://www.coinreaders.com/187968",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:52:03.626842",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758505922_0",
+        "title": "이더리움, 21주선만 찍으면 5,000달러로?",
+        "url": "https://www.coinreaders.com/187970",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T10:52:02.732580",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758505922_0",
+      "title": "이더리움, 21주선만 찍으면 5,000달러로?",
+      "url": "https://www.coinreaders.com/187970",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T10:52:02.732580",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250922_1052.json"
+}

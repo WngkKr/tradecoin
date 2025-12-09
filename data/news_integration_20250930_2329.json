@@ -1,0 +1,246 @@
+{
+  "timestamp": "2025-09-30T23:29:57.066113",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759242588_4",
+        "title": "이더리움, 고래들 1,520만 달러 대거 인출...폭등 사이클 재현되나",
+        "url": "https://www.coinreaders.com/189852",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:48.759435",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759242589_5",
+        "title": "기관 11억 달러 상품 운용·ETF 승인 확률 99%...'솔라나' 광풍 임박",
+        "url": "https://www.coinreaders.com/189849",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:49.687079",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759242587_2",
+        "title": "도지코인 0.17달러 vs 0.41달러, 10월 향방 가를 핵심 수치",
+        "url": "https://www.coinreaders.com/189855",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:47.083531",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759242587_3",
+        "title": "비트코인, 30% 상승 전망 터졌다...이번 반등이 15만 6,000달러 랠리 시작?",
+        "url": "https://www.coinreaders.com/189854",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:47.871430",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759242588_4",
+        "title": "이더리움, 고래들 1,520만 달러 대거 인출...폭등 사이클 재현되나",
+        "url": "https://www.coinreaders.com/189852",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:48.759435",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759242589_5",
+        "title": "기관 11억 달러 상품 운용·ETF 승인 확률 99%...'솔라나' 광풍 임박",
+        "url": "https://www.coinreaders.com/189849",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:49.687079",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759242587_2",
+        "title": "도지코인 0.17달러 vs 0.41달러, 10월 향방 가를 핵심 수치",
+        "url": "https://www.coinreaders.com/189855",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:47.083531",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759242587_2",
+        "title": "도지코인 0.17달러 vs 0.41달러, 10월 향방 가를 핵심 수치",
+        "url": "https://www.coinreaders.com/189855",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:47.083531",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759242589_5",
+        "title": "기관 11억 달러 상품 운용·ETF 승인 확률 99%...'솔라나' 광풍 임박",
+        "url": "https://www.coinreaders.com/189849",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:49.687079",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759242588_4",
+        "title": "이더리움, 고래들 1,520만 달러 대거 인출...폭등 사이클 재현되나",
+        "url": "https://www.coinreaders.com/189852",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:48.759435",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759242589_5",
+        "title": "기관 11억 달러 상품 운용·ETF 승인 확률 99%...'솔라나' 광풍 임박",
+        "url": "https://www.coinreaders.com/189849",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T23:29:49.687079",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759242587_2",
+      "title": "도지코인 0.17달러 vs 0.41달러, 10월 향방 가를 핵심 수치",
+      "url": "https://www.coinreaders.com/189855",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T23:29:47.083531",
+      "related_coins": [
+        "DOGE",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759242587_3",
+      "title": "비트코인, 30% 상승 전망 터졌다...이번 반등이 15만 6,000달러 랠리 시작?",
+      "url": "https://www.coinreaders.com/189854",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T23:29:47.871430",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759242588_4",
+      "title": "이더리움, 고래들 1,520만 달러 대거 인출...폭등 사이클 재현되나",
+      "url": "https://www.coinreaders.com/189852",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T23:29:48.759435",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759242589_5",
+      "title": "기관 11억 달러 상품 운용·ETF 승인 확률 99%...'솔라나' 광풍 임박",
+      "url": "https://www.coinreaders.com/189849",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T23:29:49.687079",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250930_2329.json"
+}

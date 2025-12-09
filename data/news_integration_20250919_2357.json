@@ -1,0 +1,120 @@
+{
+  "timestamp": "2025-09-19T23:57:11.744923",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758293826_0",
+        "title": "ETF 상장·고래 매집…도지코인, 또다시 포물선형 랠리에 진입할까?",
+        "url": "https://www.coinreaders.com/187697",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T23:57:06.239942",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758293826_0",
+        "title": "ETF 상장·고래 매집…도지코인, 또다시 포물선형 랠리에 진입할까?",
+        "url": "https://www.coinreaders.com/187697",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T23:57:06.239942",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758293826_0",
+        "title": "ETF 상장·고래 매집…도지코인, 또다시 포물선형 랠리에 진입할까?",
+        "url": "https://www.coinreaders.com/187697",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T23:57:06.239942",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758293826_0",
+        "title": "ETF 상장·고래 매집…도지코인, 또다시 포물선형 랠리에 진입할까?",
+        "url": "https://www.coinreaders.com/187697",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T23:57:06.239942",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758293826_0",
+        "title": "ETF 상장·고래 매집…도지코인, 또다시 포물선형 랠리에 진입할까?",
+        "url": "https://www.coinreaders.com/187697",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T23:57:06.239942",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758293826_0",
+        "title": "ETF 상장·고래 매집…도지코인, 또다시 포물선형 랠리에 진입할까?",
+        "url": "https://www.coinreaders.com/187697",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T23:57:06.239942",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758293826_0",
+      "title": "ETF 상장·고래 매집…도지코인, 또다시 포물선형 랠리에 진입할까?",
+      "url": "https://www.coinreaders.com/187697",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T23:57:06.239942",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_2357.json"
+}

@@ -1,0 +1,16 @@
+{
+  "username": "elonmusk",
+  "timestamp": "2025-12-02T11:25:00Z",
+  "tweets": [
+    {
+      "text": "Dogecoin to the moon! This is the future of currency. Much wow, such currency!",
+      "created_at": "2025-12-02T11:20:00Z",
+      "url": "https://twitter.com/elonmusk/status/test123",
+      "engagement": {
+        "likes": 125000,
+        "retweets": 45000,
+        "replies": 8500
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-30T01:21:40.513720",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759162895_0",
+        "title": "유명 애널리스트, 이더리움 3만 3,000달러·XRP 33달러 동시 전망",
+        "url": "https://www.coinreaders.com/189629",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T01:21:35.292989",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759162895_0",
+        "title": "유명 애널리스트, 이더리움 3만 3,000달러·XRP 33달러 동시 전망",
+        "url": "https://www.coinreaders.com/189629",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T01:21:35.292989",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759162895_0",
+      "title": "유명 애널리스트, 이더리움 3만 3,000달러·XRP 33달러 동시 전망",
+      "url": "https://www.coinreaders.com/189629",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T01:21:35.292989",
+      "related_coins": [
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0121.json"
+}

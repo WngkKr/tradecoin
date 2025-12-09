@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-10-01T05:23:29.809077",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759263805_0",
+        "title": "도지코인  고래들, 코인베이스서 코인 대이동...ETF 승인 러시 오나?",
+        "url": "https://www.coinreaders.com/189904",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T05:23:25.471738",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759263805_0",
+        "title": "도지코인  고래들, 코인베이스서 코인 대이동...ETF 승인 러시 오나?",
+        "url": "https://www.coinreaders.com/189904",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T05:23:25.471738",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759263805_0",
+        "title": "도지코인  고래들, 코인베이스서 코인 대이동...ETF 승인 러시 오나?",
+        "url": "https://www.coinreaders.com/189904",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T05:23:25.471738",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759263805_0",
+        "title": "도지코인  고래들, 코인베이스서 코인 대이동...ETF 승인 러시 오나?",
+        "url": "https://www.coinreaders.com/189904",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T05:23:25.471738",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759263805_0",
+        "title": "도지코인  고래들, 코인베이스서 코인 대이동...ETF 승인 러시 오나?",
+        "url": "https://www.coinreaders.com/189904",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T05:23:25.471738",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759263805_0",
+        "title": "도지코인  고래들, 코인베이스서 코인 대이동...ETF 승인 러시 오나?",
+        "url": "https://www.coinreaders.com/189904",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T05:23:25.471738",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759263805_0",
+      "title": "도지코인  고래들, 코인베이스서 코인 대이동...ETF 승인 러시 오나?",
+      "url": "https://www.coinreaders.com/189904",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T05:23:25.471738",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0523.json"
+}

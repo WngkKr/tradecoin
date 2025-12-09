@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-10-01T18:52:14.350773",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759312328_0",
+        "title": "전문가 \"도지코인 ETF, 연내 승인되면 0.26달러 회복 가능\"",
+        "url": "https://www.coinreaders.com/190063",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:52:08.982758",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759312328_0",
+        "title": "전문가 \"도지코인 ETF, 연내 승인되면 0.26달러 회복 가능\"",
+        "url": "https://www.coinreaders.com/190063",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:52:08.982758",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759312328_0",
+        "title": "전문가 \"도지코인 ETF, 연내 승인되면 0.26달러 회복 가능\"",
+        "url": "https://www.coinreaders.com/190063",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:52:08.982758",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759312328_0",
+        "title": "전문가 \"도지코인 ETF, 연내 승인되면 0.26달러 회복 가능\"",
+        "url": "https://www.coinreaders.com/190063",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:52:08.982758",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759312328_0",
+        "title": "전문가 \"도지코인 ETF, 연내 승인되면 0.26달러 회복 가능\"",
+        "url": "https://www.coinreaders.com/190063",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:52:08.982758",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759312328_0",
+        "title": "전문가 \"도지코인 ETF, 연내 승인되면 0.26달러 회복 가능\"",
+        "url": "https://www.coinreaders.com/190063",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:52:08.982758",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759312328_0",
+      "title": "전문가 \"도지코인 ETF, 연내 승인되면 0.26달러 회복 가능\"",
+      "url": "https://www.coinreaders.com/190063",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T18:52:08.982758",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1852.json"
+}

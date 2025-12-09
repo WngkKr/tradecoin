@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-09-17T19:55:38.904512",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758106530_0",
+        "title": "연준 ‘세 번째 책무’ 검토 중...달러 악재, 비트코인 호재",
+        "url": "https://www.coinreaders.com/187115",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:55:30.874527",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758106530_0",
+        "title": "연준 ‘세 번째 책무’ 검토 중...달러 악재, 비트코인 호재",
+        "url": "https://www.coinreaders.com/187115",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:55:30.874527",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758106530_0",
+        "title": "연준 ‘세 번째 책무’ 검토 중...달러 악재, 비트코인 호재",
+        "url": "https://www.coinreaders.com/187115",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:55:30.874527",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758106530_0",
+        "title": "연준 ‘세 번째 책무’ 검토 중...달러 악재, 비트코인 호재",
+        "url": "https://www.coinreaders.com/187115",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:55:30.874527",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758106530_0",
+        "title": "연준 ‘세 번째 책무’ 검토 중...달러 악재, 비트코인 호재",
+        "url": "https://www.coinreaders.com/187115",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:55:30.874527",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758106530_0",
+      "title": "연준 ‘세 번째 책무’ 검토 중...달러 악재, 비트코인 호재",
+      "url": "https://www.coinreaders.com/187115",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T19:55:30.874527",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1955.json"
+}

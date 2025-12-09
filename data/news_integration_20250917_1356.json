@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-17T13:56:37.389397",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758084991_0",
+        "title": "이더리움, 3개월 80% 올랐지만...\"레버리지 열기 식었다\"",
+        "url": "https://www.coinreaders.com/187028",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:56:31.499870",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758084991_0",
+        "title": "이더리움, 3개월 80% 올랐지만...\"레버리지 열기 식었다\"",
+        "url": "https://www.coinreaders.com/187028",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:56:31.499870",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758084991_0",
+        "title": "이더리움, 3개월 80% 올랐지만...\"레버리지 열기 식었다\"",
+        "url": "https://www.coinreaders.com/187028",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:56:31.499870",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1356.json"
+}

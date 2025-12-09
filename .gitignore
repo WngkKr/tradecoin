@@ -1,0 +1,84 @@
+# 개발자 전용 키 파일 (절대 커밋 금지)
+.env.developer
+.env.local
+
+# API 키 백업 파일들
+*.key
+*.secret
+*_keys.txt
+
+# 로그 파일들
+*.log
+logs/
+news/*.log
+tweets/*.log
+
+# 데이터베이스 파일들
+*.db
+*.sqlite
+*.sqlite3
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 백업 파일
+*.bak
+*.backup
+*.tmp
+
+# 개발 임시 파일
+temp/
+tmp/
+test_data/# 비디오 파일 제외
+*.mp4
+*.MP4
+*.mov
+*.MOV
+
+# Python 가상환경 폴더
+tradeCoin/
+tradecoin_flutter/backend/Flask_Cors*/
+tradecoin_flutter/backend/PyJWT*/
+tradecoin_flutter/backend/google*/
+tradecoin_flutter/backend/*dist-info/
+tradecoin_flutter/backend/setuptools/
+tradecoin_flutter/backend/certifi/
+tradecoin_flutter/backend/charset_normalizer/

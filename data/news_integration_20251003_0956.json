@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-10-03T09:56:27.781176",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759452377_0",
+        "title": "전문가 \"XRP, 3.10달러 이상 종가면 진짜 돌파 가능\"",
+        "url": "https://www.coinreaders.com/190403",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T09:46:17.421606",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759452377_0",
+        "title": "전문가 \"XRP, 3.10달러 이상 종가면 진짜 돌파 가능\"",
+        "url": "https://www.coinreaders.com/190403",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T09:46:17.421606",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759452377_0",
+      "title": "전문가 \"XRP, 3.10달러 이상 종가면 진짜 돌파 가능\"",
+      "url": "https://www.coinreaders.com/190403",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T09:46:17.421606",
+      "related_coins": [
+        "DOGE",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_0946.json"
+}

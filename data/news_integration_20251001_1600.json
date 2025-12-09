@@ -1,0 +1,117 @@
+{
+  "timestamp": "2025-10-01T16:00:21.658303",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759302016_0",
+        "title": "SEC, 암호화폐 보유 기업 200곳 덮쳤다...내부자 거래 혐의 포착",
+        "url": "https://www.coinreaders.com/190023",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:00:16.810547",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759302016_0",
+        "title": "SEC, 암호화폐 보유 기업 200곳 덮쳤다...내부자 거래 혐의 포착",
+        "url": "https://www.coinreaders.com/190023",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:00:16.810547",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759302016_0",
+        "title": "SEC, 암호화폐 보유 기업 200곳 덮쳤다...내부자 거래 혐의 포착",
+        "url": "https://www.coinreaders.com/190023",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:00:16.810547",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759302016_0",
+        "title": "SEC, 암호화폐 보유 기업 200곳 덮쳤다...내부자 거래 혐의 포착",
+        "url": "https://www.coinreaders.com/190023",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:00:16.810547",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759302016_0",
+        "title": "SEC, 암호화폐 보유 기업 200곳 덮쳤다...내부자 거래 혐의 포착",
+        "url": "https://www.coinreaders.com/190023",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:00:16.810547",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759302016_0",
+      "title": "SEC, 암호화폐 보유 기업 200곳 덮쳤다...내부자 거래 혐의 포착",
+      "url": "https://www.coinreaders.com/190023",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T16:00:16.810547",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler",
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1600.json"
+}

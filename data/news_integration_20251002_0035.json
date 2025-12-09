@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-10-02T00:35:57.281254",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759332350_0",
+        "title": "XRP 커뮤니티 \"리플 CTO 사임=매도 신호\" 주장",
+        "url": "https://www.coinreaders.com/190116",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T00:25:50.985694",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759332350_0",
+        "title": "XRP 커뮤니티 \"리플 CTO 사임=매도 신호\" 주장",
+        "url": "https://www.coinreaders.com/190116",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T00:25:50.985694",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759332350_0",
+        "title": "XRP 커뮤니티 \"리플 CTO 사임=매도 신호\" 주장",
+        "url": "https://www.coinreaders.com/190116",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T00:25:50.985694",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0025.json"
+}

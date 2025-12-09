@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2025-05-14T06:43:22.921860",
+    "coinSymbol": "TRUMP",
+    "sourceType": "news",
+    "sourceId": "https://www.coinreaders.com/159882",
+    "sourceUrl": "https://www.coinreaders.com/159882",
+    "sourceContent": "트럼프가 만든 암호화폐 ‘부메랑’…워싱턴이 멈췄다",
+    "sourceAuthor": "coinreaders",
+    "sentiment": "negative",
+    "confidenceScore": 75,
+    "predictedImpact": "부정적",
+    "estimatedPriceChangePercent": -15,
+    "recommendedAction": "sell",
+    "recommendedLeverageMultiple": 5,
+    "riskLevel": "high",
+    "reasoning": "트럼프의 암호화폐 '부메랑'이 워싱턴에 의해 중단되었다는 뉴스는 TRUMP 토큰에 부정적인 영향을 미칠 것으로 보입니다. 이는 트럼프와 관련된 암호화폐 프로젝트가 규제 문제에 직면했음을 시사하며, 이는 TRUMP 토큰의 신뢰도와 가치에 부정적인 영향을 줄 수 있습니다. 뉴스의 위험도가 HIGH로 평가되었고, 트럼프가 직접 관련된 내용이므로 영향력이 상당할 것으로 예상됩니다.",
+    "optimalEntryWindow": {
+      "start": "즉시",
+      "end": "10분 이내"
+    },
+    "optimalExitWindow": {
+      "start": "12분 후",
+      "end": "30분 이내"
+    },
+    "currentPrice": 13.56
+  }
+]

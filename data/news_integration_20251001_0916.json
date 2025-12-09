@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-10-01T09:16:05.729159",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759277759_0",
+        "title": "\"유치한 우려일 뿐\"...비트코인 ETF, 알트코인 압도",
+        "url": "https://www.coinreaders.com/189953",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:15:59.419946",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759277759_0",
+      "title": "\"유치한 우려일 뿐\"...비트코인 ETF, 알트코인 압도",
+      "url": "https://www.coinreaders.com/189953",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T09:15:59.419946",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0916.json"
+}

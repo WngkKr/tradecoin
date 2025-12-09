@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-23T00:29:03.252377",
+  "by_coin": {},
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758554936_0",
+      "title": "XRP, BNB 따라 1,000달러 찍을까?",
+      "url": "https://www.coinreaders.com/188143",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T00:28:56.489254",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_0029.json"
+}

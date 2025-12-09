@@ -1,0 +1,174 @@
+{
+  "timestamp": "2025-09-23T20:25:42.220295",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758626735_0",
+        "title": "이더리움, 4분기에도 역사적 상승 패턴 반복할까",
+        "url": "https://www.coinreaders.com/188378",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:25:35.635444",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758626736_1",
+        "title": "비트코인 ETF, 파월 연설 직전 3억 6,000만 달러 유출",
+        "url": "https://www.coinreaders.com/188375",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:25:36.392178",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758626735_0",
+        "title": "이더리움, 4분기에도 역사적 상승 패턴 반복할까",
+        "url": "https://www.coinreaders.com/188378",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:25:35.635444",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758626736_1",
+        "title": "비트코인 ETF, 파월 연설 직전 3억 6,000만 달러 유출",
+        "url": "https://www.coinreaders.com/188375",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:25:36.392178",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758626735_0",
+        "title": "이더리움, 4분기에도 역사적 상승 패턴 반복할까",
+        "url": "https://www.coinreaders.com/188378",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:25:35.635444",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758626736_1",
+        "title": "비트코인 ETF, 파월 연설 직전 3억 6,000만 달러 유출",
+        "url": "https://www.coinreaders.com/188375",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:25:36.392178",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758626735_0",
+        "title": "이더리움, 4분기에도 역사적 상승 패턴 반복할까",
+        "url": "https://www.coinreaders.com/188378",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:25:35.635444",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758626736_1",
+        "title": "비트코인 ETF, 파월 연설 직전 3억 6,000만 달러 유출",
+        "url": "https://www.coinreaders.com/188375",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:25:36.392178",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758626735_0",
+        "title": "이더리움, 4분기에도 역사적 상승 패턴 반복할까",
+        "url": "https://www.coinreaders.com/188378",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T20:25:35.635444",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758626736_1",
+      "title": "비트코인 ETF, 파월 연설 직전 3억 6,000만 달러 유출",
+      "url": "https://www.coinreaders.com/188375",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T20:25:36.392178",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250923_2025.json"
+}

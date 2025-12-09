@@ -1,0 +1,154 @@
+{
+  "timestamp": "2025-09-20T19:28:25.354689",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758364097_0",
+        "title": "소송 종결·ETF 기대…XRP, 폭발적 랠리로 7달러까지 갈 수 있을까",
+        "url": "https://www.coinreaders.com/187804",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T19:28:17.666764",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758364097_0",
+        "title": "소송 종결·ETF 기대…XRP, 폭발적 랠리로 7달러까지 갈 수 있을까",
+        "url": "https://www.coinreaders.com/187804",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T19:28:17.666764",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758364099_2",
+        "title": "XRP, 연말 8달러 목표...전문가들 확신 근거는?",
+        "url": "https://www.coinreaders.com/187802",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T19:28:19.042154",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758364097_0",
+        "title": "소송 종결·ETF 기대…XRP, 폭발적 랠리로 7달러까지 갈 수 있을까",
+        "url": "https://www.coinreaders.com/187804",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T19:28:17.666764",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758364097_0",
+        "title": "소송 종결·ETF 기대…XRP, 폭발적 랠리로 7달러까지 갈 수 있을까",
+        "url": "https://www.coinreaders.com/187804",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T19:28:17.666764",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758364099_2",
+        "title": "XRP, 연말 8달러 목표...전문가들 확신 근거는?",
+        "url": "https://www.coinreaders.com/187802",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T19:28:19.042154",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758364097_0",
+        "title": "소송 종결·ETF 기대…XRP, 폭발적 랠리로 7달러까지 갈 수 있을까",
+        "url": "https://www.coinreaders.com/187804",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T19:28:17.666764",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758364099_2",
+        "title": "XRP, 연말 8달러 목표...전문가들 확신 근거는?",
+        "url": "https://www.coinreaders.com/187802",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T19:28:19.042154",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758364097_0",
+      "title": "소송 종결·ETF 기대…XRP, 폭발적 랠리로 7달러까지 갈 수 있을까",
+      "url": "https://www.coinreaders.com/187804",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T19:28:17.666764",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "SHIB",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758364099_2",
+      "title": "XRP, 연말 8달러 목표...전문가들 확신 근거는?",
+      "url": "https://www.coinreaders.com/187802",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T19:28:19.042154",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250920_1928.json"
+}

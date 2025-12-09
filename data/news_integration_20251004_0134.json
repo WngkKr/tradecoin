@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-10-04T01:34:51.294992",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759509284_0",
+        "title": "리플, 규제-프라이버시 공존 솔루션 공개...내년 1분기 출범 예고",
+        "url": "https://www.coinreaders.com/190502",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T01:34:44.430353",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759509284_0",
+        "title": "리플, 규제-프라이버시 공존 솔루션 공개...내년 1분기 출범 예고",
+        "url": "https://www.coinreaders.com/190502",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T01:34:44.430353",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759509284_0",
+      "title": "리플, 규제-프라이버시 공존 솔루션 공개...내년 1분기 출범 예고",
+      "url": "https://www.coinreaders.com/190502",
+      "source": "coinreaders",
+      "timestamp": "2025-10-04T01:34:44.430353",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251004_0134.json"
+}

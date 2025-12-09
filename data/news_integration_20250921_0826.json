@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-21T08:26:04.608205",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758410154_0",
+        "title": "선물은 팔고 현물은 산다! 비트코인 시장 대결",
+        "url": "https://www.coinreaders.com/187848",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:15:54.292617",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_0815.json"
+}

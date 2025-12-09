@@ -1,0 +1,147 @@
+{
+  "timestamp": "2025-09-29T18:27:21.149447",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759137430_0",
+        "title": "솔라나, ETF 호재에 210달러 일시 회복",
+        "url": "https://www.coinreaders.com/189541",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:17:10.346417",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759137431_1",
+        "title": "XRP, 하루 만에 67억 달러 유입…다시 3달러 넘을까?",
+        "url": "https://www.coinreaders.com/189540",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:17:11.530672",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759137430_0",
+        "title": "솔라나, ETF 호재에 210달러 일시 회복",
+        "url": "https://www.coinreaders.com/189541",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:17:10.346417",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759137431_1",
+        "title": "XRP, 하루 만에 67억 달러 유입…다시 3달러 넘을까?",
+        "url": "https://www.coinreaders.com/189540",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:17:11.530672",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759137430_0",
+        "title": "솔라나, ETF 호재에 210달러 일시 회복",
+        "url": "https://www.coinreaders.com/189541",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:17:10.346417",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759137431_1",
+        "title": "XRP, 하루 만에 67억 달러 유입…다시 3달러 넘을까?",
+        "url": "https://www.coinreaders.com/189540",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:17:11.530672",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759137430_0",
+        "title": "솔라나, ETF 호재에 210달러 일시 회복",
+        "url": "https://www.coinreaders.com/189541",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:17:10.346417",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759137430_0",
+      "title": "솔라나, ETF 호재에 210달러 일시 회복",
+      "url": "https://www.coinreaders.com/189541",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T18:17:10.346417",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759137431_1",
+      "title": "XRP, 하루 만에 67억 달러 유입…다시 3달러 넘을까?",
+      "url": "https://www.coinreaders.com/189540",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T18:17:11.530672",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250929_1817.json"
+}

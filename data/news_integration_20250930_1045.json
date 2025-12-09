@@ -1,0 +1,173 @@
+{
+  "timestamp": "2025-09-30T10:45:16.444493",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759196104_1",
+        "title": "SEC 개혁과 ETF 자금, XRP 가격을 30달러로 끌어올릴까",
+        "url": "https://www.coinreaders.com/189708",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T10:35:04.298330",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759196105_2",
+        "title": "이더리움, 4분기 랠리 재현되면 1만 달러 돌파 가능하다?",
+        "url": "https://www.coinreaders.com/189707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T10:35:05.271240",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759196105_2",
+        "title": "이더리움, 4분기 랠리 재현되면 1만 달러 돌파 가능하다?",
+        "url": "https://www.coinreaders.com/189707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T10:35:05.271240",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759196103_0",
+        "title": "비트코인, 레버리지 청산 끝...단기 조정 후 '업토버' 랠리 무대 완성",
+        "url": "https://www.coinreaders.com/189711",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T10:35:03.363410",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759196104_1",
+        "title": "SEC 개혁과 ETF 자금, XRP 가격을 30달러로 끌어올릴까",
+        "url": "https://www.coinreaders.com/189708",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T10:35:04.298330",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759196105_2",
+        "title": "이더리움, 4분기 랠리 재현되면 1만 달러 돌파 가능하다?",
+        "url": "https://www.coinreaders.com/189707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T10:35:05.271240",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759196105_2",
+        "title": "이더리움, 4분기 랠리 재현되면 1만 달러 돌파 가능하다?",
+        "url": "https://www.coinreaders.com/189707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T10:35:05.271240",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759196104_1",
+        "title": "SEC 개혁과 ETF 자금, XRP 가격을 30달러로 끌어올릴까",
+        "url": "https://www.coinreaders.com/189708",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T10:35:04.298330",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759196104_1",
+      "title": "SEC 개혁과 ETF 자금, XRP 가격을 30달러로 끌어올릴까",
+      "url": "https://www.coinreaders.com/189708",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T10:35:04.298330",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759196105_2",
+      "title": "이더리움, 4분기 랠리 재현되면 1만 달러 돌파 가능하다?",
+      "url": "https://www.coinreaders.com/189707",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T10:35:05.271240",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250930_1035.json"
+}

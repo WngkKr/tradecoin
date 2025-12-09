@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-09-18T21:52:52.756327",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758199966_0",
+        "title": "유명 트레이더 \"이더리움, 사상 최고가 돌파 후 1만 달러 넘는다\"",
+        "url": "https://www.coinreaders.com/187425",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:52:46.240976",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758199967_1",
+        "title": "밈코어(M), 3달러 장벽 뚫고 계속 오를까?",
+        "url": "https://www.coinreaders.com/187424",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:52:47.261145",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758199966_0",
+        "title": "유명 트레이더 \"이더리움, 사상 최고가 돌파 후 1만 달러 넘는다\"",
+        "url": "https://www.coinreaders.com/187425",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:52:46.240976",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758199967_1",
+        "title": "밈코어(M), 3달러 장벽 뚫고 계속 오를까?",
+        "url": "https://www.coinreaders.com/187424",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:52:47.261145",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758199966_0",
+        "title": "유명 트레이더 \"이더리움, 사상 최고가 돌파 후 1만 달러 넘는다\"",
+        "url": "https://www.coinreaders.com/187425",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:52:46.240976",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758199966_0",
+      "title": "유명 트레이더 \"이더리움, 사상 최고가 돌파 후 1만 달러 넘는다\"",
+      "url": "https://www.coinreaders.com/187425",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T21:52:46.240976",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758199967_1",
+      "title": "밈코어(M), 3달러 장벽 뚫고 계속 오를까?",
+      "url": "https://www.coinreaders.com/187424",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T21:52:47.261145",
+      "related_coins": [
+        "DOGE",
+        "SHIB"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250918_2152.json"
+}

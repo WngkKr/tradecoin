@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-10-04T03:56:16.155418",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759516558_0",
+        "title": "벤자민 코웬 \"비트코인, 올해가 사이클 꼭지...2020년 패턴 따라 간다\"",
+        "url": "https://www.coinreaders.com/190514",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T03:35:58.149808",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759516558_0",
+        "title": "벤자민 코웬 \"비트코인, 올해가 사이클 꼭지...2020년 패턴 따라 간다\"",
+        "url": "https://www.coinreaders.com/190514",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T03:35:58.149808",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251004_0336.json"
+}

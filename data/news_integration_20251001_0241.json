@@ -1,0 +1,97 @@
+{
+  "timestamp": "2025-10-01T02:41:56.820495",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759254111_0",
+        "title": "승인 확률 99%! 6개 현물 XRP ETF가 열어줄 상승 시나리오",
+        "url": "https://www.coinreaders.com/189887",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T02:41:51.940264",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759254111_0",
+        "title": "승인 확률 99%! 6개 현물 XRP ETF가 열어줄 상승 시나리오",
+        "url": "https://www.coinreaders.com/189887",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T02:41:51.940264",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759254111_0",
+        "title": "승인 확률 99%! 6개 현물 XRP ETF가 열어줄 상승 시나리오",
+        "url": "https://www.coinreaders.com/189887",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T02:41:51.940264",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759254111_0",
+        "title": "승인 확률 99%! 6개 현물 XRP ETF가 열어줄 상승 시나리오",
+        "url": "https://www.coinreaders.com/189887",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T02:41:51.940264",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759254111_0",
+      "title": "승인 확률 99%! 6개 현물 XRP ETF가 열어줄 상승 시나리오",
+      "url": "https://www.coinreaders.com/189887",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T02:41:51.940264",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0241.json"
+}

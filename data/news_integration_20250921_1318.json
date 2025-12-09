@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-09-21T13:18:04.888886",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758427675_0",
+        "title": "시바이누 소각률, 세 자릿수 비율 상승...공급 감소 현실로",
+        "url": "https://www.coinreaders.com/187867",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T13:07:55.468252",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758427675_0",
+        "title": "시바이누 소각률, 세 자릿수 비율 상승...공급 감소 현실로",
+        "url": "https://www.coinreaders.com/187867",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T13:07:55.468252",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758427675_0",
+        "title": "시바이누 소각률, 세 자릿수 비율 상승...공급 감소 현실로",
+        "url": "https://www.coinreaders.com/187867",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T13:07:55.468252",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758427675_0",
+        "title": "시바이누 소각률, 세 자릿수 비율 상승...공급 감소 현실로",
+        "url": "https://www.coinreaders.com/187867",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T13:07:55.468252",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "SHIB",
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758427675_0",
+      "title": "시바이누 소각률, 세 자릿수 비율 상승...공급 감소 현실로",
+      "url": "https://www.coinreaders.com/187867",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T13:07:55.468252",
+      "related_coins": [
+        "SHIB",
+        "ETH",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_1308.json"
+}

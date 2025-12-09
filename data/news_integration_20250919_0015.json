@@ -1,0 +1,186 @@
+{
+  "timestamp": "2025-09-19T00:15:27.513459",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758207838_0",
+        "title": "시바이누, 소각률 438% 급증...코인베이스 선물 출시 호재로 138% 랠리?",
+        "url": "https://www.coinreaders.com/187449",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T00:03:58.911531",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758207838_0",
+        "title": "시바이누, 소각률 438% 급증...코인베이스 선물 출시 호재로 138% 랠리?",
+        "url": "https://www.coinreaders.com/187449",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T00:03:58.911531",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758207838_0",
+        "title": "시바이누, 소각률 438% 급증...코인베이스 선물 출시 호재로 138% 랠리?",
+        "url": "https://www.coinreaders.com/187449",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T00:03:58.911531",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758207838_0",
+        "title": "시바이누, 소각률 438% 급증...코인베이스 선물 출시 호재로 138% 랠리?",
+        "url": "https://www.coinreaders.com/187449",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T00:03:58.911531",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758207838_0",
+        "title": "시바이누, 소각률 438% 급증...코인베이스 선물 출시 호재로 138% 랠리?",
+        "url": "https://www.coinreaders.com/187449",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T00:03:58.911531",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758207838_0",
+        "title": "시바이누, 소각률 438% 급증...코인베이스 선물 출시 호재로 138% 랠리?",
+        "url": "https://www.coinreaders.com/187449",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T00:03:58.911531",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758207838_0",
+        "title": "시바이누, 소각률 438% 급증...코인베이스 선물 출시 호재로 138% 랠리?",
+        "url": "https://www.coinreaders.com/187449",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T00:03:58.911531",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "SHIB",
+          "ETH",
+          "DOGE",
+          "BTC",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758207838_0",
+        "title": "시바이누, 소각률 438% 급증...코인베이스 선물 출시 호재로 138% 랠리?",
+        "url": "https://www.coinreaders.com/187449",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T00:03:58.911531",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "SHIB",
+          "ETH",
+          "DOGE",
+          "BTC",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758207838_0",
+      "title": "시바이누, 소각률 438% 급증...코인베이스 선물 출시 호재로 138% 랠리?",
+      "url": "https://www.coinreaders.com/187449",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T00:03:58.911531",
+      "related_coins": [
+        "SHIB",
+        "ETH",
+        "DOGE",
+        "BTC",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_0004.json"
+}

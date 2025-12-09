@@ -1,0 +1,149 @@
+{
+  "timestamp": "2025-10-01T08:45:36.569214",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759275327_0",
+        "title": "도지코인, ETF 훈풍 타고 랠리 준비...\"338% 급등 가능성\"",
+        "url": "https://www.coinreaders.com/189944",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:35:27.799850",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759275327_0",
+        "title": "도지코인, ETF 훈풍 타고 랠리 준비...\"338% 급등 가능성\"",
+        "url": "https://www.coinreaders.com/189944",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:35:27.799850",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759275327_0",
+        "title": "도지코인, ETF 훈풍 타고 랠리 준비...\"338% 급등 가능성\"",
+        "url": "https://www.coinreaders.com/189944",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:35:27.799850",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759275327_0",
+        "title": "도지코인, ETF 훈풍 타고 랠리 준비...\"338% 급등 가능성\"",
+        "url": "https://www.coinreaders.com/189944",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:35:27.799850",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759275327_0",
+        "title": "도지코인, ETF 훈풍 타고 랠리 준비...\"338% 급등 가능성\"",
+        "url": "https://www.coinreaders.com/189944",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:35:27.799850",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759275327_0",
+        "title": "도지코인, ETF 훈풍 타고 랠리 준비...\"338% 급등 가능성\"",
+        "url": "https://www.coinreaders.com/189944",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:35:27.799850",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759275327_0",
+        "title": "도지코인, ETF 훈풍 타고 랠리 준비...\"338% 급등 가능성\"",
+        "url": "https://www.coinreaders.com/189944",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:35:27.799850",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759275327_0",
+      "title": "도지코인, ETF 훈풍 타고 랠리 준비...\"338% 급등 가능성\"",
+      "url": "https://www.coinreaders.com/189944",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T08:35:27.799850",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0835.json"
+}

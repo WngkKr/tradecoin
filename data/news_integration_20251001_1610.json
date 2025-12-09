@@ -1,0 +1,208 @@
+{
+  "timestamp": "2025-10-01T16:10:29.728990",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759302623_2",
+        "title": "이더리움, 펀더멘털보다 심리가 더 강한 힘일까",
+        "url": "https://www.coinreaders.com/190027",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:23.692193",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759302622_0",
+        "title": "트럼프 일가 연계 기업, 도지코인 채굴 기업 투자",
+        "url": "https://www.coinreaders.com/190029",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:22.813223",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759302622_0",
+        "title": "트럼프 일가 연계 기업, 도지코인 채굴 기업 투자",
+        "url": "https://www.coinreaders.com/190029",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:22.813223",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759302623_2",
+        "title": "이더리움, 펀더멘털보다 심리가 더 강한 힘일까",
+        "url": "https://www.coinreaders.com/190027",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:23.692193",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759302624_3",
+        "title": "업비트, 추석 맞이 4억원 비트코인 뿌린다",
+        "url": "https://www.coinreaders.com/190024",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:24.588518",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759302622_0",
+        "title": "트럼프 일가 연계 기업, 도지코인 채굴 기업 투자",
+        "url": "https://www.coinreaders.com/190029",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:22.813223",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759302622_0",
+        "title": "트럼프 일가 연계 기업, 도지코인 채굴 기업 투자",
+        "url": "https://www.coinreaders.com/190029",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:22.813223",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759302622_0",
+        "title": "트럼프 일가 연계 기업, 도지코인 채굴 기업 투자",
+        "url": "https://www.coinreaders.com/190029",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:22.813223",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759302622_0",
+        "title": "트럼프 일가 연계 기업, 도지코인 채굴 기업 투자",
+        "url": "https://www.coinreaders.com/190029",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:22.813223",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759302622_0",
+        "title": "트럼프 일가 연계 기업, 도지코인 채굴 기업 투자",
+        "url": "https://www.coinreaders.com/190029",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:22.813223",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "TRUMP",
+          "MAGA",
+          "BTC",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759302623_2",
+        "title": "이더리움, 펀더멘털보다 심리가 더 강한 힘일까",
+        "url": "https://www.coinreaders.com/190027",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T16:10:23.692193",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759302622_0",
+      "title": "트럼프 일가 연계 기업, 도지코인 채굴 기업 투자",
+      "url": "https://www.coinreaders.com/190029",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T16:10:22.813223",
+      "related_coins": [
+        "DOGE",
+        "TRUMP",
+        "MAGA",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 4,
+  "source_file": "news/all_news_20251001_1610.json"
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-22T07:33:00.048361",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758493974_0",
+        "title": "카르다노, 2030년 10달러 도달 가능할까...ETF·제도권 자금 유입 여부 관건",
+        "url": "https://www.coinreaders.com/187926",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T07:32:54.431767",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758493974_0",
+      "title": "카르다노, 2030년 10달러 도달 가능할까...ETF·제도권 자금 유입 여부 관건",
+      "url": "https://www.coinreaders.com/187926",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T07:32:54.431767",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_0733.json"
+}

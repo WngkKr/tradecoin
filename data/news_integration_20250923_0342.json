@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-09-23T03:42:50.564986",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758566565_0",
+        "title": "비트코인 5만% 수익률…2030년 100만 달러 간다?",
+        "url": "https://www.coinreaders.com/188165",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T03:42:45.233443",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758566565_0",
+        "title": "비트코인 5만% 수익률…2030년 100만 달러 간다?",
+        "url": "https://www.coinreaders.com/188165",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T03:42:45.233443",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758566565_0",
+      "title": "비트코인 5만% 수익률…2030년 100만 달러 간다?",
+      "url": "https://www.coinreaders.com/188165",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T03:42:45.233443",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_0342.json"
+}

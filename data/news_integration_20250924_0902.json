@@ -1,0 +1,170 @@
+{
+  "timestamp": "2025-09-24T09:02:32.395122",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758672146_1",
+        "title": "\"조정은 일시적\" 스카라무치의 강한 비트코인 확신…연말 15만 달러 목표",
+        "url": "https://www.coinreaders.com/188499",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:02:26.598327",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758672145_0",
+        "title": "\"고통스럽지만 필수 코스\"...비트코인, 청산 속 11만 달러 방어",
+        "url": "https://www.coinreaders.com/188505",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:02:25.593656",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758672146_1",
+        "title": "\"조정은 일시적\" 스카라무치의 강한 비트코인 확신…연말 15만 달러 목표",
+        "url": "https://www.coinreaders.com/188499",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:02:26.598327",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758672146_1",
+        "title": "\"조정은 일시적\" 스카라무치의 강한 비트코인 확신…연말 15만 달러 목표",
+        "url": "https://www.coinreaders.com/188499",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:02:26.598327",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758672146_1",
+        "title": "\"조정은 일시적\" 스카라무치의 강한 비트코인 확신…연말 15만 달러 목표",
+        "url": "https://www.coinreaders.com/188499",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:02:26.598327",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758672146_1",
+        "title": "\"조정은 일시적\" 스카라무치의 강한 비트코인 확신…연말 15만 달러 목표",
+        "url": "https://www.coinreaders.com/188499",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:02:26.598327",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758672146_1",
+        "title": "\"조정은 일시적\" 스카라무치의 강한 비트코인 확신…연말 15만 달러 목표",
+        "url": "https://www.coinreaders.com/188499",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T09:02:26.598327",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758672145_0",
+      "title": "\"고통스럽지만 필수 코스\"...비트코인, 청산 속 11만 달러 방어",
+      "url": "https://www.coinreaders.com/188505",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T09:02:25.593656",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758672146_1",
+      "title": "\"조정은 일시적\" 스카라무치의 강한 비트코인 확신…연말 15만 달러 목표",
+      "url": "https://www.coinreaders.com/188499",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T09:02:26.598327",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250924_0902.json"
+}

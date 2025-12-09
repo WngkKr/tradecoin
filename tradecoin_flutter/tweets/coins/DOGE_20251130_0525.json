@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1886046076316041641",
+    "text": "Never sell your Bitcoin.",
+    "created_at": "2025-02-02T13:36:40+00:00",
+    "author_id": "saylor",
+    "public_metrics": {
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    },
+    "url": "https://twitter.com/saylor/status/1886046076316041641",
+    "source": "twitter",
+    "is_recent": true
+  },
+  {
+    "id": "1977042287533125837",
+    "text": "I had an amazing time filming with my Grandpa to kick off my new series called 1 on 1 with Kai. In the video, everyone gets to see the bond we have, especially on the golf course. This is my favorite video I have filmed so far and holds a lot of meaning to me. I hope you enjoy",
+    "created_at": "2025-10-11T16:03:07+00:00",
+    "author_id": "realDonaldTrump",
+    "public_metrics": {
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    },
+    "url": "https://twitter.com/realDonaldTrump/status/1977042287533125837",
+    "source": "twitter",
+    "is_recent": true
+  }
+]

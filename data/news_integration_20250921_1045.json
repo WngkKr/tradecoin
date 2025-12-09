@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-09-21T10:45:55.694349",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758419151_0",
+        "title": "밈코인 봉크, 왜 온체인 지표는 강세인데 가격은 떨어질까?",
+        "url": "https://www.coinreaders.com/187858",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T10:45:51.697669",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758419151_0",
+        "title": "밈코인 봉크, 왜 온체인 지표는 강세인데 가격은 떨어질까?",
+        "url": "https://www.coinreaders.com/187858",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T10:45:51.697669",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_1045.json"
+}

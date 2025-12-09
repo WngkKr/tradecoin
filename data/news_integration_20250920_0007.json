@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-09-20T00:07:19.256704",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758294433_0",
+        "title": "두 피자가 11억 달러! 비트코인의 기적 같은 기록…2030년 240만 달러 간다?",
+        "url": "https://www.coinreaders.com/187700",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:07:13.211741",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758294433_0",
+        "title": "두 피자가 11억 달러! 비트코인의 기적 같은 기록…2030년 240만 달러 간다?",
+        "url": "https://www.coinreaders.com/187700",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:07:13.211741",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758294433_0",
+        "title": "두 피자가 11억 달러! 비트코인의 기적 같은 기록…2030년 240만 달러 간다?",
+        "url": "https://www.coinreaders.com/187700",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:07:13.211741",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758294433_0",
+        "title": "두 피자가 11억 달러! 비트코인의 기적 같은 기록…2030년 240만 달러 간다?",
+        "url": "https://www.coinreaders.com/187700",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:07:13.211741",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758294433_0",
+        "title": "두 피자가 11억 달러! 비트코인의 기적 같은 기록…2030년 240만 달러 간다?",
+        "url": "https://www.coinreaders.com/187700",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:07:13.211741",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758294433_0",
+      "title": "두 피자가 11억 달러! 비트코인의 기적 같은 기록…2030년 240만 달러 간다?",
+      "url": "https://www.coinreaders.com/187700",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T00:07:13.211741",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Michael Saylor",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0007.json"
+}

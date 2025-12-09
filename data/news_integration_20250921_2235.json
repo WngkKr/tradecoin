@@ -1,0 +1,401 @@
+{
+  "timestamp": "2025-09-21T22:35:15.469816",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758461086_2",
+        "title": "리플 달러 vs 페이팔 달러, 더 안전한 스테이블코인은?",
+        "url": "https://www.coinreaders.com/187893",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:46.116489",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461087_3",
+        "title": "도지코인, 세 가지 촉매로 다시 달에 갈 수 있을까?",
+        "url": "https://www.coinreaders.com/187892",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:47.051431",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461087_4",
+        "title": "시바이누 수장 쿠사마 \"떠나지 않는다\" 부인했지만 의혹은 여전",
+        "url": "https://www.coinreaders.com/187890",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:47.686323",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461088_5",
+        "title": "[밈코인 시황] 도지·시바 주춤했지만 밈코어 19% 폭등! 이번 주 전망은?",
+        "url": "https://www.coinreaders.com/187889",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:48.020843",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758461084_0",
+        "title": "BNB, 단기 조정 뒤 폭발적 상승...연말 1,565달러 돌파할까?",
+        "url": "https://www.coinreaders.com/187895",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:44.234871",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461087_3",
+        "title": "도지코인, 세 가지 촉매로 다시 달에 갈 수 있을까?",
+        "url": "https://www.coinreaders.com/187892",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:47.051431",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461087_4",
+        "title": "시바이누 수장 쿠사마 \"떠나지 않는다\" 부인했지만 의혹은 여전",
+        "url": "https://www.coinreaders.com/187890",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:47.686323",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461088_5",
+        "title": "[밈코인 시황] 도지·시바 주춤했지만 밈코어 19% 폭등! 이번 주 전망은?",
+        "url": "https://www.coinreaders.com/187889",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:48.020843",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758461086_2",
+        "title": "리플 달러 vs 페이팔 달러, 더 안전한 스테이블코인은?",
+        "url": "https://www.coinreaders.com/187893",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:46.116489",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461087_3",
+        "title": "도지코인, 세 가지 촉매로 다시 달에 갈 수 있을까?",
+        "url": "https://www.coinreaders.com/187892",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:47.051431",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461088_5",
+        "title": "[밈코인 시황] 도지·시바 주춤했지만 밈코어 19% 폭등! 이번 주 전망은?",
+        "url": "https://www.coinreaders.com/187889",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:48.020843",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758461087_3",
+        "title": "도지코인, 세 가지 촉매로 다시 달에 갈 수 있을까?",
+        "url": "https://www.coinreaders.com/187892",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:47.051431",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461087_4",
+        "title": "시바이누 수장 쿠사마 \"떠나지 않는다\" 부인했지만 의혹은 여전",
+        "url": "https://www.coinreaders.com/187890",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:47.686323",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461088_5",
+        "title": "[밈코인 시황] 도지·시바 주춤했지만 밈코어 19% 폭등! 이번 주 전망은?",
+        "url": "https://www.coinreaders.com/187889",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:48.020843",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758461087_3",
+        "title": "도지코인, 세 가지 촉매로 다시 달에 갈 수 있을까?",
+        "url": "https://www.coinreaders.com/187892",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:47.051431",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461088_5",
+        "title": "[밈코인 시황] 도지·시바 주춤했지만 밈코어 19% 폭등! 이번 주 전망은?",
+        "url": "https://www.coinreaders.com/187889",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:48.020843",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758461085_1",
+        "title": "경기 침체 경고음? 220% 치솟은 워런 버핏 지표 충격!",
+        "url": "https://www.coinreaders.com/187894",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:45.208303",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461086_2",
+        "title": "리플 달러 vs 페이팔 달러, 더 안전한 스테이블코인은?",
+        "url": "https://www.coinreaders.com/187893",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:46.116489",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461087_3",
+        "title": "도지코인, 세 가지 촉매로 다시 달에 갈 수 있을까?",
+        "url": "https://www.coinreaders.com/187892",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:47.051431",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758461086_2",
+        "title": "리플 달러 vs 페이팔 달러, 더 안전한 스테이블코인은?",
+        "url": "https://www.coinreaders.com/187893",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:46.116489",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758461088_5",
+        "title": "[밈코인 시황] 도지·시바 주춤했지만 밈코어 19% 폭등! 이번 주 전망은?",
+        "url": "https://www.coinreaders.com/187889",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:48.020843",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "DOGE",
+          "SHIB",
+          "ETH",
+          "BTC",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758461086_2",
+        "title": "리플 달러 vs 페이팔 달러, 더 안전한 스테이블코인은?",
+        "url": "https://www.coinreaders.com/187893",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T22:24:46.116489",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758461084_0",
+      "title": "BNB, 단기 조정 뒤 폭발적 상승...연말 1,565달러 돌파할까?",
+      "url": "https://www.coinreaders.com/187895",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T22:24:44.234871",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758461085_1",
+      "title": "경기 침체 경고음? 220% 치솟은 워런 버핏 지표 충격!",
+      "url": "https://www.coinreaders.com/187894",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T22:24:45.208303",
+      "related_coins": [
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758461086_2",
+      "title": "리플 달러 vs 페이팔 달러, 더 안전한 스테이블코인은?",
+      "url": "https://www.coinreaders.com/187893",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T22:24:46.116489",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250921_2224.json"
+}

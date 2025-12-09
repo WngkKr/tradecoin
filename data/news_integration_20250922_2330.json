@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-09-22T23:30:51.049339",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758551444_0",
+        "title": "이더리움, 4,100달러 지지선 사수...분석가 \"50% 상승 가능성 남았다\"",
+        "url": "https://www.coinreaders.com/188136",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T23:30:44.747164",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758551444_0",
+        "title": "이더리움, 4,100달러 지지선 사수...분석가 \"50% 상승 가능성 남았다\"",
+        "url": "https://www.coinreaders.com/188136",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T23:30:44.747164",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758551444_0",
+        "title": "이더리움, 4,100달러 지지선 사수...분석가 \"50% 상승 가능성 남았다\"",
+        "url": "https://www.coinreaders.com/188136",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T23:30:44.747164",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758551444_0",
+      "title": "이더리움, 4,100달러 지지선 사수...분석가 \"50% 상승 가능성 남았다\"",
+      "url": "https://www.coinreaders.com/188136",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T23:30:44.747164",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_2330.json"
+}

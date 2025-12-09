@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-09-30T04:53:39.305379",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759175009_0",
+        "title": "8,500만% 폭등했던 시바이누, 2050년까지 2센트 달성 가능할까",
+        "url": "https://www.coinreaders.com/189649",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:43:29.896565",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759175009_0",
+        "title": "8,500만% 폭등했던 시바이누, 2050년까지 2센트 달성 가능할까",
+        "url": "https://www.coinreaders.com/189649",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T04:43:29.896565",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0443.json"
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-09-30T01:41:51.255326",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759164106_0",
+        "title": "잊혀진 디지털 실버의 반격...라이트코인, 비트코인 뒤흔들 준비 끝",
+        "url": "https://www.coinreaders.com/189630",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T01:41:46.847300",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759164106_0",
+        "title": "잊혀진 디지털 실버의 반격...라이트코인, 비트코인 뒤흔들 준비 끝",
+        "url": "https://www.coinreaders.com/189630",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T01:41:46.847300",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0141.json"
+}

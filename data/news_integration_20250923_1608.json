@@ -1,0 +1,56 @@
+{
+  "timestamp": "2025-09-23T16:08:03.105785",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758611277_0",
+        "title": "비트코인, 16억 달러 청산...11만 2,000달러 지킬까?",
+        "url": "https://www.coinreaders.com/188318",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T16:07:57.008180",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758611277_0",
+        "title": "비트코인, 16억 달러 청산...11만 2,000달러 지킬까?",
+        "url": "https://www.coinreaders.com/188318",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T16:07:57.008180",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758611277_0",
+      "title": "비트코인, 16억 달러 청산...11만 2,000달러 지킬까?",
+      "url": "https://www.coinreaders.com/188318",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T16:07:57.008180",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_1608.json"
+}

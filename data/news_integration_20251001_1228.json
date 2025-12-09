@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-10-01T12:28:11.326695",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759289285_0",
+        "title": "벤자민 코웬 \"10월은 비트코인 독주...알트 시즌은 없다\"",
+        "url": "https://www.coinreaders.com/189988",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T12:28:05.428841",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759289285_0",
+        "title": "벤자민 코웬 \"10월은 비트코인 독주...알트 시즌은 없다\"",
+        "url": "https://www.coinreaders.com/189988",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T12:28:05.428841",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759289285_0",
+        "title": "벤자민 코웬 \"10월은 비트코인 독주...알트 시즌은 없다\"",
+        "url": "https://www.coinreaders.com/189988",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T12:28:05.428841",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1228.json"
+}

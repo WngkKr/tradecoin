@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-10-01T17:21:10.209046",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759306865_0",
+        "title": "자오창펑, 밈코인 효용성 언급했더니...BNB체인 계정 해킹",
+        "url": "https://www.coinreaders.com/190039",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:21:05.505664",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759306865_0",
+        "title": "자오창펑, 밈코인 효용성 언급했더니...BNB체인 계정 해킹",
+        "url": "https://www.coinreaders.com/190039",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:21:05.505664",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759306865_0",
+        "title": "자오창펑, 밈코인 효용성 언급했더니...BNB체인 계정 해킹",
+        "url": "https://www.coinreaders.com/190039",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:21:05.505664",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759306865_0",
+        "title": "자오창펑, 밈코인 효용성 언급했더니...BNB체인 계정 해킹",
+        "url": "https://www.coinreaders.com/190039",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:21:05.505664",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759306865_0",
+        "title": "자오창펑, 밈코인 효용성 언급했더니...BNB체인 계정 해킹",
+        "url": "https://www.coinreaders.com/190039",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:21:05.505664",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759306865_0",
+        "title": "자오창펑, 밈코인 효용성 언급했더니...BNB체인 계정 해킹",
+        "url": "https://www.coinreaders.com/190039",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:21:05.505664",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759306865_0",
+      "title": "자오창펑, 밈코인 효용성 언급했더니...BNB체인 계정 해킹",
+      "url": "https://www.coinreaders.com/190039",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T17:21:05.505664",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "사회적",
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1721.json"
+}

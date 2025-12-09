@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-09-23T12:04:07.421733",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758595597_0",
+        "title": "미국 의회, 암호화폐 시장 구조 법안에 초당적 합의 이뤄낼까",
+        "url": "https://www.coinreaders.com/188252",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T11:46:37.139326",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758595597_0",
+        "title": "미국 의회, 암호화폐 시장 구조 법안에 초당적 합의 이뤄낼까",
+        "url": "https://www.coinreaders.com/188252",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T11:46:37.139326",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758595597_0",
+        "title": "미국 의회, 암호화폐 시장 구조 법안에 초당적 합의 이뤄낼까",
+        "url": "https://www.coinreaders.com/188252",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T11:46:37.139326",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758595597_0",
+        "title": "미국 의회, 암호화폐 시장 구조 법안에 초당적 합의 이뤄낼까",
+        "url": "https://www.coinreaders.com/188252",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T11:46:37.139326",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "MAGA",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758595597_0",
+      "title": "미국 의회, 암호화폐 시장 구조 법안에 초당적 합의 이뤄낼까",
+      "url": "https://www.coinreaders.com/188252",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T11:46:37.139326",
+      "related_coins": [
+        "MAGA",
+        "BTC",
+        "TRUMP"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_1204.json"
+}

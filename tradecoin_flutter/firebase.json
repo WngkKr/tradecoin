@@ -1,0 +1,46 @@
+{
+  "functions": {
+    "source": "backend",
+    "runtime": "python311",
+    "ignore": [
+      "venv/**",
+      "venv",
+      "env/**",
+      "**/venv/**",
+      "**/__pycache__/**",
+      "**/*.pyc",
+      "**/test_*.py",
+      "**/*.md",
+      "**/*.db",
+      "**/*.sqlite",
+      "**/*.sqlite3",
+      "chromedriver*",
+      "geckodriver*",
+      "data/**",
+      "tweets/**",
+      "news/**",
+      ".git",
+      ".vscode",
+      ".idea",
+      "firebase-debug.log"
+    ]
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/api/**",
+        "function": "tradecoin_api"
+      },
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

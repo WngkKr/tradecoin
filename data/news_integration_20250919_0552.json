@@ -1,0 +1,157 @@
+{
+  "timestamp": "2025-09-19T05:52:19.056495",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758228727_0",
+        "title": "솔라나·XRP·도지코인 포함 8종 ETF, SEC 심사 대기 중",
+        "url": "https://www.coinreaders.com/187492",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:52:07.268606",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758228727_0",
+        "title": "솔라나·XRP·도지코인 포함 8종 ETF, SEC 심사 대기 중",
+        "url": "https://www.coinreaders.com/187492",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:52:07.268606",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758228727_0",
+        "title": "솔라나·XRP·도지코인 포함 8종 ETF, SEC 심사 대기 중",
+        "url": "https://www.coinreaders.com/187492",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:52:07.268606",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758228727_0",
+        "title": "솔라나·XRP·도지코인 포함 8종 ETF, SEC 심사 대기 중",
+        "url": "https://www.coinreaders.com/187492",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:52:07.268606",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758228727_0",
+        "title": "솔라나·XRP·도지코인 포함 8종 ETF, SEC 심사 대기 중",
+        "url": "https://www.coinreaders.com/187492",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:52:07.268606",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758228727_0",
+        "title": "솔라나·XRP·도지코인 포함 8종 ETF, SEC 심사 대기 중",
+        "url": "https://www.coinreaders.com/187492",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:52:07.268606",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758228727_0",
+        "title": "솔라나·XRP·도지코인 포함 8종 ETF, SEC 심사 대기 중",
+        "url": "https://www.coinreaders.com/187492",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:52:07.268606",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758228727_0",
+      "title": "솔라나·XRP·도지코인 포함 8종 ETF, SEC 심사 대기 중",
+      "url": "https://www.coinreaders.com/187492",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T05:52:07.268606",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_0552.json"
+}

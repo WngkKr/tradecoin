@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-21T09:26:37.291649",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758414392_0",
+        "title": "사우디 최대 은행까지! 체인링크 글로벌 입지 강화…LINK 125달러 시나리오",
+        "url": "https://www.coinreaders.com/187852",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T09:26:32.635472",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758414392_0",
+      "title": "사우디 최대 은행까지! 체인링크 글로벌 입지 강화…LINK 125달러 시나리오",
+      "url": "https://www.coinreaders.com/187852",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T09:26:32.635472",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_0926.json"
+}

@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-09-17T20:15:51.770049",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758107745_0",
+        "title": "XRP, 221% 폭발적 자금 유입...10월 ETF 승인 앞두고 더 오를까?",
+        "url": "https://www.coinreaders.com/187117",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T20:15:45.644999",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758107745_0",
+        "title": "XRP, 221% 폭발적 자금 유입...10월 ETF 승인 앞두고 더 오를까?",
+        "url": "https://www.coinreaders.com/187117",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T20:15:45.644999",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758107745_0",
+        "title": "XRP, 221% 폭발적 자금 유입...10월 ETF 승인 앞두고 더 오를까?",
+        "url": "https://www.coinreaders.com/187117",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T20:15:45.644999",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758107745_0",
+        "title": "XRP, 221% 폭발적 자금 유입...10월 ETF 승인 앞두고 더 오를까?",
+        "url": "https://www.coinreaders.com/187117",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T20:15:45.644999",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758107745_0",
+        "title": "XRP, 221% 폭발적 자금 유입...10월 ETF 승인 앞두고 더 오를까?",
+        "url": "https://www.coinreaders.com/187117",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T20:15:45.644999",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "SHIB"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758107745_0",
+      "title": "XRP, 221% 폭발적 자금 유입...10월 ETF 승인 앞두고 더 오를까?",
+      "url": "https://www.coinreaders.com/187117",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T20:15:45.644999",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "SHIB"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_2015.json"
+}

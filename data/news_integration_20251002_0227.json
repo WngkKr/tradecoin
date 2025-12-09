@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-10-02T02:27:12.758943",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759339627_0",
+        "title": "3분기 암호화폐 해킹 피해 3억 달러 돌파…4분기엔 대형 공격 재발할까",
+        "url": "https://www.coinreaders.com/190132",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T02:27:07.757121",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759339627_0",
+        "title": "3분기 암호화폐 해킹 피해 3억 달러 돌파…4분기엔 대형 공격 재발할까",
+        "url": "https://www.coinreaders.com/190132",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T02:27:07.757121",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759339627_0",
+      "title": "3분기 암호화폐 해킹 피해 3억 달러 돌파…4분기엔 대형 공격 재발할까",
+      "url": "https://www.coinreaders.com/190132",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T02:27:07.757121",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0227.json"
+}

@@ -1,0 +1,322 @@
+{
+  "timestamp": "2025-09-20T09:25:26.708926",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758326982_2",
+        "title": "도지코인, ETF 출시에도 왜 급락했을까?",
+        "url": "https://www.coinreaders.com/187743",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.346667",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758326982_3",
+        "title": "비트코인, 금리 인하 훈풍 효과 기대...연말 14만 5,000달러 전망",
+        "url": "https://www.coinreaders.com/187742",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.909893",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758326983_5",
+        "title": "이더리움, 12월 푸사카 업그레이드로 반등할 수 있을까",
+        "url": "https://www.coinreaders.com/187740",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:43.526568",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758326982_2",
+        "title": "도지코인, ETF 출시에도 왜 급락했을까?",
+        "url": "https://www.coinreaders.com/187743",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.346667",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758326982_3",
+        "title": "비트코인, 금리 인하 훈풍 효과 기대...연말 14만 5,000달러 전망",
+        "url": "https://www.coinreaders.com/187742",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.909893",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758326983_4",
+        "title": "변동성에 휩싸인 XRP, 3달러 지지선 공방",
+        "url": "https://www.coinreaders.com/187741",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:43.220843",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758326983_5",
+        "title": "이더리움, 12월 푸사카 업그레이드로 반등할 수 있을까",
+        "url": "https://www.coinreaders.com/187740",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:43.526568",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758326982_2",
+        "title": "도지코인, ETF 출시에도 왜 급락했을까?",
+        "url": "https://www.coinreaders.com/187743",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.346667",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758326982_3",
+        "title": "비트코인, 금리 인하 훈풍 효과 기대...연말 14만 5,000달러 전망",
+        "url": "https://www.coinreaders.com/187742",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.909893",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758326982_2",
+        "title": "도지코인, ETF 출시에도 왜 급락했을까?",
+        "url": "https://www.coinreaders.com/187743",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.346667",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758326982_2",
+        "title": "도지코인, ETF 출시에도 왜 급락했을까?",
+        "url": "https://www.coinreaders.com/187743",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.346667",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758326982_3",
+        "title": "비트코인, 금리 인하 훈풍 효과 기대...연말 14만 5,000달러 전망",
+        "url": "https://www.coinreaders.com/187742",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.909893",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758326982_2",
+        "title": "도지코인, ETF 출시에도 왜 급락했을까?",
+        "url": "https://www.coinreaders.com/187743",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.346667",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758326983_5",
+        "title": "이더리움, 12월 푸사카 업그레이드로 반등할 수 있을까",
+        "url": "https://www.coinreaders.com/187740",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:43.526568",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758326982_2",
+        "title": "도지코인, ETF 출시에도 왜 급락했을까?",
+        "url": "https://www.coinreaders.com/187743",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.346667",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758326982_3",
+        "title": "비트코인, 금리 인하 훈풍 효과 기대...연말 14만 5,000달러 전망",
+        "url": "https://www.coinreaders.com/187742",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T09:09:42.909893",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758326982_2",
+      "title": "도지코인, ETF 출시에도 왜 급락했을까?",
+      "url": "https://www.coinreaders.com/187743",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T09:09:42.346667",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758326982_3",
+      "title": "비트코인, 금리 인하 훈풍 효과 기대...연말 14만 5,000달러 전망",
+      "url": "https://www.coinreaders.com/187742",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T09:09:42.909893",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758326983_4",
+      "title": "변동성에 휩싸인 XRP, 3달러 지지선 공방",
+      "url": "https://www.coinreaders.com/187741",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T09:09:43.220843",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250920_0925.json"
+}

@@ -1,0 +1,174 @@
+{
+  "timestamp": "2025-09-29T21:09:05.898896",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759147739_0",
+        "title": "암호화폐, 숏 포지션 2억 6,000만 달러 청산...반등 신호일까?",
+        "url": "https://www.coinreaders.com/189572",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:08:59.974151",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759147741_1",
+        "title": "매수세냐 약세냐! 이더리움, 지금이 운명의 갈림길",
+        "url": "https://www.coinreaders.com/189568",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:09:01.541301",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759147739_0",
+        "title": "암호화폐, 숏 포지션 2억 6,000만 달러 청산...반등 신호일까?",
+        "url": "https://www.coinreaders.com/189572",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:08:59.974151",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759147739_0",
+        "title": "암호화폐, 숏 포지션 2억 6,000만 달러 청산...반등 신호일까?",
+        "url": "https://www.coinreaders.com/189572",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:08:59.974151",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759147741_1",
+        "title": "매수세냐 약세냐! 이더리움, 지금이 운명의 갈림길",
+        "url": "https://www.coinreaders.com/189568",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:09:01.541301",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759147739_0",
+        "title": "암호화폐, 숏 포지션 2억 6,000만 달러 청산...반등 신호일까?",
+        "url": "https://www.coinreaders.com/189572",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:08:59.974151",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759147739_0",
+        "title": "암호화폐, 숏 포지션 2억 6,000만 달러 청산...반등 신호일까?",
+        "url": "https://www.coinreaders.com/189572",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:08:59.974151",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759147739_0",
+        "title": "암호화폐, 숏 포지션 2억 6,000만 달러 청산...반등 신호일까?",
+        "url": "https://www.coinreaders.com/189572",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:08:59.974151",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759147741_1",
+        "title": "매수세냐 약세냐! 이더리움, 지금이 운명의 갈림길",
+        "url": "https://www.coinreaders.com/189568",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T21:09:01.541301",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759147739_0",
+      "title": "암호화폐, 숏 포지션 2억 6,000만 달러 청산...반등 신호일까?",
+      "url": "https://www.coinreaders.com/189572",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T21:08:59.974151",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250929_2109.json"
+}

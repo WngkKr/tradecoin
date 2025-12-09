@@ -1,0 +1,423 @@
+{
+  "timestamp": "2025-09-23T06:57:55.977261",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758578266_0",
+        "title": "비트코인·이더리움 ETF 자금 폭발, 올해 500억달러 돌파 임박",
+        "url": "https://www.coinreaders.com/188200",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:46.941770",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578267_1",
+        "title": "XRP, 호재에도 불구하고 2.83달러까지 밀린 이유",
+        "url": "https://www.coinreaders.com/188197",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:47.811077",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578268_2",
+        "title": "연준 금리 인하 직후 이더리움 급락, 투자자 공포 확산",
+        "url": "https://www.coinreaders.com/188196",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:48.589783",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578271_5",
+        "title": "비트마인 11억 달러 매수에도 이더리움 급락...4천달러 방어 가능할까",
+        "url": "https://www.coinreaders.com/188193",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:51.083673",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758578269_3",
+        "title": "스트래티지, 20% 조정 후에도 여전히 비트코인보다 매력적일까",
+        "url": "https://www.coinreaders.com/188195",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:49.362719",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578270_4",
+        "title": "강제 청산에 무너진 도지코인, 하룻밤 새 9% 폭락…반등은 가능할까",
+        "url": "https://www.coinreaders.com/188194",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:50.206661",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578271_5",
+        "title": "비트마인 11억 달러 매수에도 이더리움 급락...4천달러 방어 가능할까",
+        "url": "https://www.coinreaders.com/188193",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:51.083673",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758578266_0",
+        "title": "비트코인·이더리움 ETF 자금 폭발, 올해 500억달러 돌파 임박",
+        "url": "https://www.coinreaders.com/188200",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:46.941770",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578267_1",
+        "title": "XRP, 호재에도 불구하고 2.83달러까지 밀린 이유",
+        "url": "https://www.coinreaders.com/188197",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:47.811077",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578268_2",
+        "title": "연준 금리 인하 직후 이더리움 급락, 투자자 공포 확산",
+        "url": "https://www.coinreaders.com/188196",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:48.589783",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578269_3",
+        "title": "스트래티지, 20% 조정 후에도 여전히 비트코인보다 매력적일까",
+        "url": "https://www.coinreaders.com/188195",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:49.362719",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578270_4",
+        "title": "강제 청산에 무너진 도지코인, 하룻밤 새 9% 폭락…반등은 가능할까",
+        "url": "https://www.coinreaders.com/188194",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:50.206661",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578271_5",
+        "title": "비트마인 11억 달러 매수에도 이더리움 급락...4천달러 방어 가능할까",
+        "url": "https://www.coinreaders.com/188193",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:51.083673",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758578270_4",
+        "title": "강제 청산에 무너진 도지코인, 하룻밤 새 9% 폭락…반등은 가능할까",
+        "url": "https://www.coinreaders.com/188194",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:50.206661",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758578270_4",
+        "title": "강제 청산에 무너진 도지코인, 하룻밤 새 9% 폭락…반등은 가능할까",
+        "url": "https://www.coinreaders.com/188194",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:50.206661",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758578266_0",
+        "title": "비트코인·이더리움 ETF 자금 폭발, 올해 500억달러 돌파 임박",
+        "url": "https://www.coinreaders.com/188200",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:46.941770",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578267_1",
+        "title": "XRP, 호재에도 불구하고 2.83달러까지 밀린 이유",
+        "url": "https://www.coinreaders.com/188197",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:47.811077",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578270_4",
+        "title": "강제 청산에 무너진 도지코인, 하룻밤 새 9% 폭락…반등은 가능할까",
+        "url": "https://www.coinreaders.com/188194",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:50.206661",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758578269_3",
+        "title": "스트래티지, 20% 조정 후에도 여전히 비트코인보다 매력적일까",
+        "url": "https://www.coinreaders.com/188195",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:49.362719",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758578266_0",
+        "title": "비트코인·이더리움 ETF 자금 폭발, 올해 500억달러 돌파 임박",
+        "url": "https://www.coinreaders.com/188200",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:46.941770",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578268_2",
+        "title": "연준 금리 인하 직후 이더리움 급락, 투자자 공포 확산",
+        "url": "https://www.coinreaders.com/188196",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:48.589783",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758578271_5",
+        "title": "비트마인 11억 달러 매수에도 이더리움 급락...4천달러 방어 가능할까",
+        "url": "https://www.coinreaders.com/188193",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:51.083673",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758578267_1",
+        "title": "XRP, 호재에도 불구하고 2.83달러까지 밀린 이유",
+        "url": "https://www.coinreaders.com/188197",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:57:47.811077",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758578266_0",
+      "title": "비트코인·이더리움 ETF 자금 폭발, 올해 500억달러 돌파 임박",
+      "url": "https://www.coinreaders.com/188200",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T06:57:46.941770",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758578267_1",
+      "title": "XRP, 호재에도 불구하고 2.83달러까지 밀린 이유",
+      "url": "https://www.coinreaders.com/188197",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T06:57:47.811077",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758578268_2",
+      "title": "연준 금리 인하 직후 이더리움 급락, 투자자 공포 확산",
+      "url": "https://www.coinreaders.com/188196",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T06:57:48.589783",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758578271_5",
+      "title": "비트마인 11억 달러 매수에도 이더리움 급락...4천달러 방어 가능할까",
+      "url": "https://www.coinreaders.com/188193",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T06:57:51.083673",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250923_0657.json"
+}

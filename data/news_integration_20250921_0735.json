@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-09-21T07:35:30.022796",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758405911_0",
+        "title": "XRP, 실제 가치는 7달러...3달러 못 벗어나는 이유는?",
+        "url": "https://www.coinreaders.com/187842",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T07:05:11.675205",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758405911_0",
+        "title": "XRP, 실제 가치는 7달러...3달러 못 벗어나는 이유는?",
+        "url": "https://www.coinreaders.com/187842",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T07:05:11.675205",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758405911_0",
+        "title": "XRP, 실제 가치는 7달러...3달러 못 벗어나는 이유는?",
+        "url": "https://www.coinreaders.com/187842",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T07:05:11.675205",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758405911_0",
+      "title": "XRP, 실제 가치는 7달러...3달러 못 벗어나는 이유는?",
+      "url": "https://www.coinreaders.com/187842",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T07:05:11.675205",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "SHIB"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_0705.json"
+}

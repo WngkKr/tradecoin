@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-10-03T17:51:54.173439",
+  "by_coin": {},
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759481510_0",
+      "title": "스텔라(XLM), 10월 강세 전통 이어갈까? 0.50달러 돌파 주목",
+      "url": "https://www.coinreaders.com/190452",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T17:51:50.320866",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1751.json"
+}

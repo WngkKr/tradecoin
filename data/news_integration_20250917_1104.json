@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-17T11:04:13.554493",
+  "by_coin": {},
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758074646_0",
+      "title": "고래들, XRP 1억 6,000만개 던졌다...2.4 달러 아래로 추락할까",
+      "url": "https://www.coinreaders.com/186980",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T11:04:06.325117",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1104.json"
+}

@@ -1,0 +1,157 @@
+{
+  "timestamp": "2025-09-23T15:07:01.823992",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758607615_0",
+        "title": "그레이스케일, 도지코인 ETF 수정 서류 제출...매수 급증",
+        "url": "https://www.coinreaders.com/188302",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:06:55.937563",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758607615_0",
+        "title": "그레이스케일, 도지코인 ETF 수정 서류 제출...매수 급증",
+        "url": "https://www.coinreaders.com/188302",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:06:55.937563",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758607615_0",
+        "title": "그레이스케일, 도지코인 ETF 수정 서류 제출...매수 급증",
+        "url": "https://www.coinreaders.com/188302",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:06:55.937563",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758607616_1",
+        "title": "비트코인, 11만 달러 방어선도 뚫릴 위기...대폭락 시작되나",
+        "url": "https://www.coinreaders.com/188296",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:06:56.149878",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758607615_0",
+        "title": "그레이스케일, 도지코인 ETF 수정 서류 제출...매수 급증",
+        "url": "https://www.coinreaders.com/188302",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:06:55.937563",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758607615_0",
+        "title": "그레이스케일, 도지코인 ETF 수정 서류 제출...매수 급증",
+        "url": "https://www.coinreaders.com/188302",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:06:55.937563",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758607615_0",
+        "title": "그레이스케일, 도지코인 ETF 수정 서류 제출...매수 급증",
+        "url": "https://www.coinreaders.com/188302",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T15:06:55.937563",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758607615_0",
+      "title": "그레이스케일, 도지코인 ETF 수정 서류 제출...매수 급증",
+      "url": "https://www.coinreaders.com/188302",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T15:06:55.937563",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758607616_1",
+      "title": "비트코인, 11만 달러 방어선도 뚫릴 위기...대폭락 시작되나",
+      "url": "https://www.coinreaders.com/188296",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T15:06:56.149878",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250923_1507.json"
+}

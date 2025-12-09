@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-24T10:00:20.447290",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758675615_0",
+        "title": "이더리움, 4,100달러 사수...강세 전환 신호에 시장 술렁",
+        "url": "https://www.coinreaders.com/188515",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:00:15.882023",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758675615_0",
+        "title": "이더리움, 4,100달러 사수...강세 전환 신호에 시장 술렁",
+        "url": "https://www.coinreaders.com/188515",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:00:15.882023",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758675615_0",
+      "title": "이더리움, 4,100달러 사수...강세 전환 신호에 시장 술렁",
+      "url": "https://www.coinreaders.com/188515",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T10:00:15.882023",
+      "related_coins": [
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_1000.json"
+}

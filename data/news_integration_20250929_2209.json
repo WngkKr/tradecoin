@@ -1,0 +1,117 @@
+{
+  "timestamp": "2025-09-29T22:09:41.248306",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759151376_0",
+        "title": "SEC, ETF 승인 연기 철회 '깜짝' 결정...알트코인 랠리 이어질까?",
+        "url": "https://www.coinreaders.com/189587",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T22:09:36.719439",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759151376_0",
+        "title": "SEC, ETF 승인 연기 철회 '깜짝' 결정...알트코인 랠리 이어질까?",
+        "url": "https://www.coinreaders.com/189587",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T22:09:36.719439",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759151376_0",
+        "title": "SEC, ETF 승인 연기 철회 '깜짝' 결정...알트코인 랠리 이어질까?",
+        "url": "https://www.coinreaders.com/189587",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T22:09:36.719439",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759151376_0",
+        "title": "SEC, ETF 승인 연기 철회 '깜짝' 결정...알트코인 랠리 이어질까?",
+        "url": "https://www.coinreaders.com/189587",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T22:09:36.719439",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759151376_0",
+        "title": "SEC, ETF 승인 연기 철회 '깜짝' 결정...알트코인 랠리 이어질까?",
+        "url": "https://www.coinreaders.com/189587",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T22:09:36.719439",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759151376_0",
+      "title": "SEC, ETF 승인 연기 철회 '깜짝' 결정...알트코인 랠리 이어질까?",
+      "url": "https://www.coinreaders.com/189587",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T22:09:36.719439",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler",
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_2209.json"
+}

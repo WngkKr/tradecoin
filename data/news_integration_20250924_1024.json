@@ -1,0 +1,160 @@
+{
+  "timestamp": "2025-09-24T10:24:39.512455",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758677073_2",
+        "title": "솔라나 제친 BNB, 이제는 XRP·이더리움까지 넘본다",
+        "url": "https://www.coinreaders.com/188516",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:24:33.527758",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758677072_0",
+        "title": "도지코인, 고래들 탈출 중...네트워크 붕괴 조짐",
+        "url": "https://www.coinreaders.com/188522",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:24:32.430165",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758677073_2",
+        "title": "솔라나 제친 BNB, 이제는 XRP·이더리움까지 넘본다",
+        "url": "https://www.coinreaders.com/188516",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:24:33.527758",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758677072_0",
+        "title": "도지코인, 고래들 탈출 중...네트워크 붕괴 조짐",
+        "url": "https://www.coinreaders.com/188522",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:24:32.430165",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758677072_0",
+        "title": "도지코인, 고래들 탈출 중...네트워크 붕괴 조짐",
+        "url": "https://www.coinreaders.com/188522",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:24:32.430165",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758677073_2",
+        "title": "솔라나 제친 BNB, 이제는 XRP·이더리움까지 넘본다",
+        "url": "https://www.coinreaders.com/188516",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:24:33.527758",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758677073_2",
+        "title": "솔라나 제친 BNB, 이제는 XRP·이더리움까지 넘본다",
+        "url": "https://www.coinreaders.com/188516",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:24:33.527758",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758677073_2",
+        "title": "솔라나 제친 BNB, 이제는 XRP·이더리움까지 넘본다",
+        "url": "https://www.coinreaders.com/188516",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:24:33.527758",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758677072_0",
+      "title": "도지코인, 고래들 탈출 중...네트워크 붕괴 조짐",
+      "url": "https://www.coinreaders.com/188522",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T10:24:32.430165",
+      "related_coins": [
+        "DOGE",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250924_1024.json"
+}

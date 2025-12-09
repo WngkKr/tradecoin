@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-09-17T19:25:17.437373",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758104104_0",
+        "title": "비트코인, 9만 달러 추락설 vs 12만 달러 돌파설...갈림길에 섰다",
+        "url": "https://www.coinreaders.com/187103",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:15:04.625342",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758104104_0",
+        "title": "비트코인, 9만 달러 추락설 vs 12만 달러 돌파설...갈림길에 섰다",
+        "url": "https://www.coinreaders.com/187103",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:15:04.625342",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758104104_0",
+        "title": "비트코인, 9만 달러 추락설 vs 12만 달러 돌파설...갈림길에 섰다",
+        "url": "https://www.coinreaders.com/187103",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:15:04.625342",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758104104_0",
+      "title": "비트코인, 9만 달러 추락설 vs 12만 달러 돌파설...갈림길에 섰다",
+      "url": "https://www.coinreaders.com/187103",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T19:15:04.625342",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1915.json"
+}

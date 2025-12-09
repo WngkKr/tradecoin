@@ -1,0 +1,206 @@
+{
+  "timestamp": "2025-09-24T10:34:46.454105",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758677681_1",
+        "title": "스테이블코인, 이제 파생상품 담보로 쓰일 수 있을까?",
+        "url": "https://www.coinreaders.com/188525",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:34:41.007635",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758677681_2",
+        "title": "알트코인 80억 달러 증발, 진짜 위기는 스테이블코인인가?",
+        "url": "https://www.coinreaders.com/188524",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:34:41.831327",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758677681_1",
+        "title": "스테이블코인, 이제 파생상품 담보로 쓰일 수 있을까?",
+        "url": "https://www.coinreaders.com/188525",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:34:41.007635",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758677681_2",
+        "title": "알트코인 80억 달러 증발, 진짜 위기는 스테이블코인인가?",
+        "url": "https://www.coinreaders.com/188524",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:34:41.831327",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758677681_1",
+        "title": "스테이블코인, 이제 파생상품 담보로 쓰일 수 있을까?",
+        "url": "https://www.coinreaders.com/188525",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:34:41.007635",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758677681_1",
+        "title": "스테이블코인, 이제 파생상품 담보로 쓰일 수 있을까?",
+        "url": "https://www.coinreaders.com/188525",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:34:41.007635",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758677681_1",
+        "title": "스테이블코인, 이제 파생상품 담보로 쓰일 수 있을까?",
+        "url": "https://www.coinreaders.com/188525",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:34:41.007635",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758677681_2",
+        "title": "알트코인 80억 달러 증발, 진짜 위기는 스테이블코인인가?",
+        "url": "https://www.coinreaders.com/188524",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:34:41.831327",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758677681_1",
+        "title": "스테이블코인, 이제 파생상품 담보로 쓰일 수 있을까?",
+        "url": "https://www.coinreaders.com/188525",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:34:41.007635",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758677681_1",
+      "title": "스테이블코인, 이제 파생상품 담보로 쓰일 수 있을까?",
+      "url": "https://www.coinreaders.com/188525",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T10:34:41.007635",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758677681_2",
+      "title": "알트코인 80억 달러 증발, 진짜 위기는 스테이블코인인가?",
+      "url": "https://www.coinreaders.com/188524",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T10:34:41.831327",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250924_1034.json"
+}

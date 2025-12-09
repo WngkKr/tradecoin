@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-09-19T22:38:30.923621",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758289105_0",
+        "title": "BNB, 10억 달러 재무전략으로 기관 투자자 끌어올까?",
+        "url": "https://www.coinreaders.com/187684",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T22:38:25.327961",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758289105_0",
+        "title": "BNB, 10억 달러 재무전략으로 기관 투자자 끌어올까?",
+        "url": "https://www.coinreaders.com/187684",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T22:38:25.327961",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758289105_0",
+        "title": "BNB, 10억 달러 재무전략으로 기관 투자자 끌어올까?",
+        "url": "https://www.coinreaders.com/187684",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T22:38:25.327961",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758289105_0",
+        "title": "BNB, 10억 달러 재무전략으로 기관 투자자 끌어올까?",
+        "url": "https://www.coinreaders.com/187684",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T22:38:25.327961",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "SHIB",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758289105_0",
+      "title": "BNB, 10억 달러 재무전략으로 기관 투자자 끌어올까?",
+      "url": "https://www.coinreaders.com/187684",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T22:38:25.327961",
+      "related_coins": [
+        "BTC",
+        "SHIB",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_2238.json"
+}

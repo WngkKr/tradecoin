@@ -1,0 +1,161 @@
+{
+  "timestamp": "2025-09-22T03:10:27.594938",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758478222_2",
+        "title": "도지코인, 1-2 패턴 완성 시 다음 목표가는 어디일까",
+        "url": "https://www.coinreaders.com/187908",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:10:22.335123",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758478220_0",
+        "title": "카르다노, 0.89달러에서 최대 6달러까지 반등하나?",
+        "url": "https://www.coinreaders.com/187910",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:10:20.769901",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758478221_1",
+        "title": "美 연방 부채 37조 달러...비트코인 100만 달러 전망 5가지 근거",
+        "url": "https://www.coinreaders.com/187909",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:10:21.546960",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758478222_2",
+        "title": "도지코인, 1-2 패턴 완성 시 다음 목표가는 어디일까",
+        "url": "https://www.coinreaders.com/187908",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:10:22.335123",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758478222_2",
+        "title": "도지코인, 1-2 패턴 완성 시 다음 목표가는 어디일까",
+        "url": "https://www.coinreaders.com/187908",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:10:22.335123",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758478222_2",
+        "title": "도지코인, 1-2 패턴 완성 시 다음 목표가는 어디일까",
+        "url": "https://www.coinreaders.com/187908",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:10:22.335123",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758478221_1",
+        "title": "美 연방 부채 37조 달러...비트코인 100만 달러 전망 5가지 근거",
+        "url": "https://www.coinreaders.com/187909",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:10:21.546960",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758478221_1",
+        "title": "美 연방 부채 37조 달러...비트코인 100만 달러 전망 5가지 근거",
+        "url": "https://www.coinreaders.com/187909",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T03:10:21.546960",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758478220_0",
+      "title": "카르다노, 0.89달러에서 최대 6달러까지 반등하나?",
+      "url": "https://www.coinreaders.com/187910",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T03:10:20.769901",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758478221_1",
+      "title": "美 연방 부채 37조 달러...비트코인 100만 달러 전망 5가지 근거",
+      "url": "https://www.coinreaders.com/187909",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T03:10:21.546960",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250922_0310.json"
+}

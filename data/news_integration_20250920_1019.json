@@ -1,0 +1,380 @@
+{
+  "timestamp": "2025-09-20T10:19:26.835092",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758331157_0",
+        "title": "XRP, ETF 출범 후 불 플래그 포착...15달러 노린다",
+        "url": "https://www.coinreaders.com/187762",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:17.639242",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331158_1",
+        "title": "고래들, 이더리움·도지코인·XRP 매집...가격 흐름은 엇갈렸다",
+        "url": "https://www.coinreaders.com/187757",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:18.439286",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331159_2",
+        "title": "페이팔의 스테이블코인 PYUSD, 은행 없는 세상에서 진짜 달러 대체제가 될까",
+        "url": "https://www.coinreaders.com/187756",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:19.658122",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331161_4",
+        "title": "ETF 승인 앞둔 XRP, 이더리움과 격차 좁힐 수 있을까?",
+        "url": "https://www.coinreaders.com/187754",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:21.332400",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758331157_0",
+        "title": "XRP, ETF 출범 후 불 플래그 포착...15달러 노린다",
+        "url": "https://www.coinreaders.com/187762",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:17.639242",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331158_1",
+        "title": "고래들, 이더리움·도지코인·XRP 매집...가격 흐름은 엇갈렸다",
+        "url": "https://www.coinreaders.com/187757",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:18.439286",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331160_3",
+        "title": "고래 매수에도 숏 포지션 우위, 도지코인 향후 방향은?",
+        "url": "https://www.coinreaders.com/187755",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:20.433509",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758331157_0",
+        "title": "XRP, ETF 출범 후 불 플래그 포착...15달러 노린다",
+        "url": "https://www.coinreaders.com/187762",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:17.639242",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331158_1",
+        "title": "고래들, 이더리움·도지코인·XRP 매집...가격 흐름은 엇갈렸다",
+        "url": "https://www.coinreaders.com/187757",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:18.439286",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331159_2",
+        "title": "페이팔의 스테이블코인 PYUSD, 은행 없는 세상에서 진짜 달러 대체제가 될까",
+        "url": "https://www.coinreaders.com/187756",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:19.658122",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331161_4",
+        "title": "ETF 승인 앞둔 XRP, 이더리움과 격차 좁힐 수 있을까?",
+        "url": "https://www.coinreaders.com/187754",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:21.332400",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758331158_1",
+        "title": "고래들, 이더리움·도지코인·XRP 매집...가격 흐름은 엇갈렸다",
+        "url": "https://www.coinreaders.com/187757",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:18.439286",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331160_3",
+        "title": "고래 매수에도 숏 포지션 우위, 도지코인 향후 방향은?",
+        "url": "https://www.coinreaders.com/187755",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:20.433509",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758331158_1",
+        "title": "고래들, 이더리움·도지코인·XRP 매집...가격 흐름은 엇갈렸다",
+        "url": "https://www.coinreaders.com/187757",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:18.439286",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331160_3",
+        "title": "고래 매수에도 숏 포지션 우위, 도지코인 향후 방향은?",
+        "url": "https://www.coinreaders.com/187755",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:20.433509",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758331158_1",
+        "title": "고래들, 이더리움·도지코인·XRP 매집...가격 흐름은 엇갈렸다",
+        "url": "https://www.coinreaders.com/187757",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:18.439286",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331161_4",
+        "title": "ETF 승인 앞둔 XRP, 이더리움과 격차 좁힐 수 있을까?",
+        "url": "https://www.coinreaders.com/187754",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:21.332400",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758331158_1",
+        "title": "고래들, 이더리움·도지코인·XRP 매집...가격 흐름은 엇갈렸다",
+        "url": "https://www.coinreaders.com/187757",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:18.439286",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331159_2",
+        "title": "페이팔의 스테이블코인 PYUSD, 은행 없는 세상에서 진짜 달러 대체제가 될까",
+        "url": "https://www.coinreaders.com/187756",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:19.658122",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758331161_4",
+        "title": "ETF 승인 앞둔 XRP, 이더리움과 격차 좁힐 수 있을까?",
+        "url": "https://www.coinreaders.com/187754",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:21.332400",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758331161_4",
+        "title": "ETF 승인 앞둔 XRP, 이더리움과 격차 좁힐 수 있을까?",
+        "url": "https://www.coinreaders.com/187754",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T10:19:21.332400",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758331157_0",
+      "title": "XRP, ETF 출범 후 불 플래그 포착...15달러 노린다",
+      "url": "https://www.coinreaders.com/187762",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T10:19:17.639242",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758331159_2",
+      "title": "페이팔의 스테이블코인 PYUSD, 은행 없는 세상에서 진짜 달러 대체제가 될까",
+      "url": "https://www.coinreaders.com/187756",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T10:19:19.658122",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758331161_4",
+      "title": "ETF 승인 앞둔 XRP, 이더리움과 격차 좁힐 수 있을까?",
+      "url": "https://www.coinreaders.com/187754",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T10:19:21.332400",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 5,
+  "source_file": "news/all_news_20250920_1019.json"
+}

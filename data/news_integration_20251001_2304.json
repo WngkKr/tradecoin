@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-10-01T23:04:47.569634",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759327481_0",
+        "title": "스트라이프, 스테이블코인 발행 플랫폼 출범...테더·서클 독점 깨나",
+        "url": "https://www.coinreaders.com/190108",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:04:41.207998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759327481_0",
+        "title": "스트라이프, 스테이블코인 발행 플랫폼 출범...테더·서클 독점 깨나",
+        "url": "https://www.coinreaders.com/190108",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:04:41.207998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759327481_0",
+        "title": "스트라이프, 스테이블코인 발행 플랫폼 출범...테더·서클 독점 깨나",
+        "url": "https://www.coinreaders.com/190108",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:04:41.207998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759327481_0",
+      "title": "스트라이프, 스테이블코인 발행 플랫폼 출범...테더·서클 독점 깨나",
+      "url": "https://www.coinreaders.com/190108",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T23:04:41.207998",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_2304.json"
+}

@@ -1,0 +1,137 @@
+{
+  "timestamp": "2025-10-02T04:58:40.164555",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759348107_0",
+        "title": "22달러부터 최대 50달러까지...XRP, ETF 승인 후 이어질 가격 폭등 시나리오",
+        "url": "https://www.coinreaders.com/190142",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:48:27.281045",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759348107_0",
+        "title": "22달러부터 최대 50달러까지...XRP, ETF 승인 후 이어질 가격 폭등 시나리오",
+        "url": "https://www.coinreaders.com/190142",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:48:27.281045",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759348107_0",
+        "title": "22달러부터 최대 50달러까지...XRP, ETF 승인 후 이어질 가격 폭등 시나리오",
+        "url": "https://www.coinreaders.com/190142",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:48:27.281045",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759348107_0",
+        "title": "22달러부터 최대 50달러까지...XRP, ETF 승인 후 이어질 가격 폭등 시나리오",
+        "url": "https://www.coinreaders.com/190142",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:48:27.281045",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759348107_0",
+        "title": "22달러부터 최대 50달러까지...XRP, ETF 승인 후 이어질 가격 폭등 시나리오",
+        "url": "https://www.coinreaders.com/190142",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:48:27.281045",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "SHIB",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759348107_0",
+        "title": "22달러부터 최대 50달러까지...XRP, ETF 승인 후 이어질 가격 폭등 시나리오",
+        "url": "https://www.coinreaders.com/190142",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:48:27.281045",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "SHIB",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759348107_0",
+      "title": "22달러부터 최대 50달러까지...XRP, ETF 승인 후 이어질 가격 폭등 시나리오",
+      "url": "https://www.coinreaders.com/190142",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T04:48:27.281045",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "SHIB",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0448.json"
+}

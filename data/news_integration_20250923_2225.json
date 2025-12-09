@@ -1,0 +1,186 @@
+{
+  "timestamp": "2025-09-23T22:25:01.020193",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758633895_1",
+        "title": "ETF 상장에도 추락? 도지코인의 아이러니한 하락",
+        "url": "https://www.coinreaders.com/188402",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:24:55.321613",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758633895_1",
+        "title": "ETF 상장에도 추락? 도지코인의 아이러니한 하락",
+        "url": "https://www.coinreaders.com/188402",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:24:55.321613",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758633895_1",
+        "title": "ETF 상장에도 추락? 도지코인의 아이러니한 하락",
+        "url": "https://www.coinreaders.com/188402",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:24:55.321613",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758633895_1",
+        "title": "ETF 상장에도 추락? 도지코인의 아이러니한 하락",
+        "url": "https://www.coinreaders.com/188402",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:24:55.321613",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758633895_1",
+        "title": "ETF 상장에도 추락? 도지코인의 아이러니한 하락",
+        "url": "https://www.coinreaders.com/188402",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:24:55.321613",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758633895_1",
+        "title": "ETF 상장에도 추락? 도지코인의 아이러니한 하락",
+        "url": "https://www.coinreaders.com/188402",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:24:55.321613",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758633895_1",
+        "title": "ETF 상장에도 추락? 도지코인의 아이러니한 하락",
+        "url": "https://www.coinreaders.com/188402",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:24:55.321613",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758633895_1",
+        "title": "ETF 상장에도 추락? 도지코인의 아이러니한 하락",
+        "url": "https://www.coinreaders.com/188402",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:24:55.321613",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758633895_1",
+      "title": "ETF 상장에도 추락? 도지코인의 아이러니한 하락",
+      "url": "https://www.coinreaders.com/188402",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T22:24:55.321613",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250923_2225.json"
+}

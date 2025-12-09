@@ -1,0 +1,83 @@
+{
+  "timestamp": "2025-09-24T05:06:09.215793",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758657964_0",
+        "title": "\"XRP 900달러 간다\"...스위프트 점유 시 상상 초월 계산법",
+        "url": "https://www.coinreaders.com/188469",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T05:06:04.856711",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758657964_0",
+        "title": "\"XRP 900달러 간다\"...스위프트 점유 시 상상 초월 계산법",
+        "url": "https://www.coinreaders.com/188469",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T05:06:04.856711",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758657964_0",
+        "title": "\"XRP 900달러 간다\"...스위프트 점유 시 상상 초월 계산법",
+        "url": "https://www.coinreaders.com/188469",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T05:06:04.856711",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758657964_0",
+        "title": "\"XRP 900달러 간다\"...스위프트 점유 시 상상 초월 계산법",
+        "url": "https://www.coinreaders.com/188469",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T05:06:04.856711",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758657964_0",
+      "title": "\"XRP 900달러 간다\"...스위프트 점유 시 상상 초월 계산법",
+      "url": "https://www.coinreaders.com/188469",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T05:06:04.856711",
+      "related_coins": [
+        "BTC",
+        "SHIB",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_0506.json"
+}

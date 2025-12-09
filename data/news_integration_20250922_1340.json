@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-09-22T13:40:06.241347",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758516000_0",
+        "title": "약세 압력 속, 비트코인·이더리·XRP 어디까지 떨어질까",
+        "url": "https://www.coinreaders.com/188000",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T13:40:00.959649",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758516000_0",
+        "title": "약세 압력 속, 비트코인·이더리·XRP 어디까지 떨어질까",
+        "url": "https://www.coinreaders.com/188000",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T13:40:00.959649",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758516000_0",
+        "title": "약세 압력 속, 비트코인·이더리·XRP 어디까지 떨어질까",
+        "url": "https://www.coinreaders.com/188000",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T13:40:00.959649",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758516000_0",
+        "title": "약세 압력 속, 비트코인·이더리·XRP 어디까지 떨어질까",
+        "url": "https://www.coinreaders.com/188000",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T13:40:00.959649",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1340.json"
+}

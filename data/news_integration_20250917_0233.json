@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-09-17T02:33:36.671198",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758043391_0",
+        "title": "2,220% 폭등! 스트래티지, 비트코인 보유 효과 입증",
+        "url": "https://www.coinreaders.com/186900",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T02:23:11.555924",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758043391_0",
+        "title": "2,220% 폭등! 스트래티지, 비트코인 보유 효과 입증",
+        "url": "https://www.coinreaders.com/186900",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T02:23:11.555924",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_0223.json"
+}

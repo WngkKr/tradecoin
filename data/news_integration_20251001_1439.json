@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-10-01T14:39:30.805742",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759297165_0",
+        "title": "미국 정부 셧다운 발표...\"정부 멈추자 코인이 달린다\"",
+        "url": "https://www.coinreaders.com/190009",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:39:25.229994",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759297165_0",
+        "title": "미국 정부 셧다운 발표...\"정부 멈추자 코인이 달린다\"",
+        "url": "https://www.coinreaders.com/190009",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:39:25.229994",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759297165_0",
+        "title": "미국 정부 셧다운 발표...\"정부 멈추자 코인이 달린다\"",
+        "url": "https://www.coinreaders.com/190009",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:39:25.229994",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759297165_0",
+        "title": "미국 정부 셧다운 발표...\"정부 멈추자 코인이 달린다\"",
+        "url": "https://www.coinreaders.com/190009",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:39:25.229994",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759297165_0",
+        "title": "미국 정부 셧다운 발표...\"정부 멈추자 코인이 달린다\"",
+        "url": "https://www.coinreaders.com/190009",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:39:25.229994",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "MAGA",
+          "ETH",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759297165_0",
+      "title": "미국 정부 셧다운 발표...\"정부 멈추자 코인이 달린다\"",
+      "url": "https://www.coinreaders.com/190009",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T14:39:25.229994",
+      "related_coins": [
+        "MAGA",
+        "ETH",
+        "BTC",
+        "TRUMP"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1439.json"
+}

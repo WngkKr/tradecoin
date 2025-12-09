@@ -1,0 +1,170 @@
+{
+  "timestamp": "2025-09-19T17:11:50.595178",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758269504_0",
+        "title": "트럼프 행정부, CFTC 수장 교체...암호화폐 규제 새 국면 열리나?",
+        "url": "https://www.coinreaders.com/187622",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T17:11:44.821918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758269504_0",
+        "title": "트럼프 행정부, CFTC 수장 교체...암호화폐 규제 새 국면 열리나?",
+        "url": "https://www.coinreaders.com/187622",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T17:11:44.821918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758269505_1",
+        "title": "XRP, 추세선 방어 성공...3.25달러까지 갈까?",
+        "url": "https://www.coinreaders.com/187618",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T17:11:45.610553",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758269504_0",
+        "title": "트럼프 행정부, CFTC 수장 교체...암호화폐 규제 새 국면 열리나?",
+        "url": "https://www.coinreaders.com/187622",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T17:11:44.821918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758269504_0",
+        "title": "트럼프 행정부, CFTC 수장 교체...암호화폐 규제 새 국면 열리나?",
+        "url": "https://www.coinreaders.com/187622",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T17:11:44.821918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758269504_0",
+        "title": "트럼프 행정부, CFTC 수장 교체...암호화폐 규제 새 국면 열리나?",
+        "url": "https://www.coinreaders.com/187622",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T17:11:44.821918",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA",
+          "ETH"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758269504_0",
+        "title": "트럼프 행정부, CFTC 수장 교체...암호화폐 규제 새 국면 열리나?",
+        "url": "https://www.coinreaders.com/187622",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T17:11:44.821918",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA",
+          "ETH"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758269504_0",
+      "title": "트럼프 행정부, CFTC 수장 교체...암호화폐 규제 새 국면 열리나?",
+      "url": "https://www.coinreaders.com/187622",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T17:11:44.821918",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758269505_1",
+      "title": "XRP, 추세선 방어 성공...3.25달러까지 갈까?",
+      "url": "https://www.coinreaders.com/187618",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T17:11:45.610553",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250919_1711.json"
+}

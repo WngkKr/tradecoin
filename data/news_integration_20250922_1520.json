@@ -1,0 +1,82 @@
+{
+  "timestamp": "2025-09-22T15:20:33.688191",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758521424_0",
+        "title": "비트코인, 11만 3,200달러 지지선 테스트 임박...가격 회복 가능할까?",
+        "url": "https://www.coinreaders.com/188019",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T15:10:24.596706",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758521425_1",
+        "title": "XRP, 첫 미국 ETF 상장에도 하루 새 4% 급락",
+        "url": "https://www.coinreaders.com/188012",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T15:10:25.388873",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758521425_1",
+        "title": "XRP, 첫 미국 ETF 상장에도 하루 새 4% 급락",
+        "url": "https://www.coinreaders.com/188012",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T15:10:25.388873",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758521424_0",
+      "title": "비트코인, 11만 3,200달러 지지선 테스트 임박...가격 회복 가능할까?",
+      "url": "https://www.coinreaders.com/188019",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T15:10:24.596706",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758521425_1",
+      "title": "XRP, 첫 미국 ETF 상장에도 하루 새 4% 급락",
+      "url": "https://www.coinreaders.com/188012",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T15:10:25.388873",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250922_1510.json"
+}

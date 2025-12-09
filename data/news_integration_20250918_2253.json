@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-18T22:53:24.338983",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758203600_0",
+        "title": "이더리움, 매도 압력 실종...올해 목표는 5,430달러 도달",
+        "url": "https://www.coinreaders.com/187436",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:53:20.317114",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758203600_0",
+        "title": "이더리움, 매도 압력 실종...올해 목표는 5,430달러 도달",
+        "url": "https://www.coinreaders.com/187436",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:53:20.317114",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758203600_0",
+      "title": "이더리움, 매도 압력 실종...올해 목표는 5,430달러 도달",
+      "url": "https://www.coinreaders.com/187436",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T22:53:20.317114",
+      "related_coins": [
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250918_2253.json"
+}

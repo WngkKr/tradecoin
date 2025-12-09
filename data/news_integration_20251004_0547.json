@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-10-04T05:47:18.486980",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759522010_0",
+        "title": "비트코인만의 장세 끝났다...이더리움이 왕좌를 노린다",
+        "url": "https://www.coinreaders.com/190522",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T05:06:50.341050",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759522010_0",
+        "title": "비트코인만의 장세 끝났다...이더리움이 왕좌를 노린다",
+        "url": "https://www.coinreaders.com/190522",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T05:06:50.341050",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759522010_0",
+        "title": "비트코인만의 장세 끝났다...이더리움이 왕좌를 노린다",
+        "url": "https://www.coinreaders.com/190522",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T05:06:50.341050",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251004_0506.json"
+}

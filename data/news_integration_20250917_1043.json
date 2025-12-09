@@ -1,0 +1,111 @@
+{
+  "timestamp": "2025-09-17T10:43:26.092264",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758073400_2",
+        "title": "[코툰] \"연준 금리 인하 시, 나스닥100·비트코인·이더리움 최대 수혜\"",
+        "url": "https://www.coinreaders.com/186971",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T10:43:20.801938",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": []
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758073400_0",
+        "title": "샌티먼트 \"비트코인, 금리 인하 앞두고 투자 심리 과열\" 경고",
+        "url": "https://www.coinreaders.com/186978",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T10:43:20.031861",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758073400_2",
+        "title": "[코툰] \"연준 금리 인하 시, 나스닥100·비트코인·이더리움 최대 수혜\"",
+        "url": "https://www.coinreaders.com/186971",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T10:43:20.801938",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": []
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758073400_2",
+        "title": "[코툰] \"연준 금리 인하 시, 나스닥100·비트코인·이더리움 최대 수혜\"",
+        "url": "https://www.coinreaders.com/186971",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T10:43:20.801938",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": []
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758073400_2",
+        "title": "[코툰] \"연준 금리 인하 시, 나스닥100·비트코인·이더리움 최대 수혜\"",
+        "url": "https://www.coinreaders.com/186971",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T10:43:20.801938",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": []
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758073400_0",
+      "title": "샌티먼트 \"비트코인, 금리 인하 앞두고 투자 심리 과열\" 경고",
+      "url": "https://www.coinreaders.com/186978",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T10:43:20.031861",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758073400_2",
+      "title": "[코툰] \"연준 금리 인하 시, 나스닥100·비트코인·이더리움 최대 수혜\"",
+      "url": "https://www.coinreaders.com/186971",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T10:43:20.801938",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": []
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250917_1043.json"
+}

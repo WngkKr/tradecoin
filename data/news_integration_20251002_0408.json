@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-10-02T04:08:09.334983",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759345683_0",
+        "title": "500달러가 1억 달러로? 시바이누의 기적 같은 수익률 계속될까",
+        "url": "https://www.coinreaders.com/190140",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:08:03.994306",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759345683_0",
+        "title": "500달러가 1억 달러로? 시바이누의 기적 같은 수익률 계속될까",
+        "url": "https://www.coinreaders.com/190140",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:08:03.994306",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759345683_0",
+        "title": "500달러가 1억 달러로? 시바이누의 기적 같은 수익률 계속될까",
+        "url": "https://www.coinreaders.com/190140",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:08:03.994306",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759345683_0",
+        "title": "500달러가 1억 달러로? 시바이누의 기적 같은 수익률 계속될까",
+        "url": "https://www.coinreaders.com/190140",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:08:03.994306",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759345683_0",
+        "title": "500달러가 1억 달러로? 시바이누의 기적 같은 수익률 계속될까",
+        "url": "https://www.coinreaders.com/190140",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T04:08:03.994306",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "SHIB",
+          "ETH",
+          "DOGE",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759345683_0",
+      "title": "500달러가 1억 달러로? 시바이누의 기적 같은 수익률 계속될까",
+      "url": "https://www.coinreaders.com/190140",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T04:08:03.994306",
+      "related_coins": [
+        "SHIB",
+        "ETH",
+        "DOGE",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "사회적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0408.json"
+}

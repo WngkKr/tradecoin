@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-10-01T07:44:59.953977",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759272295_2",
+        "title": "암호화폐 전문가 \"ETF에 갇힌 비트코인, 분산화 정신 상실\"",
+        "url": "https://www.coinreaders.com/189930",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:44:55.546497",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759272295_0",
+        "title": "비트코인, 올해 12월 14만 5,000달러 목표 가능성 제기",
+        "url": "https://www.coinreaders.com/189937",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:44:55.028502",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759272295_0",
+        "title": "비트코인, 올해 12월 14만 5,000달러 목표 가능성 제기",
+        "url": "https://www.coinreaders.com/189937",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:44:55.028502",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759272295_1",
+        "title": "비트코인, 11만 달러 방어하며 ‘축적 국면’ 본격화…알트코인도 매집 구간 진입",
+        "url": "https://www.coinreaders.com/189931",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:44:55.332595",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759272295_2",
+        "title": "암호화폐 전문가 \"ETF에 갇힌 비트코인, 분산화 정신 상실\"",
+        "url": "https://www.coinreaders.com/189930",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:44:55.546497",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759272295_2",
+        "title": "암호화폐 전문가 \"ETF에 갇힌 비트코인, 분산화 정신 상실\"",
+        "url": "https://www.coinreaders.com/189930",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:44:55.546497",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759272295_0",
+      "title": "비트코인, 올해 12월 14만 5,000달러 목표 가능성 제기",
+      "url": "https://www.coinreaders.com/189937",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T07:44:55.028502",
+      "related_coins": [
+        "BTC",
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759272295_1",
+      "title": "비트코인, 11만 달러 방어하며 ‘축적 국면’ 본격화…알트코인도 매집 구간 진입",
+      "url": "https://www.coinreaders.com/189931",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T07:44:55.332595",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759272295_2",
+      "title": "암호화폐 전문가 \"ETF에 갇힌 비트코인, 분산화 정신 상실\"",
+      "url": "https://www.coinreaders.com/189930",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T07:44:55.546497",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20251001_0744.json"
+}

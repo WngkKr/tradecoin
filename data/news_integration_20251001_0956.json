@@ -1,0 +1,179 @@
+{
+  "timestamp": "2025-10-01T09:56:31.454026",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759280185_0",
+        "title": "美 증권위, 토큰화 주식 허용하나...1조 3,000억 달러 시장 열린다",
+        "url": "https://www.coinreaders.com/189960",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:56:25.356171",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759280186_1",
+        "title": "도지코인, 비트코인 뒤 이을 수 있을까?",
+        "url": "https://www.coinreaders.com/189959",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:56:26.293228",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759280185_0",
+        "title": "美 증권위, 토큰화 주식 허용하나...1조 3,000억 달러 시장 열린다",
+        "url": "https://www.coinreaders.com/189960",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:56:25.356171",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759280186_1",
+        "title": "도지코인, 비트코인 뒤 이을 수 있을까?",
+        "url": "https://www.coinreaders.com/189959",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:56:26.293228",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759280187_2",
+        "title": "비트코인, 11만5천달러 돌파 막는 두 가지 걸림돌…수요 위축·매도세 강화",
+        "url": "https://www.coinreaders.com/189957",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:56:27.084036",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759280186_1",
+        "title": "도지코인, 비트코인 뒤 이을 수 있을까?",
+        "url": "https://www.coinreaders.com/189959",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:56:26.293228",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759280186_1",
+        "title": "도지코인, 비트코인 뒤 이을 수 있을까?",
+        "url": "https://www.coinreaders.com/189959",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:56:26.293228",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759280185_0",
+        "title": "美 증권위, 토큰화 주식 허용하나...1조 3,000억 달러 시장 열린다",
+        "url": "https://www.coinreaders.com/189960",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:56:25.356171",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759280185_0",
+        "title": "美 증권위, 토큰화 주식 허용하나...1조 3,000억 달러 시장 열린다",
+        "url": "https://www.coinreaders.com/189960",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:56:25.356171",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759280185_0",
+      "title": "美 증권위, 토큰화 주식 허용하나...1조 3,000억 달러 시장 열린다",
+      "url": "https://www.coinreaders.com/189960",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T09:56:25.356171",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759280187_2",
+      "title": "비트코인, 11만5천달러 돌파 막는 두 가지 걸림돌…수요 위축·매도세 강화",
+      "url": "https://www.coinreaders.com/189957",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T09:56:27.084036",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20251001_0956.json"
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-09-20T02:53:55.293313",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758303464_0",
+        "title": "시바이누, 568% 폭등으로 사상 최고가 돌파할까?",
+        "url": "https://www.coinreaders.com/187712",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T02:37:44.221432",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758303464_0",
+        "title": "시바이누, 568% 폭등으로 사상 최고가 돌파할까?",
+        "url": "https://www.coinreaders.com/187712",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T02:37:44.221432",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0237.json"
+}

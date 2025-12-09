@@ -1,0 +1,332 @@
+{
+  "timestamp": "2025-09-23T10:02:01.437492",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758589313_0",
+        "title": "솔라나, 고래 입금 러시...224달러 지지선도 무너지나",
+        "url": "https://www.coinreaders.com/188230",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:53.298853",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758589314_1",
+        "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+        "url": "https://www.coinreaders.com/188228",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.018923",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758589314_2",
+        "title": "\"14억달러 규모 성장\"...페이팔 PYUSD, 비트파이넥스와 맞손",
+        "url": "https://www.coinreaders.com/188225",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.953480",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758589313_0",
+        "title": "솔라나, 고래 입금 러시...224달러 지지선도 무너지나",
+        "url": "https://www.coinreaders.com/188230",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:53.298853",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758589314_1",
+        "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+        "url": "https://www.coinreaders.com/188228",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.018923",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758589313_0",
+        "title": "솔라나, 고래 입금 러시...224달러 지지선도 무너지나",
+        "url": "https://www.coinreaders.com/188230",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:53.298853",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758589314_1",
+        "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+        "url": "https://www.coinreaders.com/188228",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.018923",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758589314_2",
+        "title": "\"14억달러 규모 성장\"...페이팔 PYUSD, 비트파이넥스와 맞손",
+        "url": "https://www.coinreaders.com/188225",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.953480",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758589314_1",
+        "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+        "url": "https://www.coinreaders.com/188228",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.018923",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758589314_1",
+        "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+        "url": "https://www.coinreaders.com/188228",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.018923",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758589314_1",
+        "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+        "url": "https://www.coinreaders.com/188228",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.018923",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758589314_1",
+        "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+        "url": "https://www.coinreaders.com/188228",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.018923",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758589314_1",
+        "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+        "url": "https://www.coinreaders.com/188228",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.018923",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758589314_1",
+        "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+        "url": "https://www.coinreaders.com/188228",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.018923",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758589314_1",
+        "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+        "url": "https://www.coinreaders.com/188228",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:01:54.018923",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758589313_0",
+      "title": "솔라나, 고래 입금 러시...224달러 지지선도 무너지나",
+      "url": "https://www.coinreaders.com/188230",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T10:01:53.298853",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758589314_1",
+      "title": "암호화폐 시장, 트럼프 시대 규제 완화에도 약세...반등은 언제?",
+      "url": "https://www.coinreaders.com/188228",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T10:01:54.018923",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA",
+        "ETH",
+        "DOGE",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Michael Saylor",
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758589314_2",
+      "title": "\"14억달러 규모 성장\"...페이팔 PYUSD, 비트파이넥스와 맞손",
+      "url": "https://www.coinreaders.com/188225",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T10:01:54.953480",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250923_1002.json"
+}

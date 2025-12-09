@@ -1,0 +1,215 @@
+{
+  "timestamp": "2025-09-17T09:42:29.352190",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758069740_0",
+        "title": "금리 인하+ETF 승인 임박...솔라나, 최고가 돌파 노린다",
+        "url": "https://www.coinreaders.com/186965",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T09:42:20.616380",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758069740_0",
+        "title": "금리 인하+ETF 승인 임박...솔라나, 최고가 돌파 노린다",
+        "url": "https://www.coinreaders.com/186965",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T09:42:20.616380",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758069741_1",
+        "title": "도지코인 골든 포켓 3번째 시험...FOMC가 운명 가른다",
+        "url": "https://www.coinreaders.com/186960",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T09:42:21.598034",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758069740_0",
+        "title": "금리 인하+ETF 승인 임박...솔라나, 최고가 돌파 노린다",
+        "url": "https://www.coinreaders.com/186965",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T09:42:20.616380",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758069741_1",
+        "title": "도지코인 골든 포켓 3번째 시험...FOMC가 운명 가른다",
+        "url": "https://www.coinreaders.com/186960",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T09:42:21.598034",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758069741_1",
+        "title": "도지코인 골든 포켓 3번째 시험...FOMC가 운명 가른다",
+        "url": "https://www.coinreaders.com/186960",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T09:42:21.598034",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758069741_1",
+        "title": "도지코인 골든 포켓 3번째 시험...FOMC가 운명 가른다",
+        "url": "https://www.coinreaders.com/186960",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T09:42:21.598034",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758069740_0",
+        "title": "금리 인하+ETF 승인 임박...솔라나, 최고가 돌파 노린다",
+        "url": "https://www.coinreaders.com/186965",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T09:42:20.616380",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758069741_1",
+        "title": "도지코인 골든 포켓 3번째 시험...FOMC가 운명 가른다",
+        "url": "https://www.coinreaders.com/186960",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T09:42:21.598034",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758069740_0",
+        "title": "금리 인하+ETF 승인 임박...솔라나, 최고가 돌파 노린다",
+        "url": "https://www.coinreaders.com/186965",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T09:42:20.616380",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758069740_0",
+      "title": "금리 인하+ETF 승인 임박...솔라나, 최고가 돌파 노린다",
+      "url": "https://www.coinreaders.com/186965",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T09:42:20.616380",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758069741_1",
+      "title": "도지코인 골든 포켓 3번째 시험...FOMC가 운명 가른다",
+      "url": "https://www.coinreaders.com/186960",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T09:42:21.598034",
+      "related_coins": [
+        "DOGE",
+        "SHIB",
+        "FLOKI",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "사회적",
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250917_0942.json"
+}

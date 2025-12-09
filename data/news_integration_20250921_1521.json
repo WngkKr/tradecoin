@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-21T15:21:51.496232",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758434627_0",
+        "title": "이더리움, 2020년 차트 판박이...강세장 시작하나?",
+        "url": "https://www.coinreaders.com/187872",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T15:03:47.488555",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758434627_0",
+        "title": "이더리움, 2020년 차트 판박이...강세장 시작하나?",
+        "url": "https://www.coinreaders.com/187872",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T15:03:47.488555",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758434627_0",
+        "title": "이더리움, 2020년 차트 판박이...강세장 시작하나?",
+        "url": "https://www.coinreaders.com/187872",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T15:03:47.488555",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_1503.json"
+}

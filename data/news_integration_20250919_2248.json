@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-19T22:48:38.306093",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758289712_0",
+        "title": "스테이블코인 경쟁 격화 속, XRP는 여전히 살 만할까?",
+        "url": "https://www.coinreaders.com/187688",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T22:48:32.562256",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758289712_0",
+      "title": "스테이블코인 경쟁 격화 속, XRP는 여전히 살 만할까?",
+      "url": "https://www.coinreaders.com/187688",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T22:48:32.562256",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_2248.json"
+}

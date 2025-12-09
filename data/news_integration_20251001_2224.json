@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-10-01T22:24:39.265898",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759325073_0",
+        "title": "비트코인, 투매 끝났다...사이클 정점은 17만 달러 전망",
+        "url": "https://www.coinreaders.com/190101",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:24:33.220785",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759325073_2",
+        "title": "[코툰] \"프랑스 재정위기, 비트코인에 오히려 기회\"",
+        "url": "https://www.coinreaders.com/190099",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:24:33.985089",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759325073_0",
+      "title": "비트코인, 투매 끝났다...사이클 정점은 17만 달러 전망",
+      "url": "https://www.coinreaders.com/190101",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T22:24:33.220785",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20251001_2224.json"
+}

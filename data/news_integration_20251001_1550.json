@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-10-01T15:50:15.229127",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759300803_0",
+        "title": "비트코인, 매도 폭탄 흡수로 버티기...\"고래도 못 꺾었다\"",
+        "url": "https://www.coinreaders.com/190021",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T15:40:03.972712",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759300803_0",
+        "title": "비트코인, 매도 폭탄 흡수로 버티기...\"고래도 못 꺾었다\"",
+        "url": "https://www.coinreaders.com/190021",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T15:40:03.972712",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759300803_0",
+        "title": "비트코인, 매도 폭탄 흡수로 버티기...\"고래도 못 꺾었다\"",
+        "url": "https://www.coinreaders.com/190021",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T15:40:03.972712",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1540.json"
+}

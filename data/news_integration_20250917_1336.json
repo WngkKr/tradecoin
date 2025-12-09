@@ -1,0 +1,149 @@
+{
+  "timestamp": "2025-09-17T13:36:23.208260",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758083776_0",
+        "title": "SEC 승인 간소화...매트 호건 \"ETF 성공 보장 못 해\"",
+        "url": "https://www.coinreaders.com/187024",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:36:16.875951",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758083776_0",
+        "title": "SEC 승인 간소화...매트 호건 \"ETF 성공 보장 못 해\"",
+        "url": "https://www.coinreaders.com/187024",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:36:16.875951",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758083776_0",
+        "title": "SEC 승인 간소화...매트 호건 \"ETF 성공 보장 못 해\"",
+        "url": "https://www.coinreaders.com/187024",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:36:16.875951",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758083776_0",
+        "title": "SEC 승인 간소화...매트 호건 \"ETF 성공 보장 못 해\"",
+        "url": "https://www.coinreaders.com/187024",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:36:16.875951",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758083776_0",
+        "title": "SEC 승인 간소화...매트 호건 \"ETF 성공 보장 못 해\"",
+        "url": "https://www.coinreaders.com/187024",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:36:16.875951",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758083776_0",
+        "title": "SEC 승인 간소화...매트 호건 \"ETF 성공 보장 못 해\"",
+        "url": "https://www.coinreaders.com/187024",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:36:16.875951",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758083776_0",
+        "title": "SEC 승인 간소화...매트 호건 \"ETF 성공 보장 못 해\"",
+        "url": "https://www.coinreaders.com/187024",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T13:36:16.875951",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758083776_0",
+      "title": "SEC 승인 간소화...매트 호건 \"ETF 성공 보장 못 해\"",
+      "url": "https://www.coinreaders.com/187024",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T13:36:16.875951",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "DOGE",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1336.json"
+}

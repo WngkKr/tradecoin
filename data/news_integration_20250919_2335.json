@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-19T23:35:33.589841",
+  "by_coin": {},
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758292528_0",
+      "title": "XRP, 3달러 지지선 무너질까...약세장 전환 신호?",
+      "url": "https://www.coinreaders.com/187695",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T23:35:28.248103",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250919_2335.json"
+}

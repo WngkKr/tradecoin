@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-10-01T06:54:26.766227",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759269261_0",
+        "title": "XRP, 2.70달러냐 3달러냐…10월 반전의 열쇠는 지지선",
+        "url": "https://www.coinreaders.com/189918",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T06:54:21.158993",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759269261_0",
+      "title": "XRP, 2.70달러냐 3달러냐…10월 반전의 열쇠는 지지선",
+      "url": "https://www.coinreaders.com/189918",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T06:54:21.158993",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0654.json"
+}

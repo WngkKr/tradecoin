@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-09-17T18:56:29.597313",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758102983_0",
+        "title": "비트코인, S&P500 동조화 현상...15% 랠리 이어갈까?",
+        "url": "https://www.coinreaders.com/187098",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T18:56:23.893478",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758102983_0",
+        "title": "비트코인, S&P500 동조화 현상...15% 랠리 이어갈까?",
+        "url": "https://www.coinreaders.com/187098",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T18:56:23.893478",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1856.json"
+}

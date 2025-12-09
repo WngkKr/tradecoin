@@ -1,0 +1,224 @@
+{
+  "timestamp": "2025-09-22T08:03:20.505419",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758495794_0",
+        "title": "최대 2만 1,112달러? 레인보우 차트가 제시한 이더리움 전망",
+        "url": "https://www.coinreaders.com/187934",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:03:14.809285",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758495795_1",
+        "title": "트럼프의 WLFI 코인, 북한·이란까지 흘러갔나?",
+        "url": "https://www.coinreaders.com/187933",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:03:15.822564",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758495794_0",
+        "title": "최대 2만 1,112달러? 레인보우 차트가 제시한 이더리움 전망",
+        "url": "https://www.coinreaders.com/187934",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:03:14.809285",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758495794_0",
+        "title": "최대 2만 1,112달러? 레인보우 차트가 제시한 이더리움 전망",
+        "url": "https://www.coinreaders.com/187934",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:03:14.809285",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758495795_1",
+        "title": "트럼프의 WLFI 코인, 북한·이란까지 흘러갔나?",
+        "url": "https://www.coinreaders.com/187933",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:03:15.822564",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758495795_1",
+        "title": "트럼프의 WLFI 코인, 북한·이란까지 흘러갔나?",
+        "url": "https://www.coinreaders.com/187933",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:03:15.822564",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758495795_1",
+        "title": "트럼프의 WLFI 코인, 북한·이란까지 흘러갔나?",
+        "url": "https://www.coinreaders.com/187933",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:03:15.822564",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758495795_1",
+        "title": "트럼프의 WLFI 코인, 북한·이란까지 흘러갔나?",
+        "url": "https://www.coinreaders.com/187933",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:03:15.822564",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "TRUMP",
+          "MAGA",
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758495794_0",
+        "title": "최대 2만 1,112달러? 레인보우 차트가 제시한 이더리움 전망",
+        "url": "https://www.coinreaders.com/187934",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:03:14.809285",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758495795_1",
+        "title": "트럼프의 WLFI 코인, 북한·이란까지 흘러갔나?",
+        "url": "https://www.coinreaders.com/187933",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:03:15.822564",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "TRUMP",
+          "MAGA",
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758495794_0",
+      "title": "최대 2만 1,112달러? 레인보우 차트가 제시한 이더리움 전망",
+      "url": "https://www.coinreaders.com/187934",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T08:03:14.809285",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758495795_1",
+      "title": "트럼프의 WLFI 코인, 북한·이란까지 흘러갔나?",
+      "url": "https://www.coinreaders.com/187933",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T08:03:15.822564",
+      "related_coins": [
+        "TRUMP",
+        "MAGA",
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250922_0803.json"
+}

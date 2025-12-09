@@ -1,0 +1,149 @@
+{
+  "timestamp": "2025-09-30T06:14:30.423056",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759179859_0",
+        "title": "카르다노 현물 ETF, 10월 승인 확률 92%...전문가 \"10월이 가장 중요\"",
+        "url": "https://www.coinreaders.com/189655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:04:19.528857",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759179859_0",
+        "title": "카르다노 현물 ETF, 10월 승인 확률 92%...전문가 \"10월이 가장 중요\"",
+        "url": "https://www.coinreaders.com/189655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:04:19.528857",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759179859_0",
+        "title": "카르다노 현물 ETF, 10월 승인 확률 92%...전문가 \"10월이 가장 중요\"",
+        "url": "https://www.coinreaders.com/189655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:04:19.528857",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759179859_0",
+        "title": "카르다노 현물 ETF, 10월 승인 확률 92%...전문가 \"10월이 가장 중요\"",
+        "url": "https://www.coinreaders.com/189655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:04:19.528857",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759179859_0",
+        "title": "카르다노 현물 ETF, 10월 승인 확률 92%...전문가 \"10월이 가장 중요\"",
+        "url": "https://www.coinreaders.com/189655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:04:19.528857",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759179859_0",
+        "title": "카르다노 현물 ETF, 10월 승인 확률 92%...전문가 \"10월이 가장 중요\"",
+        "url": "https://www.coinreaders.com/189655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:04:19.528857",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759179859_0",
+        "title": "카르다노 현물 ETF, 10월 승인 확률 92%...전문가 \"10월이 가장 중요\"",
+        "url": "https://www.coinreaders.com/189655",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:04:19.528857",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759179859_0",
+      "title": "카르다노 현물 ETF, 10월 승인 확률 92%...전문가 \"10월이 가장 중요\"",
+      "url": "https://www.coinreaders.com/189655",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T06:04:19.528857",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0604.json"
+}

@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-23T03:22:36.019205",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758565350_0",
+        "title": "리플의 XRP, 규제 개선에 힘입어 주류 채택 가능성 높아져",
+        "url": "https://www.coinreaders.com/188164",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T03:22:30.724076",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758565350_0",
+        "title": "리플의 XRP, 규제 개선에 힘입어 주류 채택 가능성 높아져",
+        "url": "https://www.coinreaders.com/188164",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T03:22:30.724076",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758565350_0",
+        "title": "리플의 XRP, 규제 개선에 힘입어 주류 채택 가능성 높아져",
+        "url": "https://www.coinreaders.com/188164",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T03:22:30.724076",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758565350_0",
+        "title": "리플의 XRP, 규제 개선에 힘입어 주류 채택 가능성 높아져",
+        "url": "https://www.coinreaders.com/188164",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T03:22:30.724076",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758565350_0",
+      "title": "리플의 XRP, 규제 개선에 힘입어 주류 채택 가능성 높아져",
+      "url": "https://www.coinreaders.com/188164",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T03:22:30.724076",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_0322.json"
+}

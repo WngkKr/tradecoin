@@ -1,0 +1,438 @@
+# 트위터 API와 LLM을 활용한 코인 감정 분석 및 트레이딩 시그널 시스템
+# pip install requests python-dotenv apscheduler
+# 1. 필요한 라이브러리 가져오기
+import os
+import json
+import time
+import random
+import requests
+from datetime import datetime, timedelta
+import logging
+from dotenv import load_dotenv
+
+# 환경 변수 로드
+load_dotenv()
+
+# 로깅 설정
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
+# 2. 모니터링할 인플루언서 목록 설정
+influencers = [
+    {"name": "Elon Musk", "twitter_username": "elonmusk", "coins": ["DOGE", "SHIB", "FLOKI"]},
+    {"name": "Donald Trump", "twitter_username": "realDonaldTrump", "coins": ["TRUMP", "MAGA"]},
+    {"name": "Michael Saylor", "twitter_username": "saylor", "coins": ["BTC"]},
+    {"name": "Vitalik Buterin", "twitter_username": "VitalikButerin", "coins": ["ETH"]}
+]
+
+# 3. 코인별 과거 반응 패턴 데이터 (실제로는 DB에서 관리)
+coin_patterns = {
+    'DOGE': {
+        'avgReactionTimeMinutes': 7,
+        'avgPriceImpactPercent': 12,
+        'positiveKeywords': ['dog', 'moon', 'favorite', 'love'],
+        'negativeKeywords': ['sell', 'overvalued']
+    },
+    'TRUMP': {
+        'avgReactionTimeMinutes': 15,
+        'avgPriceImpactPercent': 35,
+        'positiveKeywords': ['president', 'win', 'election', 'victory'],
+        'negativeKeywords': ['case', 'trial', 'verdict']
+    },
+    'BTC': {
+        'avgReactionTimeMinutes': 10,
+        'avgPriceImpactPercent': 5,
+        'positiveKeywords': ['reserve', 'property', 'hope', 'acquire', 'hold'],
+        'negativeKeywords': ['sell', 'risk', 'ban', 'regulation']
+    },
+    'ETH': {
+        'avgReactionTimeMinutes': 12,
+        'avgPriceImpactPercent': 8,
+        'positiveKeywords': ['scaling', 'staking', 'defi', 'layer 2', 'upgrade'],
+        'negativeKeywords': ['delay', 'issue', 'problem', 'bug']
+    },
+    'SHIB': {
+        'avgReactionTimeMinutes': 8,
+        'avgPriceImpactPercent': 15,
+        'positiveKeywords': ['dog', 'community', 'cute', 'pet'],
+        'negativeKeywords': ['dump', 'meme', 'joke']
+    },
+    'FLOKI': {
+        'avgReactionTimeMinutes': 5,
+        'avgPriceImpactPercent': 25,
+        'positiveKeywords': ['puppy', 'cute', 'moon', 'pet'],
+        'negativeKeywords': ['sell', 'scam', 'joke']
+    },
+    'MAGA': {
+        'avgReactionTimeMinutes': 14,
+        'avgPriceImpactPercent': 30,
+        'positiveKeywords': ['america', 'win', 'great', 'huge'],
+        'negativeKeywords': ['lose', 'bad', 'fake']
+    }
+}
+
+# 4. 더미 트윗 생성 함수
+def get_recent_tweets(username, count=10):
+    """더미 트윗 데이터 생성"""
+    logger.info(f"{username}의 더미 트윗 생성 중...")
+    
+    dummy_tweets = []
+    
+    # 인플루언서별 더미 트윗 생성
+    if "elonmusk" in username.lower():
+        tweet_options = [
+            "Dogecoin might be my favorite cryptocurrency. It's pretty cool.",
+            "Thinking about the future of sustainable energy and cryptocurrency mining.",
+            "Just bought some more Bitcoin because why not",
+            "My Shiba Inu puppy is so cute today!",
+            "Floki to the moon!",
+            "DOGE will be used as currency on Mars",
+            "Considering accepting DOGE for Tesla purchases",
+            "Crypto is the future of finance",
+            "Working on FLOKI utility, stay tuned",
+            "SHIB has an interesting community"
+        ]
+        author_id = "44196397"
+    elif "trump" in username.lower():
+        tweet_options = [
+            "MAKE AMERICA GREAT AGAIN! #MAGA",
+            "We're going to win, and we're going to win big in the markets too!",
+            "Our economy is the strongest it's ever been. Tremendous!",
+            "The election is coming up. Victory for America!",
+            "America First policies are working!",
+            "TRUMP currency is going to be huge, believe me!",
+            "MAGA coin supporters are the best supporters",
+            "We're building something big with cryptocurrency",
+            "Nobody understands markets better than me",
+            "Very exciting news about MAGA coin coming soon"
+        ]
+        author_id = "25073877"
+    elif "saylor" in username.lower():
+        tweet_options = [
+            "Bitcoin is digital property and the first engineered monetary system in the history of the world.",
+            "Just acquired another 1000 BTC for the corporate treasury.",
+            "Bitcoin is hope for billions of people across the planet.",
+            "The most efficient use of energy in the world is the Bitcoin network.",
+            "We now hold more than 100,000 BTC as our primary treasury reserve asset.",
+            "Bitcoin is the apex property of the human race",
+            "BTC scarcity is accelerating with the halving",
+            "Our strategy remains: acquire and hold Bitcoin",
+            "Traditional currencies are melting in your pocket while BTC appreciates",
+            "Added 500 more BTC to treasury this morning"
+        ]
+        author_id = "244647486"
+    elif "vitalik" in username.lower():
+        tweet_options = [
+            "Ethereum 2.0 progress is looking good. Exciting developments ahead.",
+            "Working on improving scalability solutions for ETH.",
+            "The future of decentralized finance is bright.",
+            "Exploring new technical possibilities for Ethereum L2 solutions.",
+            "Just donated 100 ETH to support open source development.",
+            "ETH staking yields are stabilizing nicely",
+            "Zero-knowledge proofs will transform scalability",
+            "Layer 2 is where most transaction volume will live",
+            "Protocol improvements coming in next update",
+            "Community governance of ETH is maturing well"
+        ]
+        author_id = "295218901"
+    else:
+        tweet_options = [f"이것은 {username}의 더미 트윗 #{i+1}입니다. 이 트윗은 데모용으로 생성되었습니다." for i in range(20)]
+        author_id = "000000"
+    
+    # 랜덤하게 트윗 선택
+    selected_tweets = random.sample(tweet_options, min(count, len(tweet_options)))
+    
+    # 최근 날짜/시간 생성 (최근 3일 이내)
+    def random_recent_time():
+        now = datetime.now()
+        random_hours = random.randint(1, 72)  # 최근 3일 이내
+        return now - timedelta(hours=random_hours)
+    
+    # 트윗 객체 생성
+    for i, tweet_text in enumerate(selected_tweets):
+        created_at = random_recent_time()
+        
+        tweet_obj = {
+            "id": f"{int(time.time())}{i}",
+            "text": tweet_text,
+            "created_at": created_at,
+            "author_id": author_id,
+            "public_metrics": {
+                "like_count": random.randint(1000, 50000),
+                "retweet_count": random.randint(100, 5000),
+                "reply_count": random.randint(50, 2000),
+                "quote_count": random.randint(10, 500)
+            }
+        }
+        dummy_tweets.append(tweet_obj)
+    
+    return dummy_tweets
+
+# 5. 코인 가격 데이터 가져오기 함수 (더미)
+def get_coin_price(symbol):
+    """더미 코인 가격 데이터 생성"""
+    try:
+        # 실제 API 호출 시도 (선택적)
+        try:
+            response = requests.get(f"https://api.binance.com/api/v3/ticker/price?symbol={symbol}USDT", timeout=2)
+            data = response.json()
+            return float(data['price'])
+        except Exception:
+            pass  # API 호출 실패 시 더미 데이터 사용
+        
+        # 더미 가격 데이터
+        dummy_prices = {
+            'DOGE': 0.08 + (random.random() * 0.02),
+            'SHIB': 0.00002 + (random.random() * 0.000005),
+            'FLOKI': 0.0001 + (random.random() * 0.00002),
+            'BTC': 65000 + (random.random() * 5000),
+            'ETH': 3500 + (random.random() * 300),
+            'TRUMP': 0.5 + (random.random() * 0.2),
+            'MAGA': 1.2 + (random.random() * 0.5)
+        }
+        return dummy_prices.get(symbol, 1.0)
+    except Exception as e:
+        logger.error(f"가격 데이터 가져오기 오류: {e}")
+        return 1.0  # 오류 시 기본값
+
+# 6. 트윗 감정 분석 함수 (더미)
+def analyze_tweet(tweet, coin_symbol):
+    """더미 감정 분석 결과 생성"""
+    # 코인과 트윗 내용 기반으로 더미 분석 결과 생성
+    is_positive = any(keyword in tweet['text'].lower() for keyword in ['moon', 'up', 'rise', 'buy', 'bull', 'great', 'good', 'positive', 'win', 'victory', 'launch'])
+    is_negative = any(keyword in tweet['text'].lower() for keyword in ['down', 'fall', 'sell', 'bear', 'bad', 'negative', 'case', 'trial', 'problem', 'issue'])
+    
+    # 코인별 키워드 체크
+    pattern = coin_patterns.get(coin_symbol, {})
+    positive_keywords = pattern.get('positiveKeywords', [])
+    negative_keywords = pattern.get('negativeKeywords', [])
+    
+    # 코인 관련 키워드 체크
+    is_positive = is_positive or any(keyword in tweet['text'].lower() for keyword in positive_keywords)
+    is_negative = is_negative or any(keyword in tweet['text'].lower() for keyword in negative_keywords)
+    
+    # 기본값은 중립
+    sentiment = "neutral"
+    confidence = random.randint(50, 70)
+    impact = "중립"
+    price_change = random.uniform(-1, 1)
+    action = "hold"
+    leverage = random.randint(1, 3)
+    risk = "medium"
+    
+    # 긍정적 내용이 있으면
+    if is_positive:
+        sentiment = "positive"
+        confidence = random.randint(70, 95)
+        impact = random.choice(["긍정적", "매우 긍정적"])
+        price_change = random.uniform(2, 15)
+        action = "buy"
+        leverage = random.randint(3, 10)
+        risk = random.choice(["medium", "high"])
+    
+    # 부정적 내용이 있으면
+    elif is_negative:
+        sentiment = "negative"
+        confidence = random.randint(70, 90)
+        impact = random.choice(["부정적", "매우 부정적"])
+        price_change = random.uniform(-15, -2)
+        action = "sell"
+        leverage = random.randint(3, 8)
+        risk = random.choice(["medium", "high"])
+    
+    # 설명 생성
+    explanation = f"분석: 이 트윗은 {coin_symbol}에 대해 {'긍정적' if is_positive else '부정적' if is_negative else '중립적'} 내용을 담고 있습니다. "
+    explanation += f"특히 {'긍정적 키워드' if is_positive else '부정적 키워드' if is_negative else '두드러진 감정적 표현이 없음'}이 관찰됩니다. "
+    explanation += f"과거 유사한 트윗은 {abs(price_change):.2f}% 정도의 {'상승' if price_change > 0 else '하락'} 영향을 주었습니다."
+    
+    return {
+        "sentiment": sentiment,
+        "confidenceScore": confidence,
+        "predictedImpact": impact,
+        "estimatedPriceChangePercent": price_change,
+        "reasoningExplanation": explanation,
+        "recommendedAction": action,
+        "recommendedLeverageMultiple": leverage,
+        "riskLevel": risk
+    }
+
+# 7. 코인 관련 키워드 확인 함수
+def check_related_keywords(text, coin_symbol):
+    """트윗이 코인과 관련있는지 확인"""
+    pattern = coin_patterns.get(coin_symbol)
+    if not pattern:
+        return False
+    
+    lower_text = text.lower()
+    
+    # 코인 이름 포함 여부
+    if coin_symbol.lower() in lower_text:
+        return True
+    
+    # 긍정/부정 키워드 체크
+    for keyword in pattern['positiveKeywords']:
+        if keyword.lower() in lower_text:
+            return True
+    
+    for keyword in pattern['negativeKeywords']:
+        if keyword.lower() in lower_text:
+            return True
+    
+    return False
+
+# 8. 최적 진입/청산 시간 계산 함수
+def calculate_optimal_entry_window(coin_symbol):
+    """최적 진입 시간 계산"""
+    pattern = coin_patterns.get(coin_symbol)
+    if not pattern:
+        return {"start": "즉시", "end": "5분 이내"}
+    
+    return {
+        "start": "즉시",
+        "end": f"{round(pattern['avgReactionTimeMinutes'] * 0.7)}분 이내"
+    }
+
+def calculate_optimal_exit_window(coin_symbol, estimated_change):
+    """최적 청산 시간 계산"""
+    pattern = coin_patterns.get(coin_symbol)
+    if not pattern:
+        return {"start": "15분 후", "end": "1시간 이내"}
+    
+    multiplier = abs(estimated_change) / pattern['avgPriceImpactPercent']
+    exit_start = round(pattern['avgReactionTimeMinutes'] * (1.2 if multiplier > 1 else 0.8))
+    exit_end = round(pattern['avgReactionTimeMinutes'] * (3 if multiplier > 1 else 2))
+    
+    return {
+        "start": f"{exit_start}분 후",
+        "end": f"{exit_end}분 이내"
+    }
+
+# 9. 거래 시그널 생성 함수
+def generate_trading_signal(analysis, coin_symbol, tweet):
+    """거래 시그널 생성"""
+    # 최적 진입/청산 시간 계산
+    optimal_entry_window = calculate_optimal_entry_window(coin_symbol)
+    optimal_exit_window = calculate_optimal_exit_window(coin_symbol, analysis["estimatedPriceChangePercent"])
+    
+    signal = {
+        "timestamp": datetime.now().isoformat(),
+        "coinSymbol": coin_symbol,
+        "tweetId": tweet['id'],
+        "tweetText": tweet['text'],
+        "tweetAuthor": tweet['author_id'],
+        "sentiment": analysis["sentiment"],
+        "confidenceScore": analysis["confidenceScore"],
+        "predictedImpact": analysis["predictedImpact"],
+        "estimatedPriceChangePercent": analysis["estimatedPriceChangePercent"],
+        "recommendedAction": analysis["recommendedAction"],
+        "recommendedLeverageMultiple": analysis["recommendedLeverageMultiple"],
+        "riskLevel": analysis["riskLevel"],
+        "reasoning": analysis["reasoningExplanation"],
+        "optimalEntryWindow": optimal_entry_window,
+        "optimalExitWindow": optimal_exit_window,
+        "currentPrice": get_coin_price(coin_symbol)
+    }
+    
+    return signal
+
+# 10. 시그널 저장 함수
+def save_signal(signal):
+    """거래 시그널 저장"""
+    signal_file = 'trading_signals.json'
+    try:
+        # 파일이 있으면 읽기
+        if os.path.exists(signal_file):
+            with open(signal_file, 'r', encoding='utf-8') as f:
+                signals = json.load(f)
+        else:
+            signals = []
+        
+        # 새 시그널 추가
+        signals.append(signal)
+        
+        # 파일에 저장
+        with open(signal_file, 'w', encoding='utf-8') as f:
+            json.dump(signals, f, ensure_ascii=False, indent=2)
+            
+    except Exception as e:
+        logger.error(f"시그널 저장 오류: {e}")
+        # 새 파일 생성
+        with open(signal_file, 'w', encoding='utf-8') as f:
+            json.dump([signal], f, ensure_ascii=False, indent=2)
+
+# 11. 알림 전송 함수
+def send_alert(signal):
+    """트레이딩 시그널 알림"""
+    logger.info(f"🚨 알림: {signal['coinSymbol']} {signal['recommendedAction'].upper()} 시그널 발생")
+    logger.info(f"💰 추천 레버리지: {signal['recommendedLeverageMultiple']}배")
+    logger.info(f"⏱️ 최적 진입 시간: {signal['optimalEntryWindow']['start']} ~ {signal['optimalEntryWindow']['end']}")
+    logger.info(f"🔄 최적 청산 시간: {signal['optimalExitWindow']['start']} ~ {signal['optimalExitWindow']['end']}")
+    logger.info(f"💵 현재 가격: ${signal['currentPrice']:.6f}")
+    logger.info(f"📊 예상 가격 변동: {signal['estimatedPriceChangePercent']:.2f}%")
+    logger.info(f"🔎 근거: {signal['reasoning']}")
+
+# 12. 메인 실행 함수
+def main():
+    logger.info("코인 인플루언서 모니터링 시스템 시작...")
+    
+    # 모든 인플루언서에 대해 최근 트윗 가져오기
+    for influencer in influencers:
+        logger.info(f"{influencer['name']}의 최근 트윗 확인 중...")
+        tweets = get_recent_tweets(influencer['twitter_username'])
+        
+        if not tweets:
+            logger.info(f"{influencer['name']}의 최근 트윗이 없습니다.")
+            continue
+        
+        # 관련 코인에 대해 각 트윗 분석
+        for coin in influencer['coins']:
+            logger.info(f"{coin} 관련 트윗 분석 중...")
+            
+            for tweet in tweets:
+                # 코인 관련 키워드가 있는지 확인
+                is_coin_related = check_related_keywords(tweet['text'], coin)
+                
+                if not is_coin_related:
+                    continue
+                
+                logger.info(f"코인 관련 트윗 발견: {tweet['text'][:50]}...")
+                
+                # 트윗 분석
+                analysis = analyze_tweet(tweet, coin)
+                
+                if analysis:
+                    # 거래 시그널 생성
+                    trading_signal = generate_trading_signal(analysis, coin, tweet)
+                    
+                    # 시그널 저장 및 알림
+                    save_signal(trading_signal)
+                    send_alert(trading_signal)
+                    
+                    logger.info(f"✅ {coin} 거래 시그널 생성됨")
+    
+    logger.info("모니터링 완료")
+
+# 13. 스케줄러 설정 (주기적 실행)
+def run_scheduler():
+    from apscheduler.schedulers.blocking import BlockingScheduler
+    
+    scheduler = BlockingScheduler()
+    # 5분마다 실행
+    scheduler.add_job(main, 'interval', minutes=5)
+    
+    try:
+        logger.info("스케줄러 시작... (Ctrl+C로 중지)")
+        scheduler.start()
+    except KeyboardInterrupt:
+        logger.info("스케줄러 종료")
+
+# 프로그램 실행
+if __name__ == "__main__":
+    try:
+        # 한 번 실행하려면:
+        main()
+        
+        # 주기적으로 실행하려면:
+        # run_scheduler()
+    except Exception as e:
+        logger.error(f"시스템 오류: {e}")

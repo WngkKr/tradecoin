@@ -1,0 +1,258 @@
+{
+  "timestamp": "2025-10-03T20:53:27.454063",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759489386_1",
+        "title": "비트코인 업토버 랠리, 낙관론 과도하다?",
+        "url": "https://www.coinreaders.com/190470",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:06.833894",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759489387_2",
+        "title": "체인링크, 22달러 붕괴 위기? 하락 사이클 시작될까",
+        "url": "https://www.coinreaders.com/190467",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:07.742653",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759489388_3",
+        "title": "트럼프 암호화폐 포트폴리오, 2025년 3분기 36% 상승",
+        "url": "https://www.coinreaders.com/190466",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:08.639262",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759489385_0",
+        "title": "비트코인, 올해 20만 달러 돌파?...전문가들 \"'이것'만 따르면 OK\"",
+        "url": "https://www.coinreaders.com/190471",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:05.930385",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759489386_1",
+        "title": "비트코인 업토버 랠리, 낙관론 과도하다?",
+        "url": "https://www.coinreaders.com/190470",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:06.833894",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759489389_4",
+        "title": "비트코인, 업토버 기대 속 주간 최고 종가 기록...이번에 14만 달러까지 갈까",
+        "url": "https://www.coinreaders.com/190465",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:09.534253",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759489388_3",
+        "title": "트럼프 암호화폐 포트폴리오, 2025년 3분기 36% 상승",
+        "url": "https://www.coinreaders.com/190466",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:08.639262",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759489385_0",
+        "title": "비트코인, 올해 20만 달러 돌파?...전문가들 \"'이것'만 따르면 OK\"",
+        "url": "https://www.coinreaders.com/190471",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:05.930385",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759489386_1",
+        "title": "비트코인 업토버 랠리, 낙관론 과도하다?",
+        "url": "https://www.coinreaders.com/190470",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:06.833894",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759489388_3",
+        "title": "트럼프 암호화폐 포트폴리오, 2025년 3분기 36% 상승",
+        "url": "https://www.coinreaders.com/190466",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:08.639262",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759489389_4",
+        "title": "비트코인, 업토버 기대 속 주간 최고 종가 기록...이번에 14만 달러까지 갈까",
+        "url": "https://www.coinreaders.com/190465",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:09.534253",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759489388_3",
+        "title": "트럼프 암호화폐 포트폴리오, 2025년 3분기 36% 상승",
+        "url": "https://www.coinreaders.com/190466",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T20:03:08.639262",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "TRUMP",
+          "MAGA",
+          "DOGE"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759489385_0",
+      "title": "비트코인, 올해 20만 달러 돌파?...전문가들 \"'이것'만 따르면 OK\"",
+      "url": "https://www.coinreaders.com/190471",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T20:03:05.930385",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759489387_2",
+      "title": "체인링크, 22달러 붕괴 위기? 하락 사이클 시작될까",
+      "url": "https://www.coinreaders.com/190467",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T20:03:07.742653",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759489388_3",
+      "title": "트럼프 암호화폐 포트폴리오, 2025년 3분기 36% 상승",
+      "url": "https://www.coinreaders.com/190466",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T20:03:08.639262",
+      "related_coins": [
+        "TRUMP",
+        "MAGA",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "사회적",
+        "정치적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759489389_4",
+      "title": "비트코인, 업토버 기대 속 주간 최고 종가 기록...이번에 14만 달러까지 갈까",
+      "url": "https://www.coinreaders.com/190465",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T20:03:09.534253",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 5,
+  "source_file": "news/all_news_20251003_2003.json"
+}

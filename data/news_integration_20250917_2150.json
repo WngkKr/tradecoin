@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-17T21:50:04.125649",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758113396_0",
+        "title": "비트코인, 9월 저주 깼다...2012년 이후 최고 성적 이어가나?",
+        "url": "https://www.coinreaders.com/187131",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T21:49:56.377819",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_2150.json"
+}

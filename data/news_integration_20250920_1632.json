@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-09-20T16:32:24.693528",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758353117_0",
+        "title": "솔라나, 기관 매수와 ETF 훈풍...연말까지 440달러 돌파 시나리오 등장",
+        "url": "https://www.coinreaders.com/187792",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T16:25:17.766968",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758353118_1",
+        "title": "블랙록의 공격적 매수, 비트코인·이더리움 가격에 어떤 영향 줄까?",
+        "url": "https://www.coinreaders.com/187791",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T16:25:18.824121",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758353117_0",
+        "title": "솔라나, 기관 매수와 ETF 훈풍...연말까지 440달러 돌파 시나리오 등장",
+        "url": "https://www.coinreaders.com/187792",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T16:25:17.766968",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758353118_1",
+        "title": "블랙록의 공격적 매수, 비트코인·이더리움 가격에 어떤 영향 줄까?",
+        "url": "https://www.coinreaders.com/187791",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T16:25:18.824121",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758353119_2",
+        "title": "[코툰] \"비트코인, 기관 유입 늘며 움직임 단조로워질 수도\"",
+        "url": "https://www.coinreaders.com/187790",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T16:25:19.844183",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758353119_2",
+        "title": "[코툰] \"비트코인, 기관 유입 늘며 움직임 단조로워질 수도\"",
+        "url": "https://www.coinreaders.com/187790",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T16:25:19.844183",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758353118_1",
+        "title": "블랙록의 공격적 매수, 비트코인·이더리움 가격에 어떤 영향 줄까?",
+        "url": "https://www.coinreaders.com/187791",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T16:25:18.824121",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758353117_0",
+      "title": "솔라나, 기관 매수와 ETF 훈풍...연말까지 440달러 돌파 시나리오 등장",
+      "url": "https://www.coinreaders.com/187792",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T16:25:17.766968",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 4,
+  "source_file": "news/all_news_20250920_1632.json"
+}

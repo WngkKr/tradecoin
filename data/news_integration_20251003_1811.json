@@ -1,0 +1,88 @@
+{
+  "timestamp": "2025-10-03T18:11:39.665439",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759482115_0",
+        "title": "도지코인, 업토버 랠리 타고 내년 '1달러' 도달 기대",
+        "url": "https://www.coinreaders.com/190455",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T18:01:55.729125",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759482115_0",
+        "title": "도지코인, 업토버 랠리 타고 내년 '1달러' 도달 기대",
+        "url": "https://www.coinreaders.com/190455",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T18:01:55.729125",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759482115_0",
+        "title": "도지코인, 업토버 랠리 타고 내년 '1달러' 도달 기대",
+        "url": "https://www.coinreaders.com/190455",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T18:01:55.729125",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759482115_0",
+        "title": "도지코인, 업토버 랠리 타고 내년 '1달러' 도달 기대",
+        "url": "https://www.coinreaders.com/190455",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T18:01:55.729125",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759482115_0",
+      "title": "도지코인, 업토버 랠리 타고 내년 '1달러' 도달 기대",
+      "url": "https://www.coinreaders.com/190455",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T18:01:55.729125",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1802.json"
+}

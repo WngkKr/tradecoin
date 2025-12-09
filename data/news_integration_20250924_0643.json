@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-09-24T06:43:04.317877",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758662916_1",
+        "title": "파월 \"추가 금리 인하 신중\"...시장 조정 불가피하다",
+        "url": "https://www.coinreaders.com/188477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T06:28:36.317893",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758662916_1",
+        "title": "파월 \"추가 금리 인하 신중\"...시장 조정 불가피하다",
+        "url": "https://www.coinreaders.com/188477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T06:28:36.317893",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758662916_1",
+        "title": "파월 \"추가 금리 인하 신중\"...시장 조정 불가피하다",
+        "url": "https://www.coinreaders.com/188477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T06:28:36.317893",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758662916_1",
+        "title": "파월 \"추가 금리 인하 신중\"...시장 조정 불가피하다",
+        "url": "https://www.coinreaders.com/188477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T06:28:36.317893",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758662916_1",
+      "title": "파월 \"추가 금리 인하 신중\"...시장 조정 불가피하다",
+      "url": "https://www.coinreaders.com/188477",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T06:28:36.317893",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250924_0628.json"
+}

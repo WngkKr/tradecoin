@@ -1,0 +1,83 @@
+{
+  "timestamp": "2025-09-29T19:58:18.204619",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759143493_0",
+        "title": "도지코인, 삼각형 패턴 완성...'0.22달러' 사수하라",
+        "url": "https://www.coinreaders.com/189556",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T19:58:13.446771",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759143493_0",
+        "title": "도지코인, 삼각형 패턴 완성...'0.22달러' 사수하라",
+        "url": "https://www.coinreaders.com/189556",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T19:58:13.446771",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759143493_0",
+        "title": "도지코인, 삼각형 패턴 완성...'0.22달러' 사수하라",
+        "url": "https://www.coinreaders.com/189556",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T19:58:13.446771",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759143493_0",
+        "title": "도지코인, 삼각형 패턴 완성...'0.22달러' 사수하라",
+        "url": "https://www.coinreaders.com/189556",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T19:58:13.446771",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759143493_0",
+      "title": "도지코인, 삼각형 패턴 완성...'0.22달러' 사수하라",
+      "url": "https://www.coinreaders.com/189556",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T19:58:13.446771",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_1958.json"
+}

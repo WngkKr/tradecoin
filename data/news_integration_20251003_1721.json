@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-10-03T17:21:34.619435",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759479676_1",
+        "title": "비트코인·이더리움 최고가 재도전,  XRP 3.40달러 갈까?",
+        "url": "https://www.coinreaders.com/190448",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:21:16.209342",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759479676_1",
+        "title": "비트코인·이더리움 최고가 재도전,  XRP 3.40달러 갈까?",
+        "url": "https://www.coinreaders.com/190448",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:21:16.209342",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759479676_1",
+        "title": "비트코인·이더리움 최고가 재도전,  XRP 3.40달러 갈까?",
+        "url": "https://www.coinreaders.com/190448",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:21:16.209342",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759479676_1",
+        "title": "비트코인·이더리움 최고가 재도전,  XRP 3.40달러 갈까?",
+        "url": "https://www.coinreaders.com/190448",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:21:16.209342",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759479676_1",
+      "title": "비트코인·이더리움 최고가 재도전,  XRP 3.40달러 갈까?",
+      "url": "https://www.coinreaders.com/190448",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T17:21:16.209342",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20251003_1721.json"
+}

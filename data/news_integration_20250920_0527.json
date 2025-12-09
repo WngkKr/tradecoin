@@ -1,0 +1,62 @@
+{
+  "timestamp": "2025-09-20T05:27:01.435397",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758312906_0",
+        "title": "비트코인, 올해 안에 20만 달러 갈 수 있을까? 톰 리 \"쉽게 가능\"",
+        "url": "https://www.coinreaders.com/187728",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T05:15:06.383785",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758312906_0",
+        "title": "비트코인, 올해 안에 20만 달러 갈 수 있을까? 톰 리 \"쉽게 가능\"",
+        "url": "https://www.coinreaders.com/187728",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T05:15:06.383785",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758312906_0",
+      "title": "비트코인, 올해 안에 20만 달러 갈 수 있을까? 톰 리 \"쉽게 가능\"",
+      "url": "https://www.coinreaders.com/187728",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T05:15:06.383785",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0515.json"
+}

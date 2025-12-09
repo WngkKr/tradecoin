@@ -1,0 +1,97 @@
+{
+  "timestamp": "2025-09-24T07:59:16.035838",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758668348_0",
+        "title": "\"약세장 진입 위기\"...비트코인, 단기 보유자 기준이 가른다",
+        "url": "https://www.coinreaders.com/188489",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:59:08.359572",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758668349_1",
+        "title": "밈코인 투자심리 위축...단기 반등은 가능할까",
+        "url": "https://www.coinreaders.com/188488",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:59:09.571055",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758668348_0",
+        "title": "\"약세장 진입 위기\"...비트코인, 단기 보유자 기준이 가른다",
+        "url": "https://www.coinreaders.com/188489",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:59:08.359572",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758668349_1",
+        "title": "밈코인 투자심리 위축...단기 반등은 가능할까",
+        "url": "https://www.coinreaders.com/188488",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:59:09.571055",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758668349_1",
+        "title": "밈코인 투자심리 위축...단기 반등은 가능할까",
+        "url": "https://www.coinreaders.com/188488",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:59:09.571055",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758668349_1",
+        "title": "밈코인 투자심리 위축...단기 반등은 가능할까",
+        "url": "https://www.coinreaders.com/188488",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:59:09.571055",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 2,
+  "source_file": "news/all_news_20250924_0759.json"
+}

@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-09-20T03:34:19.459995",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758306854_0",
+        "title": "컨센시스, 'MASK' 출시 준비...토큰·스테이블코인 동시 발표",
+        "url": "https://www.coinreaders.com/187717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T03:34:14.250352",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758306854_0",
+        "title": "컨센시스, 'MASK' 출시 준비...토큰·스테이블코인 동시 발표",
+        "url": "https://www.coinreaders.com/187717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T03:34:14.250352",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758306854_0",
+        "title": "컨센시스, 'MASK' 출시 준비...토큰·스테이블코인 동시 발표",
+        "url": "https://www.coinreaders.com/187717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T03:34:14.250352",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758306854_0",
+        "title": "컨센시스, 'MASK' 출시 준비...토큰·스테이블코인 동시 발표",
+        "url": "https://www.coinreaders.com/187717",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T03:34:14.250352",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758306854_0",
+      "title": "컨센시스, 'MASK' 출시 준비...토큰·스테이블코인 동시 발표",
+      "url": "https://www.coinreaders.com/187717",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T03:34:14.250352",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0334.json"
+}

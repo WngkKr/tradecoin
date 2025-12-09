@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-09-17T04:58:04.911644",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758052067_0",
+        "title": "테더, 왜 미국 전용 스테이블코인 USAT 내놨을까?",
+        "url": "https://www.coinreaders.com/186917",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T04:47:47.675477",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758052067_0",
+        "title": "테더, 왜 미국 전용 스테이블코인 USAT 내놨을까?",
+        "url": "https://www.coinreaders.com/186917",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T04:47:47.675477",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758052067_0",
+        "title": "테더, 왜 미국 전용 스테이블코인 USAT 내놨을까?",
+        "url": "https://www.coinreaders.com/186917",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T04:47:47.675477",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758052067_0",
+      "title": "테더, 왜 미국 전용 스테이블코인 USAT 내놨을까?",
+      "url": "https://www.coinreaders.com/186917",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T04:47:47.675477",
+      "related_coins": [
+        "MAGA",
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "사회적",
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_0447.json"
+}

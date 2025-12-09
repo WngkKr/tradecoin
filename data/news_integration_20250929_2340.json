@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-29T23:40:38.529557",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759156832_0",
+        "title": "XRP, 고래 매수세로 10월에 3.15달러 향할까",
+        "url": "https://www.coinreaders.com/189611",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T23:40:32.096205",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759156832_0",
+      "title": "XRP, 고래 매수세로 10월에 3.15달러 향할까",
+      "url": "https://www.coinreaders.com/189611",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T23:40:32.096205",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_2340.json"
+}

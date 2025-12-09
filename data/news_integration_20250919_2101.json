@@ -1,0 +1,117 @@
+{
+  "timestamp": "2025-09-19T21:01:40.283910",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758283293_0",
+        "title": "애널리스트 \"XRP, 이번 사이클 100달러? 터무니 없는 소리\"",
+        "url": "https://www.coinreaders.com/187670",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T21:01:33.563239",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758283293_0",
+        "title": "애널리스트 \"XRP, 이번 사이클 100달러? 터무니 없는 소리\"",
+        "url": "https://www.coinreaders.com/187670",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T21:01:33.563239",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758283293_0",
+        "title": "애널리스트 \"XRP, 이번 사이클 100달러? 터무니 없는 소리\"",
+        "url": "https://www.coinreaders.com/187670",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T21:01:33.563239",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758283293_0",
+        "title": "애널리스트 \"XRP, 이번 사이클 100달러? 터무니 없는 소리\"",
+        "url": "https://www.coinreaders.com/187670",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T21:01:33.563239",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758283293_0",
+        "title": "애널리스트 \"XRP, 이번 사이클 100달러? 터무니 없는 소리\"",
+        "url": "https://www.coinreaders.com/187670",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T21:01:33.563239",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758283293_0",
+      "title": "애널리스트 \"XRP, 이번 사이클 100달러? 터무니 없는 소리\"",
+      "url": "https://www.coinreaders.com/187670",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T21:01:33.563239",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_2101.json"
+}

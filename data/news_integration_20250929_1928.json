@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-09-29T19:28:00.176922",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759141069_0",
+        "title": "월가의 비트코인 장악, 탈중앙성 위협",
+        "url": "https://www.coinreaders.com/189551",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T19:17:49.705321",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759141069_0",
+        "title": "월가의 비트코인 장악, 탈중앙성 위협",
+        "url": "https://www.coinreaders.com/189551",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T19:17:49.705321",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_1917.json"
+}

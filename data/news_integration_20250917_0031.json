@@ -1,0 +1,97 @@
+{
+  "timestamp": "2025-09-17T00:31:34.155887",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758036083_0",
+        "title": "판테라 캐피털 창립자 \"비트코인, 5년 내 75만 달러 도달\"",
+        "url": "https://www.coinreaders.com/186882",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T00:21:23.476719",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758036083_0",
+        "title": "판테라 캐피털 창립자 \"비트코인, 5년 내 75만 달러 도달\"",
+        "url": "https://www.coinreaders.com/186882",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T00:21:23.476719",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758036083_0",
+        "title": "판테라 캐피털 창립자 \"비트코인, 5년 내 75만 달러 도달\"",
+        "url": "https://www.coinreaders.com/186882",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T00:21:23.476719",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758036083_0",
+        "title": "판테라 캐피털 창립자 \"비트코인, 5년 내 75만 달러 도달\"",
+        "url": "https://www.coinreaders.com/186882",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T00:21:23.476719",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758036083_0",
+      "title": "판테라 캐피털 창립자 \"비트코인, 5년 내 75만 달러 도달\"",
+      "url": "https://www.coinreaders.com/186882",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T00:21:23.476719",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Michael Saylor",
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_0021.json"
+}

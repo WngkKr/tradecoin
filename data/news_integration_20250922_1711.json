@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-09-22T17:11:35.818444",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758528691_0",
+        "title": "10월만 되면 뛰는 비트코인, 이번에도 폭발할까",
+        "url": "https://www.coinreaders.com/188051",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:11:31.701556",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758528691_0",
+        "title": "10월만 되면 뛰는 비트코인, 이번에도 폭발할까",
+        "url": "https://www.coinreaders.com/188051",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:11:31.701556",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758528691_0",
+        "title": "10월만 되면 뛰는 비트코인, 이번에도 폭발할까",
+        "url": "https://www.coinreaders.com/188051",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:11:31.701556",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758528691_0",
+        "title": "10월만 되면 뛰는 비트코인, 이번에도 폭발할까",
+        "url": "https://www.coinreaders.com/188051",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:11:31.701556",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1711.json"
+}

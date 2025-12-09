@@ -1,0 +1,148 @@
+{
+  "timestamp": "2025-09-23T13:05:03.480522",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758600295_0",
+        "title": "XRP, 이더리움 디파이 넘본다...연 20% 수익 상품 화제",
+        "url": "https://www.coinreaders.com/188273",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:04:55.216665",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758600295_1",
+        "title": "벤자민 코웬 \"비트코인, 사이클 끝자락\" 경고...최종 시나리오 공개",
+        "url": "https://www.coinreaders.com/188272",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:04:55.887049",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758600296_2",
+        "title": "전문가 \"2025년은 알트코인 시즌\"...비트코인 수익성 둔화",
+        "url": "https://www.coinreaders.com/188268",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:04:56.857740",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758600295_0",
+        "title": "XRP, 이더리움 디파이 넘본다...연 20% 수익 상품 화제",
+        "url": "https://www.coinreaders.com/188273",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:04:55.216665",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758600295_1",
+        "title": "벤자민 코웬 \"비트코인, 사이클 끝자락\" 경고...최종 시나리오 공개",
+        "url": "https://www.coinreaders.com/188272",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:04:55.887049",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758600296_2",
+        "title": "전문가 \"2025년은 알트코인 시즌\"...비트코인 수익성 둔화",
+        "url": "https://www.coinreaders.com/188268",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:04:56.857740",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758600295_1",
+        "title": "벤자민 코웬 \"비트코인, 사이클 끝자락\" 경고...최종 시나리오 공개",
+        "url": "https://www.coinreaders.com/188272",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:04:55.887049",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758600295_0",
+        "title": "XRP, 이더리움 디파이 넘본다...연 20% 수익 상품 화제",
+        "url": "https://www.coinreaders.com/188273",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:04:55.216665",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758600295_1",
+        "title": "벤자민 코웬 \"비트코인, 사이클 끝자락\" 경고...최종 시나리오 공개",
+        "url": "https://www.coinreaders.com/188272",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T13:04:55.887049",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 4,
+  "source_file": "news/all_news_20250923_1305.json"
+}

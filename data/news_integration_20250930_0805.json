@@ -1,0 +1,56 @@
+{
+  "timestamp": "2025-09-30T08:05:46.967449",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759187139_0",
+        "title": "비트코인, 개인 투자자 이탈...11만 달러 회복에도 불안",
+        "url": "https://www.coinreaders.com/189674",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T08:05:39.753162",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759187139_0",
+        "title": "비트코인, 개인 투자자 이탈...11만 달러 회복에도 불안",
+        "url": "https://www.coinreaders.com/189674",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T08:05:39.753162",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759187139_0",
+      "title": "비트코인, 개인 투자자 이탈...11만 달러 회복에도 불안",
+      "url": "https://www.coinreaders.com/189674",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T08:05:39.753162",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0805.json"
+}

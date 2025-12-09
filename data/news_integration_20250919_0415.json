@@ -1,0 +1,144 @@
+{
+  "timestamp": "2025-09-19T04:15:38.774380",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758222327_0",
+        "title": "왜 미국에선 스테이블코인으로 이자 못 받을까?",
+        "url": "https://www.coinreaders.com/187483",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T04:05:27.877918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758222327_0",
+        "title": "왜 미국에선 스테이블코인으로 이자 못 받을까?",
+        "url": "https://www.coinreaders.com/187483",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T04:05:27.877918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758222327_0",
+        "title": "왜 미국에선 스테이블코인으로 이자 못 받을까?",
+        "url": "https://www.coinreaders.com/187483",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T04:05:27.877918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758222327_0",
+        "title": "왜 미국에선 스테이블코인으로 이자 못 받을까?",
+        "url": "https://www.coinreaders.com/187483",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T04:05:27.877918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758222327_0",
+        "title": "왜 미국에선 스테이블코인으로 이자 못 받을까?",
+        "url": "https://www.coinreaders.com/187483",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T04:05:27.877918",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "MAGA",
+          "ETH",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758222327_0",
+        "title": "왜 미국에선 스테이블코인으로 이자 못 받을까?",
+        "url": "https://www.coinreaders.com/187483",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T04:05:27.877918",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "MAGA",
+          "ETH",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758222327_0",
+      "title": "왜 미국에선 스테이블코인으로 이자 못 받을까?",
+      "url": "https://www.coinreaders.com/187483",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T04:05:27.877918",
+      "related_coins": [
+        "MAGA",
+        "ETH",
+        "BTC",
+        "TRUMP"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_0405.json"
+}

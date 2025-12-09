@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-29T20:58:58.006534",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759147130_0",
+        "title": "고용지표가 가를 연준의 결정, 암호화폐 흐름 어디로 갈까",
+        "url": "https://www.coinreaders.com/189567",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:58:50.658399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759147130_0",
+        "title": "고용지표가 가를 연준의 결정, 암호화폐 흐름 어디로 갈까",
+        "url": "https://www.coinreaders.com/189567",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:58:50.658399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759147130_0",
+        "title": "고용지표가 가를 연준의 결정, 암호화폐 흐름 어디로 갈까",
+        "url": "https://www.coinreaders.com/189567",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:58:50.658399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759147130_0",
+        "title": "고용지표가 가를 연준의 결정, 암호화폐 흐름 어디로 갈까",
+        "url": "https://www.coinreaders.com/189567",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:58:50.658399",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759147130_0",
+      "title": "고용지표가 가를 연준의 결정, 암호화폐 흐름 어디로 갈까",
+      "url": "https://www.coinreaders.com/189567",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T20:58:50.658399",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_2058.json"
+}

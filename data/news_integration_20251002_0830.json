@@ -1,0 +1,141 @@
+{
+  "timestamp": "2025-10-02T08:30:59.269452",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759361454_0",
+        "title": "시바이누, 7월 이후 거래소 물량 급락...고래 매수로 반등 신호",
+        "url": "https://www.coinreaders.com/190180",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:30:54.738945",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759361454_1",
+        "title": "업비트가 만든 청년 교육 ‘업클래스’, 왜 1500명이 열광했을까?",
+        "url": "https://www.coinreaders.com/190179",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:30:54.934351",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759361454_0",
+        "title": "시바이누, 7월 이후 거래소 물량 급락...고래 매수로 반등 신호",
+        "url": "https://www.coinreaders.com/190180",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:30:54.738945",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759361454_0",
+        "title": "시바이누, 7월 이후 거래소 물량 급락...고래 매수로 반등 신호",
+        "url": "https://www.coinreaders.com/190180",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:30:54.738945",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759361454_1",
+        "title": "업비트가 만든 청년 교육 ‘업클래스’, 왜 1500명이 열광했을까?",
+        "url": "https://www.coinreaders.com/190179",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:30:54.934351",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759361454_0",
+        "title": "시바이누, 7월 이후 거래소 물량 급락...고래 매수로 반등 신호",
+        "url": "https://www.coinreaders.com/190180",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:30:54.738945",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759361454_0",
+        "title": "시바이누, 7월 이후 거래소 물량 급락...고래 매수로 반등 신호",
+        "url": "https://www.coinreaders.com/190180",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:30:54.738945",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759361454_0",
+        "title": "시바이누, 7월 이후 거래소 물량 급락...고래 매수로 반등 신호",
+        "url": "https://www.coinreaders.com/190180",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:30:54.738945",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759361454_0",
+      "title": "시바이누, 7월 이후 거래소 물량 급락...고래 매수로 반등 신호",
+      "url": "https://www.coinreaders.com/190180",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T08:30:54.738945",
+      "related_coins": [
+        "SHIB",
+        "ETH",
+        "DOGE",
+        "BTC",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20251002_0830.json"
+}

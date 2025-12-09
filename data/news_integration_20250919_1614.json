@@ -1,0 +1,150 @@
+{
+  "timestamp": "2025-09-19T16:14:27.301942",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758265456_1",
+        "title": "비트코인, 다음 약세장에서 정말 70% 폭락할까?",
+        "url": "https://www.coinreaders.com/187613",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T16:04:16.719151",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758265455_0",
+        "title": "비트코인, 고래 없는 11만 7,500달러 상승세...지속 가능할까?",
+        "url": "https://www.coinreaders.com/187615",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T16:04:15.579634",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758265455_0",
+        "title": "비트코인, 고래 없는 11만 7,500달러 상승세...지속 가능할까?",
+        "url": "https://www.coinreaders.com/187615",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T16:04:15.579634",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758265456_1",
+        "title": "비트코인, 다음 약세장에서 정말 70% 폭락할까?",
+        "url": "https://www.coinreaders.com/187613",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T16:04:16.719151",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758265455_0",
+        "title": "비트코인, 고래 없는 11만 7,500달러 상승세...지속 가능할까?",
+        "url": "https://www.coinreaders.com/187615",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T16:04:15.579634",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758265455_0",
+        "title": "비트코인, 고래 없는 11만 7,500달러 상승세...지속 가능할까?",
+        "url": "https://www.coinreaders.com/187615",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T16:04:15.579634",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758265456_1",
+        "title": "비트코인, 다음 약세장에서 정말 70% 폭락할까?",
+        "url": "https://www.coinreaders.com/187613",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T16:04:16.719151",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758265456_1",
+        "title": "비트코인, 다음 약세장에서 정말 70% 폭락할까?",
+        "url": "https://www.coinreaders.com/187613",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T16:04:16.719151",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758265455_0",
+      "title": "비트코인, 고래 없는 11만 7,500달러 상승세...지속 가능할까?",
+      "url": "https://www.coinreaders.com/187615",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T16:04:15.579634",
+      "related_coins": [
+        "BTC",
+        "DOGE",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250919_1604.json"
+}

@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-10-01T00:00:16.652406",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759244410_0",
+        "title": "미국 가구당 95만6천달러 빚… 짐 크레이머가 제시한 해답은 암호화폐",
+        "url": "https://www.coinreaders.com/189865",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:00:10.715036",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759244410_0",
+        "title": "미국 가구당 95만6천달러 빚… 짐 크레이머가 제시한 해답은 암호화폐",
+        "url": "https://www.coinreaders.com/189865",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:00:10.715036",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759244410_0",
+        "title": "미국 가구당 95만6천달러 빚… 짐 크레이머가 제시한 해답은 암호화폐",
+        "url": "https://www.coinreaders.com/189865",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:00:10.715036",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759244410_0",
+      "title": "미국 가구당 95만6천달러 빚… 짐 크레이머가 제시한 해답은 암호화폐",
+      "url": "https://www.coinreaders.com/189865",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T00:00:10.715036",
+      "related_coins": [
+        "MAGA",
+        "BTC",
+        "SHIB"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0000.json"
+}

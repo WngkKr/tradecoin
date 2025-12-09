@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-09-17T04:07:23.074364",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758049638_0",
+        "title": "\"새로운 역사 쓴다\"…비트코인 연말 폭등 기대감 고조",
+        "url": "https://www.coinreaders.com/186914",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T04:07:18.098359",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_0407.json"
+}

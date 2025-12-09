@@ -1,0 +1,101 @@
+# pip install selenium schedule
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.safari.options import Options as SafariOptions
+import time
+import schedule
+from datetime import datetime
+
+def check_for_eth_mentions():
+    """Safari를 사용하여 이더리움 관련 키워드를 모니터링합니다."""
+    username = 'VitalikButerin'
+    now = datetime.now().strftime("%H:%M:%S")
+    print(f"\n[{now}] === Vitalik 트윗 확인 ===")
+    
+    driver = None
+    try:
+        # Safari 옵션 설정
+        safari_options = SafariOptions()
+        
+        # Safari 드라이버 초기화
+        driver = webdriver.Safari(options=safari_options)
+        
+        # 트위터 페이지 로드
+        url = f"https://twitter.com/{username}"
+        print(f"🌐 {url} 접속 시도 중...")
+        driver.get(url)
+        
+        # 페이지 로딩 대기
+        time.sleep(5)
+        
+        # 트윗 요소 찾기
+        tweets = driver.find_elements(By.XPATH, "//article[@data-testid='tweet']")
+        
+        if not tweets:
+            print("⚠️ 트윗을 찾을 수 없습니다.")
+            return
+            
+        print(f"✅ {len(tweets)} 개의 트윗을 찾았습니다.")
+        
+        # 최대 3개 트윗 확인
+        eth_found = False
+        for i, tweet in enumerate(tweets[:3]):
+            try:
+                # 트윗 텍스트 추출
+                tweet_text_elements = tweet.find_elements(By.XPATH, ".//div[@data-testid='tweetText']")
+                if tweet_text_elements:
+                    content = tweet_text_elements[0].text
+                else:
+                    continue
+                
+                # 날짜 추출
+                date = "날짜 추출 실패"
+                try:
+                    time_elements = tweet.find_elements(By.XPATH, ".//time")
+                    if time_elements:
+                        date_attr = time_elements[0].get_attribute("datetime")
+                        if date_attr:
+                            date_obj = datetime.fromisoformat(date_attr.replace('Z', '+00:00'))
+                            date = date_obj.strftime("%Y-%m-%d")
+                except:
+                    pass
+                
+                # 트윗 링크 추출
+                tweet_link = "링크 추출 실패"
+                try:
+                    link_elements = tweet.find_elements(By.XPATH, ".//a[contains(@href, '/status/')]")
+                    if link_elements:
+                        tweet_link = link_elements[0].get_attribute("href")
+                except:
+                    pass
+                
+                # 내용 출력
+                print(f"- {date} | {content[:80]}{'...' if len(content) > 80 else ''}")
+                
+                # ETH 키워드 확인
+                eth_keywords = ['ETH', 'ETHEREUM', 'ETHER']
+                if any(keyword in content.upper() for keyword in eth_keywords):
+                    print(f"🚨 ETH 언급 감지됨: {tweet_link}")
+                    eth_found = True
+            except Exception as e:
+                print(f"⚠️ 트윗 파싱 중 오류: {e}")
+        
+        if not eth_found:
+            print("⛔ ETH 언급 없음")
+            
+    except Exception as e:
+        print(f"⚠️ 오류 발생: {e}")
+    finally:
+        if driver:
+            driver.quit()
+
+# 최초 실행
+check_for_eth_mentions()
+
+# 스케줄 설정 (1분마다)
+schedule.every(60).seconds.do(check_for_eth_mentions)
+
+# 메인 루프
+while True:
+    schedule.run_pending()
+    time.sleep(1)

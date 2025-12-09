@@ -1,0 +1,98 @@
+{
+  "timestamp": "2025-10-01T23:45:32.114954",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759329927_0",
+        "title": "비트코인, 78% 상승 기록한 4분기...'업토버'로 상승세 이어갈까?",
+        "url": "https://www.coinreaders.com/190111",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:45:27.017006",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759329927_0",
+        "title": "비트코인, 78% 상승 기록한 4분기...'업토버'로 상승세 이어갈까?",
+        "url": "https://www.coinreaders.com/190111",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:45:27.017006",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759329927_0",
+        "title": "비트코인, 78% 상승 기록한 4분기...'업토버'로 상승세 이어갈까?",
+        "url": "https://www.coinreaders.com/190111",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:45:27.017006",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759329927_0",
+        "title": "비트코인, 78% 상승 기록한 4분기...'업토버'로 상승세 이어갈까?",
+        "url": "https://www.coinreaders.com/190111",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:45:27.017006",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759329927_0",
+        "title": "비트코인, 78% 상승 기록한 4분기...'업토버'로 상승세 이어갈까?",
+        "url": "https://www.coinreaders.com/190111",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:45:27.017006",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_2345.json"
+}

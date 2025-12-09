@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-09-18T21:12:28.027029",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758197543_1",
+        "title": "스텔라 프로토콜 23 업그레이드! 파이 네트워크, 상승 모멘텀 얻을까",
+        "url": "https://www.coinreaders.com/187416",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:12:23.476445",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758197543_0",
+        "title": "메가 고래들, 도지코인과 XRP에 연쇄 매도 폭탄",
+        "url": "https://www.coinreaders.com/187420",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:12:23.280412",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758197543_2",
+        "title": "연준이 불붙였다! 비트코인, 12만 달러 정조준",
+        "url": "https://www.coinreaders.com/187415",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:12:23.685804",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758197543_0",
+        "title": "메가 고래들, 도지코인과 XRP에 연쇄 매도 폭탄",
+        "url": "https://www.coinreaders.com/187420",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:12:23.280412",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758197543_2",
+        "title": "연준이 불붙였다! 비트코인, 12만 달러 정조준",
+        "url": "https://www.coinreaders.com/187415",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:12:23.685804",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758197543_0",
+        "title": "메가 고래들, 도지코인과 XRP에 연쇄 매도 폭탄",
+        "url": "https://www.coinreaders.com/187420",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:12:23.280412",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758197543_0",
+        "title": "메가 고래들, 도지코인과 XRP에 연쇄 매도 폭탄",
+        "url": "https://www.coinreaders.com/187420",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:12:23.280412",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758197543_2",
+      "title": "연준이 불붙였다! 비트코인, 12만 달러 정조준",
+      "url": "https://www.coinreaders.com/187415",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T21:12:23.685804",
+      "related_coins": [
+        "BTC",
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250918_2112.json"
+}

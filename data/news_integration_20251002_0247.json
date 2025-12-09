@@ -1,0 +1,80 @@
+{
+  "timestamp": "2025-10-02T02:47:22.965818",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759340838_0",
+        "title": "525% 폭등 전망! 월가가 주목한 이더리움의 미래",
+        "url": "https://www.coinreaders.com/190134",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T02:47:18.088502",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759340838_0",
+        "title": "525% 폭등 전망! 월가가 주목한 이더리움의 미래",
+        "url": "https://www.coinreaders.com/190134",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T02:47:18.088502",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759340838_0",
+        "title": "525% 폭등 전망! 월가가 주목한 이더리움의 미래",
+        "url": "https://www.coinreaders.com/190134",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T02:47:18.088502",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759340838_0",
+        "title": "525% 폭등 전망! 월가가 주목한 이더리움의 미래",
+        "url": "https://www.coinreaders.com/190134",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T02:47:18.088502",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0247.json"
+}

@@ -1,0 +1,332 @@
+{
+  "timestamp": "2025-09-23T07:34:09.500113",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758579380_0",
+        "title": "애틀랜타 연준 총재 \"추가 금리인하 반대\"...암호화폐 랠리 끝날까?",
+        "url": "https://www.coinreaders.com/188210",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:20.036457",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758579381_2",
+        "title": "뉴욕증시는 최고치, 코인시장은 왜 급락했을까",
+        "url": "https://www.coinreaders.com/188201",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:21.877390",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758579380_1",
+        "title": "도지코인·시바이누·페페 줄줄이 급락, 밈코인 공포 확산...이번 급락 후 반등 가능할까",
+        "url": "https://www.coinreaders.com/188202",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:20.791995",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758579381_2",
+        "title": "뉴욕증시는 최고치, 코인시장은 왜 급락했을까",
+        "url": "https://www.coinreaders.com/188201",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:21.877390",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758579380_0",
+        "title": "애틀랜타 연준 총재 \"추가 금리인하 반대\"...암호화폐 랠리 끝날까?",
+        "url": "https://www.coinreaders.com/188210",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:20.036457",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758579380_1",
+        "title": "도지코인·시바이누·페페 줄줄이 급락, 밈코인 공포 확산...이번 급락 후 반등 가능할까",
+        "url": "https://www.coinreaders.com/188202",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:20.791995",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758579381_2",
+        "title": "뉴욕증시는 최고치, 코인시장은 왜 급락했을까",
+        "url": "https://www.coinreaders.com/188201",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:21.877390",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758579380_1",
+        "title": "도지코인·시바이누·페페 줄줄이 급락, 밈코인 공포 확산...이번 급락 후 반등 가능할까",
+        "url": "https://www.coinreaders.com/188202",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:20.791995",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758579381_2",
+        "title": "뉴욕증시는 최고치, 코인시장은 왜 급락했을까",
+        "url": "https://www.coinreaders.com/188201",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:21.877390",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758579380_1",
+        "title": "도지코인·시바이누·페페 줄줄이 급락, 밈코인 공포 확산...이번 급락 후 반등 가능할까",
+        "url": "https://www.coinreaders.com/188202",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:20.791995",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758579381_2",
+        "title": "뉴욕증시는 최고치, 코인시장은 왜 급락했을까",
+        "url": "https://www.coinreaders.com/188201",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:21.877390",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758579380_1",
+        "title": "도지코인·시바이누·페페 줄줄이 급락, 밈코인 공포 확산...이번 급락 후 반등 가능할까",
+        "url": "https://www.coinreaders.com/188202",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:20.791995",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758579380_1",
+        "title": "도지코인·시바이누·페페 줄줄이 급락, 밈코인 공포 확산...이번 급락 후 반등 가능할까",
+        "url": "https://www.coinreaders.com/188202",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:20.791995",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758579381_2",
+        "title": "뉴욕증시는 최고치, 코인시장은 왜 급락했을까",
+        "url": "https://www.coinreaders.com/188201",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:21.877390",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758579380_1",
+        "title": "도지코인·시바이누·페페 줄줄이 급락, 밈코인 공포 확산...이번 급락 후 반등 가능할까",
+        "url": "https://www.coinreaders.com/188202",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:20.791995",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "SHIB",
+          "BTC",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758579381_2",
+        "title": "뉴욕증시는 최고치, 코인시장은 왜 급락했을까",
+        "url": "https://www.coinreaders.com/188201",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T07:16:21.877390",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758579380_0",
+      "title": "애틀랜타 연준 총재 \"추가 금리인하 반대\"...암호화폐 랠리 끝날까?",
+      "url": "https://www.coinreaders.com/188210",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T07:16:20.036457",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758579380_1",
+      "title": "도지코인·시바이누·페페 줄줄이 급락, 밈코인 공포 확산...이번 급락 후 반등 가능할까",
+      "url": "https://www.coinreaders.com/188202",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T07:16:20.791995",
+      "related_coins": [
+        "DOGE",
+        "SHIB",
+        "BTC",
+        "FLOKI",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758579381_2",
+      "title": "뉴욕증시는 최고치, 코인시장은 왜 급락했을까",
+      "url": "https://www.coinreaders.com/188201",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T07:16:21.877390",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250923_0734.json"
+}

@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-17T00:51:57.577508",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758037295_0",
+        "title": "시바이누 개발자, 300만 달러 해킹 후 침묵하다가 'AI 토큰' 언급...왜?",
+        "url": "https://www.coinreaders.com/186884",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T00:41:35.619433",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758037295_0",
+        "title": "시바이누 개발자, 300만 달러 해킹 후 침묵하다가 'AI 토큰' 언급...왜?",
+        "url": "https://www.coinreaders.com/186884",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T00:41:35.619433",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758037295_0",
+        "title": "시바이누 개발자, 300만 달러 해킹 후 침묵하다가 'AI 토큰' 언급...왜?",
+        "url": "https://www.coinreaders.com/186884",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T00:41:35.619433",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758037295_0",
+        "title": "시바이누 개발자, 300만 달러 해킹 후 침묵하다가 'AI 토큰' 언급...왜?",
+        "url": "https://www.coinreaders.com/186884",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T00:41:35.619433",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758037295_0",
+        "title": "시바이누 개발자, 300만 달러 해킹 후 침묵하다가 'AI 토큰' 언급...왜?",
+        "url": "https://www.coinreaders.com/186884",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T00:41:35.619433",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "SHIB",
+          "DOGE",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758037295_0",
+      "title": "시바이누 개발자, 300만 달러 해킹 후 침묵하다가 'AI 토큰' 언급...왜?",
+      "url": "https://www.coinreaders.com/186884",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T00:41:35.619433",
+      "related_coins": [
+        "ETH",
+        "SHIB",
+        "DOGE",
+        "TRUMP"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_0041.json"
+}

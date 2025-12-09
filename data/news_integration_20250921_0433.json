@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-09-21T04:33:59.410868",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758395019_0",
+        "title": "\"겐슬러 시대 끝난다\"...미국 의회, 암호화폐 새 질서 준비",
+        "url": "https://www.coinreaders.com/187839",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T04:03:39.496242",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758395019_0",
+        "title": "\"겐슬러 시대 끝난다\"...미국 의회, 암호화폐 새 질서 준비",
+        "url": "https://www.coinreaders.com/187839",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T04:03:39.496242",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758395019_0",
+        "title": "\"겐슬러 시대 끝난다\"...미국 의회, 암호화폐 새 질서 준비",
+        "url": "https://www.coinreaders.com/187839",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T04:03:39.496242",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758395019_0",
+        "title": "\"겐슬러 시대 끝난다\"...미국 의회, 암호화폐 새 질서 준비",
+        "url": "https://www.coinreaders.com/187839",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T04:03:39.496242",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "MAGA",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758395019_0",
+        "title": "\"겐슬러 시대 끝난다\"...미국 의회, 암호화폐 새 질서 준비",
+        "url": "https://www.coinreaders.com/187839",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T04:03:39.496242",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "MAGA",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758395019_0",
+      "title": "\"겐슬러 시대 끝난다\"...미국 의회, 암호화폐 새 질서 준비",
+      "url": "https://www.coinreaders.com/187839",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T04:03:39.496242",
+      "related_coins": [
+        "MAGA",
+        "BTC",
+        "TRUMP"
+      ],
+      "related_influencers": [
+        "Gary Gensler",
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_0403.json"
+}

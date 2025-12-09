@@ -1,0 +1,143 @@
+{
+  "timestamp": "2025-09-24T08:42:17.498356",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758670933_0",
+        "title": "금, 비트코인 ETF 제치고 사상 최고 랠리 이어갈까",
+        "url": "https://www.coinreaders.com/188497",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:42:13.128429",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758670933_0",
+        "title": "금, 비트코인 ETF 제치고 사상 최고 랠리 이어갈까",
+        "url": "https://www.coinreaders.com/188497",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:42:13.128429",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758670933_0",
+        "title": "금, 비트코인 ETF 제치고 사상 최고 랠리 이어갈까",
+        "url": "https://www.coinreaders.com/188497",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:42:13.128429",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758670932_1",
+        "title": "업비트, 차세대 힐링 공간 ‘디지털 치유정원’ 확장 나선다",
+        "url": "https://www.coinreaders.com/188495",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:42:12.764433",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758670933_0",
+        "title": "금, 비트코인 ETF 제치고 사상 최고 랠리 이어갈까",
+        "url": "https://www.coinreaders.com/188497",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:42:13.128429",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758670933_0",
+        "title": "금, 비트코인 ETF 제치고 사상 최고 랠리 이어갈까",
+        "url": "https://www.coinreaders.com/188497",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:42:13.128429",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758670933_0",
+        "title": "금, 비트코인 ETF 제치고 사상 최고 랠리 이어갈까",
+        "url": "https://www.coinreaders.com/188497",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:42:13.128429",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758670933_0",
+      "title": "금, 비트코인 ETF 제치고 사상 최고 랠리 이어갈까",
+      "url": "https://www.coinreaders.com/188497",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T08:42:13.128429",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250924_0842.json"
+}

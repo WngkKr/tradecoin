@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-24T05:49:40.775396",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758660575_0",
+        "title": "스카라무치 \"비트코인, 올해 20만달러 간다\"",
+        "url": "https://www.coinreaders.com/188473",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T05:49:35.344331",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758660575_0",
+        "title": "스카라무치 \"비트코인, 올해 20만달러 간다\"",
+        "url": "https://www.coinreaders.com/188473",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T05:49:35.344331",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758660575_0",
+        "title": "스카라무치 \"비트코인, 올해 20만달러 간다\"",
+        "url": "https://www.coinreaders.com/188473",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T05:49:35.344331",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758660575_0",
+        "title": "스카라무치 \"비트코인, 올해 20만달러 간다\"",
+        "url": "https://www.coinreaders.com/188473",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T05:49:35.344331",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758660575_0",
+      "title": "스카라무치 \"비트코인, 올해 20만달러 간다\"",
+      "url": "https://www.coinreaders.com/188473",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T05:49:35.344331",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_0549.json"
+}

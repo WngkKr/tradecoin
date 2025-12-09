@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-10-04T04:46:43.431854",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759520191_0",
+        "title": "시장 전문가 \"시바이누 150% 급등 온다\"...업토버 랠리 흐름 탈까?",
+        "url": "https://www.coinreaders.com/190518",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T04:36:31.967483",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759520191_0",
+        "title": "시장 전문가 \"시바이누 150% 급등 온다\"...업토버 랠리 흐름 탈까?",
+        "url": "https://www.coinreaders.com/190518",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T04:36:31.967483",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759520191_0",
+        "title": "시장 전문가 \"시바이누 150% 급등 온다\"...업토버 랠리 흐름 탈까?",
+        "url": "https://www.coinreaders.com/190518",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T04:36:31.967483",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759520191_0",
+        "title": "시장 전문가 \"시바이누 150% 급등 온다\"...업토버 랠리 흐름 탈까?",
+        "url": "https://www.coinreaders.com/190518",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T04:36:31.967483",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759520191_0",
+        "title": "시장 전문가 \"시바이누 150% 급등 온다\"...업토버 랠리 흐름 탈까?",
+        "url": "https://www.coinreaders.com/190518",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T04:36:31.967483",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759520191_0",
+        "title": "시장 전문가 \"시바이누 150% 급등 온다\"...업토버 랠리 흐름 탈까?",
+        "url": "https://www.coinreaders.com/190518",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T04:36:31.967483",
+        "risk_level": "LOW",
+        "related_coins": [
+          "SHIB",
+          "ETH",
+          "DOGE",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251004_0436.json"
+}

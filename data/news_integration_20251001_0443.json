@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-10-01T04:43:07.705481",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759261383_0",
+        "title": "시바이누, 1,000억 개 대거 이동...폭락 전조인가?",
+        "url": "https://www.coinreaders.com/189901",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T04:43:03.410573",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759261383_0",
+        "title": "시바이누, 1,000억 개 대거 이동...폭락 전조인가?",
+        "url": "https://www.coinreaders.com/189901",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T04:43:03.410573",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0443.json"
+}

@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-09-22T00:46:25.367639",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758469580_0",
+        "title": "XRP 2,500달러行, 사실은 허상이 아니다?",
+        "url": "https://www.coinreaders.com/187905",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T00:46:20.172127",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758469580_0",
+        "title": "XRP 2,500달러行, 사실은 허상이 아니다?",
+        "url": "https://www.coinreaders.com/187905",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T00:46:20.172127",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758469580_0",
+      "title": "XRP 2,500달러行, 사실은 허상이 아니다?",
+      "url": "https://www.coinreaders.com/187905",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T00:46:20.172127",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_0046.json"
+}

@@ -1,0 +1,159 @@
+{
+  "timestamp": "2025-10-01T21:54:19.279711",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759323253_2",
+        "title": "업토버 돌입! 비트코인·이더리움·XRP 동반 반등...10월 강세 이제 시작일까",
+        "url": "https://www.coinreaders.com/190089",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:54:13.840171",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759323253_2",
+        "title": "업토버 돌입! 비트코인·이더리움·XRP 동반 반등...10월 강세 이제 시작일까",
+        "url": "https://www.coinreaders.com/190089",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:54:13.840171",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759323253_0",
+        "title": "75만 명 일자리 위기...암호화폐 업계는 \"비트코인이 답\"",
+        "url": "https://www.coinreaders.com/190093",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:54:13.119484",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759323253_2",
+        "title": "업토버 돌입! 비트코인·이더리움·XRP 동반 반등...10월 강세 이제 시작일까",
+        "url": "https://www.coinreaders.com/190089",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:54:13.840171",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759323253_0",
+        "title": "75만 명 일자리 위기...암호화폐 업계는 \"비트코인이 답\"",
+        "url": "https://www.coinreaders.com/190093",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:54:13.119484",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759323253_0",
+        "title": "75만 명 일자리 위기...암호화폐 업계는 \"비트코인이 답\"",
+        "url": "https://www.coinreaders.com/190093",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:54:13.119484",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759323253_2",
+        "title": "업토버 돌입! 비트코인·이더리움·XRP 동반 반등...10월 강세 이제 시작일까",
+        "url": "https://www.coinreaders.com/190089",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:54:13.840171",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759323253_0",
+        "title": "75만 명 일자리 위기...암호화폐 업계는 \"비트코인이 답\"",
+        "url": "https://www.coinreaders.com/190093",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:54:13.119484",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759323253_2",
+        "title": "업토버 돌입! 비트코인·이더리움·XRP 동반 반등...10월 강세 이제 시작일까",
+        "url": "https://www.coinreaders.com/190089",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:54:13.840171",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 3,
+  "source_file": "news/all_news_20251001_2154.json"
+}

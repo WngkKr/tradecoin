@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-09-20T01:41:31.568622",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758300086_0",
+        "title": "美 NBA 스타, 10년 전 매수한 비트코인 자산 되찾았다...현재 가치는 얼마?",
+        "url": "https://www.coinreaders.com/187709",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T01:41:26.977619",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758300086_0",
+        "title": "美 NBA 스타, 10년 전 매수한 비트코인 자산 되찾았다...현재 가치는 얼마?",
+        "url": "https://www.coinreaders.com/187709",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T01:41:26.977619",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0141.json"
+}

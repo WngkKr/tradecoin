@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-10-01T07:14:39.686942",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759270474_0",
+        "title": "도지코인, 10월 앞두고 하락 위험 확대…0.20달러 방어 관건",
+        "url": "https://www.coinreaders.com/189925",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:14:34.243939",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759270474_0",
+        "title": "도지코인, 10월 앞두고 하락 위험 확대…0.20달러 방어 관건",
+        "url": "https://www.coinreaders.com/189925",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:14:34.243939",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759270474_0",
+        "title": "도지코인, 10월 앞두고 하락 위험 확대…0.20달러 방어 관건",
+        "url": "https://www.coinreaders.com/189925",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T07:14:34.243939",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759270474_0",
+      "title": "도지코인, 10월 앞두고 하락 위험 확대…0.20달러 방어 관건",
+      "url": "https://www.coinreaders.com/189925",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T07:14:34.243939",
+      "related_coins": [
+        "DOGE",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0714.json"
+}

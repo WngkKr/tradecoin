@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-21T02:33:02.040968",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758387758_0",
+        "title": "암호화폐 시총, 하루 사이 630억 달러 증발...투자자 공포 확산",
+        "url": "https://www.coinreaders.com/187837",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T02:02:38.937559",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758387758_0",
+        "title": "암호화폐 시총, 하루 사이 630억 달러 증발...투자자 공포 확산",
+        "url": "https://www.coinreaders.com/187837",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T02:02:38.937559",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758387758_0",
+        "title": "암호화폐 시총, 하루 사이 630억 달러 증발...투자자 공포 확산",
+        "url": "https://www.coinreaders.com/187837",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T02:02:38.937559",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758387758_0",
+        "title": "암호화폐 시총, 하루 사이 630억 달러 증발...투자자 공포 확산",
+        "url": "https://www.coinreaders.com/187837",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T02:02:38.937559",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758387758_0",
+      "title": "암호화폐 시총, 하루 사이 630억 달러 증발...투자자 공포 확산",
+      "url": "https://www.coinreaders.com/187837",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T02:02:38.937559",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250921_0202.json"
+}

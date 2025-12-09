@@ -1,0 +1,248 @@
+{
+  "timestamp": "2025-10-03T08:55:46.415125",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759448732_3",
+        "title": "CME, 비트코인·이더리움 선물 24시간 거래 시대 개막 예고",
+        "url": "https://www.coinreaders.com/190388",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:32.159838",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759448732_4",
+        "title": "솔라나, 기술적 반등+기관 진출 겹호재...360달러 돌파 현실로?",
+        "url": "https://www.coinreaders.com/190386",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:32.958505",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759448730_0",
+        "title": "도지코인, 비트코인 따라 동반 강세...전문가들 \"고점 멀었다\"",
+        "url": "https://www.coinreaders.com/190393",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:30.856837",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759448731_2",
+        "title": "유동성 폭발 신호…도지코인,다음 목표는 0.30달러",
+        "url": "https://www.coinreaders.com/190389",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:31.379119",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759448730_0",
+        "title": "도지코인, 비트코인 따라 동반 강세...전문가들 \"고점 멀었다\"",
+        "url": "https://www.coinreaders.com/190393",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:30.856837",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759448732_3",
+        "title": "CME, 비트코인·이더리움 선물 24시간 거래 시대 개막 예고",
+        "url": "https://www.coinreaders.com/190388",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:32.159838",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759448732_4",
+        "title": "솔라나, 기술적 반등+기관 진출 겹호재...360달러 돌파 현실로?",
+        "url": "https://www.coinreaders.com/190386",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:32.958505",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759448733_5",
+        "title": "버핏도 인정! 비트코인, 이번 업토버는 폭발한다",
+        "url": "https://www.coinreaders.com/190385",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:33.744208",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759448730_0",
+        "title": "도지코인, 비트코인 따라 동반 강세...전문가들 \"고점 멀었다\"",
+        "url": "https://www.coinreaders.com/190393",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:30.856837",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759448731_2",
+        "title": "유동성 폭발 신호…도지코인,다음 목표는 0.30달러",
+        "url": "https://www.coinreaders.com/190389",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:31.379119",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759448730_0",
+        "title": "도지코인, 비트코인 따라 동반 강세...전문가들 \"고점 멀었다\"",
+        "url": "https://www.coinreaders.com/190393",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:30.856837",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759448731_2",
+        "title": "유동성 폭발 신호…도지코인,다음 목표는 0.30달러",
+        "url": "https://www.coinreaders.com/190389",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:31.379119",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759448733_5",
+        "title": "버핏도 인정! 비트코인, 이번 업토버는 폭발한다",
+        "url": "https://www.coinreaders.com/190385",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:33.744208",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759448732_3",
+        "title": "CME, 비트코인·이더리움 선물 24시간 거래 시대 개막 예고",
+        "url": "https://www.coinreaders.com/190388",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T08:45:32.159838",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759448731_1",
+      "title": "리플 스테이블코인 폭발! XRP 반등 신호 뚜렷...단기 목표가는 3.5달러",
+      "url": "https://www.coinreaders.com/190390",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T08:45:31.100142",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759448731_2",
+      "title": "유동성 폭발 신호…도지코인,다음 목표는 0.30달러",
+      "url": "https://www.coinreaders.com/190389",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T08:45:31.379119",
+      "related_coins": [
+        "DOGE",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759448732_4",
+      "title": "솔라나, 기술적 반등+기관 진출 겹호재...360달러 돌파 현실로?",
+      "url": "https://www.coinreaders.com/190386",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T08:45:32.958505",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20251003_0845.json"
+}

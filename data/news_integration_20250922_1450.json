@@ -1,0 +1,230 @@
+{
+  "timestamp": "2025-09-22T14:50:18.232607",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758520213_2",
+        "title": "암호화폐 시장 급락, 6억3천만 달러 포지션 청산…메타플래닛은 비트코인 매수 확대",
+        "url": "https://www.coinreaders.com/188009",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:13.362926",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758520213_1",
+        "title": "도지코인 ETF 출시에도 7% 폭락…무슨 일이?",
+        "url": "https://www.coinreaders.com/188010",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:13.180894",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758520213_2",
+        "title": "암호화폐 시장 급락, 6억3천만 달러 포지션 청산…메타플래닛은 비트코인 매수 확대",
+        "url": "https://www.coinreaders.com/188009",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:13.362926",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758520212_0",
+        "title": "세일러, 63만 BTC 보유에도 비트코인 '더' 산다",
+        "url": "https://www.coinreaders.com/188011",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:12.985889",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758520213_1",
+        "title": "도지코인 ETF 출시에도 7% 폭락…무슨 일이?",
+        "url": "https://www.coinreaders.com/188010",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:13.180894",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758520213_2",
+        "title": "암호화폐 시장 급락, 6억3천만 달러 포지션 청산…메타플래닛은 비트코인 매수 확대",
+        "url": "https://www.coinreaders.com/188009",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:13.362926",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758520213_1",
+        "title": "도지코인 ETF 출시에도 7% 폭락…무슨 일이?",
+        "url": "https://www.coinreaders.com/188010",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:13.180894",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758520213_1",
+        "title": "도지코인 ETF 출시에도 7% 폭락…무슨 일이?",
+        "url": "https://www.coinreaders.com/188010",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:13.180894",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758520213_1",
+        "title": "도지코인 ETF 출시에도 7% 폭락…무슨 일이?",
+        "url": "https://www.coinreaders.com/188010",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:13.180894",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758520212_0",
+        "title": "세일러, 63만 BTC 보유에도 비트코인 '더' 산다",
+        "url": "https://www.coinreaders.com/188011",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:12.985889",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758520213_2",
+        "title": "암호화폐 시장 급락, 6억3천만 달러 포지션 청산…메타플래닛은 비트코인 매수 확대",
+        "url": "https://www.coinreaders.com/188009",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:50:13.362926",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758520212_0",
+      "title": "세일러, 63만 BTC 보유에도 비트코인 '더' 산다",
+      "url": "https://www.coinreaders.com/188011",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T14:50:12.985889",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758520213_1",
+      "title": "도지코인 ETF 출시에도 7% 폭락…무슨 일이?",
+      "url": "https://www.coinreaders.com/188010",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T14:50:13.180894",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758520213_2",
+      "title": "암호화폐 시장 급락, 6억3천만 달러 포지션 청산…메타플래닛은 비트코인 매수 확대",
+      "url": "https://www.coinreaders.com/188009",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T14:50:13.362926",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250922_1450.json"
+}

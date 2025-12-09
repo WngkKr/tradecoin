@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-21T23:05:30.200469",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758463525_0",
+        "title": "암호화폐 시장, 30억 달러 늘어도 여전히 ‘잠잠’",
+        "url": "https://www.coinreaders.com/187898",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T23:05:25.984337",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758463525_0",
+      "title": "암호화폐 시장, 30억 달러 늘어도 여전히 ‘잠잠’",
+      "url": "https://www.coinreaders.com/187898",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T23:05:25.984337",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_2305.json"
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-10-02T01:06:24.174163",
+  "by_coin": {},
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759334778_0",
+      "title": "XRP, 가격 급락이 오히려 기회? 투자자 몰린다",
+      "url": "https://www.coinreaders.com/190122",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T01:06:18.415433",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0106.json"
+}

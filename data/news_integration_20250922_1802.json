@@ -1,0 +1,83 @@
+{
+  "timestamp": "2025-09-22T18:02:03.775772",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758531114_0",
+        "title": "도지코인, 0.2450달러 이탈 시 추가 하락 시나리오 주목",
+        "url": "https://www.coinreaders.com/188060",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:51:54.609598",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758531114_0",
+        "title": "도지코인, 0.2450달러 이탈 시 추가 하락 시나리오 주목",
+        "url": "https://www.coinreaders.com/188060",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:51:54.609598",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758531114_0",
+        "title": "도지코인, 0.2450달러 이탈 시 추가 하락 시나리오 주목",
+        "url": "https://www.coinreaders.com/188060",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:51:54.609598",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758531114_0",
+        "title": "도지코인, 0.2450달러 이탈 시 추가 하락 시나리오 주목",
+        "url": "https://www.coinreaders.com/188060",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:51:54.609598",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758531114_0",
+      "title": "도지코인, 0.2450달러 이탈 시 추가 하락 시나리오 주목",
+      "url": "https://www.coinreaders.com/188060",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T17:51:54.609598",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1751.json"
+}

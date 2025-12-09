@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-22T12:09:21.030885",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758510555_0",
+        "title": "카르다노, 1달러 돌파 후 목표가 1.60달러 제시",
+        "url": "https://www.coinreaders.com/187986",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T12:09:15.915074",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758510555_0",
+      "title": "카르다노, 1달러 돌파 후 목표가 1.60달러 제시",
+      "url": "https://www.coinreaders.com/187986",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T12:09:15.915074",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1209.json"
+}

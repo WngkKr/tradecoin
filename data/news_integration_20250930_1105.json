@@ -1,0 +1,88 @@
+{
+  "timestamp": "2025-09-30T11:05:27.112492",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759197922_0",
+        "title": "금리 인하와 업토버 랠리, 시바이누 반등의 기폭제 될까",
+        "url": "https://www.coinreaders.com/189716",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T11:05:22.818560",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759197922_0",
+        "title": "금리 인하와 업토버 랠리, 시바이누 반등의 기폭제 될까",
+        "url": "https://www.coinreaders.com/189716",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T11:05:22.818560",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759197922_0",
+        "title": "금리 인하와 업토버 랠리, 시바이누 반등의 기폭제 될까",
+        "url": "https://www.coinreaders.com/189716",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T11:05:22.818560",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759197922_0",
+        "title": "금리 인하와 업토버 랠리, 시바이누 반등의 기폭제 될까",
+        "url": "https://www.coinreaders.com/189716",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T11:05:22.818560",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759197922_0",
+      "title": "금리 인하와 업토버 랠리, 시바이누 반등의 기폭제 될까",
+      "url": "https://www.coinreaders.com/189716",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T11:05:22.818560",
+      "related_coins": [
+        "SHIB",
+        "DOGE",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_1105.json"
+}

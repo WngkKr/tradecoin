@@ -1,0 +1,221 @@
+{
+  "timestamp": "2025-09-20T20:29:23.717734",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758367757_0",
+        "title": "엘살바도르, 6억 7,800만 달러 비트코인 분산...양자 위협 대비하나?",
+        "url": "https://www.coinreaders.com/187807",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T20:29:17.745823",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758367758_1",
+        "title": "왜 비트코인은 금리 인하에도 꿈쩍하지 않을까?",
+        "url": "https://www.coinreaders.com/187806",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T20:29:18.606483",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758367757_0",
+        "title": "엘살바도르, 6억 7,800만 달러 비트코인 분산...양자 위협 대비하나?",
+        "url": "https://www.coinreaders.com/187807",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T20:29:17.745823",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758367758_1",
+        "title": "왜 비트코인은 금리 인하에도 꿈쩍하지 않을까?",
+        "url": "https://www.coinreaders.com/187806",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T20:29:18.606483",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758367757_0",
+        "title": "엘살바도르, 6억 7,800만 달러 비트코인 분산...양자 위협 대비하나?",
+        "url": "https://www.coinreaders.com/187807",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T20:29:17.745823",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758367757_0",
+        "title": "엘살바도르, 6억 7,800만 달러 비트코인 분산...양자 위협 대비하나?",
+        "url": "https://www.coinreaders.com/187807",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T20:29:17.745823",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758367758_1",
+        "title": "왜 비트코인은 금리 인하에도 꿈쩍하지 않을까?",
+        "url": "https://www.coinreaders.com/187806",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T20:29:18.606483",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Elon Musk": [
+      {
+        "id": "coinreaders_1758367758_1",
+        "title": "왜 비트코인은 금리 인하에도 꿈쩍하지 않을까?",
+        "url": "https://www.coinreaders.com/187806",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T20:29:18.606483",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "DOGE",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758367757_0",
+        "title": "엘살바도르, 6억 7,800만 달러 비트코인 분산...양자 위협 대비하나?",
+        "url": "https://www.coinreaders.com/187807",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T20:29:17.745823",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758367758_1",
+        "title": "왜 비트코인은 금리 인하에도 꿈쩍하지 않을까?",
+        "url": "https://www.coinreaders.com/187806",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T20:29:18.606483",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "DOGE",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758367757_0",
+      "title": "엘살바도르, 6억 7,800만 달러 비트코인 분산...양자 위협 대비하나?",
+      "url": "https://www.coinreaders.com/187807",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T20:29:17.745823",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758367758_1",
+      "title": "왜 비트코인은 금리 인하에도 꿈쩍하지 않을까?",
+      "url": "https://www.coinreaders.com/187806",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T20:29:18.606483",
+      "related_coins": [
+        "BTC",
+        "DOGE",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Elon Musk",
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250920_2029.json"
+}

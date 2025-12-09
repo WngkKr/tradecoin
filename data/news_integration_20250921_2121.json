@@ -1,0 +1,56 @@
+{
+  "timestamp": "2025-09-21T21:21:07.138399",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758449006_0",
+        "title": "XRP, ETF와 토큰화 펀드로 새로운 금융 패러다임 주도",
+        "url": "https://www.coinreaders.com/187883",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T19:03:26.808489",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758449006_0",
+        "title": "XRP, ETF와 토큰화 펀드로 새로운 금융 패러다임 주도",
+        "url": "https://www.coinreaders.com/187883",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T19:03:26.808489",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758449006_0",
+      "title": "XRP, ETF와 토큰화 펀드로 새로운 금융 패러다임 주도",
+      "url": "https://www.coinreaders.com/187883",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T19:03:26.808489",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_1903.json"
+}

@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-10-02T06:59:56.954235",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759355992_0",
+        "title": "미국 첫 XRP 현물 ETF, 왜 상장 직후 하락세 보였을까?",
+        "url": "https://www.coinreaders.com/190161",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:59:52.396510",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759355992_0",
+        "title": "미국 첫 XRP 현물 ETF, 왜 상장 직후 하락세 보였을까?",
+        "url": "https://www.coinreaders.com/190161",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:59:52.396510",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759355992_0",
+        "title": "미국 첫 XRP 현물 ETF, 왜 상장 직후 하락세 보였을까?",
+        "url": "https://www.coinreaders.com/190161",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:59:52.396510",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759355992_0",
+        "title": "미국 첫 XRP 현물 ETF, 왜 상장 직후 하락세 보였을까?",
+        "url": "https://www.coinreaders.com/190161",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:59:52.396510",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "MAGA",
+          "ETH"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759355992_0",
+        "title": "미국 첫 XRP 현물 ETF, 왜 상장 직후 하락세 보였을까?",
+        "url": "https://www.coinreaders.com/190161",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T06:59:52.396510",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "MAGA",
+          "ETH"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759355992_0",
+      "title": "미국 첫 XRP 현물 ETF, 왜 상장 직후 하락세 보였을까?",
+      "url": "https://www.coinreaders.com/190161",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T06:59:52.396510",
+      "related_coins": [
+        "BTC",
+        "MAGA",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0659.json"
+}

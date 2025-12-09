@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-19T23:18:58.153967",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758291533_0",
+        "title": "이더리움과 XRP, 2030년 1조 달러 클럽에 합류할까",
+        "url": "https://www.coinreaders.com/187692",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T23:18:53.041157",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758291533_0",
+        "title": "이더리움과 XRP, 2030년 1조 달러 클럽에 합류할까",
+        "url": "https://www.coinreaders.com/187692",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T23:18:53.041157",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758291533_0",
+        "title": "이더리움과 XRP, 2030년 1조 달러 클럽에 합류할까",
+        "url": "https://www.coinreaders.com/187692",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T23:18:53.041157",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758291533_0",
+        "title": "이더리움과 XRP, 2030년 1조 달러 클럽에 합류할까",
+        "url": "https://www.coinreaders.com/187692",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T23:18:53.041157",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758291533_0",
+      "title": "이더리움과 XRP, 2030년 1조 달러 클럽에 합류할까",
+      "url": "https://www.coinreaders.com/187692",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T23:18:53.041157",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_2318.json"
+}

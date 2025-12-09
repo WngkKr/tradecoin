@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-22T21:21:30.211015",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758535967_0",
+        "title": "XRP 3달러 붕괴, 비트코인 약세...이더리움만 5,000달러 랠리?",
+        "url": "https://www.coinreaders.com/188082",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:12:47.160889",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758535967_0",
+        "title": "XRP 3달러 붕괴, 비트코인 약세...이더리움만 5,000달러 랠리?",
+        "url": "https://www.coinreaders.com/188082",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:12:47.160889",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758535967_0",
+        "title": "XRP 3달러 붕괴, 비트코인 약세...이더리움만 5,000달러 랠리?",
+        "url": "https://www.coinreaders.com/188082",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:12:47.160889",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758535967_0",
+        "title": "XRP 3달러 붕괴, 비트코인 약세...이더리움만 5,000달러 랠리?",
+        "url": "https://www.coinreaders.com/188082",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:12:47.160889",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758535967_0",
+      "title": "XRP 3달러 붕괴, 비트코인 약세...이더리움만 5,000달러 랠리?",
+      "url": "https://www.coinreaders.com/188082",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T19:12:47.160889",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1912.json"
+}

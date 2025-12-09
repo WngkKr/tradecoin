@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-10-03T15:19:53.359120",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759471794_0",
+        "title": "비트코인 랠리, 대규모 청산으로...하루 만에 4억 3,000만 달러 증발",
+        "url": "https://www.coinreaders.com/190437",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T15:09:54.246583",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759471794_0",
+      "title": "비트코인 랠리, 대규모 청산으로...하루 만에 4억 3,000만 달러 증발",
+      "url": "https://www.coinreaders.com/190437",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T15:09:54.246583",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1509.json"
+}

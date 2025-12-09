@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-10-03T13:28:53.804684",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759465122_0",
+        "title": "암호화폐 다음은 AI 거품? 오픈AI 5,000억 달러의 진실은?",
+        "url": "https://www.coinreaders.com/190426",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T13:18:42.871661",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759465122_0",
+        "title": "암호화폐 다음은 AI 거품? 오픈AI 5,000억 달러의 진실은?",
+        "url": "https://www.coinreaders.com/190426",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T13:18:42.871661",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759465122_0",
+        "title": "암호화폐 다음은 AI 거품? 오픈AI 5,000억 달러의 진실은?",
+        "url": "https://www.coinreaders.com/190426",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T13:18:42.871661",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759465122_0",
+      "title": "암호화폐 다음은 AI 거품? 오픈AI 5,000억 달러의 진실은?",
+      "url": "https://www.coinreaders.com/190426",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T13:18:42.871661",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1318.json"
+}

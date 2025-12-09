@@ -1,0 +1,65 @@
+{
+  "timestamp": "2025-09-22T06:42:30.555633",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758490340_0",
+        "title": "시바이누 vs 체인링크, 투자 우위 코인은?",
+        "url": "https://www.coinreaders.com/187917",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T06:32:20.284412",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758490340_0",
+        "title": "시바이누 vs 체인링크, 투자 우위 코인은?",
+        "url": "https://www.coinreaders.com/187917",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T06:32:20.284412",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758490340_0",
+        "title": "시바이누 vs 체인링크, 투자 우위 코인은?",
+        "url": "https://www.coinreaders.com/187917",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T06:32:20.284412",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758490340_0",
+        "title": "시바이누 vs 체인링크, 투자 우위 코인은?",
+        "url": "https://www.coinreaders.com/187917",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T06:32:20.284412",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_0632.json"
+}

@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-10-01T02:11:38.986380",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759251689_0",
+        "title": "단기 시한폭탄 vs 장기 황금 기회...톤코인 투자자들, 3달러 붕괴 후 갈림길",
+        "url": "https://www.coinreaders.com/189882",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T02:01:29.380713",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759251689_0",
+        "title": "단기 시한폭탄 vs 장기 황금 기회...톤코인 투자자들, 3달러 붕괴 후 갈림길",
+        "url": "https://www.coinreaders.com/189882",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T02:01:29.380713",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759251689_0",
+        "title": "단기 시한폭탄 vs 장기 황금 기회...톤코인 투자자들, 3달러 붕괴 후 갈림길",
+        "url": "https://www.coinreaders.com/189882",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T02:01:29.380713",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759251689_0",
+      "title": "단기 시한폭탄 vs 장기 황금 기회...톤코인 투자자들, 3달러 붕괴 후 갈림길",
+      "url": "https://www.coinreaders.com/189882",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T02:01:29.380713",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0201.json"
+}

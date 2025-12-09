@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-10-01T13:48:59.680049",
+  "by_coin": {
+    "MAGA": [
+      {
+        "id": "coinreaders_1759293529_0",
+        "title": "미국 소비·GDP·금리 인하 삼박자, 암호화폐 시장 2026년 대호황 전망",
+        "url": "https://www.coinreaders.com/190003",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T13:38:49.875979",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759293529_0",
+      "title": "미국 소비·GDP·금리 인하 삼박자, 암호화폐 시장 2026년 대호황 전망",
+      "url": "https://www.coinreaders.com/190003",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T13:38:49.875979",
+      "related_coins": [
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1338.json"
+}

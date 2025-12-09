@@ -1,0 +1,104 @@
+{
+  "timestamp": "2025-10-01T03:12:13.611345",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759255323_0",
+        "title": "900억 달러에서 추락! 도지코인, '밈코인 신화'는 끝났나?",
+        "url": "https://www.coinreaders.com/189890",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T03:02:03.472247",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759255323_0",
+        "title": "900억 달러에서 추락! 도지코인, '밈코인 신화'는 끝났나?",
+        "url": "https://www.coinreaders.com/189890",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T03:02:03.472247",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759255323_0",
+        "title": "900억 달러에서 추락! 도지코인, '밈코인 신화'는 끝났나?",
+        "url": "https://www.coinreaders.com/189890",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T03:02:03.472247",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759255323_0",
+        "title": "900억 달러에서 추락! 도지코인, '밈코인 신화'는 끝났나?",
+        "url": "https://www.coinreaders.com/189890",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T03:02:03.472247",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759255323_0",
+        "title": "900억 달러에서 추락! 도지코인, '밈코인 신화'는 끝났나?",
+        "url": "https://www.coinreaders.com/189890",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T03:02:03.472247",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759255323_0",
+      "title": "900억 달러에서 추락! 도지코인, '밈코인 신화'는 끝났나?",
+      "url": "https://www.coinreaders.com/189890",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T03:02:03.472247",
+      "related_coins": [
+        "DOGE",
+        "ETH",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0302.json"
+}

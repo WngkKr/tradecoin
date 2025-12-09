@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-10-04T00:44:18.102900",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759505647_0",
+        "title": "XRP, 10월 18일 ETF 승인 앞두고 지금 살까?",
+        "url": "https://www.coinreaders.com/190497",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T00:34:07.447141",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759505647_0",
+        "title": "XRP, 10월 18일 ETF 승인 앞두고 지금 살까?",
+        "url": "https://www.coinreaders.com/190497",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T00:34:07.447141",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759505647_0",
+        "title": "XRP, 10월 18일 ETF 승인 앞두고 지금 살까?",
+        "url": "https://www.coinreaders.com/190497",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T00:34:07.447141",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759505647_0",
+      "title": "XRP, 10월 18일 ETF 승인 앞두고 지금 살까?",
+      "url": "https://www.coinreaders.com/190497",
+      "source": "coinreaders",
+      "timestamp": "2025-10-04T00:34:07.447141",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251004_0034.json"
+}

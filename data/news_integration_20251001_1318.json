@@ -1,0 +1,88 @@
+{
+  "timestamp": "2025-10-01T13:18:43.379189",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759291709_0",
+        "title": "도지코인 상승 확률 68% 패턴 포착...목표는 '0.85달러'",
+        "url": "https://www.coinreaders.com/189997",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T13:08:29.625106",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759291709_0",
+        "title": "도지코인 상승 확률 68% 패턴 포착...목표는 '0.85달러'",
+        "url": "https://www.coinreaders.com/189997",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T13:08:29.625106",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759291709_0",
+        "title": "도지코인 상승 확률 68% 패턴 포착...목표는 '0.85달러'",
+        "url": "https://www.coinreaders.com/189997",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T13:08:29.625106",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759291709_0",
+        "title": "도지코인 상승 확률 68% 패턴 포착...목표는 '0.85달러'",
+        "url": "https://www.coinreaders.com/189997",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T13:08:29.625106",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759291709_0",
+      "title": "도지코인 상승 확률 68% 패턴 포착...목표는 '0.85달러'",
+      "url": "https://www.coinreaders.com/189997",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T13:08:29.625106",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1308.json"
+}

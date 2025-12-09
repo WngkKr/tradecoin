@@ -1,0 +1,337 @@
+{
+  "timestamp": "2025-10-02T08:00:37.824886",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759359629_1",
+        "title": "도지코인, 하루 새 6% 급등...이유는?",
+        "url": "https://www.coinreaders.com/190173",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:29.976620",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759359631_2",
+        "title": "비트코인, 美 민간고용 감소에 11만7천달러선 회복…\"4분기 강세장 시작될 것\"",
+        "url": "https://www.coinreaders.com/190172",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:31.155830",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759359629_1",
+        "title": "도지코인, 하루 새 6% 급등...이유는?",
+        "url": "https://www.coinreaders.com/190173",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:29.976620",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759359631_2",
+        "title": "비트코인, 美 민간고용 감소에 11만7천달러선 회복…\"4분기 강세장 시작될 것\"",
+        "url": "https://www.coinreaders.com/190172",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:31.155830",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759359628_0",
+        "title": "비트코인, 펌프토버 랠리로 13만 달러 도달 기대",
+        "url": "https://www.coinreaders.com/190174",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:28.816071",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759359629_1",
+        "title": "도지코인, 하루 새 6% 급등...이유는?",
+        "url": "https://www.coinreaders.com/190173",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:29.976620",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759359631_2",
+        "title": "비트코인, 美 민간고용 감소에 11만7천달러선 회복…\"4분기 강세장 시작될 것\"",
+        "url": "https://www.coinreaders.com/190172",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:31.155830",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759359629_1",
+        "title": "도지코인, 하루 새 6% 급등...이유는?",
+        "url": "https://www.coinreaders.com/190173",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:29.976620",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759359629_1",
+        "title": "도지코인, 하루 새 6% 급등...이유는?",
+        "url": "https://www.coinreaders.com/190173",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:29.976620",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759359629_1",
+        "title": "도지코인, 하루 새 6% 급등...이유는?",
+        "url": "https://www.coinreaders.com/190173",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:29.976620",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759359629_1",
+        "title": "도지코인, 하루 새 6% 급등...이유는?",
+        "url": "https://www.coinreaders.com/190173",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:29.976620",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Donald Trump",
+          "Michael Saylor",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759359631_2",
+        "title": "비트코인, 美 민간고용 감소에 11만7천달러선 회복…\"4분기 강세장 시작될 것\"",
+        "url": "https://www.coinreaders.com/190172",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:31.155830",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759359629_1",
+        "title": "도지코인, 하루 새 6% 급등...이유는?",
+        "url": "https://www.coinreaders.com/190173",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:29.976620",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759359629_1",
+        "title": "도지코인, 하루 새 6% 급등...이유는?",
+        "url": "https://www.coinreaders.com/190173",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:29.976620",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759359629_1",
+        "title": "도지코인, 하루 새 6% 급등...이유는?",
+        "url": "https://www.coinreaders.com/190173",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:29.976620",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759359631_2",
+        "title": "비트코인, 美 민간고용 감소에 11만7천달러선 회복…\"4분기 강세장 시작될 것\"",
+        "url": "https://www.coinreaders.com/190172",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:00:31.155830",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759359628_0",
+      "title": "비트코인, 펌프토버 랠리로 13만 달러 도달 기대",
+      "url": "https://www.coinreaders.com/190174",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T08:00:28.816071",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759359631_2",
+      "title": "비트코인, 美 민간고용 감소에 11만7천달러선 회복…\"4분기 강세장 시작될 것\"",
+      "url": "https://www.coinreaders.com/190172",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T08:00:31.155830",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20251002_0800.json"
+}

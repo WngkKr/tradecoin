@@ -1,0 +1,210 @@
+{
+  "timestamp": "2025-09-24T08:24:30.152450",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758669861_0",
+        "title": "이더리움, 고래 매도 속 4,000달러 방어 가능할까",
+        "url": "https://www.coinreaders.com/188494",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:21.152419",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758669863_2",
+        "title": "이더리움, 20% 폭락 후 반등? 4분기 랠리 다시 올까",
+        "url": "https://www.coinreaders.com/188491",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:23.415997",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758669864_3",
+        "title": "기관 매도·옵션 만기 충격…암호화폐 시총 4조달러 붕괴",
+        "url": "https://www.coinreaders.com/188490",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:24.507627",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758669862_1",
+        "title": "비트코인 저평가 신호? 고래들이 이미 매집 시작했나",
+        "url": "https://www.coinreaders.com/188492",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:22.349420",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758669863_2",
+        "title": "이더리움, 20% 폭락 후 반등? 4분기 랠리 다시 올까",
+        "url": "https://www.coinreaders.com/188491",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:23.415997",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758669864_3",
+        "title": "기관 매도·옵션 만기 충격…암호화폐 시총 4조달러 붕괴",
+        "url": "https://www.coinreaders.com/188490",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:24.507627",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758669863_2",
+        "title": "이더리움, 20% 폭락 후 반등? 4분기 랠리 다시 올까",
+        "url": "https://www.coinreaders.com/188491",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:23.415997",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758669863_2",
+        "title": "이더리움, 20% 폭락 후 반등? 4분기 랠리 다시 올까",
+        "url": "https://www.coinreaders.com/188491",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:23.415997",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758669861_0",
+        "title": "이더리움, 고래 매도 속 4,000달러 방어 가능할까",
+        "url": "https://www.coinreaders.com/188494",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:21.152419",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758669863_2",
+        "title": "이더리움, 20% 폭락 후 반등? 4분기 랠리 다시 올까",
+        "url": "https://www.coinreaders.com/188491",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:23.415997",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758669864_3",
+        "title": "기관 매도·옵션 만기 충격…암호화폐 시총 4조달러 붕괴",
+        "url": "https://www.coinreaders.com/188490",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:24:24.507627",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758669861_0",
+      "title": "이더리움, 고래 매도 속 4,000달러 방어 가능할까",
+      "url": "https://www.coinreaders.com/188494",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T08:24:21.152419",
+      "related_coins": [
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758669864_3",
+      "title": "기관 매도·옵션 만기 충격…암호화폐 시총 4조달러 붕괴",
+      "url": "https://www.coinreaders.com/188490",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T08:24:24.507627",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 4,
+  "source_file": "news/all_news_20250924_0824.json"
+}

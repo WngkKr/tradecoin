@@ -1,0 +1,83 @@
+{
+  "timestamp": "2025-09-21T06:24:55.378743",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758402280_0",
+        "title": "카르다노, 1달러 돌파 꿈 또다시 좌절?",
+        "url": "https://www.coinreaders.com/187841",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T06:04:40.951986",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758402280_0",
+        "title": "카르다노, 1달러 돌파 꿈 또다시 좌절?",
+        "url": "https://www.coinreaders.com/187841",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T06:04:40.951986",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758402280_0",
+        "title": "카르다노, 1달러 돌파 꿈 또다시 좌절?",
+        "url": "https://www.coinreaders.com/187841",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T06:04:40.951986",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758402280_0",
+        "title": "카르다노, 1달러 돌파 꿈 또다시 좌절?",
+        "url": "https://www.coinreaders.com/187841",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T06:04:40.951986",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758402280_0",
+      "title": "카르다노, 1달러 돌파 꿈 또다시 좌절?",
+      "url": "https://www.coinreaders.com/187841",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T06:04:40.951986",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_0604.json"
+}

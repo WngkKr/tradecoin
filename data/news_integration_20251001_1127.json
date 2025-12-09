@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-10-01T11:27:32.919433",
+  "by_coin": {},
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759284430_0",
+      "title": "파이 네트워크, 3,700만 달러 언락 예고...사상 최저치 재시험하나?",
+      "url": "https://www.coinreaders.com/189979",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T11:07:10.994178",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1107.json"
+}

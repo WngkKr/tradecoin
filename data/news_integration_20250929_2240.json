@@ -1,0 +1,93 @@
+{
+  "timestamp": "2025-09-29T22:40:00.732506",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759152589_0",
+        "title": "시바이누, 거래량 실종 속 추락 경고...비트코인도 위험 신호",
+        "url": "https://www.coinreaders.com/189592",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T22:29:49.074292",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759152589_0",
+        "title": "시바이누, 거래량 실종 속 추락 경고...비트코인도 위험 신호",
+        "url": "https://www.coinreaders.com/189592",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T22:29:49.074292",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759152589_0",
+        "title": "시바이누, 거래량 실종 속 추락 경고...비트코인도 위험 신호",
+        "url": "https://www.coinreaders.com/189592",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T22:29:49.074292",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759152589_0",
+        "title": "시바이누, 거래량 실종 속 추락 경고...비트코인도 위험 신호",
+        "url": "https://www.coinreaders.com/189592",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T22:29:49.074292",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759152589_0",
+        "title": "시바이누, 거래량 실종 속 추락 경고...비트코인도 위험 신호",
+        "url": "https://www.coinreaders.com/189592",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T22:29:49.074292",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "SHIB",
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_2229.json"
+}

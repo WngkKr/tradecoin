@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-10-03T14:49:46.085435",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759469974_0",
+        "title": "비트코인 정점, 아직 멀었다...전문가 \"닷컴 버블과 달라\"",
+        "url": "https://www.coinreaders.com/190434",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T14:39:34.857212",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759469974_0",
+        "title": "비트코인 정점, 아직 멀었다...전문가 \"닷컴 버블과 달라\"",
+        "url": "https://www.coinreaders.com/190434",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T14:39:34.857212",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1439.json"
+}

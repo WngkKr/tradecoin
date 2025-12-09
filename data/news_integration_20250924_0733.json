@@ -1,0 +1,264 @@
+{
+  "timestamp": "2025-09-24T07:33:35.333817",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758666203_3",
+        "title": "이더리움, 3,600달러 추락인가 4,500달러 반등인가",
+        "url": "https://www.coinreaders.com/188484",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:23.376233",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758666204_4",
+        "title": "XRP 반등 시도에도 경고음… 2.50달러 위험 여전",
+        "url": "https://www.coinreaders.com/188483",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:24.303098",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758666202_0",
+        "title": "나스닥 과열 경고...비트코인, 9만 달러까지 밀릴 수 있다",
+        "url": "https://www.coinreaders.com/188487",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:22.447832",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758666203_3",
+        "title": "이더리움, 3,600달러 추락인가 4,500달러 반등인가",
+        "url": "https://www.coinreaders.com/188484",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:23.376233",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758666202_0",
+        "title": "나스닥 과열 경고...비트코인, 9만 달러까지 밀릴 수 있다",
+        "url": "https://www.coinreaders.com/188487",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:22.447832",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758666202_2",
+        "title": "비트코인 투자자 공포 확산…11만 달러 지지선 지킬 수 있을까",
+        "url": "https://www.coinreaders.com/188485",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:22.686398",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758666203_3",
+        "title": "이더리움, 3,600달러 추락인가 4,500달러 반등인가",
+        "url": "https://www.coinreaders.com/188484",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:23.376233",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758666204_4",
+        "title": "XRP 반등 시도에도 경고음… 2.50달러 위험 여전",
+        "url": "https://www.coinreaders.com/188483",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:24.303098",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758666202_0",
+        "title": "나스닥 과열 경고...비트코인, 9만 달러까지 밀릴 수 있다",
+        "url": "https://www.coinreaders.com/188487",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:22.447832",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758666202_0",
+        "title": "나스닥 과열 경고...비트코인, 9만 달러까지 밀릴 수 있다",
+        "url": "https://www.coinreaders.com/188487",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:22.447832",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758666202_0",
+        "title": "나스닥 과열 경고...비트코인, 9만 달러까지 밀릴 수 있다",
+        "url": "https://www.coinreaders.com/188487",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:22.447832",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "DOGE",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758666203_3",
+        "title": "이더리움, 3,600달러 추락인가 4,500달러 반등인가",
+        "url": "https://www.coinreaders.com/188484",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T07:23:23.376233",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758666202_0",
+      "title": "나스닥 과열 경고...비트코인, 9만 달러까지 밀릴 수 있다",
+      "url": "https://www.coinreaders.com/188487",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T07:23:22.447832",
+      "related_coins": [
+        "BTC",
+        "DOGE",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758666202_2",
+      "title": "비트코인 투자자 공포 확산…11만 달러 지지선 지킬 수 있을까",
+      "url": "https://www.coinreaders.com/188485",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T07:23:22.686398",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758666203_3",
+      "title": "이더리움, 3,600달러 추락인가 4,500달러 반등인가",
+      "url": "https://www.coinreaders.com/188484",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T07:23:23.376233",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758666204_4",
+      "title": "XRP 반등 시도에도 경고음… 2.50달러 위험 여전",
+      "url": "https://www.coinreaders.com/188483",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T07:23:24.303098",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 5,
+  "source_file": "news/all_news_20250924_0723.json"
+}

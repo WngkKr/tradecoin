@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-09-24T02:39:21.525569",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758648551_0",
+        "title": "시바이누는 죽었다?...전문가, 600% 반등 시나리오 제시",
+        "url": "https://www.coinreaders.com/188445",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T02:29:11.704273",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758648551_0",
+        "title": "시바이누는 죽었다?...전문가, 600% 반등 시나리오 제시",
+        "url": "https://www.coinreaders.com/188445",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T02:29:11.704273",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_0229.json"
+}

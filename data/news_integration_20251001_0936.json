@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-10-01T09:36:16.841674",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759278971_0",
+        "title": "유명 트레이더 \"비트코인, '11만 6,000달러'가 운명 가른다\"",
+        "url": "https://www.coinreaders.com/189956",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T09:36:11.864286",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759278971_0",
+      "title": "유명 트레이더 \"비트코인, '11만 6,000달러'가 운명 가른다\"",
+      "url": "https://www.coinreaders.com/189956",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T09:36:11.864286",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0936.json"
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-22T17:31:48.122325",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758529901_0",
+        "title": "XRP 급락, 투자자들 공포 속 추가 하락 경고",
+        "url": "https://www.coinreaders.com/188057",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T17:31:41.874120",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758529901_0",
+      "title": "XRP 급락, 투자자들 공포 속 추가 하락 경고",
+      "url": "https://www.coinreaders.com/188057",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T17:31:41.874120",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1731.json"
+}

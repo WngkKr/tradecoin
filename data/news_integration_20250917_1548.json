@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-17T15:48:11.161417",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758091073_0",
+        "title": "비트코인 ETF, 약 2개월 만에 주간 유입 최고 기록...랠리 이어갈까?",
+        "url": "https://www.coinreaders.com/187047",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T15:37:53.138788",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758091073_0",
+        "title": "비트코인 ETF, 약 2개월 만에 주간 유입 최고 기록...랠리 이어갈까?",
+        "url": "https://www.coinreaders.com/187047",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T15:37:53.138788",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758091073_0",
+        "title": "비트코인 ETF, 약 2개월 만에 주간 유입 최고 기록...랠리 이어갈까?",
+        "url": "https://www.coinreaders.com/187047",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T15:37:53.138788",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758091073_0",
+        "title": "비트코인 ETF, 약 2개월 만에 주간 유입 최고 기록...랠리 이어갈까?",
+        "url": "https://www.coinreaders.com/187047",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T15:37:53.138788",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758091073_0",
+      "title": "비트코인 ETF, 약 2개월 만에 주간 유입 최고 기록...랠리 이어갈까?",
+      "url": "https://www.coinreaders.com/187047",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T15:37:53.138788",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1538.json"
+}

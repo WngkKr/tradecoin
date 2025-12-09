@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-10-01T00:10:24.413219",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759245018_0",
+        "title": "하이퍼리퀴드 트레이더, 3억 달러 포지션으로 '55배' 수익 실현...비결은?",
+        "url": "https://www.coinreaders.com/189866",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:10:18.652557",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759245018_0",
+        "title": "하이퍼리퀴드 트레이더, 3억 달러 포지션으로 '55배' 수익 실현...비결은?",
+        "url": "https://www.coinreaders.com/189866",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:10:18.652557",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759245018_0",
+        "title": "하이퍼리퀴드 트레이더, 3억 달러 포지션으로 '55배' 수익 실현...비결은?",
+        "url": "https://www.coinreaders.com/189866",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:10:18.652557",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759245018_0",
+        "title": "하이퍼리퀴드 트레이더, 3억 달러 포지션으로 '55배' 수익 실현...비결은?",
+        "url": "https://www.coinreaders.com/189866",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:10:18.652557",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759245018_0",
+        "title": "하이퍼리퀴드 트레이더, 3억 달러 포지션으로 '55배' 수익 실현...비결은?",
+        "url": "https://www.coinreaders.com/189866",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T00:10:18.652557",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759245018_0",
+      "title": "하이퍼리퀴드 트레이더, 3억 달러 포지션으로 '55배' 수익 실현...비결은?",
+      "url": "https://www.coinreaders.com/189866",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T00:10:18.652557",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0010.json"
+}

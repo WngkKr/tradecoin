@@ -1,0 +1,183 @@
+{
+  "timestamp": "2025-09-29T20:48:49.194711",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759145915_0",
+        "title": "암호화폐 시장, 공포 탈출...비트코인·이더리움 동반 반격",
+        "url": "https://www.coinreaders.com/189565",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:38:35.029561",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759145916_3",
+        "title": "암호화폐 랠리 본격화? 10월 금리 인하·ETF 성장 모멘텀 겹쳤다",
+        "url": "https://www.coinreaders.com/189558",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:38:36.931941",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759145915_2",
+        "title": "비트코인, CME 갭 메우고 반등할 수 있을까?",
+        "url": "https://www.coinreaders.com/189559",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:38:35.935311",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759145915_0",
+        "title": "암호화폐 시장, 공포 탈출...비트코인·이더리움 동반 반격",
+        "url": "https://www.coinreaders.com/189565",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:38:35.029561",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759145915_2",
+        "title": "비트코인, CME 갭 메우고 반등할 수 있을까?",
+        "url": "https://www.coinreaders.com/189559",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:38:35.935311",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759145916_3",
+        "title": "암호화폐 랠리 본격화? 10월 금리 인하·ETF 성장 모멘텀 겹쳤다",
+        "url": "https://www.coinreaders.com/189558",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:38:36.931941",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759145915_2",
+        "title": "비트코인, CME 갭 메우고 반등할 수 있을까?",
+        "url": "https://www.coinreaders.com/189559",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:38:35.935311",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759145916_3",
+        "title": "암호화폐 랠리 본격화? 10월 금리 인하·ETF 성장 모멘텀 겹쳤다",
+        "url": "https://www.coinreaders.com/189558",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:38:36.931941",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759145915_0",
+        "title": "암호화폐 시장, 공포 탈출...비트코인·이더리움 동반 반격",
+        "url": "https://www.coinreaders.com/189565",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:38:35.029561",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759145916_3",
+        "title": "암호화폐 랠리 본격화? 10월 금리 인하·ETF 성장 모멘텀 겹쳤다",
+        "url": "https://www.coinreaders.com/189558",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T20:38:36.931941",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759145916_3",
+      "title": "암호화폐 랠리 본격화? 10월 금리 인하·ETF 성장 모멘텀 겹쳤다",
+      "url": "https://www.coinreaders.com/189558",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T20:38:36.931941",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 4,
+  "source_file": "news/all_news_20250929_2038.json"
+}

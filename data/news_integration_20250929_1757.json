@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-09-29T17:57:05.006081",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759136220_0",
+        "title": "비트코인·이더리움·XRP, 반등 신호인가 또 다른 하락 전조인가",
+        "url": "https://www.coinreaders.com/189538",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T17:57:00.168182",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759136220_0",
+        "title": "비트코인·이더리움·XRP, 반등 신호인가 또 다른 하락 전조인가",
+        "url": "https://www.coinreaders.com/189538",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T17:57:00.168182",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759136220_0",
+        "title": "비트코인·이더리움·XRP, 반등 신호인가 또 다른 하락 전조인가",
+        "url": "https://www.coinreaders.com/189538",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T17:57:00.168182",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759136220_0",
+        "title": "비트코인·이더리움·XRP, 반등 신호인가 또 다른 하락 전조인가",
+        "url": "https://www.coinreaders.com/189538",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T17:57:00.168182",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_1757.json"
+}

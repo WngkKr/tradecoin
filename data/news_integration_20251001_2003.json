@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-10-01T20:03:00.895262",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759315971_0",
+        "title": "비트코인 가격 예측 적중 분석가 \"약세장, 예상보다 일찍 온다\"",
+        "url": "https://www.coinreaders.com/190074",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:52:51.320586",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759315971_0",
+        "title": "비트코인 가격 예측 적중 분석가 \"약세장, 예상보다 일찍 온다\"",
+        "url": "https://www.coinreaders.com/190074",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:52:51.320586",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759315971_0",
+        "title": "비트코인 가격 예측 적중 분석가 \"약세장, 예상보다 일찍 온다\"",
+        "url": "https://www.coinreaders.com/190074",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:52:51.320586",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1952.json"
+}

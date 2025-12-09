@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-09-29T18:37:26.475171",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759138642_0",
+        "title": "7일간 4조 달러 청산 후 반등...비트코인 강세론 불붙었다",
+        "url": "https://www.coinreaders.com/189544",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:37:22.216023",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759138642_0",
+        "title": "7일간 4조 달러 청산 후 반등...비트코인 강세론 불붙었다",
+        "url": "https://www.coinreaders.com/189544",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:37:22.216023",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759138642_0",
+        "title": "7일간 4조 달러 청산 후 반등...비트코인 강세론 불붙었다",
+        "url": "https://www.coinreaders.com/189544",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:37:22.216023",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759138642_0",
+        "title": "7일간 4조 달러 청산 후 반등...비트코인 강세론 불붙었다",
+        "url": "https://www.coinreaders.com/189544",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:37:22.216023",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759138642_0",
+        "title": "7일간 4조 달러 청산 후 반등...비트코인 강세론 불붙었다",
+        "url": "https://www.coinreaders.com/189544",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T18:37:22.216023",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759138642_0",
+      "title": "7일간 4조 달러 청산 후 반등...비트코인 강세론 불붙었다",
+      "url": "https://www.coinreaders.com/189544",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T18:37:22.216023",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_1837.json"
+}

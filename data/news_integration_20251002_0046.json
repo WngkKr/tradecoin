@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-10-02T00:46:10.679224",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759333563_0",
+        "title": "시바이누, 4년 연속 10월 상승 기록...올해도 이어갈까?",
+        "url": "https://www.coinreaders.com/190119",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T00:46:03.221619",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759333563_0",
+        "title": "시바이누, 4년 연속 10월 상승 기록...올해도 이어갈까?",
+        "url": "https://www.coinreaders.com/190119",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T00:46:03.221619",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0046.json"
+}

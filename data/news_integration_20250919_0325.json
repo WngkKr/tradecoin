@@ -1,0 +1,548 @@
+{
+  "timestamp": "2025-09-19T03:25:10.143457",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump",
+          "Michael Saylor",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219903_1",
+        "title": "금융 인프라화·가치 저장·밈코인 부상, 암호화폐 3대 트렌드",
+        "url": "https://www.coinreaders.com/187475",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:03.296381",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219904_4",
+        "title": "\"XRP 백만장자 탄생 임박\"...ETF 상장에 시장 폭발",
+        "url": "https://www.coinreaders.com/187468",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:04.984798",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump",
+          "Michael Saylor",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219903_1",
+        "title": "금융 인프라화·가치 저장·밈코인 부상, 암호화폐 3대 트렌드",
+        "url": "https://www.coinreaders.com/187475",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:03.296381",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219904_3",
+        "title": "\"XRP 수천만 달러가 묶여 있다\"...유통량 재평가 불러올 수도",
+        "url": "https://www.coinreaders.com/187469",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:04.144494",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219904_4",
+        "title": "\"XRP 백만장자 탄생 임박\"...ETF 상장에 시장 폭발",
+        "url": "https://www.coinreaders.com/187468",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:04.984798",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump",
+          "Michael Saylor",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219903_1",
+        "title": "금융 인프라화·가치 저장·밈코인 부상, 암호화폐 3대 트렌드",
+        "url": "https://www.coinreaders.com/187475",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:03.296381",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219904_4",
+        "title": "\"XRP 백만장자 탄생 임박\"...ETF 상장에 시장 폭발",
+        "url": "https://www.coinreaders.com/187468",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:04.984798",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump",
+          "Michael Saylor",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219903_1",
+        "title": "금융 인프라화·가치 저장·밈코인 부상, 암호화폐 3대 트렌드",
+        "url": "https://www.coinreaders.com/187475",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:03.296381",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219904_3",
+        "title": "\"XRP 수천만 달러가 묶여 있다\"...유통량 재평가 불러올 수도",
+        "url": "https://www.coinreaders.com/187469",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:04.144494",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219904_4",
+        "title": "\"XRP 백만장자 탄생 임박\"...ETF 상장에 시장 폭발",
+        "url": "https://www.coinreaders.com/187468",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:04.984798",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump",
+          "Michael Saylor",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219903_1",
+        "title": "금융 인프라화·가치 저장·밈코인 부상, 암호화폐 3대 트렌드",
+        "url": "https://www.coinreaders.com/187475",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:03.296381",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219904_4",
+        "title": "\"XRP 백만장자 탄생 임박\"...ETF 상장에 시장 폭발",
+        "url": "https://www.coinreaders.com/187468",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:04.984798",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump",
+          "Michael Saylor",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump",
+          "Michael Saylor",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219904_4",
+        "title": "\"XRP 백만장자 탄생 임박\"...ETF 상장에 시장 폭발",
+        "url": "https://www.coinreaders.com/187468",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:04.984798",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Elon Musk": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758219903_1",
+        "title": "금융 인프라화·가치 저장·밈코인 부상, 암호화폐 3대 트렌드",
+        "url": "https://www.coinreaders.com/187475",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:03.296381",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219904_4",
+        "title": "\"XRP 백만장자 탄생 임박\"...ETF 상장에 시장 폭발",
+        "url": "https://www.coinreaders.com/187468",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:04.984798",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758219902_0",
+        "title": "2026년, 도지코인보다 비트코인이 더 나은 선택일까",
+        "url": "https://www.coinreaders.com/187477",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:02.031097",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758219904_4",
+        "title": "\"XRP 백만장자 탄생 임박\"...ETF 상장에 시장 폭발",
+        "url": "https://www.coinreaders.com/187468",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T03:25:04.984798",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758219904_3",
+      "title": "\"XRP 수천만 달러가 묶여 있다\"...유통량 재평가 불러올 수도",
+      "url": "https://www.coinreaders.com/187469",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T03:25:04.144494",
+      "related_coins": [
+        "DOGE",
+        "SHIB"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758219904_4",
+      "title": "\"XRP 백만장자 탄생 임박\"...ETF 상장에 시장 폭발",
+      "url": "https://www.coinreaders.com/187468",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T03:25:04.984798",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250919_0325.json"
+}

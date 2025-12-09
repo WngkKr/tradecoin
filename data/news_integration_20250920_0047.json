@@ -1,0 +1,138 @@
+{
+  "timestamp": "2025-09-20T00:47:48.025316",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758296253_0",
+        "title": "카르다노, 인터넷 혁명 선언...1달러 벽 못 넘는데 가능할까?",
+        "url": "https://www.coinreaders.com/187703",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:37:33.603918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758296253_0",
+        "title": "카르다노, 인터넷 혁명 선언...1달러 벽 못 넘는데 가능할까?",
+        "url": "https://www.coinreaders.com/187703",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:37:33.603918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758296253_0",
+        "title": "카르다노, 인터넷 혁명 선언...1달러 벽 못 넘는데 가능할까?",
+        "url": "https://www.coinreaders.com/187703",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:37:33.603918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758296253_0",
+        "title": "카르다노, 인터넷 혁명 선언...1달러 벽 못 넘는데 가능할까?",
+        "url": "https://www.coinreaders.com/187703",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:37:33.603918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758296253_0",
+        "title": "카르다노, 인터넷 혁명 선언...1달러 벽 못 넘는데 가능할까?",
+        "url": "https://www.coinreaders.com/187703",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:37:33.603918",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758296253_0",
+        "title": "카르다노, 인터넷 혁명 선언...1달러 벽 못 넘는데 가능할까?",
+        "url": "https://www.coinreaders.com/187703",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T00:37:33.603918",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758296253_0",
+      "title": "카르다노, 인터넷 혁명 선언...1달러 벽 못 넘는데 가능할까?",
+      "url": "https://www.coinreaders.com/187703",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T00:37:33.603918",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0037.json"
+}

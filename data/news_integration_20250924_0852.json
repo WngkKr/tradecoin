@@ -1,0 +1,88 @@
+{
+  "timestamp": "2025-09-24T08:52:23.937192",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758671539_0",
+        "title": "아발란체 TVL 120% 급등...다음 타겟은 '55달러'",
+        "url": "https://www.coinreaders.com/188498",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:52:19.105084",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758671539_0",
+        "title": "아발란체 TVL 120% 급등...다음 타겟은 '55달러'",
+        "url": "https://www.coinreaders.com/188498",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:52:19.105084",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758671539_0",
+        "title": "아발란체 TVL 120% 급등...다음 타겟은 '55달러'",
+        "url": "https://www.coinreaders.com/188498",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:52:19.105084",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758671539_0",
+        "title": "아발란체 TVL 120% 급등...다음 타겟은 '55달러'",
+        "url": "https://www.coinreaders.com/188498",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T08:52:19.105084",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758671539_0",
+      "title": "아발란체 TVL 120% 급등...다음 타겟은 '55달러'",
+      "url": "https://www.coinreaders.com/188498",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T08:52:19.105084",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_0852.json"
+}

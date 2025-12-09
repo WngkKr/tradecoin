@@ -1,0 +1,209 @@
+{
+  "timestamp": "2025-09-21T08:05:52.950343",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758409548_3",
+        "title": "비트코인 주춤, BNB만 질주… 이번 주 암호화폐 향방은?",
+        "url": "https://www.coinreaders.com/187844",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:48.307460",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758409545_0",
+        "title": "시바이누, 0.5달러·1달러 목표 실현 가능성은 얼마?",
+        "url": "https://www.coinreaders.com/187847",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:45.703737",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758409546_1",
+        "title": "카르다노, 이번 사이클 6달러 향한 패턴 형성…현실화 될까",
+        "url": "https://www.coinreaders.com/187846",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:46.494646",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758409547_2",
+        "title": "레인보우 차트가 제시한 비트코인 10월 1일 가격 전망…과연 어디까지?",
+        "url": "https://www.coinreaders.com/187845",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:47.370864",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758409547_2",
+        "title": "레인보우 차트가 제시한 비트코인 10월 1일 가격 전망…과연 어디까지?",
+        "url": "https://www.coinreaders.com/187845",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:47.370864",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758409548_3",
+        "title": "비트코인 주춤, BNB만 질주… 이번 주 암호화폐 향방은?",
+        "url": "https://www.coinreaders.com/187844",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:48.307460",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758409545_0",
+        "title": "시바이누, 0.5달러·1달러 목표 실현 가능성은 얼마?",
+        "url": "https://www.coinreaders.com/187847",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:45.703737",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758409547_2",
+        "title": "레인보우 차트가 제시한 비트코인 10월 1일 가격 전망…과연 어디까지?",
+        "url": "https://www.coinreaders.com/187845",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:47.370864",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758409548_3",
+        "title": "비트코인 주춤, BNB만 질주… 이번 주 암호화폐 향방은?",
+        "url": "https://www.coinreaders.com/187844",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:48.307460",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758409545_0",
+        "title": "시바이누, 0.5달러·1달러 목표 실현 가능성은 얼마?",
+        "url": "https://www.coinreaders.com/187847",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:45.703737",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "SHIB",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758409548_3",
+        "title": "비트코인 주춤, BNB만 질주… 이번 주 암호화폐 향방은?",
+        "url": "https://www.coinreaders.com/187844",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T08:05:48.307460",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758409545_0",
+      "title": "시바이누, 0.5달러·1달러 목표 실현 가능성은 얼마?",
+      "url": "https://www.coinreaders.com/187847",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T08:05:45.703737",
+      "related_coins": [
+        "SHIB",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758409546_1",
+      "title": "카르다노, 이번 사이클 6달러 향한 패턴 형성…현실화 될까",
+      "url": "https://www.coinreaders.com/187846",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T08:05:46.494646",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 4,
+  "source_file": "news/all_news_20250921_0805.json"
+}

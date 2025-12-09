@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-09-22T22:50:20.320378",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758549011_0",
+        "title": "벤자민 코웬 \"이더리움, 올해 금 따라 간다...사상 최고가 경신 가능\"",
+        "url": "https://www.coinreaders.com/188132",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:50:11.476359",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758549011_0",
+        "title": "벤자민 코웬 \"이더리움, 올해 금 따라 간다...사상 최고가 경신 가능\"",
+        "url": "https://www.coinreaders.com/188132",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T22:50:11.476359",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_2250.json"
+}

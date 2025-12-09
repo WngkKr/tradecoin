@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-10-01T01:51:27.981202",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759250475_0",
+        "title": "XRP, 3달러 밑에서 꿈틀...전문가 \"예상치 못하게 냉혹한 순간 올 것\"",
+        "url": "https://www.coinreaders.com/189876",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T01:41:15.022929",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759250475_0",
+        "title": "XRP, 3달러 밑에서 꿈틀...전문가 \"예상치 못하게 냉혹한 순간 올 것\"",
+        "url": "https://www.coinreaders.com/189876",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T01:41:15.022929",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759250475_0",
+        "title": "XRP, 3달러 밑에서 꿈틀...전문가 \"예상치 못하게 냉혹한 순간 올 것\"",
+        "url": "https://www.coinreaders.com/189876",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T01:41:15.022929",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759250475_0",
+      "title": "XRP, 3달러 밑에서 꿈틀...전문가 \"예상치 못하게 냉혹한 순간 올 것\"",
+      "url": "https://www.coinreaders.com/189876",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T01:41:15.022929",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0141.json"
+}

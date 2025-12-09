@@ -1,0 +1,56 @@
+{
+  "timestamp": "2025-10-02T08:20:54.239476",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759360239_0",
+        "title": "美 고용 쇼크, 연준 금리 인하 기대...비트코인 호재로",
+        "url": "https://www.coinreaders.com/190178",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:10:39.630060",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759360239_0",
+        "title": "美 고용 쇼크, 연준 금리 인하 기대...비트코인 호재로",
+        "url": "https://www.coinreaders.com/190178",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T08:10:39.630060",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759360239_0",
+      "title": "美 고용 쇼크, 연준 금리 인하 기대...비트코인 호재로",
+      "url": "https://www.coinreaders.com/190178",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T08:10:39.630060",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0810.json"
+}

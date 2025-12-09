@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-09-17T14:51:47.226686",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758088299_0",
+        "title": "영국·미국 손잡고 암호화폐 공조...트럼프식 규제 완화 이어갈까?",
+        "url": "https://www.coinreaders.com/187040",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T14:51:39.290853",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758088299_0",
+        "title": "영국·미국 손잡고 암호화폐 공조...트럼프식 규제 완화 이어갈까?",
+        "url": "https://www.coinreaders.com/187040",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T14:51:39.290853",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758088299_0",
+        "title": "영국·미국 손잡고 암호화폐 공조...트럼프식 규제 완화 이어갈까?",
+        "url": "https://www.coinreaders.com/187040",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T14:51:39.290853",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758088299_0",
+        "title": "영국·미국 손잡고 암호화폐 공조...트럼프식 규제 완화 이어갈까?",
+        "url": "https://www.coinreaders.com/187040",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T14:51:39.290853",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758088299_0",
+        "title": "영국·미국 손잡고 암호화폐 공조...트럼프식 규제 완화 이어갈까?",
+        "url": "https://www.coinreaders.com/187040",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T14:51:39.290853",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "TRUMP",
+          "MAGA",
+          "ETH"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758088299_0",
+      "title": "영국·미국 손잡고 암호화폐 공조...트럼프식 규제 완화 이어갈까?",
+      "url": "https://www.coinreaders.com/187040",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T14:51:39.290853",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1451.json"
+}

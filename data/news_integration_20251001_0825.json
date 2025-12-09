@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-10-01T08:25:26.548180",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759274721_0",
+        "title": "전 세계 비트코인 ATM, 연말까지 4만 대 돌파할까",
+        "url": "https://www.coinreaders.com/189942",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:25:21.340403",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759274721_0",
+        "title": "전 세계 비트코인 ATM, 연말까지 4만 대 돌파할까",
+        "url": "https://www.coinreaders.com/189942",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:25:21.340403",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0825.json"
+}

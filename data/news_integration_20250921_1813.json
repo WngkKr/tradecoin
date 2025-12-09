@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-21T18:13:00.235540",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758445371_0",
+        "title": "카르다노, 6달러 랠리 시나리오 실현되나",
+        "url": "https://www.coinreaders.com/187880",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T18:02:51.213136",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758445371_0",
+      "title": "카르다노, 6달러 랠리 시나리오 실현되나",
+      "url": "https://www.coinreaders.com/187880",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T18:02:51.213136",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_1802.json"
+}

@@ -1,0 +1,96 @@
+{
+  "timestamp": "2025-09-23T06:37:20.617680",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758577034_1",
+        "title": "3달러 무너진 XRP, 고래들의 탈출 러시에 흔들린다",
+        "url": "https://www.coinreaders.com/188189",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:37:14.365364",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758577033_0",
+        "title": "도이체방크 \"2030년, 중앙은행 금과 함께 비트코인 보유한다\"",
+        "url": "https://www.coinreaders.com/188192",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:37:13.870998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758577033_0",
+        "title": "도이체방크 \"2030년, 중앙은행 금과 함께 비트코인 보유한다\"",
+        "url": "https://www.coinreaders.com/188192",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:37:13.870998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758577033_0",
+        "title": "도이체방크 \"2030년, 중앙은행 금과 함께 비트코인 보유한다\"",
+        "url": "https://www.coinreaders.com/188192",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T06:37:13.870998",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758577033_0",
+      "title": "도이체방크 \"2030년, 중앙은행 금과 함께 비트코인 보유한다\"",
+      "url": "https://www.coinreaders.com/188192",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T06:37:13.870998",
+      "related_coins": [
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758577034_1",
+      "title": "3달러 무너진 XRP, 고래들의 탈출 러시에 흔들린다",
+      "url": "https://www.coinreaders.com/188189",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T06:37:14.365364",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250923_0637.json"
+}

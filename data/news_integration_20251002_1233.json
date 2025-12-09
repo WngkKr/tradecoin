@@ -1,0 +1,134 @@
+{
+  "timestamp": "2025-10-02T12:33:27.882597",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759363272_1",
+        "title": "솔라나·도지코인·카르다노, 미국 셧다운에 오히려 상승 질주",
+        "url": "https://www.coinreaders.com/190183",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T09:01:12.456965",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759363272_1",
+        "title": "솔라나·도지코인·카르다노, 미국 셧다운에 오히려 상승 질주",
+        "url": "https://www.coinreaders.com/190183",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T09:01:12.456965",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759363272_1",
+        "title": "솔라나·도지코인·카르다노, 미국 셧다운에 오히려 상승 질주",
+        "url": "https://www.coinreaders.com/190183",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T09:01:12.456965",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759363272_1",
+        "title": "솔라나·도지코인·카르다노, 미국 셧다운에 오히려 상승 질주",
+        "url": "https://www.coinreaders.com/190183",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T09:01:12.456965",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759363272_1",
+        "title": "솔라나·도지코인·카르다노, 미국 셧다운에 오히려 상승 질주",
+        "url": "https://www.coinreaders.com/190183",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T09:01:12.456965",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759363272_1",
+        "title": "솔라나·도지코인·카르다노, 미국 셧다운에 오히려 상승 질주",
+        "url": "https://www.coinreaders.com/190183",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T09:01:12.456965",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759363272_1",
+        "title": "솔라나·도지코인·카르다노, 미국 셧다운에 오히려 상승 질주",
+        "url": "https://www.coinreaders.com/190183",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T09:01:12.456965",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "DOGE",
+          "MAGA",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0901.json"
+}

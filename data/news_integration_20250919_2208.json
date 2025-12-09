@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-19T22:08:10.425261",
+  "by_coin": {},
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758287284_0",
+      "title": "솔라나, 250달러 돌파 관문 앞...상승 랠리 이어갈까?",
+      "url": "https://www.coinreaders.com/187680",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T22:08:04.125664",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_2208.json"
+}

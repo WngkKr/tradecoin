@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-23T17:09:06.148446",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758614937_2",
+        "title": "암호화폐 시장, 중국발 악재 직격탄...어디까지 추락하나?",
+        "url": "https://www.coinreaders.com/188319",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T17:08:57.598640",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 3,
+  "source_file": "news/all_news_20250923_1709.json"
+}

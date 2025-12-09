@@ -1,0 +1,295 @@
+{
+  "timestamp": "2025-09-20T18:27:23.345400",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758360437_1",
+        "title": "맥스 카이저 \"비트코인, 채권 매도 공황 시 250조 달러 흡수할 것\"",
+        "url": "https://www.coinreaders.com/187800",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:17.886141",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758360438_2",
+        "title": "금 1만 달러 시대, XRP 거래가는 '30달러'로?",
+        "url": "https://www.coinreaders.com/187799",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:18.668549",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758360437_1",
+        "title": "맥스 카이저 \"비트코인, 채권 매도 공황 시 250조 달러 흡수할 것\"",
+        "url": "https://www.coinreaders.com/187800",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:17.886141",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758360438_2",
+        "title": "금 1만 달러 시대, XRP 거래가는 '30달러'로?",
+        "url": "https://www.coinreaders.com/187799",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:18.668549",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758360437_1",
+        "title": "맥스 카이저 \"비트코인, 채권 매도 공황 시 250조 달러 흡수할 것\"",
+        "url": "https://www.coinreaders.com/187800",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:17.886141",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758360437_1",
+        "title": "맥스 카이저 \"비트코인, 채권 매도 공황 시 250조 달러 흡수할 것\"",
+        "url": "https://www.coinreaders.com/187800",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:17.886141",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758360437_1",
+        "title": "맥스 카이저 \"비트코인, 채권 매도 공황 시 250조 달러 흡수할 것\"",
+        "url": "https://www.coinreaders.com/187800",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:17.886141",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758360438_2",
+        "title": "금 1만 달러 시대, XRP 거래가는 '30달러'로?",
+        "url": "https://www.coinreaders.com/187799",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:18.668549",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758360437_1",
+        "title": "맥스 카이저 \"비트코인, 채권 매도 공황 시 250조 달러 흡수할 것\"",
+        "url": "https://www.coinreaders.com/187800",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:17.886141",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758360438_2",
+        "title": "금 1만 달러 시대, XRP 거래가는 '30달러'로?",
+        "url": "https://www.coinreaders.com/187799",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:18.668549",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758360437_1",
+        "title": "맥스 카이저 \"비트코인, 채권 매도 공황 시 250조 달러 흡수할 것\"",
+        "url": "https://www.coinreaders.com/187800",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:17.886141",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758360438_2",
+        "title": "금 1만 달러 시대, XRP 거래가는 '30달러'로?",
+        "url": "https://www.coinreaders.com/187799",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:18.668549",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758360438_2",
+        "title": "금 1만 달러 시대, XRP 거래가는 '30달러'로?",
+        "url": "https://www.coinreaders.com/187799",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T18:27:18.668549",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758360437_1",
+      "title": "맥스 카이저 \"비트코인, 채권 매도 공황 시 250조 달러 흡수할 것\"",
+      "url": "https://www.coinreaders.com/187800",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T18:27:17.886141",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적",
+        "환경적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758360438_2",
+      "title": "금 1만 달러 시대, XRP 거래가는 '30달러'로?",
+      "url": "https://www.coinreaders.com/187799",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T18:27:18.668549",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250920_1827.json"
+}

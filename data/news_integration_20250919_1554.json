@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-09-19T15:54:13.894416",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758264847_0",
+        "title": "도지코인·XRP ETF, 첫날부터 폭발적 거래량...테더·이더리움 ETF 넘볼까?",
+        "url": "https://www.coinreaders.com/187611",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T15:54:07.711400",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758264847_0",
+        "title": "도지코인·XRP ETF, 첫날부터 폭발적 거래량...테더·이더리움 ETF 넘볼까?",
+        "url": "https://www.coinreaders.com/187611",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T15:54:07.711400",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758264848_1",
+        "title": "FOMC 금리 인하에 불붙은 BNB, 사상 첫 1,000달러 돌파…폭발적 상승 이어질까",
+        "url": "https://www.coinreaders.com/187610",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T15:54:08.646754",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758264847_0",
+        "title": "도지코인·XRP ETF, 첫날부터 폭발적 거래량...테더·이더리움 ETF 넘볼까?",
+        "url": "https://www.coinreaders.com/187611",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T15:54:07.711400",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758264847_0",
+        "title": "도지코인·XRP ETF, 첫날부터 폭발적 거래량...테더·이더리움 ETF 넘볼까?",
+        "url": "https://www.coinreaders.com/187611",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T15:54:07.711400",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758264847_0",
+        "title": "도지코인·XRP ETF, 첫날부터 폭발적 거래량...테더·이더리움 ETF 넘볼까?",
+        "url": "https://www.coinreaders.com/187611",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T15:54:07.711400",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758264847_0",
+        "title": "도지코인·XRP ETF, 첫날부터 폭발적 거래량...테더·이더리움 ETF 넘볼까?",
+        "url": "https://www.coinreaders.com/187611",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T15:54:07.711400",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758264847_0",
+        "title": "도지코인·XRP ETF, 첫날부터 폭발적 거래량...테더·이더리움 ETF 넘볼까?",
+        "url": "https://www.coinreaders.com/187611",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T15:54:07.711400",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758264847_0",
+        "title": "도지코인·XRP ETF, 첫날부터 폭발적 거래량...테더·이더리움 ETF 넘볼까?",
+        "url": "https://www.coinreaders.com/187611",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T15:54:07.711400",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758264847_0",
+      "title": "도지코인·XRP ETF, 첫날부터 폭발적 거래량...테더·이더리움 ETF 넘볼까?",
+      "url": "https://www.coinreaders.com/187611",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T15:54:07.711400",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758264848_1",
+      "title": "FOMC 금리 인하에 불붙은 BNB, 사상 첫 1,000달러 돌파…폭발적 상승 이어질까",
+      "url": "https://www.coinreaders.com/187610",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T15:54:08.646754",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250919_1554.json"
+}

@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-10-01T23:25:17.594951",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759328712_0",
+        "title": "알트코인 열기, 셧다운 불안 속에도 계속...시장은 'ETF·업토버' 기대",
+        "url": "https://www.coinreaders.com/190110",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:25:12.289254",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759328712_0",
+        "title": "알트코인 열기, 셧다운 불안 속에도 계속...시장은 'ETF·업토버' 기대",
+        "url": "https://www.coinreaders.com/190110",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:25:12.289254",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759328712_0",
+        "title": "알트코인 열기, 셧다운 불안 속에도 계속...시장은 'ETF·업토버' 기대",
+        "url": "https://www.coinreaders.com/190110",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:25:12.289254",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759328712_0",
+        "title": "알트코인 열기, 셧다운 불안 속에도 계속...시장은 'ETF·업토버' 기대",
+        "url": "https://www.coinreaders.com/190110",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:25:12.289254",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759328712_0",
+      "title": "알트코인 열기, 셧다운 불안 속에도 계속...시장은 'ETF·업토버' 기대",
+      "url": "https://www.coinreaders.com/190110",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T23:25:12.289254",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_2325.json"
+}

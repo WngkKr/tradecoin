@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-09-21T14:43:42.296864",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758433417_0",
+        "title": "비트코인, 장기보유자 수익성 회복…새로운 강세장 신호일까",
+        "url": "https://www.coinreaders.com/187871",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T14:43:37.256390",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758433417_0",
+        "title": "비트코인, 장기보유자 수익성 회복…새로운 강세장 신호일까",
+        "url": "https://www.coinreaders.com/187871",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T14:43:37.256390",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_1443.json"
+}

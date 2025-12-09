@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-10-03T13:08:41.788126",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759464516_0",
+        "title": "스트래티지, 기업 아닌 비트코인 펀드처럼...세일러의 끝없는 매수",
+        "url": "https://www.coinreaders.com/190425",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T13:08:36.487137",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759464516_0",
+        "title": "스트래티지, 기업 아닌 비트코인 펀드처럼...세일러의 끝없는 매수",
+        "url": "https://www.coinreaders.com/190425",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T13:08:36.487137",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759464516_0",
+      "title": "스트래티지, 기업 아닌 비트코인 펀드처럼...세일러의 끝없는 매수",
+      "url": "https://www.coinreaders.com/190425",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T13:08:36.487137",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1308.json"
+}

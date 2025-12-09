@@ -1,0 +1,201 @@
+{
+  "timestamp": "2025-09-20T14:23:27.910925",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758345798_0",
+        "title": "비트코인, 9월 조정 후 10월 신 고점 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187780",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T14:23:18.284862",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758345799_1",
+        "title": "알트코인, 2조 5,000억 달러 돌파 코앞...대세 랠리 시작되나",
+        "url": "https://www.coinreaders.com/187779",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T14:23:19.050296",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758345799_1",
+        "title": "알트코인, 2조 5,000억 달러 돌파 코앞...대세 랠리 시작되나",
+        "url": "https://www.coinreaders.com/187779",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T14:23:19.050296",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758345798_0",
+        "title": "비트코인, 9월 조정 후 10월 신 고점 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187780",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T14:23:18.284862",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758345799_1",
+        "title": "알트코인, 2조 5,000억 달러 돌파 코앞...대세 랠리 시작되나",
+        "url": "https://www.coinreaders.com/187779",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T14:23:19.050296",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758345799_1",
+        "title": "알트코인, 2조 5,000억 달러 돌파 코앞...대세 랠리 시작되나",
+        "url": "https://www.coinreaders.com/187779",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T14:23:19.050296",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758345798_0",
+        "title": "비트코인, 9월 조정 후 10월 신 고점 돌파 가능할까?",
+        "url": "https://www.coinreaders.com/187780",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T14:23:18.284862",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758345799_1",
+        "title": "알트코인, 2조 5,000억 달러 돌파 코앞...대세 랠리 시작되나",
+        "url": "https://www.coinreaders.com/187779",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T14:23:19.050296",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758345799_1",
+        "title": "알트코인, 2조 5,000억 달러 돌파 코앞...대세 랠리 시작되나",
+        "url": "https://www.coinreaders.com/187779",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T14:23:19.050296",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758345799_1",
+        "title": "알트코인, 2조 5,000억 달러 돌파 코앞...대세 랠리 시작되나",
+        "url": "https://www.coinreaders.com/187779",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T14:23:19.050296",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758345799_1",
+      "title": "알트코인, 2조 5,000억 달러 돌파 코앞...대세 랠리 시작되나",
+      "url": "https://www.coinreaders.com/187779",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T14:23:19.050296",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250920_1423.json"
+}

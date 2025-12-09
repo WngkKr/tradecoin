@@ -1,0 +1,117 @@
+{
+  "timestamp": "2025-10-02T05:18:53.351624",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759349320_0",
+        "title": "기관 투자자들, ETF 심사 앞두고 XRP 200억 달러 매집...대폭발 이어지나?",
+        "url": "https://www.coinreaders.com/190143",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T05:08:40.933530",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759349320_0",
+        "title": "기관 투자자들, ETF 심사 앞두고 XRP 200억 달러 매집...대폭발 이어지나?",
+        "url": "https://www.coinreaders.com/190143",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T05:08:40.933530",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759349320_0",
+        "title": "기관 투자자들, ETF 심사 앞두고 XRP 200억 달러 매집...대폭발 이어지나?",
+        "url": "https://www.coinreaders.com/190143",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T05:08:40.933530",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759349320_0",
+        "title": "기관 투자자들, ETF 심사 앞두고 XRP 200억 달러 매집...대폭발 이어지나?",
+        "url": "https://www.coinreaders.com/190143",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T05:08:40.933530",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759349320_0",
+        "title": "기관 투자자들, ETF 심사 앞두고 XRP 200억 달러 매집...대폭발 이어지나?",
+        "url": "https://www.coinreaders.com/190143",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T05:08:40.933530",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759349320_0",
+      "title": "기관 투자자들, ETF 심사 앞두고 XRP 200억 달러 매집...대폭발 이어지나?",
+      "url": "https://www.coinreaders.com/190143",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T05:08:40.933530",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0508.json"
+}

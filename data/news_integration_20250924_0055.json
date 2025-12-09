@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-24T00:55:30.707790",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758642924_0",
+        "title": "레버리지 효과 끝났다?…스트래티지 모델 붕괴, 비트코인 우위 뚜렷",
+        "url": "https://www.coinreaders.com/188427",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:55:24.361982",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758642925_1",
+        "title": "솔라나, 이더리움 추월할 차세대 블록체인 될까",
+        "url": "https://www.coinreaders.com/188425",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:55:25.552245",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758642924_0",
+        "title": "레버리지 효과 끝났다?…스트래티지 모델 붕괴, 비트코인 우위 뚜렷",
+        "url": "https://www.coinreaders.com/188427",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:55:24.361982",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758642925_1",
+        "title": "솔라나, 이더리움 추월할 차세대 블록체인 될까",
+        "url": "https://www.coinreaders.com/188425",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:55:25.552245",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758642924_0",
+        "title": "레버리지 효과 끝났다?…스트래티지 모델 붕괴, 비트코인 우위 뚜렷",
+        "url": "https://www.coinreaders.com/188427",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:55:24.361982",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758642925_1",
+        "title": "솔라나, 이더리움 추월할 차세대 블록체인 될까",
+        "url": "https://www.coinreaders.com/188425",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:55:25.552245",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758642924_0",
+      "title": "레버리지 효과 끝났다?…스트래티지 모델 붕괴, 비트코인 우위 뚜렷",
+      "url": "https://www.coinreaders.com/188427",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T00:55:24.361982",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250924_0055.json"
+}

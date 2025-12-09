@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-09-21T23:35:45.249452",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758465340_0",
+        "title": "XRP, 3.10·3.20·3.50달러…투자자가 봐야 할 3가지 핵심 레벨",
+        "url": "https://www.coinreaders.com/187899",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T23:35:40.380118",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758465340_0",
+        "title": "XRP, 3.10·3.20·3.50달러…투자자가 봐야 할 3가지 핵심 레벨",
+        "url": "https://www.coinreaders.com/187899",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T23:35:40.380118",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758465340_0",
+        "title": "XRP, 3.10·3.20·3.50달러…투자자가 봐야 할 3가지 핵심 레벨",
+        "url": "https://www.coinreaders.com/187899",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T23:35:40.380118",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758465340_0",
+      "title": "XRP, 3.10·3.20·3.50달러…투자자가 봐야 할 3가지 핵심 레벨",
+      "url": "https://www.coinreaders.com/187899",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T23:35:40.380118",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_2335.json"
+}

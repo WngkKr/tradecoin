@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-09-24T17:51:14.402864",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758680108_0",
+        "title": "미국 암호화폐 시장 구조 법안, 셧다운에 발목 잡히나",
+        "url": "https://www.coinreaders.com/188536",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T11:15:08.062489",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758680108_0",
+        "title": "미국 암호화폐 시장 구조 법안, 셧다운에 발목 잡히나",
+        "url": "https://www.coinreaders.com/188536",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T11:15:08.062489",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758680108_0",
+        "title": "미국 암호화폐 시장 구조 법안, 셧다운에 발목 잡히나",
+        "url": "https://www.coinreaders.com/188536",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T11:15:08.062489",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758680108_0",
+        "title": "미국 암호화폐 시장 구조 법안, 셧다운에 발목 잡히나",
+        "url": "https://www.coinreaders.com/188536",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T11:15:08.062489",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758680108_0",
+        "title": "미국 암호화폐 시장 구조 법안, 셧다운에 발목 잡히나",
+        "url": "https://www.coinreaders.com/188536",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T11:15:08.062489",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "MAGA",
+          "ETH",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758680108_0",
+      "title": "미국 암호화폐 시장 구조 법안, 셧다운에 발목 잡히나",
+      "url": "https://www.coinreaders.com/188536",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T11:15:08.062489",
+      "related_coins": [
+        "MAGA",
+        "ETH",
+        "BTC",
+        "TRUMP"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_1115.json"
+}

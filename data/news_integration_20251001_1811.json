@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-10-01T18:11:48.639335",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759309902_0",
+        "title": "금은 30% 폭등....비트코인은 버티기 성공",
+        "url": "https://www.coinreaders.com/190053",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:11:42.877104",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759309902_0",
+        "title": "금은 30% 폭등....비트코인은 버티기 성공",
+        "url": "https://www.coinreaders.com/190053",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:11:42.877104",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759309902_0",
+        "title": "금은 30% 폭등....비트코인은 버티기 성공",
+        "url": "https://www.coinreaders.com/190053",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:11:42.877104",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759309902_0",
+        "title": "금은 30% 폭등....비트코인은 버티기 성공",
+        "url": "https://www.coinreaders.com/190053",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T18:11:42.877104",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1811.json"
+}

@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-10-01T22:14:31.909764",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759323860_1",
+        "title": "美 셧다운 쇼크, 비트코인 12만 달러냐 10만 달러냐...업토버 랠리 시험대",
+        "url": "https://www.coinreaders.com/190094",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:04:20.716345",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759323859_0",
+        "title": "메타플래닛, 비트코인 보유 기업 순위 세계 4위...스트래티지 추격 시작",
+        "url": "https://www.coinreaders.com/190098",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:04:19.946703",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759323860_1",
+        "title": "美 셧다운 쇼크, 비트코인 12만 달러냐 10만 달러냐...업토버 랠리 시험대",
+        "url": "https://www.coinreaders.com/190094",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:04:20.716345",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759323859_0",
+        "title": "메타플래닛, 비트코인 보유 기업 순위 세계 4위...스트래티지 추격 시작",
+        "url": "https://www.coinreaders.com/190098",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:04:19.946703",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759323860_1",
+        "title": "美 셧다운 쇼크, 비트코인 12만 달러냐 10만 달러냐...업토버 랠리 시험대",
+        "url": "https://www.coinreaders.com/190094",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:04:20.716345",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759323859_0",
+        "title": "메타플래닛, 비트코인 보유 기업 순위 세계 4위...스트래티지 추격 시작",
+        "url": "https://www.coinreaders.com/190098",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:04:19.946703",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759323860_1",
+      "title": "美 셧다운 쇼크, 비트코인 12만 달러냐 10만 달러냐...업토버 랠리 시험대",
+      "url": "https://www.coinreaders.com/190094",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T22:04:20.716345",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20251001_2204.json"
+}

@@ -1,0 +1,311 @@
+{
+  "timestamp": "2025-09-20T11:27:19.370431",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758335232_0",
+        "title": "3년간 활동 없던 고래, 수천만 달러 이익 실현",
+        "url": "https://www.coinreaders.com/187769",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.029675",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758335232_1",
+        "title": "머스크의 X, ‘직원 매수’ 암호화폐 사기 세력 끝장낼 수 있을까?",
+        "url": "https://www.coinreaders.com/187768",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.829005",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758335232_1",
+        "title": "머스크의 X, ‘직원 매수’ 암호화폐 사기 세력 끝장낼 수 있을까?",
+        "url": "https://www.coinreaders.com/187768",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.829005",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758335232_0",
+        "title": "3년간 활동 없던 고래, 수천만 달러 이익 실현",
+        "url": "https://www.coinreaders.com/187769",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.029675",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758335232_1",
+        "title": "머스크의 X, ‘직원 매수’ 암호화폐 사기 세력 끝장낼 수 있을까?",
+        "url": "https://www.coinreaders.com/187768",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.829005",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758335233_2",
+        "title": "블록, 단순한 비트코인 기업일까 아니면 핀테크 강자일까?",
+        "url": "https://www.coinreaders.com/187767",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:13.787679",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758335232_1",
+        "title": "머스크의 X, ‘직원 매수’ 암호화폐 사기 세력 끝장낼 수 있을까?",
+        "url": "https://www.coinreaders.com/187768",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.829005",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758335232_1",
+        "title": "머스크의 X, ‘직원 매수’ 암호화폐 사기 세력 끝장낼 수 있을까?",
+        "url": "https://www.coinreaders.com/187768",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.829005",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758335232_1",
+        "title": "머스크의 X, ‘직원 매수’ 암호화폐 사기 세력 끝장낼 수 있을까?",
+        "url": "https://www.coinreaders.com/187768",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.829005",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758335232_1",
+        "title": "머스크의 X, ‘직원 매수’ 암호화폐 사기 세력 끝장낼 수 있을까?",
+        "url": "https://www.coinreaders.com/187768",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.829005",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Elon Musk",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Elon Musk": [
+      {
+        "id": "coinreaders_1758335232_1",
+        "title": "머스크의 X, ‘직원 매수’ 암호화폐 사기 세력 끝장낼 수 있을까?",
+        "url": "https://www.coinreaders.com/187768",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.829005",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "MAGA",
+          "ETH",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758335232_1",
+        "title": "머스크의 X, ‘직원 매수’ 암호화폐 사기 세력 끝장낼 수 있을까?",
+        "url": "https://www.coinreaders.com/187768",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.829005",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "MAGA",
+          "ETH",
+          "BTC",
+          "TRUMP"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758335233_2",
+        "title": "블록, 단순한 비트코인 기업일까 아니면 핀테크 강자일까?",
+        "url": "https://www.coinreaders.com/187767",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:13.787679",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758335232_0",
+        "title": "3년간 활동 없던 고래, 수천만 달러 이익 실현",
+        "url": "https://www.coinreaders.com/187769",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:27:12.029675",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758335232_0",
+      "title": "3년간 활동 없던 고래, 수천만 달러 이익 실현",
+      "url": "https://www.coinreaders.com/187769",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T11:27:12.029675",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758335232_1",
+      "title": "머스크의 X, ‘직원 매수’ 암호화폐 사기 세력 끝장낼 수 있을까?",
+      "url": "https://www.coinreaders.com/187768",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T11:27:12.829005",
+      "related_coins": [
+        "DOGE",
+        "SHIB",
+        "FLOKI",
+        "MAGA",
+        "ETH",
+        "BTC",
+        "TRUMP"
+      ],
+      "related_influencers": [
+        "Elon Musk",
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "사회적",
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250920_1127.json"
+}

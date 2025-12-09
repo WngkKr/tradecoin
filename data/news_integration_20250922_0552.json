@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-09-22T05:52:01.061780",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758486704_0",
+        "title": "ETF 데뷔에 불붙은 XRP, 단숨에 5달러 돌파 가능성!",
+        "url": "https://www.coinreaders.com/187915",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T05:31:44.405000",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758486704_0",
+        "title": "ETF 데뷔에 불붙은 XRP, 단숨에 5달러 돌파 가능성!",
+        "url": "https://www.coinreaders.com/187915",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T05:31:44.405000",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758486704_0",
+        "title": "ETF 데뷔에 불붙은 XRP, 단숨에 5달러 돌파 가능성!",
+        "url": "https://www.coinreaders.com/187915",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T05:31:44.405000",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758486704_0",
+      "title": "ETF 데뷔에 불붙은 XRP, 단숨에 5달러 돌파 가능성!",
+      "url": "https://www.coinreaders.com/187915",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T05:31:44.405000",
+      "related_coins": [
+        "BTC",
+        "SHIB",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_0531.json"
+}

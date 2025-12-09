@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-10-01T21:33:45.300621",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759321428_0",
+        "title": "테더, 비트코인 10억 달러 매수...\"레버리지 카지노\" 비판 이어져",
+        "url": "https://www.coinreaders.com/190088",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:23:48.331378",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759321428_0",
+        "title": "테더, 비트코인 10억 달러 매수...\"레버리지 카지노\" 비판 이어져",
+        "url": "https://www.coinreaders.com/190088",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:23:48.331378",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759321428_0",
+        "title": "테더, 비트코인 10억 달러 매수...\"레버리지 카지노\" 비판 이어져",
+        "url": "https://www.coinreaders.com/190088",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:23:48.331378",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759321428_0",
+        "title": "테더, 비트코인 10억 달러 매수...\"레버리지 카지노\" 비판 이어져",
+        "url": "https://www.coinreaders.com/190088",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T21:23:48.331378",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759321428_0",
+      "title": "테더, 비트코인 10억 달러 매수...\"레버리지 카지노\" 비판 이어져",
+      "url": "https://www.coinreaders.com/190088",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T21:23:48.331378",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_2123.json"
+}

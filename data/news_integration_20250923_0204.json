@@ -1,0 +1,108 @@
+{
+  "timestamp": "2025-09-23T02:04:49.331737",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758560682_0",
+        "title": "카르다노, 비트코인 보안+디파이...이더리움·솔라나 넘어설까?",
+        "url": "https://www.coinreaders.com/188154",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T02:04:42.339692",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758560682_0",
+        "title": "카르다노, 비트코인 보안+디파이...이더리움·솔라나 넘어설까?",
+        "url": "https://www.coinreaders.com/188154",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T02:04:42.339692",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758560682_0",
+        "title": "카르다노, 비트코인 보안+디파이...이더리움·솔라나 넘어설까?",
+        "url": "https://www.coinreaders.com/188154",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T02:04:42.339692",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758560682_0",
+        "title": "카르다노, 비트코인 보안+디파이...이더리움·솔라나 넘어설까?",
+        "url": "https://www.coinreaders.com/188154",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T02:04:42.339692",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758560682_0",
+        "title": "카르다노, 비트코인 보안+디파이...이더리움·솔라나 넘어설까?",
+        "url": "https://www.coinreaders.com/188154",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T02:04:42.339692",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_0204.json"
+}

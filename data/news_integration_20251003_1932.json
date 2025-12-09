@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-10-03T19:32:52.707271",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759485750_0",
+        "title": "비트코인, 12만 달러 돌파...이더파이도 광풍",
+        "url": "https://www.coinreaders.com/190464",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T19:02:30.525118",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759485750_0",
+        "title": "비트코인, 12만 달러 돌파...이더파이도 광풍",
+        "url": "https://www.coinreaders.com/190464",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T19:02:30.525118",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759485750_0",
+        "title": "비트코인, 12만 달러 돌파...이더파이도 광풍",
+        "url": "https://www.coinreaders.com/190464",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T19:02:30.525118",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759485750_0",
+      "title": "비트코인, 12만 달러 돌파...이더파이도 광풍",
+      "url": "https://www.coinreaders.com/190464",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T19:02:30.525118",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1902.json"
+}

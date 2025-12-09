@@ -1,0 +1,144 @@
+{
+  "timestamp": "2025-09-17T02:03:01.499494",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758042174_0",
+        "title": "현물 ETF 승인되면 XRP, 비트코인처럼 랠리할까? 2018년처럼 90% 폭락할 수도",
+        "url": "https://www.coinreaders.com/186897",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T02:02:54.219070",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758042174_0",
+        "title": "현물 ETF 승인되면 XRP, 비트코인처럼 랠리할까? 2018년처럼 90% 폭락할 수도",
+        "url": "https://www.coinreaders.com/186897",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T02:02:54.219070",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758042174_0",
+        "title": "현물 ETF 승인되면 XRP, 비트코인처럼 랠리할까? 2018년처럼 90% 폭락할 수도",
+        "url": "https://www.coinreaders.com/186897",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T02:02:54.219070",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758042174_0",
+        "title": "현물 ETF 승인되면 XRP, 비트코인처럼 랠리할까? 2018년처럼 90% 폭락할 수도",
+        "url": "https://www.coinreaders.com/186897",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T02:02:54.219070",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758042174_0",
+        "title": "현물 ETF 승인되면 XRP, 비트코인처럼 랠리할까? 2018년처럼 90% 폭락할 수도",
+        "url": "https://www.coinreaders.com/186897",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T02:02:54.219070",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758042174_0",
+        "title": "현물 ETF 승인되면 XRP, 비트코인처럼 랠리할까? 2018년처럼 90% 폭락할 수도",
+        "url": "https://www.coinreaders.com/186897",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T02:02:54.219070",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758042174_0",
+      "title": "현물 ETF 승인되면 XRP, 비트코인처럼 랠리할까? 2018년처럼 90% 폭락할 수도",
+      "url": "https://www.coinreaders.com/186897",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T02:02:54.219070",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_0203.json"
+}

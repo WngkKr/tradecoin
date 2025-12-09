@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-09-19T11:38:55.222319",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758247456_0",
+        "title": "매튜 시겔 \"10월 또 금리 인하…비트코인 강세장 이어질 것\"",
+        "url": "https://www.coinreaders.com/187551",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T11:04:16.522245",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758247456_0",
+        "title": "매튜 시겔 \"10월 또 금리 인하…비트코인 강세장 이어질 것\"",
+        "url": "https://www.coinreaders.com/187551",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T11:04:16.522245",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758247456_0",
+        "title": "매튜 시겔 \"10월 또 금리 인하…비트코인 강세장 이어질 것\"",
+        "url": "https://www.coinreaders.com/187551",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T11:04:16.522245",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758247456_0",
+      "title": "매튜 시겔 \"10월 또 금리 인하…비트코인 강세장 이어질 것\"",
+      "url": "https://www.coinreaders.com/187551",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T11:04:16.522245",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250919_1104.json"
+}

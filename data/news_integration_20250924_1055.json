@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-09-24T10:55:00.707487",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758678894_0",
+        "title": "전문가 \"XRP, 연말 2,500달러도 가능\" 파격적 전망 이유는?",
+        "url": "https://www.coinreaders.com/188528",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:54:54.700152",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758678894_0",
+        "title": "전문가 \"XRP, 연말 2,500달러도 가능\" 파격적 전망 이유는?",
+        "url": "https://www.coinreaders.com/188528",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T10:54:54.700152",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758678894_0",
+      "title": "전문가 \"XRP, 연말 2,500달러도 가능\" 파격적 전망 이유는?",
+      "url": "https://www.coinreaders.com/188528",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T10:54:54.700152",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_1055.json"
+}

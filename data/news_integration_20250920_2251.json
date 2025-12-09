@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-20T22:51:12.306151",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758376267_0",
+        "title": "비트코인, 347% 거래소 유출…다음 랠리로 이어질까",
+        "url": "https://www.coinreaders.com/187824",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T22:51:07.877854",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_2251.json"
+}

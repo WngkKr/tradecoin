@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-10-02T02:17:06.756302",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759338416_0",
+        "title": "비트코인, 단기 보유자 실현가 회복...반등 시나리오 가시화",
+        "url": "https://www.coinreaders.com/190129",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T02:06:56.422717",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759338416_0",
+        "title": "비트코인, 단기 보유자 실현가 회복...반등 시나리오 가시화",
+        "url": "https://www.coinreaders.com/190129",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T02:06:56.422717",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0207.json"
+}

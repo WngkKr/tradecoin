@@ -1,0 +1,157 @@
+{
+  "timestamp": "2025-10-03T17:31:42.210149",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759480296_0",
+        "title": "카나리 라이트코인 ETF, 셧다운 여파로 승인 지연...시장 영향은?",
+        "url": "https://www.coinreaders.com/190450",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:31:36.262399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759480296_0",
+        "title": "카나리 라이트코인 ETF, 셧다운 여파로 승인 지연...시장 영향은?",
+        "url": "https://www.coinreaders.com/190450",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:31:36.262399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759480296_0",
+        "title": "카나리 라이트코인 ETF, 셧다운 여파로 승인 지연...시장 영향은?",
+        "url": "https://www.coinreaders.com/190450",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:31:36.262399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759480296_0",
+        "title": "카나리 라이트코인 ETF, 셧다운 여파로 승인 지연...시장 영향은?",
+        "url": "https://www.coinreaders.com/190450",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:31:36.262399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759480296_0",
+        "title": "카나리 라이트코인 ETF, 셧다운 여파로 승인 지연...시장 영향은?",
+        "url": "https://www.coinreaders.com/190450",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:31:36.262399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759480296_0",
+        "title": "카나리 라이트코인 ETF, 셧다운 여파로 승인 지연...시장 영향은?",
+        "url": "https://www.coinreaders.com/190450",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:31:36.262399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759480296_0",
+        "title": "카나리 라이트코인 ETF, 셧다운 여파로 승인 지연...시장 영향은?",
+        "url": "https://www.coinreaders.com/190450",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T17:31:36.262399",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759480296_0",
+      "title": "카나리 라이트코인 ETF, 셧다운 여파로 승인 지연...시장 영향은?",
+      "url": "https://www.coinreaders.com/190450",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T17:31:36.262399",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "DOGE",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1731.json"
+}

@@ -1,0 +1,171 @@
+{
+  "timestamp": "2025-10-02T07:30:15.929223",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759357809_0",
+        "title": "암호화폐 시장...주식 흔들리자 200억 달러 유입...셧다운의 역설",
+        "url": "https://www.coinreaders.com/190170",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:30:09.961093",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759357810_2",
+        "title": "블랙록 IBIT, 비트코인 ETF 시장 ‘압도적 지배’…12만 달러 가능할까",
+        "url": "https://www.coinreaders.com/190167",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:30:10.944620",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759357809_0",
+        "title": "암호화폐 시장...주식 흔들리자 200억 달러 유입...셧다운의 역설",
+        "url": "https://www.coinreaders.com/190170",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:30:09.961093",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759357809_0",
+        "title": "암호화폐 시장...주식 흔들리자 200억 달러 유입...셧다운의 역설",
+        "url": "https://www.coinreaders.com/190170",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:30:09.961093",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759357810_2",
+        "title": "블랙록 IBIT, 비트코인 ETF 시장 ‘압도적 지배’…12만 달러 가능할까",
+        "url": "https://www.coinreaders.com/190167",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:30:10.944620",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759357809_0",
+        "title": "암호화폐 시장...주식 흔들리자 200억 달러 유입...셧다운의 역설",
+        "url": "https://www.coinreaders.com/190170",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:30:09.961093",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759357810_2",
+        "title": "블랙록 IBIT, 비트코인 ETF 시장 ‘압도적 지배’…12만 달러 가능할까",
+        "url": "https://www.coinreaders.com/190167",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:30:10.944620",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759357809_0",
+        "title": "암호화폐 시장...주식 흔들리자 200억 달러 유입...셧다운의 역설",
+        "url": "https://www.coinreaders.com/190170",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:30:09.961093",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759357809_0",
+      "title": "암호화폐 시장...주식 흔들리자 200억 달러 유입...셧다운의 역설",
+      "url": "https://www.coinreaders.com/190170",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T07:30:09.961093",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759357810_2",
+      "title": "블랙록 IBIT, 비트코인 ETF 시장 ‘압도적 지배’…12만 달러 가능할까",
+      "url": "https://www.coinreaders.com/190167",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T07:30:10.944620",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20251002_0730.json"
+}

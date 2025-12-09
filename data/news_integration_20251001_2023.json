@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-10-01T20:23:11.310606",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759317181_0",
+        "title": "BNB, 1,000달러 지지 성공...다음 랠리는 어디까지 갈까",
+        "url": "https://www.coinreaders.com/190077",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T20:13:01.647570",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759317181_0",
+      "title": "BNB, 1,000달러 지지 성공...다음 랠리는 어디까지 갈까",
+      "url": "https://www.coinreaders.com/190077",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T20:13:01.647570",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_2013.json"
+}

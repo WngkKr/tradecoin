@@ -1,0 +1,1892 @@
+{
+  "BTC": {
+    "saylor": {
+      "total_signals": 50,
+      "avg_change": -0.044085531851197846,
+      "signals": [
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.2724264855529615,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.19849339514137312,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.19849339514137312,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.2020697624873266,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.2020697624873266,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.16708180299255757,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.16708180299255757,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.4470950380872523,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.4471041034583771,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.6339168769303312,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.6339168769303312,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.3233853469197054,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.3233853469197054,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.29793184838526876,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.29793184838526876,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.11351741922976501,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.11351741922976501,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.10900035540821282,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.10900035540821282,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.065892598522867,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.0659016997105035,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.11870346765371668,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.11870346765371668,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.16790561653123526,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.16563760641317282,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.10604869382782083,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.10260425266379761,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.17651893762594412,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.17651893762594412,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.15052296954442035,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.15052296954442035,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.29644924805652556,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.29644924805652556,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.41125862321984874,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.4089328608965208,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.1542333151610992,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.1542333151610992,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": 0.0711874298340555,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.01579499965815963,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.01579499965815963,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.1485394349826258,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.15190007404946154,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:06:29.100037+00:00",
+          "price_change": -0.15190007404946154,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-28T23:45:00+00:00",
+          "price_change": 0.1238157400607886,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-28T23:45:00+00:00",
+          "price_change": 0.1838490356597752,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-28T23:45:00+00:00",
+          "price_change": 0.1838490356597752,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-28T23:45:00+00:00",
+          "price_change": 0.07965179475113911,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-28T23:45:00+00:00",
+          "price_change": 0.07965179475113911,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-28T23:45:00+00:00",
+          "price_change": 0.12987598061087324,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-28T23:45:00+00:00",
+          "price_change": 0.13655605981053234,
+          "signal_type": "buy",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "default": {
+      "total_signals": 0,
+      "avg_change": 0.0,
+      "signals": []
+    }
+  },
+  "ETH": {
+    "VitalikButerin": {
+      "total_signals": 50,
+      "avg_change": 0.18548785751696037,
+      "signals": [
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.030834653860891098,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.2146895990940099,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.2146895990940099,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.2844171594775286,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.5158877299327808,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.04743337219118012,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.09723587602024299,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": -0.030781502190842393,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.014743213430792063,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.014743213430792063,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.24934182863172524,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.22894521668029338,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": -0.03665679341354725,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": 0.04525977504017286,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T15:59:05.282025+00:00",
+          "price_change": -0.0032122751741960843,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": -0.19032802179148633,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": -0.2587128501175924,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": -0.09605659579705958,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": -0.20233284153356434,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": -0.049974745382678036,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.2532716485681862,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.1981120457478097,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.1359048238186561,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.19228297197704095,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.19228297197704095,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.5161646685954691,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.5288323585333283,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.5254977624139167,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.5773517371455564,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.577083824506504,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.577083824506504,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.5934694249375072,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.5934694249375072,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.3022603937149104,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.3022603937149104,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.2722140882166262,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.12588567656201238,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": -0.00373822791976501,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": -0.00373822791976501,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.07776506932047372,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.18991551297222123,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.21986888013806638,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T16:36:29.100037+00:00",
+          "price_change": 0.21986888013806638,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-29T01:00:00+00:00",
+          "price_change": 0.1729137293501016,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-29T01:00:00+00:00",
+          "price_change": 0.2000537024449012,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-29T01:00:00+00:00",
+          "price_change": 0.19981179953988396,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-29T01:00:00+00:00",
+          "price_change": 0.07591619239192623,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-29T01:00:00+00:00",
+          "price_change": 0.07591619239192623,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-29T01:00:00+00:00",
+          "price_change": 0.1584157457995686,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-29T01:00:00+00:00",
+          "price_change": 0.1378299758434788,
+          "signal_type": "buy",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "default": {
+      "total_signals": 0,
+      "avg_change": 0.0,
+      "signals": []
+    }
+  },
+  "DOGE": {
+    "elonmusk": {
+      "total_signals": 50,
+      "avg_change": -0.03779516512855656,
+      "signals": [
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.15259687176411507,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.13082583810302,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.11992368492777213,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.005454644629892677,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.005454644629892677,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.15846128626850156,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.021801929470764838,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.021801929470764838,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.4304238858014672,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.3815753611338273,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.3815753611338273,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.4621574597651097,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.4621574597651097,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.3537992597430786,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.9382287542708441,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.9382287542708441,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.879049324434321,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.6850059802109293,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.6850059802109293,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.04914541582482758,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.04914541582482758,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.07636085960510594,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.283997815401416,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.283997815401416,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.10923589491507221,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.15846994535519807,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.15846994535519807,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.3594967046135377,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.3594967046135377,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.9423171196688322,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.7370202544084676,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.7315608451165627,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.3879569422435869,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.4318119704837306,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.4318119704837306,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.6077862344631221,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.6077862344631221,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.5363104033273183,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.5584451136052522,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.5584451136052522,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.6080192813321647,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.2894751215249346,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.2894751215249346,
+          "signal_type": "buy",
+          "confidence": 1.0
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.2926587301587337,
+          "signal_type": "buy",
+          "confidence": 0.975
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.3324732036522449,
+          "signal_type": "buy",
+          "confidence": 0.975
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.3324732036522449,
+          "signal_type": "buy",
+          "confidence": 0.975
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.17847404689901306,
+          "signal_type": "buy",
+          "confidence": 0.975
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.17847404689901306,
+          "signal_type": "buy",
+          "confidence": 0.975
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.20826102047900222,
+          "signal_type": "buy",
+          "confidence": 0.975
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.20329234430781123,
+          "signal_type": "buy",
+          "confidence": 0.975
+        }
+      ]
+    },
+    "default": {
+      "total_signals": 0,
+      "avg_change": 0.0,
+      "signals": []
+    }
+  },
+  "SHIB": {
+    "elonmusk": {
+      "total_signals": 50,
+      "avg_change": 0.0487584557388102,
+      "signals": [
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.10131712259371736,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.10131712259371736,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.4048582995951378,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.4048582995951378,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.4048582995951378,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.404448938321533,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.404448938321533,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.404448938321533,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -1.108870967741942,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -1.108870967741942,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.9072580645161205,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.6066734074822996,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.6066734074822996,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.10131712259371736,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.10141987829614507,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.10141987829614507,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.3039513677811521,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.3039513677811521,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.6079027355623214,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.40609137055838895,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.40609137055838895,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.9146341463414545,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.9146341463414545,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.9146341463414545,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 1.1201629327902307,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 1.1201629327902307,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 1.017293997965402,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 1.017293997965402,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 1.017293997965402,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.9155645981688619,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.6085192697768704,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.6085192697768704,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.09699321047526581,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.19417475728155154,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.19417475728155154,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.09699321047526581,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.09699321047526581,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.19398642095053162,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.2912621359223273,
+          "signal_type": "buy",
+          "confidence": 0.65
+        }
+      ]
+    },
+    "default": {
+      "total_signals": 0,
+      "avg_change": 0.0,
+      "signals": []
+    }
+  },
+  "FLOKI": {
+    "elonmusk": {
+      "total_signals": 50,
+      "avg_change": -0.2450887715103815,
+      "signals": [
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.15048908954101192,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.06025003765628315,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.04518752824222257,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.2708803611738174,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.2708803611738174,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.21081162475530082,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.375657400450798,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.375657400450798,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.7812500000000028,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.6767935027823694,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.6767935027823694,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.6308200660859107,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.6308200660859107,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.5561400871787135,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -1.3467005835702452,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -1.3467005835702452,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -1.1086142322097323,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.8112980769230844,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.8112980769230844,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.19613759806879974,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.19613759806879974,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.2713704206241545,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.030179568432176243,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.030179568432176243,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.1058041112454517,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.13607499244026922,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.13607499244026922,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.5125113053964427,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.5125113053964427,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -1.0099487488694685,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.8006042296072456,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": -0.8006042296072456,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.03025260928755589,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.04538577912255911,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.04538577912255911,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.28814073400062185,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.28814073400062185,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.25773195876289695,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.13628104179286435,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.13628104179286435,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.2577710386656456,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.04539951573849579,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-11T19:36:29.100037+00:00",
+          "price_change": 0.04539951573849579,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.23300438596490308,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.2742355683532221,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.2742355683532221,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.12335526315788657,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.12335526315788657,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.1508295625942833,
+          "signal_type": "buy",
+          "confidence": 0.65
+        },
+        {
+          "timestamp": "2025-10-29T01:30:00+00:00",
+          "price_change": 0.10964912280701647,
+          "signal_type": "buy",
+          "confidence": 0.65
+        }
+      ]
+    },
+    "default": {
+      "total_signals": 0,
+      "avg_change": 0.0,
+      "signals": []
+    }
+  },
+  "TRUMP": {
+    "realDonaldTrump": {
+      "total_signals": 50,
+      "avg_change": 0.013749979719975993,
+      "signals": [
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.23182646133464727,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.21530308049022687,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.11604774535808476,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.11604774535808476,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.23209549071618427,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.21555297628917097,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.21555297628917097,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.16580998176089848,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.16580998176089848,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.16580998176089848,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.24871497264134773,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.24871497264134773,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.24871497264134773,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.033195020746899055,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.033195020746899055,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.033195020746899055,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.016597510373434782,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.016597510373434782,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.03317850033178135,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.03317850033178135,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.21598272138228775,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.21598272138228775,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.2325195150307297,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.2325195150307297,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.2158751245433394,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.2824858757062205,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.2824858757062205,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.3322811098188997,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.3322811098188997,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.3157719793917108,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.3157719793917108,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.19933554817276505,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.19933554817276505,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.09961813049975472,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.09961813049975472,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.04978426817125977,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.04978426817125977,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.049734748010611965,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.049734748010611965,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.066280033140024,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.066280033140024,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.016567263088143373,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.016567263088143373,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": 0.0,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.033145508783556175,
+          "signal_type": "buy",
+          "confidence": 0.8
+        },
+        {
+          "timestamp": "2025-11-29T13:27:23+00:00",
+          "price_change": -0.033145508783556175,
+          "signal_type": "buy",
+          "confidence": 0.8
+        }
+      ]
+    },
+    "default": {
+      "total_signals": 0,
+      "avg_change": 0.0,
+      "signals": []
+    }
+  },
+  "MAGA": {
+    "realDonaldTrump": {
+      "total_signals": 0,
+      "avg_change": 0.0,
+      "signals": []
+    },
+    "default": {
+      "total_signals": 0,
+      "avg_change": 0.0,
+      "signals": []
+    }
+  }
+}

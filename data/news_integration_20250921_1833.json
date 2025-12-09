@@ -1,0 +1,157 @@
+{
+  "timestamp": "2025-09-21T18:33:13.460508",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758446581_0",
+        "title": "그레이스케일, 도지코인 ETF 추진! 월가 투자자들 주목",
+        "url": "https://www.coinreaders.com/187881",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T18:23:01.642587",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758446581_0",
+        "title": "그레이스케일, 도지코인 ETF 추진! 월가 투자자들 주목",
+        "url": "https://www.coinreaders.com/187881",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T18:23:01.642587",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758446581_0",
+        "title": "그레이스케일, 도지코인 ETF 추진! 월가 투자자들 주목",
+        "url": "https://www.coinreaders.com/187881",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T18:23:01.642587",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758446581_0",
+        "title": "그레이스케일, 도지코인 ETF 추진! 월가 투자자들 주목",
+        "url": "https://www.coinreaders.com/187881",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T18:23:01.642587",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758446581_0",
+        "title": "그레이스케일, 도지코인 ETF 추진! 월가 투자자들 주목",
+        "url": "https://www.coinreaders.com/187881",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T18:23:01.642587",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758446581_0",
+        "title": "그레이스케일, 도지코인 ETF 추진! 월가 투자자들 주목",
+        "url": "https://www.coinreaders.com/187881",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T18:23:01.642587",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758446581_0",
+        "title": "그레이스케일, 도지코인 ETF 추진! 월가 투자자들 주목",
+        "url": "https://www.coinreaders.com/187881",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T18:23:01.642587",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "ETH",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758446581_0",
+      "title": "그레이스케일, 도지코인 ETF 추진! 월가 투자자들 주목",
+      "url": "https://www.coinreaders.com/187881",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T18:23:01.642587",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "ETH",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_1823.json"
+}

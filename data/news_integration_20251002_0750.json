@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-10-02T07:50:27.781773",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759358416_0",
+        "title": "비트코인, 역사적 패턴 따라 4분기 랠리 기대",
+        "url": "https://www.coinreaders.com/190171",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:40:16.822876",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759358416_0",
+        "title": "비트코인, 역사적 패턴 따라 4분기 랠리 기대",
+        "url": "https://www.coinreaders.com/190171",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:40:16.822876",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759358416_0",
+        "title": "비트코인, 역사적 패턴 따라 4분기 랠리 기대",
+        "url": "https://www.coinreaders.com/190171",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T07:40:16.822876",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0740.json"
+}

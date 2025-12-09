@@ -1,0 +1,105 @@
+{
+  "timestamp": "2025-09-17T03:14:13.856978",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758045832_0",
+        "title": "실물자산 토큰화 시대, 체인링크가 주도할까…25달러에서 250달러까지 갈 수도",
+        "url": "https://www.coinreaders.com/186906",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T03:03:52.263322",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758045832_0",
+        "title": "실물자산 토큰화 시대, 체인링크가 주도할까…25달러에서 250달러까지 갈 수도",
+        "url": "https://www.coinreaders.com/186906",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T03:03:52.263322",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758045832_0",
+        "title": "실물자산 토큰화 시대, 체인링크가 주도할까…25달러에서 250달러까지 갈 수도",
+        "url": "https://www.coinreaders.com/186906",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T03:03:52.263322",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758045832_0",
+        "title": "실물자산 토큰화 시대, 체인링크가 주도할까…25달러에서 250달러까지 갈 수도",
+        "url": "https://www.coinreaders.com/186906",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T03:03:52.263322",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758045832_0",
+      "title": "실물자산 토큰화 시대, 체인링크가 주도할까…25달러에서 250달러까지 갈 수도",
+      "url": "https://www.coinreaders.com/186906",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T03:03:52.263322",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_0304.json"
+}

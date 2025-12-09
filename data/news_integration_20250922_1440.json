@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-09-22T14:40:11.441799",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758519003_0",
+        "title": "메타플래닛, 30억 달러 비트코인 보유...\"수익률 395% 달성\"",
+        "url": "https://www.coinreaders.com/188008",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:30:03.004346",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758519003_0",
+        "title": "메타플래닛, 30억 달러 비트코인 보유...\"수익률 395% 달성\"",
+        "url": "https://www.coinreaders.com/188008",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T14:30:03.004346",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758519003_0",
+      "title": "메타플래닛, 30억 달러 비트코인 보유...\"수익률 395% 달성\"",
+      "url": "https://www.coinreaders.com/188008",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T14:30:03.004346",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1430.json"
+}

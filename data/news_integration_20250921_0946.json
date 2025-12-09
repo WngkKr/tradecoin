@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-21T09:46:54.793619",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758415610_0",
+        "title": "1년새 150% 폭등한 카르다노, ETF 호재로 더 간다?",
+        "url": "https://www.coinreaders.com/187853",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T09:46:50.245600",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758415610_0",
+      "title": "1년새 150% 폭등한 카르다노, ETF 호재로 더 간다?",
+      "url": "https://www.coinreaders.com/187853",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T09:46:50.245600",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_0946.json"
+}

@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-30T02:42:22.775822",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759167736_0",
+        "title": "비트코인 하락장이 오히려 기회? 채굴주가 웃는다",
+        "url": "https://www.coinreaders.com/189637",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T02:42:16.843985",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0242.json"
+}

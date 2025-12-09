@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-10-01T12:17:54.250871",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759288070_0",
+        "title": "비트코인 초기 투자자 \"알트코인 올인, 가장 뼈아픈 실수\"",
+        "url": "https://www.coinreaders.com/189983",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T12:07:50.314768",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759288070_0",
+        "title": "비트코인 초기 투자자 \"알트코인 올인, 가장 뼈아픈 실수\"",
+        "url": "https://www.coinreaders.com/189983",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T12:07:50.314768",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1207.json"
+}

@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-10-02T03:27:46.180254",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759343261_0",
+        "title": "하버드와 억만장자들까지! 블랙록 비트코인 ETF에 몰린다...1,000% 상승 가능할까?",
+        "url": "https://www.coinreaders.com/190138",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T03:27:41.117092",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759343261_0",
+        "title": "하버드와 억만장자들까지! 블랙록 비트코인 ETF에 몰린다...1,000% 상승 가능할까?",
+        "url": "https://www.coinreaders.com/190138",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T03:27:41.117092",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759343261_0",
+      "title": "하버드와 억만장자들까지! 블랙록 비트코인 ETF에 몰린다...1,000% 상승 가능할까?",
+      "url": "https://www.coinreaders.com/190138",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T03:27:41.117092",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0327.json"
+}

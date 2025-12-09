@@ -1,0 +1,58 @@
+{
+    "exchange": {
+        "id": "binance",
+        "api_key": "jhoeFXEYEzkkDZrRViFvlbkAmBM70KCnSn1zxQVv9ytI2iAo00qeanW2DB4Yv2Yx",
+        "secret": "rQmNdhZKzOalGuArsdY5foUkhCS8LnkvCwd4gTaIDDRgK0RL2dvuWpJ9HnemMRIg",
+        "testnet": true
+    },
+    "trading": {
+        "symbol": "BTC/USDT",
+        "timeframe": "15m",
+        "leverage": 5,
+        "position_size_pct": 0.05,
+        "max_open_positions": 2,
+        "stop_loss_pct": 0.03,
+        "take_profit_pct": 0.1
+    },
+    "strategy": {
+        "type": "combined",
+        "strategies": [
+            {
+                "name": "MACD",
+                "weight": 1.0,
+                "params": {
+                    "fast_period": 12,
+                    "slow_period": 26,
+                    "signal_period": 9
+                }
+            },
+            {
+                "name": "RSI",
+                "weight": 0.8,
+                "params": {
+                    "period": 14,
+                    "oversold": 30,
+                    "overbought": 70
+                }
+            },
+            {
+                "name": "BB",
+                "weight": 0.6,
+                "params": {
+                    "period": 20,
+                    "std_dev": 2
+                }
+            }
+        ],
+        "confidence_threshold": 65
+    },
+    "bot": {
+        "check_interval": 180,
+        "trading_hours": {
+            "active": true,
+            "start": "00:00",
+            "end": "23:59"
+        },
+        "log_level": "INFO"
+    }
+}

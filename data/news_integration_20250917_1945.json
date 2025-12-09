@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-09-17T19:45:29.571208",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758105318_0",
+        "title": "달러 약세+유동성 폭발...비트코인 11만 7,000달러 재돌파",
+        "url": "https://www.coinreaders.com/187105",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:35:18.393626",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758105318_0",
+        "title": "달러 약세+유동성 폭발...비트코인 11만 7,000달러 재돌파",
+        "url": "https://www.coinreaders.com/187105",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:35:18.393626",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758105318_0",
+        "title": "달러 약세+유동성 폭발...비트코인 11만 7,000달러 재돌파",
+        "url": "https://www.coinreaders.com/187105",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T19:35:18.393626",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758105318_0",
+      "title": "달러 약세+유동성 폭발...비트코인 11만 7,000달러 재돌파",
+      "url": "https://www.coinreaders.com/187105",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T19:35:18.393626",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1935.json"
+}

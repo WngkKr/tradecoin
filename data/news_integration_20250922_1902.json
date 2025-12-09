@@ -1,0 +1,219 @@
+{
+  "timestamp": "2025-09-22T19:02:46.349279",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758535358_1",
+        "title": "XRP 하루 새 110억 달러 증발…2.80달러 방어 가능할까?",
+        "url": "https://www.coinreaders.com/188076",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:02:38.565517",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758535359_2",
+        "title": "연준 발언·PCE 지표·헤데라 업그레이드…이번 주 코인 시장 어디로?",
+        "url": "https://www.coinreaders.com/188075",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:02:39.519626",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758535358_1",
+        "title": "XRP 하루 새 110억 달러 증발…2.80달러 방어 가능할까?",
+        "url": "https://www.coinreaders.com/188076",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:02:38.565517",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758535357_0",
+        "title": "비트코인, 하루 만에 17억달러 청산...다음 목표는 10만 달러?",
+        "url": "https://www.coinreaders.com/188078",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:02:37.794092",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758535358_1",
+        "title": "XRP 하루 새 110억 달러 증발…2.80달러 방어 가능할까?",
+        "url": "https://www.coinreaders.com/188076",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:02:38.565517",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758535359_2",
+        "title": "연준 발언·PCE 지표·헤데라 업그레이드…이번 주 코인 시장 어디로?",
+        "url": "https://www.coinreaders.com/188075",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:02:39.519626",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758535357_0",
+        "title": "비트코인, 하루 만에 17억달러 청산...다음 목표는 10만 달러?",
+        "url": "https://www.coinreaders.com/188078",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:02:37.794092",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758535359_2",
+        "title": "연준 발언·PCE 지표·헤데라 업그레이드…이번 주 코인 시장 어디로?",
+        "url": "https://www.coinreaders.com/188075",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:02:39.519626",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758535357_0",
+        "title": "비트코인, 하루 만에 17억달러 청산...다음 목표는 10만 달러?",
+        "url": "https://www.coinreaders.com/188078",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:02:37.794092",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758535358_1",
+        "title": "XRP 하루 새 110억 달러 증발…2.80달러 방어 가능할까?",
+        "url": "https://www.coinreaders.com/188076",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T19:02:38.565517",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758535357_0",
+      "title": "비트코인, 하루 만에 17억달러 청산...다음 목표는 10만 달러?",
+      "url": "https://www.coinreaders.com/188078",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T19:02:37.794092",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758535358_1",
+      "title": "XRP 하루 새 110억 달러 증발…2.80달러 방어 가능할까?",
+      "url": "https://www.coinreaders.com/188076",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T19:02:38.565517",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758535359_2",
+      "title": "연준 발언·PCE 지표·헤데라 업그레이드…이번 주 코인 시장 어디로?",
+      "url": "https://www.coinreaders.com/188075",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T19:02:39.519626",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250922_1902.json"
+}

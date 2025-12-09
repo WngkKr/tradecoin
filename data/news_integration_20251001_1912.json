@@ -1,0 +1,319 @@
+{
+  "timestamp": "2025-10-01T19:12:31.911368",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759313543_0",
+        "title": "\"비트코인은 멈췄다, 이더리움은 달린다\"...재무 기업 매집 판도 교체",
+        "url": "https://www.coinreaders.com/190070",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:23.448720",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759313544_1",
+        "title": "도지코인·시바이누·페페 급등! 밈 코인, 업토버 랠리 동참할까?",
+        "url": "https://www.coinreaders.com/190069",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:24.410698",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759313545_2",
+        "title": "9월 5.16% 상승, 3분기 6.31% 수익률 기록한 비트코인...연말 신기록 세울까",
+        "url": "https://www.coinreaders.com/190068",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:25.318868",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759313546_3",
+        "title": "업토버의 시작, 비트코인 반등세는 어디까지 갈까?",
+        "url": "https://www.coinreaders.com/190064",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:26.191782",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759313544_1",
+        "title": "도지코인·시바이누·페페 급등! 밈 코인, 업토버 랠리 동참할까?",
+        "url": "https://www.coinreaders.com/190069",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:24.410698",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759313545_2",
+        "title": "9월 5.16% 상승, 3분기 6.31% 수익률 기록한 비트코인...연말 신기록 세울까",
+        "url": "https://www.coinreaders.com/190068",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:25.318868",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759313543_0",
+        "title": "\"비트코인은 멈췄다, 이더리움은 달린다\"...재무 기업 매집 판도 교체",
+        "url": "https://www.coinreaders.com/190070",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:23.448720",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759313544_1",
+        "title": "도지코인·시바이누·페페 급등! 밈 코인, 업토버 랠리 동참할까?",
+        "url": "https://www.coinreaders.com/190069",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:24.410698",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759313545_2",
+        "title": "9월 5.16% 상승, 3분기 6.31% 수익률 기록한 비트코인...연말 신기록 세울까",
+        "url": "https://www.coinreaders.com/190068",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:25.318868",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759313546_3",
+        "title": "업토버의 시작, 비트코인 반등세는 어디까지 갈까?",
+        "url": "https://www.coinreaders.com/190064",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:26.191782",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759313544_1",
+        "title": "도지코인·시바이누·페페 급등! 밈 코인, 업토버 랠리 동참할까?",
+        "url": "https://www.coinreaders.com/190069",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:24.410698",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759313544_1",
+        "title": "도지코인·시바이누·페페 급등! 밈 코인, 업토버 랠리 동참할까?",
+        "url": "https://www.coinreaders.com/190069",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:24.410698",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759313544_1",
+        "title": "도지코인·시바이누·페페 급등! 밈 코인, 업토버 랠리 동참할까?",
+        "url": "https://www.coinreaders.com/190069",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:24.410698",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759313545_2",
+        "title": "9월 5.16% 상승, 3분기 6.31% 수익률 기록한 비트코인...연말 신기록 세울까",
+        "url": "https://www.coinreaders.com/190068",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:25.318868",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759313546_3",
+        "title": "업토버의 시작, 비트코인 반등세는 어디까지 갈까?",
+        "url": "https://www.coinreaders.com/190064",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:26.191782",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759313543_0",
+        "title": "\"비트코인은 멈췄다, 이더리움은 달린다\"...재무 기업 매집 판도 교체",
+        "url": "https://www.coinreaders.com/190070",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:23.448720",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759313543_0",
+        "title": "\"비트코인은 멈췄다, 이더리움은 달린다\"...재무 기업 매집 판도 교체",
+        "url": "https://www.coinreaders.com/190070",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:23.448720",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759313544_1",
+        "title": "도지코인·시바이누·페페 급등! 밈 코인, 업토버 랠리 동참할까?",
+        "url": "https://www.coinreaders.com/190069",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:24.410698",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "SHIB",
+          "ETH",
+          "BTC",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759313546_3",
+        "title": "업토버의 시작, 비트코인 반등세는 어디까지 갈까?",
+        "url": "https://www.coinreaders.com/190064",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T19:12:26.191782",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 4,
+  "source_file": "news/all_news_20251001_1912.json"
+}

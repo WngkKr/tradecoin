@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-09-19T05:20:38.162132",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758226825_1",
+        "title": "비트코인·이더리움·솔라나, 1,000달러 투자로 10년 뒤 승자는?",
+        "url": "https://www.coinreaders.com/187486",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:20:25.575140",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758226824_0",
+        "title": "구글 vs 리플, 글로벌 금융 인프라 전쟁의 승자는?",
+        "url": "https://www.coinreaders.com/187488",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:20:24.643358",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758226825_1",
+        "title": "비트코인·이더리움·솔라나, 1,000달러 투자로 10년 뒤 승자는?",
+        "url": "https://www.coinreaders.com/187486",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:20:25.575140",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758226824_0",
+        "title": "구글 vs 리플, 글로벌 금융 인프라 전쟁의 승자는?",
+        "url": "https://www.coinreaders.com/187488",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:20:24.643358",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758226825_1",
+        "title": "비트코인·이더리움·솔라나, 1,000달러 투자로 10년 뒤 승자는?",
+        "url": "https://www.coinreaders.com/187486",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:20:25.575140",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758226825_1",
+        "title": "비트코인·이더리움·솔라나, 1,000달러 투자로 10년 뒤 승자는?",
+        "url": "https://www.coinreaders.com/187486",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T05:20:25.575140",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758226825_1",
+      "title": "비트코인·이더리움·솔라나, 1,000달러 투자로 10년 뒤 승자는?",
+      "url": "https://www.coinreaders.com/187486",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T05:20:25.575140",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250919_0520.json"
+}

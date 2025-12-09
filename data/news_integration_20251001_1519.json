@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-10-01T15:19:56.181886",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759299591_0",
+        "title": "\"사라졌던 고래가 돌아왔다\"...12년 만의 비트코인 대이동",
+        "url": "https://www.coinreaders.com/190014",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T15:19:51.265344",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1519.json"
+}

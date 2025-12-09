@@ -1,0 +1,65 @@
+{
+  "timestamp": "2025-10-04T02:35:25.526444",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759512920_0",
+        "title": "도지코인 놓쳤다면?...시바이누, 마지막 황금 매수 기회 온다",
+        "url": "https://www.coinreaders.com/190507",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T02:35:20.070717",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759512920_0",
+        "title": "도지코인 놓쳤다면?...시바이누, 마지막 황금 매수 기회 온다",
+        "url": "https://www.coinreaders.com/190507",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T02:35:20.070717",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759512920_0",
+        "title": "도지코인 놓쳤다면?...시바이누, 마지막 황금 매수 기회 온다",
+        "url": "https://www.coinreaders.com/190507",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T02:35:20.070717",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759512920_0",
+        "title": "도지코인 놓쳤다면?...시바이누, 마지막 황금 매수 기회 온다",
+        "url": "https://www.coinreaders.com/190507",
+        "source": "coinreaders",
+        "timestamp": "2025-10-04T02:35:20.070717",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251004_0235.json"
+}

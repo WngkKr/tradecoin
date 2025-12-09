@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-24T00:45:22.411428",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758640557_0",
+        "title": "트럼프家 WLFI, '백만장자 꿈'은 환상? 이더리움이 장기 부의 열쇠 될까",
+        "url": "https://www.coinreaders.com/188422",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:15:57.818801",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758640557_0",
+        "title": "트럼프家 WLFI, '백만장자 꿈'은 환상? 이더리움이 장기 부의 열쇠 될까",
+        "url": "https://www.coinreaders.com/188422",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:15:57.818801",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758640557_0",
+        "title": "트럼프家 WLFI, '백만장자 꿈'은 환상? 이더리움이 장기 부의 열쇠 될까",
+        "url": "https://www.coinreaders.com/188422",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:15:57.818801",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758640557_0",
+        "title": "트럼프家 WLFI, '백만장자 꿈'은 환상? 이더리움이 장기 부의 열쇠 될까",
+        "url": "https://www.coinreaders.com/188422",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:15:57.818801",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758640557_0",
+        "title": "트럼프家 WLFI, '백만장자 꿈'은 환상? 이더리움이 장기 부의 열쇠 될까",
+        "url": "https://www.coinreaders.com/188422",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T00:15:57.818801",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758640557_0",
+      "title": "트럼프家 WLFI, '백만장자 꿈'은 환상? 이더리움이 장기 부의 열쇠 될까",
+      "url": "https://www.coinreaders.com/188422",
+      "source": "coinreaders",
+      "timestamp": "2025-09-24T00:15:57.818801",
+      "related_coins": [
+        "ETH",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_0045.json"
+}

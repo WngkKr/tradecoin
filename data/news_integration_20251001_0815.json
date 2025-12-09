@@ -1,0 +1,110 @@
+{
+  "timestamp": "2025-10-01T08:15:19.881442",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759274114_0",
+        "title": "\"조금만 사도 폭등\" 도지코인, 기술적 반등 신호 뚜렷",
+        "url": "https://www.coinreaders.com/189941",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:15:14.360408",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759274114_0",
+        "title": "\"조금만 사도 폭등\" 도지코인, 기술적 반등 신호 뚜렷",
+        "url": "https://www.coinreaders.com/189941",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:15:14.360408",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759274114_0",
+        "title": "\"조금만 사도 폭등\" 도지코인, 기술적 반등 신호 뚜렷",
+        "url": "https://www.coinreaders.com/189941",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:15:14.360408",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759274114_0",
+        "title": "\"조금만 사도 폭등\" 도지코인, 기술적 반등 신호 뚜렷",
+        "url": "https://www.coinreaders.com/189941",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:15:14.360408",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759274114_0",
+        "title": "\"조금만 사도 폭등\" 도지코인, 기술적 반등 신호 뚜렷",
+        "url": "https://www.coinreaders.com/189941",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:15:14.360408",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759274114_0",
+        "title": "\"조금만 사도 폭등\" 도지코인, 기술적 반등 신호 뚜렷",
+        "url": "https://www.coinreaders.com/189941",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T08:15:14.360408",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0815.json"
+}

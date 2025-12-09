@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-10-03T11:37:38.178609",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759459053_0",
+        "title": "멜라니아 트럼프, 3,000만 달러 매각 의혹 속 왜 밈코인 홍보에 나섰나?",
+        "url": "https://www.coinreaders.com/190417",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T11:37:33.152113",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759459053_0",
+        "title": "멜라니아 트럼프, 3,000만 달러 매각 의혹 속 왜 밈코인 홍보에 나섰나?",
+        "url": "https://www.coinreaders.com/190417",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T11:37:33.152113",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759459053_0",
+        "title": "멜라니아 트럼프, 3,000만 달러 매각 의혹 속 왜 밈코인 홍보에 나섰나?",
+        "url": "https://www.coinreaders.com/190417",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T11:37:33.152113",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759459053_0",
+        "title": "멜라니아 트럼프, 3,000만 달러 매각 의혹 속 왜 밈코인 홍보에 나섰나?",
+        "url": "https://www.coinreaders.com/190417",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T11:37:33.152113",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759459053_0",
+        "title": "멜라니아 트럼프, 3,000만 달러 매각 의혹 속 왜 밈코인 홍보에 나섰나?",
+        "url": "https://www.coinreaders.com/190417",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T11:37:33.152113",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "TRUMP",
+          "MAGA",
+          "SHIB"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759459053_0",
+      "title": "멜라니아 트럼프, 3,000만 달러 매각 의혹 속 왜 밈코인 홍보에 나섰나?",
+      "url": "https://www.coinreaders.com/190417",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T11:37:33.152113",
+      "related_coins": [
+        "DOGE",
+        "TRUMP",
+        "MAGA",
+        "SHIB"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1137.json"
+}

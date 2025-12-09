@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-23T01:00:29.383643",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758556153_0",
+        "title": "전문가 \"XRP, 비트코인 자본 5%만 이동해도 60달러 찍는다\"",
+        "url": "https://www.coinreaders.com/188145",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T00:49:13.600695",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758556153_0",
+      "title": "전문가 \"XRP, 비트코인 자본 5%만 이동해도 60달러 찍는다\"",
+      "url": "https://www.coinreaders.com/188145",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T00:49:13.600695",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250923_0049.json"
+}

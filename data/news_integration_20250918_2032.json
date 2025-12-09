@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-09-18T20:32:02.508298",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758195117_0",
+        "title": "이더리움, ETF 자금 유출·고래 매도 악재...5,000달러 돌파 또 무산되나",
+        "url": "https://www.coinreaders.com/187409",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:31:57.786099",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758195117_0",
+        "title": "이더리움, ETF 자금 유출·고래 매도 악재...5,000달러 돌파 또 무산되나",
+        "url": "https://www.coinreaders.com/187409",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:31:57.786099",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758195117_0",
+        "title": "이더리움, ETF 자금 유출·고래 매도 악재...5,000달러 돌파 또 무산되나",
+        "url": "https://www.coinreaders.com/187409",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T20:31:57.786099",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758195117_0",
+      "title": "이더리움, ETF 자금 유출·고래 매도 악재...5,000달러 돌파 또 무산되나",
+      "url": "https://www.coinreaders.com/187409",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T20:31:57.786099",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250918_2032.json"
+}

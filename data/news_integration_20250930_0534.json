@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-30T05:34:03.620001",
+  "by_coin": {},
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759177432_0",
+      "title": "카르다노, 401% 급등 예고...애널리스트 \"0.64달러 찍고 4달러 간다\"",
+      "url": "https://www.coinreaders.com/189652",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T05:23:52.868585",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0523.json"
+}

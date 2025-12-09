@@ -1,0 +1,509 @@
+{
+  "timestamp": "2025-09-19T10:33:55.705424",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758235455_0",
+        "title": "카르다노, ETF 승인 기대 속 45% 폭등 준비됐나?",
+        "url": "https://www.coinreaders.com/187514",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:15.541859",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235457_2",
+        "title": "비트코인 12만 달러 앞두고 알트코인 강세 이어진다",
+        "url": "https://www.coinreaders.com/187512",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:17.340463",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235458_3",
+        "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+        "url": "https://www.coinreaders.com/187511",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:18.240723",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758235457_2",
+        "title": "비트코인 12만 달러 앞두고 알트코인 강세 이어진다",
+        "url": "https://www.coinreaders.com/187512",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:17.340463",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235458_3",
+        "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+        "url": "https://www.coinreaders.com/187511",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:18.240723",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235459_4",
+        "title": "매수세 폭발·숏 스퀴즈 겹쳤다…밈코인 TRUMP, 저항선 돌파 시 16달러까지 간다?",
+        "url": "https://www.coinreaders.com/187510",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:19.188233",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758235455_0",
+        "title": "카르다노, ETF 승인 기대 속 45% 폭등 준비됐나?",
+        "url": "https://www.coinreaders.com/187514",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:15.541859",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235456_1",
+        "title": "글로벌 유동성 확대, 비트코인 상승 막을까?",
+        "url": "https://www.coinreaders.com/187513",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:16.332584",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235457_2",
+        "title": "비트코인 12만 달러 앞두고 알트코인 강세 이어진다",
+        "url": "https://www.coinreaders.com/187512",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:17.340463",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235458_3",
+        "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+        "url": "https://www.coinreaders.com/187511",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:18.240723",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758235458_3",
+        "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+        "url": "https://www.coinreaders.com/187511",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:18.240723",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758235458_3",
+        "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+        "url": "https://www.coinreaders.com/187511",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:18.240723",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758235458_3",
+        "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+        "url": "https://www.coinreaders.com/187511",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:18.240723",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235459_4",
+        "title": "매수세 폭발·숏 스퀴즈 겹쳤다…밈코인 TRUMP, 저항선 돌파 시 16달러까지 간다?",
+        "url": "https://www.coinreaders.com/187510",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:19.188233",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758235455_0",
+        "title": "카르다노, ETF 승인 기대 속 45% 폭등 준비됐나?",
+        "url": "https://www.coinreaders.com/187514",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:15.541859",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235456_1",
+        "title": "글로벌 유동성 확대, 비트코인 상승 막을까?",
+        "url": "https://www.coinreaders.com/187513",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:16.332584",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235458_3",
+        "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+        "url": "https://www.coinreaders.com/187511",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:18.240723",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235459_4",
+        "title": "매수세 폭발·숏 스퀴즈 겹쳤다…밈코인 TRUMP, 저항선 돌파 시 16달러까지 간다?",
+        "url": "https://www.coinreaders.com/187510",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:19.188233",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1758235458_3",
+        "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+        "url": "https://www.coinreaders.com/187511",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:18.240723",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235459_4",
+        "title": "매수세 폭발·숏 스퀴즈 겹쳤다…밈코인 TRUMP, 저항선 돌파 시 16달러까지 간다?",
+        "url": "https://www.coinreaders.com/187510",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:19.188233",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758235455_0",
+        "title": "카르다노, ETF 승인 기대 속 45% 폭등 준비됐나?",
+        "url": "https://www.coinreaders.com/187514",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:15.541859",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235457_2",
+        "title": "비트코인 12만 달러 앞두고 알트코인 강세 이어진다",
+        "url": "https://www.coinreaders.com/187512",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:17.340463",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235458_3",
+        "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+        "url": "https://www.coinreaders.com/187511",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:18.240723",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758235455_0",
+        "title": "카르다노, ETF 승인 기대 속 45% 폭등 준비됐나?",
+        "url": "https://www.coinreaders.com/187514",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:15.541859",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758235458_3",
+        "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+        "url": "https://www.coinreaders.com/187511",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T07:44:18.240723",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758235455_0",
+      "title": "카르다노, ETF 승인 기대 속 45% 폭등 준비됐나?",
+      "url": "https://www.coinreaders.com/187514",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T07:44:15.541859",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758235457_2",
+      "title": "비트코인 12만 달러 앞두고 알트코인 강세 이어진다",
+      "url": "https://www.coinreaders.com/187512",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T07:44:17.340463",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758235458_3",
+      "title": "전통 금융 뚫었다! XRP·DOGE 현물 ETF 상장 ‘빅뉴스’",
+      "url": "https://www.coinreaders.com/187511",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T07:44:18.240723",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI",
+        "ETH",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump",
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758235459_4",
+      "title": "매수세 폭발·숏 스퀴즈 겹쳤다…밈코인 TRUMP, 저항선 돌파 시 16달러까지 간다?",
+      "url": "https://www.coinreaders.com/187510",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T07:44:19.188233",
+      "related_coins": [
+        "DOGE",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250919_0946.json"
+}

@@ -1,0 +1,114 @@
+{
+  "timestamp": "2025-09-22T13:50:12.053602",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758516607_0",
+        "title": "토요타·야마하·BYD까지...주요 자동차 제조사, 볼리비아서 테더 결제 허용",
+        "url": "https://www.coinreaders.com/188003",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T13:50:07.336373",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758516607_0",
+        "title": "토요타·야마하·BYD까지...주요 자동차 제조사, 볼리비아서 테더 결제 허용",
+        "url": "https://www.coinreaders.com/188003",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T13:50:07.336373",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758516607_0",
+        "title": "토요타·야마하·BYD까지...주요 자동차 제조사, 볼리비아서 테더 결제 허용",
+        "url": "https://www.coinreaders.com/188003",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T13:50:07.336373",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758516608_1",
+        "title": "[코툰] \"비트코인 강세장 막바지...투자자 신중 모드\"",
+        "url": "https://www.coinreaders.com/188001",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T13:50:08.215737",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": []
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758516607_0",
+        "title": "토요타·야마하·BYD까지...주요 자동차 제조사, 볼리비아서 테더 결제 허용",
+        "url": "https://www.coinreaders.com/188003",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T13:50:07.336373",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758516607_0",
+        "title": "토요타·야마하·BYD까지...주요 자동차 제조사, 볼리비아서 테더 결제 허용",
+        "url": "https://www.coinreaders.com/188003",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T13:50:07.336373",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758516607_0",
+      "title": "토요타·야마하·BYD까지...주요 자동차 제조사, 볼리비아서 테더 결제 허용",
+      "url": "https://www.coinreaders.com/188003",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T13:50:07.336373",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250922_1350.json"
+}

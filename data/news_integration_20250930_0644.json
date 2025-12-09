@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-09-30T06:44:50.779238",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759182283_0",
+        "title": "시바이누, 최대 600% 랠리 시동 걸었다...하락 쐐기 돌파",
+        "url": "https://www.coinreaders.com/189660",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:44:43.157975",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759182283_0",
+        "title": "시바이누, 최대 600% 랠리 시동 걸었다...하락 쐐기 돌파",
+        "url": "https://www.coinreaders.com/189660",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:44:43.157975",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759182283_0",
+        "title": "시바이누, 최대 600% 랠리 시동 걸었다...하락 쐐기 돌파",
+        "url": "https://www.coinreaders.com/189660",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T06:44:43.157975",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0644.json"
+}

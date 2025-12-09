@@ -1,0 +1,157 @@
+{
+  "timestamp": "2025-09-22T08:54:25.040018",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758498859_0",
+        "title": "\"XRP 반드시 1만 달러 간다\"...커뮤니티 주장 근거는?",
+        "url": "https://www.coinreaders.com/187944",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:54:19.310860",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758498859_2",
+        "title": "이더리움, 3,700달러 조정 후 1만 달러 향할까",
+        "url": "https://www.coinreaders.com/187941",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:54:19.646055",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758498859_2",
+        "title": "이더리움, 3,700달러 조정 후 1만 달러 향할까",
+        "url": "https://www.coinreaders.com/187941",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:54:19.646055",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758498859_0",
+        "title": "\"XRP 반드시 1만 달러 간다\"...커뮤니티 주장 근거는?",
+        "url": "https://www.coinreaders.com/187944",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:54:19.310860",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758498859_0",
+        "title": "\"XRP 반드시 1만 달러 간다\"...커뮤니티 주장 근거는?",
+        "url": "https://www.coinreaders.com/187944",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:54:19.310860",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758498859_0",
+        "title": "\"XRP 반드시 1만 달러 간다\"...커뮤니티 주장 근거는?",
+        "url": "https://www.coinreaders.com/187944",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:54:19.310860",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "SHIB",
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758498859_2",
+        "title": "이더리움, 3,700달러 조정 후 1만 달러 향할까",
+        "url": "https://www.coinreaders.com/187941",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T08:54:19.646055",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758498859_0",
+      "title": "\"XRP 반드시 1만 달러 간다\"...커뮤니티 주장 근거는?",
+      "url": "https://www.coinreaders.com/187944",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T08:54:19.310860",
+      "related_coins": [
+        "SHIB",
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758498859_2",
+      "title": "이더리움, 3,700달러 조정 후 1만 달러 향할까",
+      "url": "https://www.coinreaders.com/187941",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T08:54:19.646055",
+      "related_coins": [
+        "ETH",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250922_0854.json"
+}

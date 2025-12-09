@@ -1,0 +1,165 @@
+{
+  "timestamp": "2025-09-23T22:14:05.398726",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758633237_1",
+        "title": "11만3천달러 지킨 비트코인, 이더리움·XRP와 함께 반등 조짐",
+        "url": "https://www.coinreaders.com/188400",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:13:57.161399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758633238_2",
+        "title": "금·은·비트코인 담은 기요사키 포트폴리오, 2025년에만 40% 수익",
+        "url": "https://www.coinreaders.com/188397",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:13:58.140333",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758633237_1",
+        "title": "11만3천달러 지킨 비트코인, 이더리움·XRP와 함께 반등 조짐",
+        "url": "https://www.coinreaders.com/188400",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:13:57.161399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758633237_1",
+        "title": "11만3천달러 지킨 비트코인, 이더리움·XRP와 함께 반등 조짐",
+        "url": "https://www.coinreaders.com/188400",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:13:57.161399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758633238_2",
+        "title": "금·은·비트코인 담은 기요사키 포트폴리오, 2025년에만 40% 수익",
+        "url": "https://www.coinreaders.com/188397",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:13:58.140333",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758633237_1",
+        "title": "11만3천달러 지킨 비트코인, 이더리움·XRP와 함께 반등 조짐",
+        "url": "https://www.coinreaders.com/188400",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:13:57.161399",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758633237_1",
+        "title": "11만3천달러 지킨 비트코인, 이더리움·XRP와 함께 반등 조짐",
+        "url": "https://www.coinreaders.com/188400",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:13:57.161399",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758633238_2",
+        "title": "금·은·비트코인 담은 기요사키 포트폴리오, 2025년에만 40% 수익",
+        "url": "https://www.coinreaders.com/188397",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T22:13:58.140333",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758633237_1",
+      "title": "11만3천달러 지킨 비트코인, 이더리움·XRP와 함께 반등 조짐",
+      "url": "https://www.coinreaders.com/188400",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T22:13:57.161399",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "DOGE",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250923_2214.json"
+}

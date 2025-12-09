@@ -1,0 +1,85 @@
+{
+  "elonmusk": [
+    {
+      "id": "1850123456789012345",
+      "text": "Dogecoin is the people's crypto. To the moon! 🚀🐕",
+      "created_at": "2025-12-02T11:25:00+00:00",
+      "author_id": "elonmusk",
+      "public_metrics": {
+        "like_count": 125000,
+        "retweet_count": 45000,
+        "reply_count": 8500,
+        "quote_count": 3200
+      },
+      "url": "https://twitter.com/elonmusk/status/1850123456789012345",
+      "source": "twitter",
+      "is_recent": true
+    },
+    {
+      "id": "1850123456789012346",
+      "text": "Just bought more DOGE for my son. He loves dogs!",
+      "created_at": "2025-12-02T11:15:00+00:00",
+      "author_id": "elonmusk",
+      "public_metrics": {
+        "like_count": 98000,
+        "retweet_count": 38000,
+        "reply_count": 6200,
+        "quote_count": 2100
+      },
+      "url": "https://twitter.com/elonmusk/status/1850123456789012346",
+      "source": "twitter",
+      "is_recent": true
+    }
+  ],
+  "saylor": [
+    {
+      "id": "1850223456789012345",
+      "text": "Bitcoin is digital property. I'm acquiring more for our treasury reserve. #BTC",
+      "created_at": "2025-12-02T11:00:00+00:00",
+      "author_id": "saylor",
+      "public_metrics": {
+        "like_count": 85000,
+        "retweet_count": 32000,
+        "reply_count": 5400,
+        "quote_count": 1800
+      },
+      "url": "https://twitter.com/saylor/status/1850223456789012345",
+      "source": "twitter",
+      "is_recent": true
+    }
+  ],
+  "VitalikButerin": [
+    {
+      "id": "1850323456789012345",
+      "text": "Excited about the upcoming Ethereum Layer 2 scaling and staking upgrades! 🚀",
+      "created_at": "2025-12-02T11:20:00+00:00",
+      "author_id": "VitalikButerin",
+      "public_metrics": {
+        "like_count": 65000,
+        "retweet_count": 24000,
+        "reply_count": 4200,
+        "quote_count": 1300
+      },
+      "url": "https://twitter.com/VitalikButerin/status/1850323456789012345",
+      "source": "twitter",
+      "is_recent": true
+    }
+  ],
+  "realDonaldTrump": [
+    {
+      "id": "1850423456789012345",
+      "text": "TRUMP coin is making America great again! Winning bigly in crypto. HUGE! 🇺🇸",
+      "created_at": "2025-12-02T11:10:00+00:00",
+      "author_id": "realDonaldTrump",
+      "public_metrics": {
+        "like_count": 142000,
+        "retweet_count": 58000,
+        "reply_count": 12000,
+        "quote_count": 4200
+      },
+      "url": "https://twitter.com/realDonaldTrump/status/1850423456789012345",
+      "source": "twitter",
+      "is_recent": true
+    }
+  ]
+}

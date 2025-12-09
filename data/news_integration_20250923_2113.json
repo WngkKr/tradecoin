@@ -1,0 +1,134 @@
+{
+  "timestamp": "2025-09-23T21:13:13.738645",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758628974_0",
+        "title": "파이 코인, 몇 시간 만에 반토막...커뮤니티 \"가치 0까지 갈 수도\"",
+        "url": "https://www.coinreaders.com/188386",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T21:02:54.310145",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758628975_1",
+        "title": "기업 매수에도 흔들린다…비트코인 약세장의 서막?",
+        "url": "https://www.coinreaders.com/188384",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T21:02:55.146824",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758628974_0",
+        "title": "파이 코인, 몇 시간 만에 반토막...커뮤니티 \"가치 0까지 갈 수도\"",
+        "url": "https://www.coinreaders.com/188386",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T21:02:54.310145",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758628975_1",
+        "title": "기업 매수에도 흔들린다…비트코인 약세장의 서막?",
+        "url": "https://www.coinreaders.com/188384",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T21:02:55.146824",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758628975_2",
+        "title": "JP모건 CEO \"연준 금리 인하, 쉽지 않아...스테이블코인의 은행 위협은 글쎄?\"",
+        "url": "https://www.coinreaders.com/188383",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T21:02:55.906734",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758628974_0",
+        "title": "파이 코인, 몇 시간 만에 반토막...커뮤니티 \"가치 0까지 갈 수도\"",
+        "url": "https://www.coinreaders.com/188386",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T21:02:54.310145",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758628975_1",
+        "title": "기업 매수에도 흔들린다…비트코인 약세장의 서막?",
+        "url": "https://www.coinreaders.com/188384",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T21:02:55.146824",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758628975_2",
+        "title": "JP모건 CEO \"연준 금리 인하, 쉽지 않아...스테이블코인의 은행 위협은 글쎄?\"",
+        "url": "https://www.coinreaders.com/188383",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T21:02:55.906734",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758628975_2",
+      "title": "JP모건 CEO \"연준 금리 인하, 쉽지 않아...스테이블코인의 은행 위협은 글쎄?\"",
+      "url": "https://www.coinreaders.com/188383",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T21:02:55.906734",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250923_2113.json"
+}

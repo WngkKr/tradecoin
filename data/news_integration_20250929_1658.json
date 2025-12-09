@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-29T16:58:02.965344",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759132676_0",
+        "title": "비트코인, '여기' 무너지면 폭락 시작...업토버 랠리 물건너가나",
+        "url": "https://www.coinreaders.com/189520",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T16:57:56.878486",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_1658.json"
+}

@@ -1,0 +1,143 @@
+{
+  "timestamp": "2025-09-30T21:54:44.378228",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759236875_0",
+        "title": "XRP, 10월 ETF 승인으로 월가의 다크호스 될까",
+        "url": "https://www.coinreaders.com/189844",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T21:54:35.012248",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759236875_0",
+        "title": "XRP, 10월 ETF 승인으로 월가의 다크호스 될까",
+        "url": "https://www.coinreaders.com/189844",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T21:54:35.012248",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759236875_1",
+        "title": "\"전혀 사실 아냐!\" 업비트, 기와체인 스테이블 코인 루머 강력 부인",
+        "url": "https://www.coinreaders.com/189842",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T21:54:35.903055",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759236875_1",
+        "title": "\"전혀 사실 아냐!\" 업비트, 기와체인 스테이블 코인 루머 강력 부인",
+        "url": "https://www.coinreaders.com/189842",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T21:54:35.903055",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759236875_0",
+        "title": "XRP, 10월 ETF 승인으로 월가의 다크호스 될까",
+        "url": "https://www.coinreaders.com/189844",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T21:54:35.012248",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759236875_0",
+        "title": "XRP, 10월 ETF 승인으로 월가의 다크호스 될까",
+        "url": "https://www.coinreaders.com/189844",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T21:54:35.012248",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759236875_0",
+        "title": "XRP, 10월 ETF 승인으로 월가의 다크호스 될까",
+        "url": "https://www.coinreaders.com/189844",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T21:54:35.012248",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759236875_0",
+      "title": "XRP, 10월 ETF 승인으로 월가의 다크호스 될까",
+      "url": "https://www.coinreaders.com/189844",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T21:54:35.012248",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin",
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250930_2154.json"
+}

@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-10-03T18:41:59.214539",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759483933_0",
+        "title": "스트래티지, 글로벌 은행 시총 돌파...비트코인 12만 달러 회복 영향",
+        "url": "https://www.coinreaders.com/190459",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T18:32:13.689113",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1759483933_0",
+        "title": "스트래티지, 글로벌 은행 시총 돌파...비트코인 12만 달러 회복 영향",
+        "url": "https://www.coinreaders.com/190459",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T18:32:13.689113",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759483933_0",
+      "title": "스트래티지, 글로벌 은행 시총 돌파...비트코인 12만 달러 회복 영향",
+      "url": "https://www.coinreaders.com/190459",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T18:32:13.689113",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1832.json"
+}

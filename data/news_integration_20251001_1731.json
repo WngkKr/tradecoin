@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-10-01T17:31:17.280066",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759307471_0",
+        "title": "비트코인, 11만 달러대에서 폭발적 움직임 예고",
+        "url": "https://www.coinreaders.com/190041",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:31:11.457072",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759307471_0",
+      "title": "비트코인, 11만 달러대에서 폭발적 움직임 예고",
+      "url": "https://www.coinreaders.com/190041",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T17:31:11.457072",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1731.json"
+}

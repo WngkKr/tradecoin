@@ -1,0 +1,144 @@
+{
+  "timestamp": "2025-10-01T14:19:17.335998",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759295951_0",
+        "title": "\"투명성은 없었다\"...겐슬러 문자 증발 사건에 미 의회 분노",
+        "url": "https://www.coinreaders.com/190008",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:19:11.993713",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759295951_0",
+        "title": "\"투명성은 없었다\"...겐슬러 문자 증발 사건에 미 의회 분노",
+        "url": "https://www.coinreaders.com/190008",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:19:11.993713",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759295951_0",
+        "title": "\"투명성은 없었다\"...겐슬러 문자 증발 사건에 미 의회 분노",
+        "url": "https://www.coinreaders.com/190008",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:19:11.993713",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759295951_0",
+        "title": "\"투명성은 없었다\"...겐슬러 문자 증발 사건에 미 의회 분노",
+        "url": "https://www.coinreaders.com/190008",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:19:11.993713",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler",
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759295951_0",
+        "title": "\"투명성은 없었다\"...겐슬러 문자 증발 사건에 미 의회 분노",
+        "url": "https://www.coinreaders.com/190008",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:19:11.993713",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759295951_0",
+        "title": "\"투명성은 없었다\"...겐슬러 문자 증발 사건에 미 의회 분노",
+        "url": "https://www.coinreaders.com/190008",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T14:19:11.993713",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759295951_0",
+      "title": "\"투명성은 없었다\"...겐슬러 문자 증발 사건에 미 의회 분노",
+      "url": "https://www.coinreaders.com/190008",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T14:19:11.993713",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler",
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1419.json"
+}

@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-10-01T03:32:26.139789",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759256535_0",
+        "title": "밈코인과 실용 코인의 격차! 시바이누 vs BNB 승자는?",
+        "url": "https://www.coinreaders.com/189891",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T03:22:15.133813",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1759256535_0",
+        "title": "밈코인과 실용 코인의 격차! 시바이누 vs BNB 승자는?",
+        "url": "https://www.coinreaders.com/189891",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T03:22:15.133813",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759256535_0",
+        "title": "밈코인과 실용 코인의 격차! 시바이누 vs BNB 승자는?",
+        "url": "https://www.coinreaders.com/189891",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T03:22:15.133813",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759256535_0",
+        "title": "밈코인과 실용 코인의 격차! 시바이누 vs BNB 승자는?",
+        "url": "https://www.coinreaders.com/189891",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T03:22:15.133813",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0322.json"
+}

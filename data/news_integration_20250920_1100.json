@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-20T11:00:09.236419",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758333602_0",
+        "title": "이더리움, 고래 지갑 급증·거래소 물량 급감...어디까지 오를까?",
+        "url": "https://www.coinreaders.com/187764",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:00:02.216216",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758333602_0",
+        "title": "이더리움, 고래 지갑 급증·거래소 물량 급감...어디까지 오를까?",
+        "url": "https://www.coinreaders.com/187764",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:00:02.216216",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758333602_0",
+        "title": "이더리움, 고래 지갑 급증·거래소 물량 급감...어디까지 오를까?",
+        "url": "https://www.coinreaders.com/187764",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T11:00:02.216216",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_1100.json"
+}

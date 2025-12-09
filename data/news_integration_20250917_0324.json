@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-17T03:24:21.969278",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758047055_0",
+        "title": "\"10월 서프라이즈 온다\"…ETF 승인 시 XRP, 8달러에서 12달러까지 간다?",
+        "url": "https://www.coinreaders.com/186909",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T03:24:15.196959",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758047055_0",
+        "title": "\"10월 서프라이즈 온다\"…ETF 승인 시 XRP, 8달러에서 12달러까지 간다?",
+        "url": "https://www.coinreaders.com/186909",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T03:24:15.196959",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758047055_0",
+        "title": "\"10월 서프라이즈 온다\"…ETF 승인 시 XRP, 8달러에서 12달러까지 간다?",
+        "url": "https://www.coinreaders.com/186909",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T03:24:15.196959",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758047055_0",
+        "title": "\"10월 서프라이즈 온다\"…ETF 승인 시 XRP, 8달러에서 12달러까지 간다?",
+        "url": "https://www.coinreaders.com/186909",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T03:24:15.196959",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758047055_0",
+      "title": "\"10월 서프라이즈 온다\"…ETF 승인 시 XRP, 8달러에서 12달러까지 간다?",
+      "url": "https://www.coinreaders.com/186909",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T03:24:15.196959",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_0324.json"
+}

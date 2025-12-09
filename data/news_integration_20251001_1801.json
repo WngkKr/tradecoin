@@ -1,0 +1,229 @@
+{
+  "timestamp": "2025-10-01T18:01:41.725708",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759308687_0",
+        "title": "리플 CTO 슈워츠 사임...\"커뮤니티는 떠나지 않는다\"",
+        "url": "https://www.coinreaders.com/190048",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:27.083373",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759308688_2",
+        "title": "\"이더리움은 거대한 매크로 트레이드!\" 톰 리의 확신",
+        "url": "https://www.coinreaders.com/190043",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:28.072578",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759308687_0",
+        "title": "리플 CTO 슈워츠 사임...\"커뮤니티는 떠나지 않는다\"",
+        "url": "https://www.coinreaders.com/190048",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:27.083373",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759308688_2",
+        "title": "\"이더리움은 거대한 매크로 트레이드!\" 톰 리의 확신",
+        "url": "https://www.coinreaders.com/190043",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:28.072578",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759308689_3",
+        "title": "트럼프 주니어 \"스테이블코인이야말로 달러의 구세주\"",
+        "url": "https://www.coinreaders.com/190042",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:29.041363",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759308687_0",
+        "title": "리플 CTO 슈워츠 사임...\"커뮤니티는 떠나지 않는다\"",
+        "url": "https://www.coinreaders.com/190048",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:27.083373",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759308689_3",
+        "title": "트럼프 주니어 \"스테이블코인이야말로 달러의 구세주\"",
+        "url": "https://www.coinreaders.com/190042",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:29.041363",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759308687_0",
+        "title": "리플 CTO 슈워츠 사임...\"커뮤니티는 떠나지 않는다\"",
+        "url": "https://www.coinreaders.com/190048",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:27.083373",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1759308689_3",
+        "title": "트럼프 주니어 \"스테이블코인이야말로 달러의 구세주\"",
+        "url": "https://www.coinreaders.com/190042",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:29.041363",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759308689_3",
+        "title": "트럼프 주니어 \"스테이블코인이야말로 달러의 구세주\"",
+        "url": "https://www.coinreaders.com/190042",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:29.041363",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "TRUMP",
+          "MAGA",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759308688_2",
+        "title": "\"이더리움은 거대한 매크로 트레이드!\" 톰 리의 확신",
+        "url": "https://www.coinreaders.com/190043",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:28.072578",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759308687_0",
+        "title": "리플 CTO 슈워츠 사임...\"커뮤니티는 떠나지 않는다\"",
+        "url": "https://www.coinreaders.com/190048",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T17:51:27.083373",
+        "risk_level": "LOW",
+        "related_coins": [
+          "SHIB",
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759308689_3",
+      "title": "트럼프 주니어 \"스테이블코인이야말로 달러의 구세주\"",
+      "url": "https://www.coinreaders.com/190042",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T17:51:29.041363",
+      "related_coins": [
+        "TRUMP",
+        "MAGA",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적"
+      ]
+    }
+  ],
+  "total_count": 4,
+  "source_file": "news/all_news_20251001_1751.json"
+}

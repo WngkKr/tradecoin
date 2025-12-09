@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-09-22T12:59:44.676181",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758512371_0",
+        "title": "규제 기다리다 기회 잃는다...토큰화 금융 전쟁 이미 시작",
+        "url": "https://www.coinreaders.com/187991",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T12:39:31.325972",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758512371_0",
+        "title": "규제 기다리다 기회 잃는다...토큰화 금융 전쟁 이미 시작",
+        "url": "https://www.coinreaders.com/187991",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T12:39:31.325972",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758512371_0",
+        "title": "규제 기다리다 기회 잃는다...토큰화 금융 전쟁 이미 시작",
+        "url": "https://www.coinreaders.com/187991",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T12:39:31.325972",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758512371_0",
+      "title": "규제 기다리다 기회 잃는다...토큰화 금융 전쟁 이미 시작",
+      "url": "https://www.coinreaders.com/187991",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T12:39:31.325972",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1239.json"
+}

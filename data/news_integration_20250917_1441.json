@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-17T14:41:37.408081",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758087423_0",
+        "title": "\"3.8달러 뚫어야 산다\"...XRP, 단기 운명 갈린다",
+        "url": "https://www.coinreaders.com/187038",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T14:37:03.169218",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758087423_0",
+      "title": "\"3.8달러 뚫어야 산다\"...XRP, 단기 운명 갈린다",
+      "url": "https://www.coinreaders.com/187038",
+      "source": "coinreaders",
+      "timestamp": "2025-09-17T14:37:03.169218",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1441.json"
+}

@@ -1,0 +1,86 @@
+{
+  "timestamp": "2025-09-23T10:54:06.661945",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758592439_1",
+        "title": "비트코인, 사이클 정점 아직...왜 주식·금과 달리 못 오르나?",
+        "url": "https://www.coinreaders.com/188243",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:53:59.959006",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758592439_1",
+        "title": "비트코인, 사이클 정점 아직...왜 주식·금과 달리 못 오르나?",
+        "url": "https://www.coinreaders.com/188243",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:53:59.959006",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758592440_2",
+        "title": "스트래티지, 1억 달러 비트코인 추가 매입...주가는 왜 하락했나",
+        "url": "https://www.coinreaders.com/188239",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:54:00.810745",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758592439_1",
+        "title": "비트코인, 사이클 정점 아직...왜 주식·금과 달리 못 오르나?",
+        "url": "https://www.coinreaders.com/188243",
+        "source": "coinreaders",
+        "timestamp": "2025-09-23T10:53:59.959006",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758592440_2",
+      "title": "스트래티지, 1억 달러 비트코인 추가 매입...주가는 왜 하락했나",
+      "url": "https://www.coinreaders.com/188239",
+      "source": "coinreaders",
+      "timestamp": "2025-09-23T10:54:00.810745",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250923_1054.json"
+}

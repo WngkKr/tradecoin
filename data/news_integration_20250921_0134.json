@@ -1,0 +1,206 @@
+{
+  "timestamp": "2025-09-21T01:34:26.111039",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758386057_1",
+        "title": "XRP, 태국서 금·비트코인 제쳤다...수익성 높은 자산 1위 기록",
+        "url": "https://www.coinreaders.com/187834",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:17.964315",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758386060_4",
+        "title": "밈코인 시즌 재현? 페페코인의 장기 가격 시나리오",
+        "url": "https://www.coinreaders.com/187829",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:20.864415",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758386057_1",
+        "title": "XRP, 태국서 금·비트코인 제쳤다...수익성 높은 자산 1위 기록",
+        "url": "https://www.coinreaders.com/187834",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:17.964315",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758386059_2",
+        "title": "기관 참여 확대 속 XRP, 이번 사이클서 대박 가능성은?",
+        "url": "https://www.coinreaders.com/187833",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:19.000156",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758386059_3",
+        "title": "마이클 세일러 \"비트코인, 영원히 S&P 500 능가할 것\"",
+        "url": "https://www.coinreaders.com/187831",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:19.991195",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Michael Saylor"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758386060_4",
+        "title": "밈코인 시즌 재현? 페페코인의 장기 가격 시나리오",
+        "url": "https://www.coinreaders.com/187829",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:20.864415",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758386060_4",
+        "title": "밈코인 시즌 재현? 페페코인의 장기 가격 시나리오",
+        "url": "https://www.coinreaders.com/187829",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:20.864415",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758386057_1",
+        "title": "XRP, 태국서 금·비트코인 제쳤다...수익성 높은 자산 1위 기록",
+        "url": "https://www.coinreaders.com/187834",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:17.964315",
+        "risk_level": "MEDIUM",
+        "related_influencers": [
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758386059_3",
+        "title": "마이클 세일러 \"비트코인, 영원히 S&P 500 능가할 것\"",
+        "url": "https://www.coinreaders.com/187831",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:19.991195",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758386057_1",
+        "title": "XRP, 태국서 금·비트코인 제쳤다...수익성 높은 자산 1위 기록",
+        "url": "https://www.coinreaders.com/187834",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:17.964315",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758386057_1",
+        "title": "XRP, 태국서 금·비트코인 제쳤다...수익성 높은 자산 1위 기록",
+        "url": "https://www.coinreaders.com/187834",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T01:34:17.964315",
+        "risk_level": "MEDIUM",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758386059_3",
+      "title": "마이클 세일러 \"비트코인, 영원히 S&P 500 능가할 것\"",
+      "url": "https://www.coinreaders.com/187831",
+      "source": "coinreaders",
+      "timestamp": "2025-09-21T01:34:19.991195",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [
+        "Michael Saylor"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 5,
+  "source_file": "news/all_news_20250921_0134.json"
+}

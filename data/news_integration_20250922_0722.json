@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-22T07:22:53.170590",
+  "by_coin": {},
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758492156_0",
+      "title": "XRP, 2.68달러 하락은 경고...3.50달러 재도전 가능",
+      "url": "https://www.coinreaders.com/187924",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T07:02:36.833586",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_0702.json"
+}

@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-09-22T16:00:55.692453",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758523845_0",
+        "title": "이더리움, 4,637달러 고점 후 급락...어디까지 떨어질까?",
+        "url": "https://www.coinreaders.com/188029",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T15:50:45.013899",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758523845_0",
+        "title": "이더리움, 4,637달러 고점 후 급락...어디까지 떨어질까?",
+        "url": "https://www.coinreaders.com/188029",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T15:50:45.013899",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758523845_0",
+        "title": "이더리움, 4,637달러 고점 후 급락...어디까지 떨어질까?",
+        "url": "https://www.coinreaders.com/188029",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T15:50:45.013899",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758523845_0",
+      "title": "이더리움, 4,637달러 고점 후 급락...어디까지 떨어질까?",
+      "url": "https://www.coinreaders.com/188029",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T15:50:45.013899",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1550.json"
+}

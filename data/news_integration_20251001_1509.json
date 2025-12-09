@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-10-01T15:09:50.204414",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759298970_0",
+        "title": "\"“결정적 순간\" 이더리움, 4,200달러 전쟁에서 승부 난다",
+        "url": "https://www.coinreaders.com/190010",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T15:09:30.993980",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759298970_0",
+        "title": "\"“결정적 순간\" 이더리움, 4,200달러 전쟁에서 승부 난다",
+        "url": "https://www.coinreaders.com/190010",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T15:09:30.993980",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759298970_0",
+        "title": "\"“결정적 순간\" 이더리움, 4,200달러 전쟁에서 승부 난다",
+        "url": "https://www.coinreaders.com/190010",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T15:09:30.993980",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759298970_0",
+      "title": "\"“결정적 순간\" 이더리움, 4,200달러 전쟁에서 승부 난다",
+      "url": "https://www.coinreaders.com/190010",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T15:09:30.993980",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1509.json"
+}

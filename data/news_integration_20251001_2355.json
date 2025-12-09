@@ -1,0 +1,62 @@
+{
+  "timestamp": "2025-10-01T23:55:38.488192",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759330533_0",
+        "title": "SWIFT, XRP와 공존할까 경쟁할까… 결제망 전쟁의 향방",
+        "url": "https://www.coinreaders.com/190112",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:55:33.247696",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759330533_0",
+        "title": "SWIFT, XRP와 공존할까 경쟁할까… 결제망 전쟁의 향방",
+        "url": "https://www.coinreaders.com/190112",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:55:33.247696",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759330533_0",
+        "title": "SWIFT, XRP와 공존할까 경쟁할까… 결제망 전쟁의 향방",
+        "url": "https://www.coinreaders.com/190112",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T23:55:33.247696",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_2355.json"
+}

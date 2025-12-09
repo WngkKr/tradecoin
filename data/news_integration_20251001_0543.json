@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-10-01T05:43:41.950254",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759265016_0",
+        "title": "XRP 방향, 3.56달러와 2.20달러서 갈린다",
+        "url": "https://www.coinreaders.com/189908",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T05:43:36.577311",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759265016_0",
+        "title": "XRP 방향, 3.56달러와 2.20달러서 갈린다",
+        "url": "https://www.coinreaders.com/189908",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T05:43:36.577311",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759265016_0",
+      "title": "XRP 방향, 3.56달러와 2.20달러서 갈린다",
+      "url": "https://www.coinreaders.com/189908",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T05:43:36.577311",
+      "related_coins": [
+        "ETH",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_0543.json"
+}

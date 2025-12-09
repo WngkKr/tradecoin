@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-10-03T15:50:24.268047",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759473613_0",
+        "title": "이더리움, 4,500달러 넘고 4분기 추가 상승 시도...사상 최고가 찍을까?",
+        "url": "https://www.coinreaders.com/190441",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T15:40:13.204054",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759473613_0",
+        "title": "이더리움, 4,500달러 넘고 4분기 추가 상승 시도...사상 최고가 찍을까?",
+        "url": "https://www.coinreaders.com/190441",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T15:40:13.204054",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759473613_0",
+        "title": "이더리움, 4,500달러 넘고 4분기 추가 상승 시도...사상 최고가 찍을까?",
+        "url": "https://www.coinreaders.com/190441",
+        "source": "coinreaders",
+        "timestamp": "2025-10-03T15:40:13.204054",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759473613_0",
+      "title": "이더리움, 4,500달러 넘고 4분기 추가 상승 시도...사상 최고가 찍을까?",
+      "url": "https://www.coinreaders.com/190441",
+      "source": "coinreaders",
+      "timestamp": "2025-10-03T15:40:13.204054",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251003_1540.json"
+}

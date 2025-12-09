@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-22T02:59:02.622030",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758472606_0",
+        "title": "비트코인 vs 이더리움, 지금 사야 할 암호화폐는?",
+        "url": "https://www.coinreaders.com/187907",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T01:36:46.920922",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758472606_0",
+        "title": "비트코인 vs 이더리움, 지금 사야 할 암호화폐는?",
+        "url": "https://www.coinreaders.com/187907",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T01:36:46.920922",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758472606_0",
+        "title": "비트코인 vs 이더리움, 지금 사야 할 암호화폐는?",
+        "url": "https://www.coinreaders.com/187907",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T01:36:46.920922",
+        "risk_level": "LOW",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_0136.json"
+}

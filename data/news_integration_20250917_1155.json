@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-09-17T11:55:58.592977",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758077748_0",
+        "title": "비트코인, 지금은 조정...유명 트레이더 \"4분기 폭발로 최고가 준비 중\"",
+        "url": "https://www.coinreaders.com/186999",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:55:48.653373",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758077748_0",
+        "title": "비트코인, 지금은 조정...유명 트레이더 \"4분기 폭발로 최고가 준비 중\"",
+        "url": "https://www.coinreaders.com/186999",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T11:55:48.653373",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1155.json"
+}

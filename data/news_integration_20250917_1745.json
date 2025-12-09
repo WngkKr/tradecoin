@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-09-17T17:45:28.267440",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758098722_0",
+        "title": "XRP 미결제 약정 회복...기관 매집 가속화 효과 '톡톡'",
+        "url": "https://www.coinreaders.com/187079",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T17:45:22.066141",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758098722_0",
+        "title": "XRP 미결제 약정 회복...기관 매집 가속화 효과 '톡톡'",
+        "url": "https://www.coinreaders.com/187079",
+        "source": "coinreaders",
+        "timestamp": "2025-09-17T17:45:22.066141",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250917_1745.json"
+}

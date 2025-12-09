@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-09-29T19:48:11.614394",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759142281_0",
+        "title": "파이 코인, 한때 상위 15위서 추락...달러 자금 논란에 신뢰 상실",
+        "url": "https://www.coinreaders.com/189555",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T19:38:01.422387",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759142281_0",
+        "title": "파이 코인, 한때 상위 15위서 추락...달러 자금 논란에 신뢰 상실",
+        "url": "https://www.coinreaders.com/189555",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T19:38:01.422387",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759142281_0",
+      "title": "파이 코인, 한때 상위 15위서 추락...달러 자금 논란에 신뢰 상실",
+      "url": "https://www.coinreaders.com/189555",
+      "source": "coinreaders",
+      "timestamp": "2025-09-29T19:38:01.422387",
+      "related_coins": [
+        "ETH",
+        "SHIB"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "정치적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_1938.json"
+}

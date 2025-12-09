@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-09-30T15:07:33.044169",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759200345_5",
+        "title": "SIM Mining, 모바일 앱 출시...BTC·XRP·DOGE 보유자 대상 100달러 보너스 제공",
+        "url": "https://www.coinreaders.com/189721",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T11:45:45.914708",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759200345_5",
+        "title": "SIM Mining, 모바일 앱 출시...BTC·XRP·DOGE 보유자 대상 100달러 보너스 제공",
+        "url": "https://www.coinreaders.com/189721",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T11:45:45.914708",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759200345_5",
+        "title": "SIM Mining, 모바일 앱 출시...BTC·XRP·DOGE 보유자 대상 100달러 보너스 제공",
+        "url": "https://www.coinreaders.com/189721",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T11:45:45.914708",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759200345_5",
+        "title": "SIM Mining, 모바일 앱 출시...BTC·XRP·DOGE 보유자 대상 100달러 보너스 제공",
+        "url": "https://www.coinreaders.com/189721",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T11:45:45.914708",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759200344_2",
+      "title": "관세협상 불확실성…원/달러 환율 1.3원 오른 1,400.0원 개장",
+      "url": "https://www.coinreaders.com/189714",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T11:45:44.957018",
+      "related_coins": [],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1759200345_5",
+      "title": "SIM Mining, 모바일 앱 출시...BTC·XRP·DOGE 보유자 대상 100달러 보너스 제공",
+      "url": "https://www.coinreaders.com/189721",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T11:45:45.914708",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 2,
+  "source_file": "news/all_news_20250930_1145.json"
+}

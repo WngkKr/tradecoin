@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-10-01T10:47:03.262463",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759282610_0",
+        "title": "이더리움, 10억 달러 숏 포지션 초읽기...시장 '긴장 최고조'",
+        "url": "https://www.coinreaders.com/189970",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T10:36:50.107778",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759282610_0",
+        "title": "이더리움, 10억 달러 숏 포지션 초읽기...시장 '긴장 최고조'",
+        "url": "https://www.coinreaders.com/189970",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T10:36:50.107778",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759282610_0",
+        "title": "이더리움, 10억 달러 숏 포지션 초읽기...시장 '긴장 최고조'",
+        "url": "https://www.coinreaders.com/189970",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T10:36:50.107778",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759282610_0",
+      "title": "이더리움, 10억 달러 숏 포지션 초읽기...시장 '긴장 최고조'",
+      "url": "https://www.coinreaders.com/189970",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T10:36:50.107778",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1036.json"
+}

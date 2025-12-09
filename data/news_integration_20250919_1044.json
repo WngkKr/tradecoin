@@ -1,0 +1,356 @@
+{
+  "timestamp": "2025-09-19T10:44:09.519101",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758246237_0",
+        "title": "연준 금리 인하에도 시장은 잠잠...비트코인, 언제 폭발할까?",
+        "url": "https://www.coinreaders.com/187548",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:57.290795",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758246238_1",
+        "title": "페이팔 스테이블코인, 트론·아발란체·앱토스 진출…시장 지각변동 올까?",
+        "url": "https://www.coinreaders.com/187547",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:58.839358",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758246239_3",
+        "title": "전문가들 \"도지코인 5달러 간다\"vs\"최대 36달러도 가능\"",
+        "url": "https://www.coinreaders.com/187533",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:59.781014",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758246242_5",
+        "title": "솔라나(SOL), 70% 스테이킹 락업이 초대형 랠리 불씨 될까",
+        "url": "https://www.coinreaders.com/187531",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:44:02.198988",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758246239_3",
+        "title": "전문가들 \"도지코인 5달러 간다\"vs\"최대 36달러도 가능\"",
+        "url": "https://www.coinreaders.com/187533",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:59.781014",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758246237_0",
+        "title": "연준 금리 인하에도 시장은 잠잠...비트코인, 언제 폭발할까?",
+        "url": "https://www.coinreaders.com/187548",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:57.290795",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758246238_1",
+        "title": "페이팔 스테이블코인, 트론·아발란체·앱토스 진출…시장 지각변동 올까?",
+        "url": "https://www.coinreaders.com/187547",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:58.839358",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758246239_3",
+        "title": "전문가들 \"도지코인 5달러 간다\"vs\"최대 36달러도 가능\"",
+        "url": "https://www.coinreaders.com/187533",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:59.781014",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758246240_4",
+        "title": "비트코인, 2주 내 신고점 경신 확률 70%...가격 조정 먼저 올 수도",
+        "url": "https://www.coinreaders.com/187532",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:44:00.838541",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758246242_5",
+        "title": "솔라나(SOL), 70% 스테이킹 락업이 초대형 랠리 불씨 될까",
+        "url": "https://www.coinreaders.com/187531",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:44:02.198988",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758246239_3",
+        "title": "전문가들 \"도지코인 5달러 간다\"vs\"최대 36달러도 가능\"",
+        "url": "https://www.coinreaders.com/187533",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:59.781014",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758246239_3",
+        "title": "전문가들 \"도지코인 5달러 간다\"vs\"최대 36달러도 가능\"",
+        "url": "https://www.coinreaders.com/187533",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:59.781014",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758246238_1",
+        "title": "페이팔 스테이블코인, 트론·아발란체·앱토스 진출…시장 지각변동 올까?",
+        "url": "https://www.coinreaders.com/187547",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:58.839358",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758246239_3",
+        "title": "전문가들 \"도지코인 5달러 간다\"vs\"최대 36달러도 가능\"",
+        "url": "https://www.coinreaders.com/187533",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:59.781014",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758246240_4",
+        "title": "비트코인, 2주 내 신고점 경신 확률 70%...가격 조정 먼저 올 수도",
+        "url": "https://www.coinreaders.com/187532",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:44:00.838541",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758246237_0",
+        "title": "연준 금리 인하에도 시장은 잠잠...비트코인, 언제 폭발할까?",
+        "url": "https://www.coinreaders.com/187548",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:57.290795",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758246238_1",
+        "title": "페이팔 스테이블코인, 트론·아발란체·앱토스 진출…시장 지각변동 올까?",
+        "url": "https://www.coinreaders.com/187547",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:58.839358",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758246239_3",
+        "title": "전문가들 \"도지코인 5달러 간다\"vs\"최대 36달러도 가능\"",
+        "url": "https://www.coinreaders.com/187533",
+        "source": "coinreaders",
+        "timestamp": "2025-09-19T10:43:59.781014",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758246237_0",
+      "title": "연준 금리 인하에도 시장은 잠잠...비트코인, 언제 폭발할까?",
+      "url": "https://www.coinreaders.com/187548",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T10:43:57.290795",
+      "related_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758246238_1",
+      "title": "페이팔 스테이블코인, 트론·아발란체·앱토스 진출…시장 지각변동 올까?",
+      "url": "https://www.coinreaders.com/187547",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T10:43:58.839358",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758246239_3",
+      "title": "전문가들 \"도지코인 5달러 간다\"vs\"최대 36달러도 가능\"",
+      "url": "https://www.coinreaders.com/187533",
+      "source": "coinreaders",
+      "timestamp": "2025-09-19T10:43:59.781014",
+      "related_coins": [
+        "DOGE",
+        "ETH",
+        "BTC",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "사회적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 6,
+  "source_file": "news/all_news_20250919_1044.json"
+}

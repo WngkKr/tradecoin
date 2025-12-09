@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-09-22T18:12:10.671583",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758532324_0",
+        "title": "XRP, 규제 명확해졌는데 왜 여전히 3달러 밑에 머무나?",
+        "url": "https://www.coinreaders.com/188064",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T18:12:04.948684",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758532324_0",
+        "title": "XRP, 규제 명확해졌는데 왜 여전히 3달러 밑에 머무나?",
+        "url": "https://www.coinreaders.com/188064",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T18:12:04.948684",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758532324_0",
+        "title": "XRP, 규제 명확해졌는데 왜 여전히 3달러 밑에 머무나?",
+        "url": "https://www.coinreaders.com/188064",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T18:12:04.948684",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758532324_0",
+      "title": "XRP, 규제 명확해졌는데 왜 여전히 3달러 밑에 머무나?",
+      "url": "https://www.coinreaders.com/188064",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T18:12:04.948684",
+      "related_coins": [
+        "BTC",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_1812.json"
+}

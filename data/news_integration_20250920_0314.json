@@ -1,0 +1,65 @@
+{
+  "timestamp": "2025-09-20T03:14:07.849335",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758305037_0",
+        "title": "호스킨슨 \"에르고, 비트코인의 후계자\" 공개 지지...상폐 논란 반전 될까?",
+        "url": "https://www.coinreaders.com/187715",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T03:03:57.380588",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758305037_0",
+        "title": "호스킨슨 \"에르고, 비트코인의 후계자\" 공개 지지...상폐 논란 반전 될까?",
+        "url": "https://www.coinreaders.com/187715",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T03:03:57.380588",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758305037_0",
+        "title": "호스킨슨 \"에르고, 비트코인의 후계자\" 공개 지지...상폐 논란 반전 될까?",
+        "url": "https://www.coinreaders.com/187715",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T03:03:57.380588",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0304.json"
+}

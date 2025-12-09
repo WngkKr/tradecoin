@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-09-18T21:32:41.542647",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1758198756_0",
+        "title": "비트코인, 9월 상승 시 10월 평균 '20%' 상승...이번에는?",
+        "url": "https://www.coinreaders.com/187423",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T21:32:36.542973",
+        "risk_level": "MEDIUM",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250918_2132.json"
+}

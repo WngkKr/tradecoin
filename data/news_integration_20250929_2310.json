@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-09-29T23:10:19.408348",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759155013_0",
+        "title": "전문가 \"비트코인, 금보다 강해\"...1,000% 폭등 전망 제시",
+        "url": "https://www.coinreaders.com/189607",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T23:10:13.755203",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759155013_0",
+        "title": "전문가 \"비트코인, 금보다 강해\"...1,000% 폭등 전망 제시",
+        "url": "https://www.coinreaders.com/189607",
+        "source": "coinreaders",
+        "timestamp": "2025-09-29T23:10:13.755203",
+        "risk_level": "LOW",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250929_2310.json"
+}

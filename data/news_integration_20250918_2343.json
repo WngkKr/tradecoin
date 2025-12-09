@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-09-18T23:43:52.451312",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758206628_0",
+        "title": "스테이블코인 버리고 알트코인으로...자금 재편 어디까지 갈까",
+        "url": "https://www.coinreaders.com/187446",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T23:43:48.444222",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758206628_0",
+        "title": "스테이블코인 버리고 알트코인으로...자금 재편 어디까지 갈까",
+        "url": "https://www.coinreaders.com/187446",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T23:43:48.444222",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758206628_0",
+        "title": "스테이블코인 버리고 알트코인으로...자금 재편 어디까지 갈까",
+        "url": "https://www.coinreaders.com/187446",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T23:43:48.444222",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758206628_0",
+        "title": "스테이블코인 버리고 알트코인으로...자금 재편 어디까지 갈까",
+        "url": "https://www.coinreaders.com/187446",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T23:43:48.444222",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "DOGE",
+          "BTC"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758206628_0",
+      "title": "스테이블코인 버리고 알트코인으로...자금 재편 어디까지 갈까",
+      "url": "https://www.coinreaders.com/187446",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T23:43:48.444222",
+      "related_coins": [
+        "ETH",
+        "DOGE",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "사회적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250918_2343.json"
+}

@@ -1,0 +1,80 @@
+{
+  "timestamp": "2025-09-21T10:17:12.587052",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758416820_0",
+        "title": "솔라나 창립자 \"비트코인, 5년 안에 양자 공격 뚫릴 수 있다\" 경고",
+        "url": "https://www.coinreaders.com/187856",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T10:07:00.819040",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758416820_0",
+        "title": "솔라나 창립자 \"비트코인, 5년 안에 양자 공격 뚫릴 수 있다\" 경고",
+        "url": "https://www.coinreaders.com/187856",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T10:07:00.819040",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758416820_0",
+        "title": "솔라나 창립자 \"비트코인, 5년 안에 양자 공격 뚫릴 수 있다\" 경고",
+        "url": "https://www.coinreaders.com/187856",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T10:07:00.819040",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758416820_0",
+        "title": "솔라나 창립자 \"비트코인, 5년 안에 양자 공격 뚫릴 수 있다\" 경고",
+        "url": "https://www.coinreaders.com/187856",
+        "source": "coinreaders",
+        "timestamp": "2025-09-21T10:07:00.819040",
+        "risk_level": "LOW",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "SHIB"
+        ],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250921_1007.json"
+}

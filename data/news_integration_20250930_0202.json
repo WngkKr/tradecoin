@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-09-30T02:02:00.906004",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759165316_0",
+        "title": "3달러 아래 XRP, 저가 매수 기회냐, 아니면 위험 신호냐",
+        "url": "https://www.coinreaders.com/189633",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T02:01:56.446170",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759165316_0",
+        "title": "3달러 아래 XRP, 저가 매수 기회냐, 아니면 위험 신호냐",
+        "url": "https://www.coinreaders.com/189633",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T02:01:56.446170",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1759165316_0",
+        "title": "3달러 아래 XRP, 저가 매수 기회냐, 아니면 위험 신호냐",
+        "url": "https://www.coinreaders.com/189633",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T02:01:56.446170",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759165316_0",
+      "title": "3달러 아래 XRP, 저가 매수 기회냐, 아니면 위험 신호냐",
+      "url": "https://www.coinreaders.com/189633",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T02:01:56.446170",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0202.json"
+}

@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-10-01T12:58:28.838563",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759290497_0",
+        "title": "도박이냐 금융이냐...로빈후드, 예측 시장 놓고 규제 전쟁",
+        "url": "https://www.coinreaders.com/189991",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T12:48:17.691515",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759290497_0",
+        "title": "도박이냐 금융이냐...로빈후드, 예측 시장 놓고 규제 전쟁",
+        "url": "https://www.coinreaders.com/189991",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T12:48:17.691515",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759290497_0",
+        "title": "도박이냐 금융이냐...로빈후드, 예측 시장 놓고 규제 전쟁",
+        "url": "https://www.coinreaders.com/189991",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T12:48:17.691515",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759290497_0",
+        "title": "도박이냐 금융이냐...로빈후드, 예측 시장 놓고 규제 전쟁",
+        "url": "https://www.coinreaders.com/189991",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T12:48:17.691515",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759290497_0",
+        "title": "도박이냐 금융이냐...로빈후드, 예측 시장 놓고 규제 전쟁",
+        "url": "https://www.coinreaders.com/189991",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T12:48:17.691515",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759290497_0",
+      "title": "도박이냐 금융이냐...로빈후드, 예측 시장 놓고 규제 전쟁",
+      "url": "https://www.coinreaders.com/189991",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T12:48:17.691515",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_1248.json"
+}

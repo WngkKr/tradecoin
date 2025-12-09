@@ -1,0 +1,218 @@
+{
+  "timestamp": "2025-09-18T22:13:02.284024",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758200574_1",
+        "title": "비둘기파 연준에 날개 단 비트코인·이더리움·XRP, 사상 최고가 뚫을까",
+        "url": "https://www.coinreaders.com/187427",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:02:54.075188",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758200574_2",
+        "title": "바이낸스코인(BNB), 사상 최고가 1,000달러 달성…1,300달러 향한 대장정 이어갈까",
+        "url": "https://www.coinreaders.com/187426",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:02:54.248033",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758200574_1",
+        "title": "비둘기파 연준에 날개 단 비트코인·이더리움·XRP, 사상 최고가 뚫을까",
+        "url": "https://www.coinreaders.com/187427",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:02:54.075188",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758200573_0",
+        "title": "BNB, 사상 최초 1,000달러 터치...미결제 약정 19억 6,000만 달러 신기록",
+        "url": "https://www.coinreaders.com/187431",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:02:53.885129",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758200574_1",
+        "title": "비둘기파 연준에 날개 단 비트코인·이더리움·XRP, 사상 최고가 뚫을까",
+        "url": "https://www.coinreaders.com/187427",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:02:54.075188",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      },
+      {
+        "id": "coinreaders_1758200574_2",
+        "title": "바이낸스코인(BNB), 사상 최고가 1,000달러 달성…1,300달러 향한 대장정 이어갈까",
+        "url": "https://www.coinreaders.com/187426",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:02:54.248033",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758200573_0",
+        "title": "BNB, 사상 최초 1,000달러 터치...미결제 약정 19억 6,000만 달러 신기록",
+        "url": "https://www.coinreaders.com/187431",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:02:53.885129",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1758200574_2",
+        "title": "바이낸스코인(BNB), 사상 최고가 1,000달러 달성…1,300달러 향한 대장정 이어갈까",
+        "url": "https://www.coinreaders.com/187426",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:02:54.248033",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758200574_2",
+        "title": "바이낸스코인(BNB), 사상 최고가 1,000달러 달성…1,300달러 향한 대장정 이어갈까",
+        "url": "https://www.coinreaders.com/187426",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:02:54.248033",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758200574_1",
+        "title": "비둘기파 연준에 날개 단 비트코인·이더리움·XRP, 사상 최고가 뚫을까",
+        "url": "https://www.coinreaders.com/187427",
+        "source": "coinreaders",
+        "timestamp": "2025-09-18T22:02:54.075188",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC",
+          "DOGE"
+        ],
+        "special_categories": [
+          "정치적",
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758200573_0",
+      "title": "BNB, 사상 최초 1,000달러 터치...미결제 약정 19억 6,000만 달러 신기록",
+      "url": "https://www.coinreaders.com/187431",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T22:02:53.885129",
+      "related_coins": [
+        "BTC",
+        "SHIB"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758200574_1",
+      "title": "비둘기파 연준에 날개 단 비트코인·이더리움·XRP, 사상 최고가 뚫을까",
+      "url": "https://www.coinreaders.com/187427",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T22:02:54.075188",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "DOGE"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "정치적",
+        "경제적"
+      ]
+    },
+    {
+      "id": "coinreaders_1758200574_2",
+      "title": "바이낸스코인(BNB), 사상 최고가 1,000달러 달성…1,300달러 향한 대장정 이어갈까",
+      "url": "https://www.coinreaders.com/187426",
+      "source": "coinreaders",
+      "timestamp": "2025-09-18T22:02:54.248033",
+      "related_coins": [
+        "ETH",
+        "BTC",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 3,
+  "source_file": "news/all_news_20250918_2202.json"
+}

@@ -1,0 +1,165 @@
+{
+  "timestamp": "2025-10-01T22:44:52.660513",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1759326287_0",
+        "title": "도지코인, 0.23달러→0.32달러 기대...다시 돌아온 골든크로스",
+        "url": "https://www.coinreaders.com/190104",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:44:47.757078",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759326287_0",
+        "title": "도지코인, 0.23달러→0.32달러 기대...다시 돌아온 골든크로스",
+        "url": "https://www.coinreaders.com/190104",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:44:47.757078",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1759326287_0",
+        "title": "도지코인, 0.23달러→0.32달러 기대...다시 돌아온 골든크로스",
+        "url": "https://www.coinreaders.com/190104",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:44:47.757078",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1759326287_0",
+        "title": "도지코인, 0.23달러→0.32달러 기대...다시 돌아온 골든크로스",
+        "url": "https://www.coinreaders.com/190104",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:44:47.757078",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "TRUMP": [
+      {
+        "id": "coinreaders_1759326287_0",
+        "title": "도지코인, 0.23달러→0.32달러 기대...다시 돌아온 골든크로스",
+        "url": "https://www.coinreaders.com/190104",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:44:47.757078",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1759326287_0",
+        "title": "도지코인, 0.23달러→0.32달러 기대...다시 돌아온 골든크로스",
+        "url": "https://www.coinreaders.com/190104",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:44:47.757078",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Donald Trump"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Donald Trump": [
+      {
+        "id": "coinreaders_1759326287_0",
+        "title": "도지코인, 0.23달러→0.32달러 기대...다시 돌아온 골든크로스",
+        "url": "https://www.coinreaders.com/190104",
+        "source": "coinreaders",
+        "timestamp": "2025-10-01T22:44:47.757078",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "DOGE",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "TRUMP",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "정치적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759326287_0",
+      "title": "도지코인, 0.23달러→0.32달러 기대...다시 돌아온 골든크로스",
+      "url": "https://www.coinreaders.com/190104",
+      "source": "coinreaders",
+      "timestamp": "2025-10-01T22:44:47.757078",
+      "related_coins": [
+        "DOGE",
+        "BTC",
+        "SHIB",
+        "FLOKI",
+        "TRUMP",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Donald Trump"
+      ],
+      "special_categories": [
+        "경제적",
+        "정치적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251001_2244.json"
+}

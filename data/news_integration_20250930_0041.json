@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-30T00:41:19.241524",
+  "by_coin": {
+    "BTC": [
+      {
+        "id": "coinreaders_1759160471_0",
+        "title": "340만 달러 잃은 트레이더, 이번엔 XRP 1,760만 달러 숏 베팅",
+        "url": "https://www.coinreaders.com/189622",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T00:41:11.395558",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759160471_0",
+      "title": "340만 달러 잃은 트레이더, 이번엔 XRP 1,760만 달러 숏 베팅",
+      "url": "https://www.coinreaders.com/189622",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T00:41:11.395558",
+      "related_coins": [
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0041.json"
+}

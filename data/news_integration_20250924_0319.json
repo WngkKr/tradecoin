@@ -1,0 +1,199 @@
+{
+  "timestamp": "2025-09-24T03:19:53.233826",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758650974_0",
+        "title": "도지코인을 지금 사야 할 4가지 이유",
+        "url": "https://www.coinreaders.com/188458",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:09:34.672790",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758650974_0",
+        "title": "도지코인을 지금 사야 할 4가지 이유",
+        "url": "https://www.coinreaders.com/188458",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:09:34.672790",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758650974_0",
+        "title": "도지코인을 지금 사야 할 4가지 이유",
+        "url": "https://www.coinreaders.com/188458",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:09:34.672790",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758650974_0",
+        "title": "도지코인을 지금 사야 할 4가지 이유",
+        "url": "https://www.coinreaders.com/188458",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:09:34.672790",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758650974_0",
+        "title": "도지코인을 지금 사야 할 4가지 이유",
+        "url": "https://www.coinreaders.com/188458",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:09:34.672790",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758650974_0",
+        "title": "도지코인을 지금 사야 할 4가지 이유",
+        "url": "https://www.coinreaders.com/188458",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:09:34.672790",
+        "risk_level": "LOW",
+        "related_influencers": [
+          "Michael Saylor",
+          "Vitalik Buterin",
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Michael Saylor": [
+      {
+        "id": "coinreaders_1758650974_0",
+        "title": "도지코인을 지금 사야 할 4가지 이유",
+        "url": "https://www.coinreaders.com/188458",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:09:34.672790",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1758650974_0",
+        "title": "도지코인을 지금 사야 할 4가지 이유",
+        "url": "https://www.coinreaders.com/188458",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:09:34.672790",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758650974_0",
+        "title": "도지코인을 지금 사야 할 4가지 이유",
+        "url": "https://www.coinreaders.com/188458",
+        "source": "coinreaders",
+        "timestamp": "2025-09-24T03:09:34.672790",
+        "risk_level": "LOW",
+        "related_coins": [
+          "DOGE",
+          "ETH",
+          "BTC",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "사회적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [],
+  "total_count": 1,
+  "source_file": "news/all_news_20250924_0309.json"
+}

@@ -1,0 +1,157 @@
+{
+  "timestamp": "2025-09-20T01:13:51.005708",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1758298426_0",
+        "title": "XRP ETF, 하루 만에 3,800만 달러 거래...암호화폐 시장 지형 바꿀까?",
+        "url": "https://www.coinreaders.com/187707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T01:13:46.342491",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "DOGE": [
+      {
+        "id": "coinreaders_1758298426_0",
+        "title": "XRP ETF, 하루 만에 3,800만 달러 거래...암호화폐 시장 지형 바꿀까?",
+        "url": "https://www.coinreaders.com/187707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T01:13:46.342491",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1758298426_0",
+        "title": "XRP ETF, 하루 만에 3,800만 달러 거래...암호화폐 시장 지형 바꿀까?",
+        "url": "https://www.coinreaders.com/187707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T01:13:46.342491",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "SHIB": [
+      {
+        "id": "coinreaders_1758298426_0",
+        "title": "XRP ETF, 하루 만에 3,800만 달러 거래...암호화폐 시장 지형 바꿀까?",
+        "url": "https://www.coinreaders.com/187707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T01:13:46.342491",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "FLOKI": [
+      {
+        "id": "coinreaders_1758298426_0",
+        "title": "XRP ETF, 하루 만에 3,800만 달러 거래...암호화폐 시장 지형 바꿀까?",
+        "url": "https://www.coinreaders.com/187707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T01:13:46.342491",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ],
+    "MAGA": [
+      {
+        "id": "coinreaders_1758298426_0",
+        "title": "XRP ETF, 하루 만에 3,800만 달러 거래...암호화폐 시장 지형 바꿀까?",
+        "url": "https://www.coinreaders.com/187707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T01:13:46.342491",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Gary Gensler"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Gary Gensler": [
+      {
+        "id": "coinreaders_1758298426_0",
+        "title": "XRP ETF, 하루 만에 3,800만 달러 거래...암호화폐 시장 지형 바꿀까?",
+        "url": "https://www.coinreaders.com/187707",
+        "source": "coinreaders",
+        "timestamp": "2025-09-20T01:13:46.342491",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "BTC",
+          "ETH",
+          "DOGE",
+          "SHIB",
+          "FLOKI",
+          "MAGA"
+        ],
+        "special_categories": [
+          "경제적",
+          "사회적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1758298426_0",
+      "title": "XRP ETF, 하루 만에 3,800만 달러 거래...암호화폐 시장 지형 바꿀까?",
+      "url": "https://www.coinreaders.com/187707",
+      "source": "coinreaders",
+      "timestamp": "2025-09-20T01:13:46.342491",
+      "related_coins": [
+        "BTC",
+        "ETH",
+        "DOGE",
+        "SHIB",
+        "FLOKI",
+        "MAGA"
+      ],
+      "related_influencers": [
+        "Gary Gensler"
+      ],
+      "special_categories": [
+        "경제적",
+        "사회적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250920_0113.json"
+}

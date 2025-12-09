@@ -1,0 +1,62 @@
+{
+  "timestamp": "2025-10-02T01:26:36.428008",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759335991_0",
+        "title": "카르다노-구글 클라우드 맞손...미드나이트 네트워크 검증자 참여 확정",
+        "url": "https://www.coinreaders.com/190125",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T01:26:31.620212",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759335991_0",
+        "title": "카르다노-구글 클라우드 맞손...미드나이트 네트워크 검증자 참여 확정",
+        "url": "https://www.coinreaders.com/190125",
+        "source": "coinreaders",
+        "timestamp": "2025-10-02T01:26:31.620212",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "사회적",
+          "정치적",
+          "경제적",
+          "환경적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1759335991_0",
+      "title": "카르다노-구글 클라우드 맞손...미드나이트 네트워크 검증자 참여 확정",
+      "url": "https://www.coinreaders.com/190125",
+      "source": "coinreaders",
+      "timestamp": "2025-10-02T01:26:31.620212",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "사회적",
+        "정치적",
+        "경제적",
+        "환경적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20251002_0126.json"
+}

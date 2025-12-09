@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-09-30T03:53:03.365626",
+  "by_coin": {
+    "ETH": [
+      {
+        "id": "coinreaders_1759171373_0",
+        "title": "카르다노, 10년 내 6달러 돌파 가능성 열리나…개발 성과에 달렸다",
+        "url": "https://www.coinreaders.com/189645",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T03:42:53.996998",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ],
+    "BTC": [
+      {
+        "id": "coinreaders_1759171373_0",
+        "title": "카르다노, 10년 내 6달러 돌파 가능성 열리나…개발 성과에 달렸다",
+        "url": "https://www.coinreaders.com/189645",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T03:42:53.996998",
+        "risk_level": "HIGH",
+        "related_influencers": [
+          "Vitalik Buterin"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {
+    "Vitalik Buterin": [
+      {
+        "id": "coinreaders_1759171373_0",
+        "title": "카르다노, 10년 내 6달러 돌파 가능성 열리나…개발 성과에 달렸다",
+        "url": "https://www.coinreaders.com/189645",
+        "source": "coinreaders",
+        "timestamp": "2025-09-30T03:42:53.996998",
+        "risk_level": "HIGH",
+        "related_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "high_risk": [
+    {
+      "id": "coinreaders_1759171373_0",
+      "title": "카르다노, 10년 내 6달러 돌파 가능성 열리나…개발 성과에 달렸다",
+      "url": "https://www.coinreaders.com/189645",
+      "source": "coinreaders",
+      "timestamp": "2025-09-30T03:42:53.996998",
+      "related_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "related_influencers": [
+        "Vitalik Buterin"
+      ],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250930_0342.json"
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-23T00:08:47.719545",
+  "by_coin": {
+    "DOGE": [
+      {
+        "id": "coinreaders_1758553112_0",
+        "title": "XRP, 76% 롱 포지션...3.64달러 돌파 성공할까?",
+        "url": "https://www.coinreaders.com/188138",
+        "source": "coinreaders",
+        "timestamp": "2025-09-22T23:58:32.482414",
+        "risk_level": "HIGH",
+        "related_influencers": [],
+        "special_categories": [
+          "경제적"
+        ]
+      }
+    ]
+  },
+  "by_influencer": {},
+  "high_risk": [
+    {
+      "id": "coinreaders_1758553112_0",
+      "title": "XRP, 76% 롱 포지션...3.64달러 돌파 성공할까?",
+      "url": "https://www.coinreaders.com/188138",
+      "source": "coinreaders",
+      "timestamp": "2025-09-22T23:58:32.482414",
+      "related_coins": [
+        "DOGE"
+      ],
+      "related_influencers": [],
+      "special_categories": [
+        "경제적"
+      ]
+    }
+  ],
+  "total_count": 1,
+  "source_file": "news/all_news_20250922_2358.json"
+}
