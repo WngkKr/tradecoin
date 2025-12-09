@@ -82,3 +82,9 @@ tradecoin_flutter/backend/*dist-info/
 tradecoin_flutter/backend/setuptools/
 tradecoin_flutter/backend/certifi/
 tradecoin_flutter/backend/charset_normalizer/
+# Firebase 설정 파일
+tradecoin_flutter/lib/firebase_options.dart
+tradecoin_flutter/android/app/google-services.json
+tradecoin_flutter/ios/Runner/GoogleService-Info.plist
+tradecoin_flutter/build/
+tradecoin_flutter/.dart_tool/
